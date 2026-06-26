@@ -87,15 +87,15 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 | Region | District | Risk Score | Cases/100k |
 |---|---|---:|---:|
 | Ganga Ihala Korale | Kandy | -2.91 | 92.2 |
+| Seeduwa | Gampaha | 0.50 | 80.1 |
 | Palagala | Anuradhapura | -0.60 | 54.6 |
 | Kandy Four Gravets & Gangawata Korale | Kandy | -3.51 | 46.6 |
+| Panadura | Kalutara | 0.57 | 45.3 |
+| Negambo | Gampaha | 0.54 | 42.1 |
+| Malimbada | Matara | 0.56 | 40.4 |
 | Yatinuwara | Kandy | -1.43 | 39.6 |
+| Katana | Gampaha | 0.54 | 39.5 |
 | Kalawana | Ratnapura | -1.71 | 39.4 |
-| Udunuwara | Kandy | -1.57 | 36.7 |
-| Udapalatha | Kandy | -3.00 | 35.7 |
-| Badulla | Badulla | -5.08 | 31.3 |
-| Pathadumbara | Kandy | -1.33 | 23.7 |
-| Pasbage Korale | Kandy | -3.44 | 22.9 |
 
 ---
 

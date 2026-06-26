@@ -3,6 +3,7 @@ import os
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+from matplotlib.patches import Patch
 from scipy.stats import pearsonr, spearmanr
 
 from moh.RiskMap import RiskMap
@@ -18,6 +19,7 @@ class Correlation:
     PRECISION_PATH = os.path.join("images", "precision_curve.png")
     FPR_FNR_PATH = os.path.join("images", "fpr_fnr_curve.png")
     ROC_PATH = os.path.join("images", "roc_curve.png")
+    CONFUSION_MAP_PATH = os.path.join("images", "confusion_map.png")
     DISTRICTS_TSV = os.path.join("data", "districts.tsv")
 
     PRECISION_CUTOFF = 5
@@ -150,9 +152,7 @@ class Correlation:
     def _plot_fpr_fnr(cls, pairs) -> str:
         scores = np.array([p["score"] for p in pairs])
         thresholds = np.linspace(scores.min(), scores.max(), 200)
-        fpr, fnr = cls._fpr_fnr_values(
-            pairs, thresholds, cls.PRECISION_CUTOFF
-        )
+        fpr, fnr = cls._fpr_fnr_values(pairs, thresholds, cls.PRECISION_CUTOFF)
         fpr_arr, fnr_arr = np.array(fpr), np.array(fnr)
         fig, ax = plt.subplots(figsize=(9, 5))
         ax.plot(
@@ -203,9 +203,7 @@ class Correlation:
                 [scores.max() + 1],
             ]
         )
-        fpr, fnr = cls._fpr_fnr_values(
-            pairs, thresholds, cls.PRECISION_CUTOFF
-        )
+        fpr, fnr = cls._fpr_fnr_values(pairs, thresholds, cls.PRECISION_CUTOFF)
         tpr = [1.0 - f for f in fnr]
         pts = sorted(zip(fpr, tpr))
         fpr_s = np.array([x for x, _ in pts])
@@ -244,52 +242,51 @@ class Correlation:
         return auc
 
     @classmethod
-    def _classify_pairs(cls, pairs) -> dict:
+    def _classify_pairs(cls, pairs) -> tuple[dict, float]:
         scores = np.array([p["score"] for p in pairs])
-        actuals = np.array([p["actual"] for p in pairs])
-        s_med = float(np.median(scores))
-        a_med = float(np.median(actuals))
-
-        def zn(arr):
-            s = arr.std()
-            return (arr - arr.mean()) / s if s else np.zeros_like(arr)
-
-        zs, za = zn(scores), zn(actuals)
+        thresholds = np.linspace(scores.min(), scores.max(), 200)
+        fpr, fnr = cls._fpr_fnr_values(pairs, thresholds, cls.PRECISION_CUTOFF)
+        idx = int(np.nanargmin(np.abs(np.array(fpr) - np.array(fnr))))
+        s_thresh = float(thresholds[idx])
         buckets: dict = {"TP": [], "FP": [], "FN": [], "TN": []}
-        for i, p in enumerate(pairs):
-            hi_s = scores[i] >= s_med
-            hi_a = actuals[i] > a_med  # strict: zeros stay "low actual"
+        for p in pairs:
+            hi_s = p["score"] >= s_thresh
+            hi_a = p["actual"] >= cls.PRECISION_CUTOFF
             key = (
                 ("TP" if hi_s else "FN") if hi_a else ("FP" if hi_s else "TN")
             )
-            buckets[key].append({**p, "zdiff": float(zs[i] - za[i])})
-        return buckets
+            buckets[key].append(p)
+        return buckets, s_thresh
 
     @classmethod
-    def _plot_confusion(cls, buckets, top_fp, top_fn) -> str:
+    def _plot_confusion(cls, buckets, top_fp, top_fn, s_thresh) -> str:
         cm = np.array(
             [
                 [len(buckets["FN"]), len(buckets["TP"])],
                 [len(buckets["TN"]), len(buckets["FP"])],
             ]
         )
+        dr, db = (0.545, 0, 0), (0, 0, 0.545)
+        img = np.array([[[*dr, 1.0], [*dr, 0.1]], [[*db, 0.1], [*db, 1.0]]])
+        labels = [["FN", "TP"], ["TN", "FP"]]
+        tcols = [["white", "#333"], ["#333", "white"]]
+        nmap = {(0, 0): top_fn, (1, 1): top_fp}
         fig, ax = plt.subplots(figsize=(6, 7))
-        im = ax.imshow(cm, cmap="Blues")
-        cell_labels = [["FN", "TP"], ["TN", "FP"]]
-        names_map = {(0, 0): top_fn, (1, 1): top_fp}
+        ax.imshow(img)
         for i in range(2):
             for j in range(2):
-                offset = -0.18 if (i, j) in names_map else 0
+                offset = -0.18 if (i, j) in nmap else 0
                 ax.text(
                     j,
                     i + offset,
-                    f"{cell_labels[i][j]}\n{cm[i, j]}",
+                    f"{labels[i][j]}\n{cm[i, j]}",
                     ha="center",
                     va="center",
                     fontsize=14,
                     fontweight="bold",
+                    color=tcols[i][j],
                 )
-        for (i, j), items in names_map.items():
+        for (i, j), items in nmap.items():
             names = "\n".join(p["region"] for p in items)
             ax.text(
                 j,
@@ -298,20 +295,71 @@ class Correlation:
                 ha="center",
                 va="center",
                 fontsize=4,
-                color="#222222",
+                color=tcols[i][j],
                 family="monospace",
             )
         ax.set_xticks([0, 1])
         ax.set_xticklabels(["Predicted Low", "Predicted High"], fontsize=9)
         ax.set_yticks([0, 1])
         ax.set_yticklabels(["Actual High", "Actual Low"], fontsize=9)
-        ax.set_title("Confusion Matrix (median threshold)", fontsize=11)
-        plt.colorbar(im, ax=ax, fraction=0.046, pad=0.04)
+        ax.set_title(
+            f"Confusion Matrix"
+            f" (actual \u2265 {cls.PRECISION_CUTOFF} cases/100k,"
+            f" predicted score \u2265 {s_thresh:.2f})",
+            fontsize=10,
+        )
         os.makedirs(os.path.dirname(cls.CONFUSION_PATH), exist_ok=True)
         plt.tight_layout()
         plt.savefig(cls.CONFUSION_PATH, dpi=150, bbox_inches="tight")
         plt.close()
         return cls.CONFUSION_PATH
+
+    @classmethod
+    def _plot_confusion_map(cls, moh_list, buckets, s_thresh) -> str:
+        cat_colors = {
+            "FN": "#8B0000",
+            "TP": "#8B00001A",
+            "FP": "#00008B",
+            "TN": "#00008B1A",
+        }
+        rid_to_cat = {
+            p["region_id"]: cat
+            for cat, items in buckets.items()
+            for p in items
+        }
+        name_to_cat = {
+            m.region_name.upper(): rid_to_cat.get(m.region_id, "")
+            for m in moh_list
+        }
+        dummy = {m.region_id: 0 for m in moh_list}
+        gdf = RiskMap._build_gdf(moh_list, dummy)
+        gdf["category"] = gdf["MOH_N"].str.upper().map(name_to_cat)
+        gdf["color"] = gdf["category"].map(cat_colors).fillna("#d0d0d0")
+        fig, ax = plt.subplots(figsize=(10, 14))
+        fig.patch.set_facecolor("#f8f8f8")
+        ax.set_facecolor("#cce6ff")
+        gdf.plot(ax=ax, color=gdf["color"], edgecolor="white", linewidth=0.3)
+        legend = [Patch(color=v, label=k) for k, v in cat_colors.items()]
+        ax.legend(
+            handles=legend,
+            loc="lower left",
+            fontsize=9,
+            title="Classification",
+        )
+        ax.set_title(
+            "Confusion Map \u2014 MOH Region Classification\n"
+            f"(actual \u2265 {cls.PRECISION_CUTOFF} cases/100k,"
+            f" predicted \u2265 {s_thresh:.2f})",
+            fontsize=12,
+            fontweight="bold",
+            pad=14,
+        )
+        ax.axis("off")
+        os.makedirs(os.path.dirname(cls.CONFUSION_MAP_PATH), exist_ok=True)
+        plt.tight_layout(pad=0.5)
+        plt.savefig(cls.CONFUSION_MAP_PATH, dpi=150, bbox_inches="tight")
+        plt.close()
+        return cls.CONFUSION_MAP_PATH
 
     @classmethod
     def _load_district_names(cls) -> dict:
@@ -399,14 +447,15 @@ class Correlation:
         cls._plot_precision_curve(pairs, cutoff=cls.PRECISION_CUTOFF)
         cls._plot_fpr_fnr(pairs)
         auc = cls._plot_roc(pairs)
-        buckets = cls._classify_pairs(pairs)
-        top_fp = sorted(
-            buckets["FP"], key=lambda p: p["score"], reverse=True
-        )[:10]
+        buckets, s_thresh = cls._classify_pairs(pairs)
+        top_fp = sorted(buckets["FP"], key=lambda p: p["score"], reverse=True)[
+            :10
+        ]
         top_fn = sorted(
             buckets["FN"], key=lambda p: p["actual"], reverse=True
         )[:10]
-        cls._plot_confusion(buckets, top_fp, top_fn)
+        cls._plot_confusion(buckets, top_fp, top_fn, s_thresh)
+        cls._plot_confusion_map(moh_list, buckets, s_thresh)
         log.info(
             f"Correlation: r={stats['pearson_r']},"
             f" rho={stats['spearman_rho']}, n={stats['n']}"
