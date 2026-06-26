@@ -3,7 +3,7 @@
 Dengue outbreak weather-risk model for Sri Lanka MOH regions.
 See [README.methodology.md](README.methodology.md) for full methodology.
 
-_Last updated: 26 June 2026 · 17 regions with model results._
+_Last updated: 26 June 2026 · 333 regions with model results._
 
 ---
 
@@ -25,23 +25,26 @@ Sorted by composite weather-risk score (descending).
 
 | Region | District | Risk Score | Rainfall mm (−10w) | Max Temp °C (−16w) | Min Temp °C (−13w) |
 |---|---|---:|---:|---:|---:|
-| Attanagalla | LK-12 | 1.87 | 35.0 | 36.0 | 23.5 |
-| Homagama | LK-11 | 1.77 | 55.2 | 33.5 | 23.1 |
-| Kaduwela | LK-11 | 1.76 | 46.3 | 33.6 | 23.8 |
-| Padukka | LK-11 | 0.57 | 44.0 | 33.8 | 22.9 |
-| Kahathuduwa | LK-11 | 0.26 | 44.9 | 32.0 | 23.6 |
-| Hanwella | LK-11 | 0.07 | 34.7 | 34.5 | 22.9 |
-| Nugegoda | LK-11 | -0.25 | 23.5 | 31.8 | 25.0 |
-| Kolonnawa | LK-11 | -0.25 | 23.5 | 31.8 | 25.0 |
-| Battaramulla | LK-11 | -0.25 | 23.5 | 31.8 | 25.0 |
-| CMC | LK-11 | -0.28 | 23.5 | 31.8 | 25.0 |
-| Maharagama | LK-11 | -0.42 | 25.8 | 31.5 | 24.9 |
-| Rathmalana | LK-11 | -0.42 | 25.8 | 31.5 | 24.9 |
-| Pitakotte | LK-11 | -0.42 | 25.8 | 31.5 | 24.9 |
-| Boralesgamuwa | LK-11 | -0.42 | 25.8 | 31.5 | 24.9 |
-| Dehiwala | LK-11 | -0.68 | 25.8 | 31.4 | 24.8 |
-| Moratuwa | LK-11 | -1.44 | 25.3 | 30.5 | 24.7 |
-| Piliyandala | LK-11 | -1.44 | 25.3 | 30.5 | 24.7 |
+| Horana | LK-13 | 4.03 | 64.2 | 32.6 | 23.1 |
+| Homagama | LK-11 | 3.72 | 55.2 | 33.5 | 23.1 |
+| Biyagama | LK-12 | 3.50 | 43.3 | 34.5 | 24.0 |
+| Mahara | LK-12 | 3.45 | 37.5 | 35.8 | 23.6 |
+| Thanamalwila | LK-82 | 3.40 | 52.2 | 34.4 | 21.9 |
+| Lunugamvehera | LK-33 | 3.31 | 47.1 | 32.8 | 24.6 |
+| Mirigama | LK-12 | 3.31 | 35.4 | 36.0 | 23.5 |
+| Kaduwela | LK-11 | 3.30 | 46.3 | 33.6 | 23.8 |
+| Kuruwita | LK-91 | 3.28 | 48.9 | 33.8 | 23.0 |
+| Attanagalla | LK-12 | 3.28 | 35.0 | 36.0 | 23.5 |
+| Eheliyagoda | LK-91 | 3.20 | 45.7 | 34.4 | 22.8 |
+| Kiriella | LK-91 | 3.11 | 48.9 | 33.5 | 22.8 |
+| Madurawala | LK-13 | 3.10 | 54.2 | 32.1 | 23.3 |
+| Nikaweratiya | LK-61 | 3.04 | 42.8 | 33.3 | 24.2 |
+| Angunukolapeles | LK-33 | 2.99 | 45.2 | 33.5 | 23.3 |
+| Dehiovita | LK-92 | 2.95 | 46.9 | 34.8 | 21.4 |
+| Buttala | LK-82 | 2.91 | 48.3 | 32.8 | 23.2 |
+| Padukka | LK-11 | 2.88 | 44.0 | 33.8 | 22.9 |
+| Dankotuwa | LK-62 | 2.87 | 38.9 | 34.3 | 23.4 |
+| Gampaha | LK-12 | 2.83 | 35.4 | 34.6 | 23.7 |
 
 > **Note:** Risk scores are weather-only (composite z-score of lagged
 > meteorological predictors). Full GLM-based dengue
