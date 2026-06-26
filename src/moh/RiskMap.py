@@ -60,6 +60,20 @@ class RiskMap:
         return gdf
 
     @classmethod
+    def _add_labels(cls, ax, gdf):
+        for _, row in gdf.iterrows():
+            c = row.geometry.centroid
+            ax.annotate(
+                row["MOH_N"].title(),
+                xy=(c.x, c.y),
+                ha="center",
+                va="center",
+                fontsize=4,
+                color="#111111",
+                clip_on=True,
+            )
+
+    @classmethod
     def _render_map(cls, gdf):
         fig, ax = plt.subplots(figsize=(10, 14))
         fig.patch.set_facecolor("#f8f8f8")
@@ -81,6 +95,7 @@ class RiskMap:
                     "orientation": "vertical",
                 },
             )
+        cls._add_labels(ax, gdf)
         today = datetime.date.today().strftime("%-d %B %Y")
         ax.set_title(
             f"Sri Lanka — MOH Dengue Weather Risk\n{today}",
