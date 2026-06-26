@@ -59,17 +59,31 @@ class RiskMap:
         gdf["risk_score"] = gdf["MOH_N"].map(name_to_score)
         return gdf
 
+    @staticmethod
+    def _label_fontsize(ax, geom, label):
+        b = geom.bounds  # minx, miny, maxx, maxy
+        p0 = ax.transData.transform((b[0], b[1]))
+        p1 = ax.transData.transform((b[2], b[3]))
+        w_px = abs(p1[0] - p0[0])
+        h_px = abs(p1[1] - p0[1])
+        dpi = ax.figure.dpi
+        n = max(len(label), 1)
+        fs_w = w_px * 72 / (dpi * 0.6 * n)
+        fs_h = h_px * 72 / (dpi * 1.2)
+        return max(1.5, min(fs_w, fs_h, 7)) * 0.5
+
     @classmethod
     def _add_labels(cls, ax, gdf):
         for _, row in gdf.iterrows():
             c = row.geometry.centroid
+            label = row["MOH_N"].title()
             ax.annotate(
-                row["MOH_N"].title(),
+                label,
                 xy=(c.x, c.y),
                 ha="center",
                 va="center",
-                fontsize=4,
-                color="#111111",
+                fontsize=cls._label_fontsize(ax, row.geometry, label),
+                color="#ffffff",
                 clip_on=True,
             )
 
@@ -113,7 +127,7 @@ class RiskMap:
         cls._render_map(gdf)
         os.makedirs(os.path.dirname(cls.OUTPUT_PATH), exist_ok=True)
         plt.tight_layout(pad=0.5)
-        plt.savefig(cls.OUTPUT_PATH, dpi=150, bbox_inches="tight")
+        plt.savefig(cls.OUTPUT_PATH, dpi=300, bbox_inches="tight")
         plt.close()
         log.info(f"Saved {cls.OUTPUT_PATH}")
         return cls.OUTPUT_PATH

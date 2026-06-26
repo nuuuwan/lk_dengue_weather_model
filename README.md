@@ -9,11 +9,11 @@ _Last updated: 26 June 2026 · 17 regions with model results._
 
 ## Risk Map
 
-The choropleth below shows a composite weather-risk score for each MOH region,
-derived from the three lagged meteorological predictors in the Erandi et al. (2021) GLM:
-weekly rainfall (lag 10 weeks), mean maximum temperature (lag 16 weeks), and
-mean minimum temperature (lag 13 weeks).
-Higher scores (red) indicate conditions historically associated with higher dengue risk.
+The choropleth below shows a composite weather-risk score for each MOH
+region, derived from the three lagged predictors in Erandi et al. (2021):
+weekly rainfall (lag 10 w), mean max temperature (lag 16 w), and mean
+min temperature (lag 13 w). Higher scores (red) indicate conditions
+associated with higher dengue risk.
 
 ![Dengue Weather Risk Map](images/risk_map.png)
 
@@ -21,8 +21,7 @@ Higher scores (red) indicate conditions historically associated with higher deng
 
 ## Top 20 High-Risk Regions
 
-Sorted by composite weather-risk score (descending). Data as of the most recent
-available prediction week.
+Sorted by composite weather-risk score (descending).
 
 | Region | District | Risk Score | Rainfall mm (−10w) | Max Temp °C (−16w) | Min Temp °C (−13w) |
 |---|---|---:|---:|---:|---:|
@@ -44,9 +43,9 @@ available prediction week.
 | Moratuwa | LK-11 | -1.44 | 25.3 | 30.5 | 24.7 |
 | Piliyandala | LK-11 | -1.44 | 25.3 | 30.5 | 24.7 |
 
-> **Note:** Risk scores are weather-only (composite z-score of lagged meteorological
-> predictors). Full GLM-based dengue incidence prediction requires historical
-> case data (not yet integrated).
+> **Note:** Risk scores are weather-only (composite z-score of lagged
+> meteorological predictors). Full GLM-based dengue
+> incidence prediction requires historical case data (not yet integrated).
 
 ---
 
@@ -55,5 +54,4 @@ available prediction week.
 - **Weather:** [Open-Meteo Historical Weather API](https://open-meteo.com/en/docs/historical-weather-api)
   (ERA5 / ERA5-Land reanalysis, 0.1°–0.25° resolution)
 - **Region boundaries:** Ministry of Health Sri Lanka (333 MOH regions)
-- **Model:** Erandi, K.K.W.H., Perera, S.S.N. and Mahasinghe, A.C. (2021),
-  *Int. J. Dynamical Systems and Differential Equations*, Vol. 11, Nos. 5/6, pp. 462–472.
+- **Model:** Erandi et al. (2021), *Int. J. Dynamical Systems and Differential Equations*, Vol. 11, Nos. 5/6, pp. 462–472.
