@@ -33,18 +33,20 @@ class MOH:
             centroid_lng=data["centroid_lng"],
             area_sqkm=data["area_sqkm"],
             population=data["population"],
-            population_density=data["population_density"] ** 0.05,
+            population_density=data["population_density"],
         )
 
     MOH_FILE = JSONFile(os.path.join("moh_data", "ent", "moh.json"))
 
-    DENSITY_WEIGHT = 2  # set to 0 to disable population density term
+    DENSITY_WEIGHT = 0
 
     @classmethod
     @cache
     def list(cls):
         d_list = cls.MOH_FILE.read()
-        log.debug(f"Loaded {len(d_list)} MOH regions from {cls.MOH_FILE.path}")
+        log.debug(
+            f"Loaded {len(d_list)} MOH regions from {cls.MOH_FILE.path}"
+        )
         return [cls.from_dict(d) for d in d_list]
 
     @classmethod

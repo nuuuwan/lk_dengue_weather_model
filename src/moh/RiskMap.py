@@ -93,7 +93,7 @@ class RiskMap:
             )
 
     @classmethod
-    def _render_map(cls, gdf):
+    def _render_map(cls, gdf, vmin=None, vmax=None):
         fig, ax = plt.subplots(figsize=(10, 14))
         fig.patch.set_facecolor("#f8f8f8")
         ax.set_facecolor("#cce6ff")
@@ -101,10 +101,10 @@ class RiskMap:
             ax=ax, color="#d0d0d0", edgecolor="white", linewidth=0.3
         )
         if gdf["risk_score"].notna().any():
-            gdf[gdf["risk_score"].notna()].plot(
+            plot_kwargs = dict(
                 ax=ax,
                 column="risk_score",
-                cmap="RdYlGn_r",
+                cmap="RdBu_r",
                 edgecolor="white",
                 linewidth=0.3,
                 legend=True,
@@ -114,6 +114,11 @@ class RiskMap:
                     "orientation": "vertical",
                 },
             )
+            if vmin is not None:
+                plot_kwargs["vmin"] = vmin
+            if vmax is not None:
+                plot_kwargs["vmax"] = vmax
+            gdf[gdf["risk_score"].notna()].plot(**plot_kwargs)
         cls._add_labels(ax, gdf)
         today = datetime.date.today().strftime("%-d %B %Y")
         ax.set_title(
@@ -125,7 +130,7 @@ class RiskMap:
         ax.axis("off")
 
     @classmethod
-    def build(cls, moh_list) -> str:
+    def build(cls, moh_list, vmin=None, vmax=None) -> str:
         from moh.MOH import MOH
 
         latest = cls._load_latest_features()
@@ -136,7 +141,7 @@ class RiskMap:
         )
         scores = cls._composite_scores(latest, density, MOH.DENSITY_WEIGHT)
         gdf = cls._build_gdf(moh_list, scores)
-        cls._render_map(gdf)
+        cls._render_map(gdf, vmin=vmin, vmax=vmax)
         os.makedirs(os.path.dirname(cls.OUTPUT_PATH), exist_ok=True)
         plt.tight_layout(pad=0.5)
         plt.savefig(cls.OUTPUT_PATH, dpi=300, bbox_inches="tight")

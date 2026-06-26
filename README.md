@@ -26,26 +26,26 @@ Sorted by composite weather-risk score (descending).
 
 | Region | District | Risk Score | Rainfall mm (−10w) | Max Temp °C (−16w) | Min Temp °C (−13w) |
 |---|---|---:|---:|---:|---:|
-| CMC | LK-11 | 6.82 | 23.5 | 31.8 | 25.0 |
-| Biyagama | LK-12 | 6.78 | 43.3 | 34.5 | 24.0 |
-| Dehiwala | LK-11 | 6.46 | 25.8 | 31.4 | 24.8 |
-| Homagama | LK-11 | 6.36 | 55.2 | 33.5 | 23.1 |
-| Kaduwela | LK-11 | 6.30 | 46.3 | 33.6 | 23.8 |
-| Mahara | LK-12 | 6.10 | 37.5 | 35.8 | 23.6 |
-| Kolonnawa | LK-11 | 6.03 | 23.5 | 31.8 | 25.0 |
-| Kelaniya | LK-12 | 6.02 | 30.5 | 32.0 | 24.8 |
-| Rathmalana | LK-11 | 5.69 | 25.8 | 31.5 | 24.9 |
-| Horana | LK-13 | 5.58 | 64.2 | 32.6 | 23.1 |
-| Nugegoda | LK-11 | 5.53 | 23.5 | 31.8 | 25.0 |
-| Moratuwa | LK-11 | 5.50 | 25.3 | 30.5 | 24.7 |
-| Pitakotte | LK-11 | 5.50 | 25.8 | 31.5 | 24.9 |
-| Gampaha | LK-12 | 5.41 | 35.4 | 34.6 | 23.7 |
-| Boralesgamuwa | LK-11 | 5.29 | 25.8 | 31.5 | 24.9 |
-| Maharagama | LK-11 | 5.10 | 25.8 | 31.5 | 24.9 |
-| Kahathuduwa | LK-11 | 5.10 | 44.9 | 32.0 | 23.6 |
-| Galle Four Gravets | LK-31 | 4.98 | 36.4 | 30.3 | 23.6 |
-| Attanagalla | LK-12 | 4.93 | 35.0 | 36.0 | 23.5 |
-| Kattankudy | LK-51 | 4.88 | 13.7 | 29.1 | 25.7 |
+| Horana | LK-13 | 4.03 | 64.2 | 32.6 | 23.1 |
+| Homagama | LK-11 | 3.72 | 55.2 | 33.5 | 23.1 |
+| Biyagama | LK-12 | 3.50 | 43.3 | 34.5 | 24.0 |
+| Mahara | LK-12 | 3.45 | 37.5 | 35.8 | 23.6 |
+| Thanamalwila | LK-82 | 3.40 | 52.2 | 34.4 | 21.9 |
+| Lunugamvehera | LK-33 | 3.31 | 47.1 | 32.8 | 24.6 |
+| Mirigama | LK-12 | 3.31 | 35.4 | 36.0 | 23.5 |
+| Kaduwela | LK-11 | 3.30 | 46.3 | 33.6 | 23.8 |
+| Kuruwita | LK-91 | 3.28 | 48.9 | 33.8 | 23.0 |
+| Attanagalla | LK-12 | 3.28 | 35.0 | 36.0 | 23.5 |
+| Eheliyagoda | LK-91 | 3.20 | 45.7 | 34.4 | 22.8 |
+| Kiriella | LK-91 | 3.11 | 48.9 | 33.5 | 22.8 |
+| Madurawala | LK-13 | 3.10 | 54.2 | 32.1 | 23.3 |
+| Nikaweratiya | LK-61 | 3.04 | 42.8 | 33.3 | 24.2 |
+| Angunukolapeles | LK-33 | 2.99 | 45.2 | 33.5 | 23.3 |
+| Dehiovita | LK-92 | 2.95 | 46.9 | 34.8 | 21.4 |
+| Buttala | LK-82 | 2.91 | 48.3 | 32.8 | 23.2 |
+| Padukka | LK-11 | 2.88 | 44.0 | 33.8 | 22.9 |
+| Dankotuwa | LK-62 | 2.87 | 38.9 | 34.3 | 23.4 |
+| Gampaha | LK-12 | 2.83 | 35.4 | 34.6 | 23.7 |
 
 > **Note:** Risk scores are weather-only (composite z-score of lagged
 > meteorological predictors). Full GLM-based dengue
@@ -59,8 +59,8 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 
 | Metric | Value |
 |---|---:|
-| Pearson *r* | 0.4853 |
-| Spearman ρ | 0.5447 |
+| Pearson *r* | 0.2343 |
+| Spearman ρ | 0.3569 |
 | *p*-value (Pearson) | < 0.001 |
 | Regions (*n*) | 333 |
 
@@ -74,31 +74,31 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 
 | Region | District | Risk Score | Cases/100k |
 |---|---|---:|---:|
-| Kattankudy | Batticaloa | 4.88 | 0.0 |
-| Sainthamaruthu | Ampara | 4.45 | 0.0 |
-| Beruwala | Kalutara | 4.14 | 0.0 |
-| Dankotuwa | Puttalam | 3.81 | 0.0 |
-| Kalmunai South ( Muslim Div ) | Ampara | 3.54 | 0.0 |
-| Jaffna | Jaffna | 3.53 | 0.0 |
-| Trincomalee | Trincomalee | 3.29 | 0.0 |
-| Kalnumai North ( Tamil Div ) | Ampara | 3.19 | 0.0 |
-| Hakmana | Matara | 3.13 | 0.0 |
-| Kiriella | Ratnapura | 3.00 | 0.0 |
+| Thanamalwila | Monaragala | 3.40 | 0.0 |
+| Lunugamvehera | Hambantota | 3.31 | 0.0 |
+| Kiriella | Ratnapura | 3.11 | 0.0 |
+| Nikaweratiya | Kurunegala | 3.04 | 0.0 |
+| Angunukolapeles | Hambantota | 2.99 | 0.0 |
+| Buttala | Monaragala | 2.91 | 0.0 |
+| Dankotuwa | Puttalam | 2.87 | 0.0 |
+| Weeraketiya | Hambantota | 2.79 | 0.0 |
+| Sooriyawewa | Hambantota | 2.67 | 0.0 |
+| Narammala | Kurunegala | 2.55 | 0.0 |
 
 ### Top 10 False Negatives (low predicted risk, high actual cases)
 
 | Region | District | Risk Score | Cases/100k |
 |---|---|---:|---:|
-| Ganga Ihala Korale | Kandy | -2.45 | 92.2 |
-| Thawalama | Galle | -0.60 | 54.9 |
-| Palagala | Anuradhapura | -2.08 | 54.6 |
-| Ayagama | Ratnapura | 0.10 | 47.6 |
-| Kandy Four Gravets & Gangawata Korale | Kandy | -0.73 | 46.6 |
-| Pitabeddara | Matara | 0.83 | 45.0 |
-| Nivithigala | Ratnapura | 0.70 | 43.7 |
-| Yatinuwara | Kandy | 0.61 | 39.6 |
-| Kalawana | Ratnapura | -3.55 | 39.4 |
-| Udunuwara | Kandy | 1.03 | 36.7 |
+| Ganga Ihala Korale | Kandy | -2.91 | 92.2 |
+| Seeduwa | Gampaha | 0.50 | 80.1 |
+| Palagala | Anuradhapura | -0.60 | 54.6 |
+| Kandy Four Gravets & Gangawata Korale | Kandy | -3.51 | 46.6 |
+| Panadura | Kalutara | 0.57 | 45.3 |
+| Negambo | Gampaha | 0.54 | 42.1 |
+| Malimbada | Matara | 0.56 | 40.4 |
+| Yatinuwara | Kandy | -1.43 | 39.6 |
+| Katana | Gampaha | 0.54 | 39.5 |
+| Kalawana | Ratnapura | -1.71 | 39.4 |
 
 ---
 
@@ -112,9 +112,33 @@ False positive rate (FPR) and false negative rate (FNR) for classifying regions 
 
 ![FPR and FNR vs Threshold](images/fpr_fnr_curve.png)
 
-ROC curve with AUC = 0.8338.
+ROC curve with AUC = 0.7212.
 
 ![ROC Curve](images/roc_curve.png)
+
+---
+
+## Forward-Looking Forecasts
+
+Dengue weather-risk scores projected 2 and 4 weeks ahead, using the same lagged meteorological predictors applied to already-recorded historical weather.  All three maps (current + forecasts) share an identical colour scale so regional risk levels are directly comparable.
+
+### 2-Week Forecast (6 July 2026)
+
+![2-Week Forecast Risk Map](images/forecast_map_2w.png)
+
+### 4-Week Forecast (20 July 2026)
+
+![4-Week Forecast Risk Map](images/forecast_map_4w.png)
+
+### Change from Current — 2-Week Delta
+
+Blue regions show a projected **decrease** in risk; red regions show a projected **increase**.
+
+![2-Week Delta Map](images/forecast_delta_2w.png)
+
+### Change from Current — 4-Week Delta
+
+![4-Week Delta Map](images/forecast_delta_4w.png)
 
 ---
 

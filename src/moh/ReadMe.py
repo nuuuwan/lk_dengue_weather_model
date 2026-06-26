@@ -1,4 +1,5 @@
 import datetime
+import json
 import os
 
 from utils_future import Log
@@ -21,9 +22,7 @@ class ReadMe:
             if MOH.DENSITY_WEIGHT
             else None
         )
-        scores = RiskMap._composite_scores(
-            latest, density, MOH.DENSITY_WEIGHT
-        )
+        scores = RiskMap._composite_scores(latest, density, MOH.DENSITY_WEIGHT)
         name_map = {m.region_id: m for m in moh_list}
         rows = []
         for rid, score in scores.items():
@@ -209,6 +208,68 @@ class ReadMe:
             ]
         )
 
+    @staticmethod
+    def _latest_data_week() -> datetime.date | None:
+        """Return the most recent week date found across all model results."""
+        results_dir = os.path.join("data", "model_results")
+        latest = None
+        if not os.path.isdir(results_dir):
+            return None
+        for fname in os.listdir(results_dir):
+            if not fname.endswith(".json"):
+                continue
+            data = json.load(open(os.path.join(results_dir, fname)))
+            features = data.get("weekly_features") or []
+            if features:
+                week = datetime.date.fromisoformat(features[-1]["week"])
+                if latest is None or week > latest:
+                    latest = week
+        return latest
+
+    @classmethod
+    def _forecast_section(cls) -> str:
+        latest = cls._latest_data_week()
+        if latest:
+            date_2w = (latest + datetime.timedelta(weeks=2)).strftime(
+                "%-d %B %Y"
+            )
+            date_4w = (latest + datetime.timedelta(weeks=4)).strftime(
+                "%-d %B %Y"
+            )
+        else:
+            date_2w = "2 weeks ahead"
+            date_4w = "4 weeks ahead"
+        return "\n".join(
+            [
+                "## Forward-Looking Forecasts",
+                "",
+                "Dengue weather-risk scores projected 2 and 4 weeks ahead,"
+                " using the same lagged meteorological predictors applied"
+                " to already-recorded historical weather.  All three maps"
+                " (current + forecasts) share an identical colour scale so"
+                " regional risk levels are directly comparable.",
+                "",
+                f"### 2-Week Forecast ({date_2w})",
+                "",
+                "![2-Week Forecast Risk Map](images/forecast_map_2w.png)",
+                "",
+                f"### 4-Week Forecast ({date_4w})",
+                "",
+                "![4-Week Forecast Risk Map](images/forecast_map_4w.png)",
+                "",
+                "### Change from Current \u2014 2-Week Delta",
+                "",
+                "Blue regions show a projected **decrease** in risk;"
+                " red regions show a projected **increase**.",
+                "",
+                "![2-Week Delta Map](images/forecast_delta_2w.png)",
+                "",
+                "### Change from Current \u2014 4-Week Delta",
+                "",
+                "![4-Week Delta Map](images/forecast_delta_4w.png)",
+            ]
+        )
+
     @classmethod
     def _data_sources_section(cls) -> str:
         api_url = "https://open-meteo.com/en/docs/historical-weather-api"
@@ -258,6 +319,10 @@ class ReadMe:
             "---",
             "",
             cls._precision_curve_section(stats),
+            "",
+            "---",
+            "",
+            cls._forecast_section(),
             "",
             "---",
             "",
