@@ -19,7 +19,9 @@ class MOH:
     district_id: str
     centroid_lat: float
     centroid_lng: float
+    area_sqkm: float
     population: int
+    population_density: float
 
     @classmethod
     def from_dict(cls, data: dict):
@@ -29,7 +31,9 @@ class MOH:
             district_id=data["district_id"],
             centroid_lat=data["centroid_lat"],
             centroid_lng=data["centroid_lng"],
+            area_sqkm=data["area_sqkm"],
             population=data["population"],
+            population_density=data["population_density"],
         )
 
     MOH_FILE = JSONFile(os.path.join("moh_data", "ent", "moh.json"))
@@ -42,6 +46,16 @@ class MOH:
             f"Loaded {len(d_list)} MOH regions from {cls.MOH_FILE.path}"
         )
         return [cls.from_dict(d) for d in d_list]
+
+    @classmethod
+    @cache
+    def idx(cls):
+        return {m.region_id: m for m in cls.list()}
+
+    @classmethod
+    @cache
+    def from_id(cls, region_id: str):
+        return cls.idx().get(region_id)
 
     WEATHER_HISTORY_URL = "https://archive-api.open-meteo.com/v1/archive"
     WEATHER_HISTORY_DAILY_VARS = [
