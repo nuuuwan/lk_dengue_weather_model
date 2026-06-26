@@ -139,6 +139,8 @@ class ReadMe:
                 "",
                 "![Confusion Matrix](images/confusion_matrix.png)",
                 "",
+                "![Confusion Map](images/confusion_map.png)",
+                "",
                 cls._fp_fn_md(stats),
             ]
         )
@@ -226,8 +228,9 @@ class ReadMe:
             "# lk_dengue_weather_model",
             "",
             "Dengue outbreak weather-risk model for Sri Lanka MOH regions.",
-            "See [README.methodology.md](README.methodology.md)"
-            " for full methodology.",
+            "",
+            "> \U0001f4d6 **Methodology:**"
+            " [README.methodology.md](README.methodology.md)",
             "",
             f"_Last updated: {today} ·"
             f" {n_regions} regions with model results._",

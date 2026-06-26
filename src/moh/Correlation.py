@@ -22,7 +22,7 @@ class Correlation:
     CONFUSION_MAP_PATH = os.path.join("images", "confusion_map.png")
     DISTRICTS_TSV = os.path.join("data", "districts.tsv")
 
-    PRECISION_CUTOFF = 5
+    PRECISION_CUTOFF = 20
 
     @classmethod
     def _load_actual(cls) -> dict:
@@ -152,7 +152,9 @@ class Correlation:
     def _plot_fpr_fnr(cls, pairs) -> str:
         scores = np.array([p["score"] for p in pairs])
         thresholds = np.linspace(scores.min(), scores.max(), 200)
-        fpr, fnr = cls._fpr_fnr_values(pairs, thresholds, cls.PRECISION_CUTOFF)
+        fpr, fnr = cls._fpr_fnr_values(
+            pairs, thresholds, cls.PRECISION_CUTOFF
+        )
         fpr_arr, fnr_arr = np.array(fpr), np.array(fnr)
         fig, ax = plt.subplots(figsize=(9, 5))
         ax.plot(
@@ -203,7 +205,9 @@ class Correlation:
                 [scores.max() + 1],
             ]
         )
-        fpr, fnr = cls._fpr_fnr_values(pairs, thresholds, cls.PRECISION_CUTOFF)
+        fpr, fnr = cls._fpr_fnr_values(
+            pairs, thresholds, cls.PRECISION_CUTOFF
+        )
         tpr = [1.0 - f for f in fnr]
         pts = sorted(zip(fpr, tpr))
         fpr_s = np.array([x for x, _ in pts])
@@ -245,7 +249,9 @@ class Correlation:
     def _classify_pairs(cls, pairs) -> tuple[dict, float]:
         scores = np.array([p["score"] for p in pairs])
         thresholds = np.linspace(scores.min(), scores.max(), 200)
-        fpr, fnr = cls._fpr_fnr_values(pairs, thresholds, cls.PRECISION_CUTOFF)
+        fpr, fnr = cls._fpr_fnr_values(
+            pairs, thresholds, cls.PRECISION_CUTOFF
+        )
         idx = int(np.nanargmin(np.abs(np.array(fpr) - np.array(fnr))))
         s_thresh = float(thresholds[idx])
         buckets: dict = {"TP": [], "FP": [], "FN": [], "TN": []}
@@ -448,9 +454,9 @@ class Correlation:
         cls._plot_fpr_fnr(pairs)
         auc = cls._plot_roc(pairs)
         buckets, s_thresh = cls._classify_pairs(pairs)
-        top_fp = sorted(buckets["FP"], key=lambda p: p["score"], reverse=True)[
-            :10
-        ]
+        top_fp = sorted(
+            buckets["FP"], key=lambda p: p["score"], reverse=True
+        )[:10]
         top_fn = sorted(
             buckets["FN"], key=lambda p: p["actual"], reverse=True
         )[:10]
