@@ -33,10 +33,18 @@ class Correlation:
 
     @classmethod
     def _build_pairs(cls, moh_list) -> list[dict]:
+        from moh.MOH import MOH
 
         actual = cls._load_actual()
         latest = RiskMap._load_latest_features()
-        scores = RiskMap._composite_scores(latest)
+        density = (
+            {m.region_id: m.population_density for m in moh_list}
+            if MOH.DENSITY_WEIGHT
+            else None
+        )
+        scores = RiskMap._composite_scores(
+            latest, density, MOH.DENSITY_WEIGHT
+        )
         name_map = {m.region_id: m.region_name for m in moh_list}
         dist_map = {m.region_id: m.district_id for m in moh_list}
         dist_names = cls._load_district_names()

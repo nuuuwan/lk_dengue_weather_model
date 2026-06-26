@@ -12,10 +12,18 @@ RISK_MAP_IMAGE = os.path.join("images", "risk_map.png")
 class ReadMe:
     @staticmethod
     def _load_summary_rows(moh_list) -> list[dict]:
+        from moh.MOH import MOH
         from moh.RiskMap import RiskMap
 
         latest = RiskMap._load_latest_features()
-        scores = RiskMap._composite_scores(latest)
+        density = (
+            {m.region_id: m.population_density for m in moh_list}
+            if MOH.DENSITY_WEIGHT
+            else None
+        )
+        scores = RiskMap._composite_scores(
+            latest, density, MOH.DENSITY_WEIGHT
+        )
         name_map = {m.region_id: m for m in moh_list}
         rows = []
         for rid, score in scores.items():

@@ -33,10 +33,12 @@ class MOH:
             centroid_lng=data["centroid_lng"],
             area_sqkm=data["area_sqkm"],
             population=data["population"],
-            population_density=data["population_density"],
+            population_density=data["population_density"] ** 0.25,
         )
 
     MOH_FILE = JSONFile(os.path.join("moh_data", "ent", "moh.json"))
+
+    DENSITY_WEIGHT = 5.0  # set to 0 to disable population density term
 
     @classmethod
     @cache

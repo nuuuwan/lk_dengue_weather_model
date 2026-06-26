@@ -36,7 +36,9 @@ class RiskMap:
         return (arr - arr.mean()) / std if std > 0 else np.zeros_like(arr)
 
     @classmethod
-    def _composite_scores(cls, latest: dict) -> dict:
+    def _composite_scores(
+        cls, latest: dict, density: dict = None, density_weight: float = 1.0
+    ) -> dict:
         if not latest:
             return {}
         rids = list(latest.keys())
@@ -45,6 +47,9 @@ class RiskMap:
             for k in ("R_lag10", "MT_lag16", "mT_lag13")
         }
         composite = sum(cls._zscore(v) for v in vals.values())
+        if density is not None and density_weight:
+            d_arr = np.array([float(density.get(r) or 0.0) for r in rids])
+            composite = composite + density_weight * cls._zscore(d_arr)
         return dict(zip(rids, composite.tolist()))
 
     @classmethod
@@ -121,8 +126,15 @@ class RiskMap:
 
     @classmethod
     def build(cls, moh_list) -> str:
+        from moh.MOH import MOH
+
         latest = cls._load_latest_features()
-        scores = cls._composite_scores(latest)
+        density = (
+            {m.region_id: m.population_density for m in moh_list}
+            if MOH.DENSITY_WEIGHT
+            else None
+        )
+        scores = cls._composite_scores(latest, density, MOH.DENSITY_WEIGHT)
         gdf = cls._build_gdf(moh_list, scores)
         cls._render_map(gdf)
         os.makedirs(os.path.dirname(cls.OUTPUT_PATH), exist_ok=True)
