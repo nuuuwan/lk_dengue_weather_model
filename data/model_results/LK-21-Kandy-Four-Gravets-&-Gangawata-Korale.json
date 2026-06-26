@@ -1,0 +1,339 @@
+{
+  "region_id": "LK-21-Kandy-Four-Gravets-&-Gangawata-Korale",
+  "generated_date": "2026-06-26",
+  "weekly_features": [
+    {
+      "week": "2025-10-13",
+      "rainfall": 175.4,
+      "max_temp": 27.4429,
+      "min_temp": 19.3857,
+      "R_lag10": 6.6,
+      "MT_lag16": 26.2,
+      "mT_lag13": 20.1857
+    },
+    {
+      "week": "2025-10-20",
+      "rainfall": 113.2,
+      "max_temp": 24.2857,
+      "min_temp": 18.7571,
+      "R_lag10": 29.0,
+      "MT_lag16": 26.8,
+      "mT_lag13": 19.5286
+    },
+    {
+      "week": "2025-10-27",
+      "rainfall": 6.0,
+      "max_temp": 27.2429,
+      "min_temp": 18.1571,
+      "R_lag10": 7.7,
+      "MT_lag16": 27.0857,
+      "mT_lag13": 18.9857
+    },
+    {
+      "week": "2025-11-03",
+      "rainfall": 37.2,
+      "max_temp": 27.1143,
+      "min_temp": 18.3714,
+      "R_lag10": 23.0,
+      "MT_lag16": 24.3286,
+      "mT_lag13": 18.6286
+    },
+    {
+      "week": "2025-11-10",
+      "rainfall": 49.7,
+      "max_temp": 26.7429,
+      "min_temp": 18.7571,
+      "R_lag10": 13.5,
+      "MT_lag16": 24.3143,
+      "mT_lag13": 19.1429
+    },
+    {
+      "week": "2025-11-17",
+      "rainfall": 92.8,
+      "max_temp": 26.5143,
+      "min_temp": 18.7,
+      "R_lag10": 45.9,
+      "MT_lag16": 26.4857,
+      "mT_lag13": 18.6
+    },
+    {
+      "week": "2025-11-24",
+      "rainfall": 423.7,
+      "max_temp": 21.9714,
+      "min_temp": 18.0714,
+      "R_lag10": 17.3,
+      "MT_lag16": 26.3714,
+      "mT_lag13": 19.2857
+    },
+    {
+      "week": "2025-12-01",
+      "rainfall": 7.1,
+      "max_temp": 26.8857,
+      "min_temp": 17.0286,
+      "R_lag10": 37.9,
+      "MT_lag16": 24.5143,
+      "mT_lag13": 19.6
+    },
+    {
+      "week": "2025-12-08",
+      "rainfall": 60.7,
+      "max_temp": 26.0429,
+      "min_temp": 18.8143,
+      "R_lag10": 9.4,
+      "MT_lag16": 27.5714,
+      "mT_lag13": 18.6
+    },
+    {
+      "week": "2025-12-15",
+      "rainfall": 20.3,
+      "max_temp": 25.7,
+      "min_temp": 19.1429,
+      "R_lag10": 15.7,
+      "MT_lag16": 26.8286,
+      "mT_lag13": 18.8429
+    },
+    {
+      "week": "2025-12-22",
+      "rainfall": 5.0,
+      "max_temp": 26.4429,
+      "min_temp": 18.2286,
+      "R_lag10": 175.4,
+      "MT_lag16": 27.1143,
+      "mT_lag13": 19.6571
+    },
+    {
+      "week": "2025-12-29",
+      "rainfall": 25.3,
+      "max_temp": 25.7286,
+      "min_temp": 18.9,
+      "R_lag10": 113.2,
+      "MT_lag16": 27.6429,
+      "mT_lag13": 19.2714
+    },
+    {
+      "week": "2026-01-05",
+      "rainfall": 63.4,
+      "max_temp": 24.6143,
+      "min_temp": 18.5286,
+      "R_lag10": 6.0,
+      "MT_lag16": 25.9143,
+      "mT_lag13": 17.7143
+    },
+    {
+      "week": "2026-01-12",
+      "rainfall": 2.0,
+      "max_temp": 26.2143,
+      "min_temp": 17.0286,
+      "R_lag10": 37.2,
+      "MT_lag16": 26.0429,
+      "mT_lag13": 19.3857
+    },
+    {
+      "week": "2026-01-19",
+      "rainfall": 0.8,
+      "max_temp": 27.2,
+      "min_temp": 15.4429,
+      "R_lag10": 49.7,
+      "MT_lag16": 27.6429,
+      "mT_lag13": 18.7571
+    },
+    {
+      "week": "2026-01-26",
+      "rainfall": 31.6,
+      "max_temp": 26.6714,
+      "min_temp": 17.5571,
+      "R_lag10": 92.8,
+      "MT_lag16": 27.8286,
+      "mT_lag13": 18.1571
+    },
+    {
+      "week": "2026-02-02",
+      "rainfall": 14.9,
+      "max_temp": 26.3571,
+      "min_temp": 19.0429,
+      "R_lag10": 423.7,
+      "MT_lag16": 27.4429,
+      "mT_lag13": 18.3714
+    },
+    {
+      "week": "2026-02-09",
+      "rainfall": 16.6,
+      "max_temp": 25.8,
+      "min_temp": 17.4286,
+      "R_lag10": 7.1,
+      "MT_lag16": 24.2857,
+      "mT_lag13": 18.7571
+    },
+    {
+      "week": "2026-02-16",
+      "rainfall": 80.6,
+      "max_temp": 24.2429,
+      "min_temp": 18.4286,
+      "R_lag10": 60.7,
+      "MT_lag16": 27.2429,
+      "mT_lag13": 18.7
+    },
+    {
+      "week": "2026-02-23",
+      "rainfall": 0.7,
+      "max_temp": 28.0714,
+      "min_temp": 16.9429,
+      "R_lag10": 20.3,
+      "MT_lag16": 27.1143,
+      "mT_lag13": 18.0714
+    },
+    {
+      "week": "2026-03-02",
+      "rainfall": 0.3,
+      "max_temp": 29.8857,
+      "min_temp": 15.6286,
+      "R_lag10": 5.0,
+      "MT_lag16": 26.7429,
+      "mT_lag13": 17.0286
+    },
+    {
+      "week": "2026-03-09",
+      "rainfall": 3.8,
+      "max_temp": 29.5429,
+      "min_temp": 17.2714,
+      "R_lag10": 25.3,
+      "MT_lag16": 26.5143,
+      "mT_lag13": 18.8143
+    },
+    {
+      "week": "2026-03-16",
+      "rainfall": 13.7,
+      "max_temp": 30.7571,
+      "min_temp": 17.8,
+      "R_lag10": 63.4,
+      "MT_lag16": 21.9714,
+      "mT_lag13": 19.1429
+    },
+    {
+      "week": "2026-03-23",
+      "rainfall": 0.8,
+      "max_temp": 31.8,
+      "min_temp": 18.0571,
+      "R_lag10": 2.0,
+      "MT_lag16": 26.8857,
+      "mT_lag13": 18.2286
+    },
+    {
+      "week": "2026-03-30",
+      "rainfall": 27.8,
+      "max_temp": 30.9857,
+      "min_temp": 18.5571,
+      "R_lag10": 0.8,
+      "MT_lag16": 26.0429,
+      "mT_lag13": 18.9
+    },
+    {
+      "week": "2026-04-06",
+      "rainfall": 8.3,
+      "max_temp": 30.9143,
+      "min_temp": 19.1,
+      "R_lag10": 31.6,
+      "MT_lag16": 25.7,
+      "mT_lag13": 18.5286
+    },
+    {
+      "week": "2026-04-13",
+      "rainfall": 7.1,
+      "max_temp": 30.6857,
+      "min_temp": 19.3857,
+      "R_lag10": 14.9,
+      "MT_lag16": 26.4429,
+      "mT_lag13": 17.0286
+    },
+    {
+      "week": "2026-04-20",
+      "rainfall": 48.1,
+      "max_temp": 29.5571,
+      "min_temp": 19.4571,
+      "R_lag10": 16.6,
+      "MT_lag16": 25.7286,
+      "mT_lag13": 15.4429
+    },
+    {
+      "week": "2026-04-27",
+      "rainfall": 37.8,
+      "max_temp": 29.2143,
+      "min_temp": 19.6714,
+      "R_lag10": 80.6,
+      "MT_lag16": 24.6143,
+      "mT_lag13": 17.5571
+    },
+    {
+      "week": "2026-05-04",
+      "rainfall": 76.3,
+      "max_temp": 28.2,
+      "min_temp": 19.8571,
+      "R_lag10": 0.7,
+      "MT_lag16": 26.2143,
+      "mT_lag13": 19.0429
+    },
+    {
+      "week": "2026-05-11",
+      "rainfall": 74.4,
+      "max_temp": 26.4,
+      "min_temp": 19.5571,
+      "R_lag10": 0.3,
+      "MT_lag16": 27.2,
+      "mT_lag13": 17.4286
+    },
+    {
+      "week": "2026-05-18",
+      "rainfall": 21.1,
+      "max_temp": 27.3429,
+      "min_temp": 20.8571,
+      "R_lag10": 3.8,
+      "MT_lag16": 26.6714,
+      "mT_lag13": 18.4286
+    },
+    {
+      "week": "2026-05-25",
+      "rainfall": 17.3,
+      "max_temp": 27.7857,
+      "min_temp": 20.3143,
+      "R_lag10": 13.7,
+      "MT_lag16": 26.3571,
+      "mT_lag13": 16.9429
+    },
+    {
+      "week": "2026-06-01",
+      "rainfall": 33.3,
+      "max_temp": 27.5714,
+      "min_temp": 20.2429,
+      "R_lag10": 0.8,
+      "MT_lag16": 25.8,
+      "mT_lag13": 15.6286
+    },
+    {
+      "week": "2026-06-08",
+      "rainfall": 46.1,
+      "max_temp": 25.9286,
+      "min_temp": 20.4,
+      "R_lag10": 27.8,
+      "MT_lag16": 24.2429,
+      "mT_lag13": 17.2714
+    },
+    {
+      "week": "2026-06-15",
+      "rainfall": 19.1,
+      "max_temp": 27.1857,
+      "min_temp": 19.4,
+      "R_lag10": 8.3,
+      "MT_lag16": 28.0714,
+      "mT_lag13": 17.8
+    },
+    {
+      "week": "2026-06-22",
+      "rainfall": 49.5,
+      "max_temp": 26.82,
+      "min_temp": 19.98,
+      "R_lag10": 7.1,
+      "MT_lag16": 29.8857,
+      "mT_lag13": 18.0571
+    }
+  ]
+}
