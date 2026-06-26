@@ -26,26 +26,26 @@ Sorted by composite weather-risk score (descending).
 
 | Region | District | Risk Score | Rainfall mm (−10w) | Max Temp °C (−16w) | Min Temp °C (−13w) |
 |---|---|---:|---:|---:|---:|
-| CMC | LK-11 | 19.42 | 23.5 | 31.8 | 25.0 |
-| Dehiwala | LK-11 | 18.12 | 25.8 | 31.4 | 24.8 |
-| Kattankudy | LK-51 | 16.50 | 13.7 | 29.1 | 25.7 |
-| Kolonnawa | LK-11 | 15.93 | 23.5 | 31.8 | 25.0 |
-| Moratuwa | LK-11 | 15.43 | 25.3 | 30.5 | 24.7 |
-| Rathmalana | LK-11 | 14.57 | 25.8 | 31.5 | 24.9 |
-| Kelaniya | LK-12 | 14.29 | 30.5 | 32.0 | 24.8 |
-| Sainthamaruthu | LK-52 | 14.26 | 16.9 | 29.1 | 25.4 |
-| Nugegoda | LK-11 | 13.91 | 23.5 | 31.8 | 25.0 |
-| Pitakotte | LK-11 | 13.80 | 25.8 | 31.5 | 24.9 |
-| Boralesgamuwa | LK-11 | 13.01 | 25.8 | 31.5 | 24.9 |
-| Biyagama | LK-12 | 12.32 | 43.3 | 34.5 | 24.0 |
-| Maharagama | LK-11 | 12.26 | 25.8 | 31.5 | 24.9 |
-| Galle Four Gravets | LK-31 | 12.12 | 36.4 | 30.3 | 23.6 |
-| Negambo | LK-12 | 11.44 | 18.9 | 31.9 | 24.2 |
-| Battaramulla | LK-11 | 11.37 | 23.5 | 31.8 | 25.0 |
-| Kaduwela | LK-11 | 11.15 | 46.3 | 33.6 | 23.8 |
-| Ragama | LK-12 | 10.89 | 26.9 | 31.7 | 24.3 |
-| Kalmunai South ( Muslim Div ) | LK-52 | 10.68 | 16.9 | 29.1 | 25.4 |
-| Matara Mc | LK-32 | 10.56 | 34.4 | 30.2 | 23.9 |
+| CMC | LK-11 | 6.82 | 23.5 | 31.8 | 25.0 |
+| Biyagama | LK-12 | 6.78 | 43.3 | 34.5 | 24.0 |
+| Dehiwala | LK-11 | 6.46 | 25.8 | 31.4 | 24.8 |
+| Homagama | LK-11 | 6.36 | 55.2 | 33.5 | 23.1 |
+| Kaduwela | LK-11 | 6.30 | 46.3 | 33.6 | 23.8 |
+| Mahara | LK-12 | 6.10 | 37.5 | 35.8 | 23.6 |
+| Kolonnawa | LK-11 | 6.03 | 23.5 | 31.8 | 25.0 |
+| Kelaniya | LK-12 | 6.02 | 30.5 | 32.0 | 24.8 |
+| Rathmalana | LK-11 | 5.69 | 25.8 | 31.5 | 24.9 |
+| Horana | LK-13 | 5.58 | 64.2 | 32.6 | 23.1 |
+| Nugegoda | LK-11 | 5.53 | 23.5 | 31.8 | 25.0 |
+| Moratuwa | LK-11 | 5.50 | 25.3 | 30.5 | 24.7 |
+| Pitakotte | LK-11 | 5.50 | 25.8 | 31.5 | 24.9 |
+| Gampaha | LK-12 | 5.41 | 35.4 | 34.6 | 23.7 |
+| Boralesgamuwa | LK-11 | 5.29 | 25.8 | 31.5 | 24.9 |
+| Maharagama | LK-11 | 5.10 | 25.8 | 31.5 | 24.9 |
+| Kahathuduwa | LK-11 | 5.10 | 44.9 | 32.0 | 23.6 |
+| Galle Four Gravets | LK-31 | 4.98 | 36.4 | 30.3 | 23.6 |
+| Attanagalla | LK-12 | 4.93 | 35.0 | 36.0 | 23.5 |
+| Kattankudy | LK-51 | 4.88 | 13.7 | 29.1 | 25.7 |
 
 > **Note:** Risk scores are weather-only (composite z-score of lagged
 > meteorological predictors). Full GLM-based dengue
@@ -59,8 +59,8 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 
 | Metric | Value |
 |---|---:|
-| Pearson *r* | 0.548 |
-| Spearman ρ | 0.5652 |
+| Pearson *r* | 0.4853 |
+| Spearman ρ | 0.5447 |
 | *p*-value (Pearson) | < 0.001 |
 | Regions (*n*) | 333 |
 
@@ -74,45 +74,45 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 
 | Region | District | Risk Score | Cases/100k |
 |---|---|---:|---:|
-| Kattankudy | Batticaloa | 16.50 | 0.0 |
-| Sainthamaruthu | Ampara | 14.26 | 0.0 |
-| Kalmunai South ( Muslim Div ) | Ampara | 10.68 | 0.0 |
-| Jaffna | Jaffna | 10.24 | 0.0 |
-| Kalnumai North ( Tamil Div ) | Ampara | 9.40 | 0.0 |
-| Gampaha | Gampaha | 9.30 | 16.8 |
-| Trincomalee | Trincomalee | 9.16 | 0.0 |
-| Koralaipattu ( Oddmavadi Central ) | Batticaloa | 8.51 | 0.0 |
-| Beruwala | Kalutara | 8.38 | 0.0 |
-| Eravur | Batticaloa | 7.88 | 0.0 |
+| Kattankudy | Batticaloa | 4.88 | 0.0 |
+| Sainthamaruthu | Ampara | 4.45 | 0.0 |
+| Beruwala | Kalutara | 4.14 | 0.0 |
+| Dankotuwa | Puttalam | 3.81 | 0.0 |
+| Kalmunai South ( Muslim Div ) | Ampara | 3.54 | 0.0 |
+| Jaffna | Jaffna | 3.53 | 0.0 |
+| Trincomalee | Trincomalee | 3.29 | 0.0 |
+| Kalnumai North ( Tamil Div ) | Ampara | 3.19 | 0.0 |
+| Hakmana | Matara | 3.13 | 0.0 |
+| Kiriella | Ratnapura | 3.00 | 0.0 |
 
 ### Top 10 False Negatives (low predicted risk, high actual cases)
 
 | Region | District | Risk Score | Cases/100k |
 |---|---|---:|---:|
-| Ganga Ihala Korale | Kandy | -2.43 | 92.2 |
-| Akuressa | Matara | 0.15 | 74.1 |
-| Athuraliya | Matara | 1.42 | 57.9 |
-| Thawalama | Galle | -2.79 | 54.9 |
-| Palagala | Anuradhapura | -4.33 | 54.6 |
-| Ayagama | Ratnapura | -2.05 | 47.6 |
-| Pitabeddara | Matara | -0.25 | 45.0 |
-| Nivithigala | Ratnapura | -0.22 | 43.7 |
-| Kalawana | Ratnapura | -6.12 | 39.4 |
-| Chilaw | Puttalam | 0.89 | 36.4 |
+| Ganga Ihala Korale | Kandy | -2.45 | 92.2 |
+| Thawalama | Galle | -0.60 | 54.9 |
+| Palagala | Anuradhapura | -2.08 | 54.6 |
+| Ayagama | Ratnapura | 0.10 | 47.6 |
+| Kandy Four Gravets & Gangawata Korale | Kandy | -0.73 | 46.6 |
+| Pitabeddara | Matara | 0.83 | 45.0 |
+| Nivithigala | Ratnapura | 0.70 | 43.7 |
+| Yatinuwara | Kandy | 0.61 | 39.6 |
+| Kalawana | Ratnapura | -3.55 | 39.4 |
+| Udunuwara | Kandy | 1.03 | 36.7 |
 
 ---
 
 ## Score Threshold Analysis
 
-Proportion of MOH regions with ≥ 20 actual cases/100k among all regions with predicted risk score above a given threshold.
+Proportion of MOH regions with ≥ 10 actual cases/100k among all regions with predicted risk score above a given threshold.
 
 ![Score Threshold vs High-Risk Proportion](images/precision_curve.png)
 
-False positive rate (FPR) and false negative rate (FNR) for classifying regions as high-risk (≥ 20 cases/100k) at each threshold.
+False positive rate (FPR) and false negative rate (FNR) for classifying regions as high-risk (≥ 10 cases/100k) at each threshold.
 
 ![FPR and FNR vs Threshold](images/fpr_fnr_curve.png)
 
-ROC curve with AUC = 0.8444.
+ROC curve with AUC = 0.8338.
 
 ![ROC Curve](images/roc_curve.png)
 

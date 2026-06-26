@@ -22,7 +22,7 @@ class Correlation:
     CONFUSION_MAP_PATH = os.path.join("images", "confusion_map.png")
     DISTRICTS_TSV = os.path.join("data", "districts.tsv")
 
-    PRECISION_CUTOFF = 20
+    PRECISION_CUTOFF = 10
 
     @classmethod
     def _load_actual(cls) -> dict:
