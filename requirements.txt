@@ -1,1 +1,7 @@
+geopandas
+matplotlib
+numpy
+pandas
+statsmodels
+topojson
 utils-nuuuwan
