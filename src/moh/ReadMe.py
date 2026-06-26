@@ -103,6 +103,103 @@ class ReadMe:
         )
 
     @classmethod
+    def _correlation_section(cls, stats) -> str:
+        img = os.path.join("images", "correlation.png")
+        if not stats:
+            return "\n".join(
+                [
+                    "## Model Validation",
+                    "",
+                    "_No case data available for correlation._",
+                ]
+            )
+        r = stats["pearson_r"]
+        rho = stats["spearman_rho"]
+        p = stats["pearson_p"]
+        n = stats["n"]
+        p_str = f"{p:.3f}" if p >= 0.001 else "< 0.001"
+        table = (
+            "| Metric | Value |\n"
+            "|---|---:|\n"
+            f"| Pearson *r* | {r} |\n"
+            f"| Spearman \u03c1 | {rho} |\n"
+            f"| *p*-value (Pearson) | {p_str} |\n"
+            f"| Regions (*n*) | {n} |"
+        )
+        return "\n".join(
+            [
+                "## Model Validation",
+                "",
+                "Composite weather-risk score vs reported cases/100k"
+                f" ({n} regions with available case data).",
+                "",
+                table,
+                "",
+                f"![Predicted vs Actual Cases]({img})",
+                "",
+                "![Confusion Matrix](images/confusion_matrix.png)",
+                "",
+                cls._fp_fn_md(stats),
+            ]
+        )
+
+    @staticmethod
+    def _fp_fn_md(stats) -> str:
+        def _tbl(rows, title):
+            hdr = (
+                f"### {title}\n\n"
+                "| Region | District | Risk Score | Cases/100k |\n"
+                "|---|---|---:|---:|"
+            )
+            lines = [hdr]
+            for p in rows:
+                lines.append(
+                    f"| {p['region']} | {p['district']}"
+                    f" | {p['score']:.2f} | {p['actual']:.1f} |"
+                )
+            return "\n".join(lines)
+
+        fp_md = _tbl(
+            stats.get("top_fp", []),
+            "Top 10 False Positives"
+            " (high predicted risk, low actual cases)",
+        )
+        fn_md = _tbl(
+            stats.get("top_fn", []),
+            "Top 10 False Negatives"
+            " (low predicted risk, high actual cases)",
+        )
+        return fp_md + "\n\n" + fn_md
+
+    @classmethod
+    def _precision_curve_section(cls, stats) -> str:
+        if not stats:
+            return ""
+        cutoff = stats.get("cutoff", 20)
+        return "\n".join(
+            [
+                "## Score Threshold Analysis",
+                "",
+                f"Proportion of MOH regions with \u2265 {cutoff} actual"
+                " cases/100k among all regions with predicted risk"
+                " score above a given threshold.",
+                "",
+                "![Score Threshold vs High-Risk Proportion]"
+                "(images/precision_curve.png)",
+                "",
+                f"False positive rate (FPR) and false negative rate (FNR)"
+                f" for classifying regions as high-risk"
+                f" (\u2265 {cutoff} cases/100k) at each threshold.",
+                "",
+                "![FPR and FNR vs Threshold](images/fpr_fnr_curve.png)",
+                "",
+                "ROC curve with AUC = " f"{stats.get('auc', '—')}.",
+                "",
+                "![ROC Curve](images/roc_curve.png)",
+            ]
+        )
+
+    @classmethod
     def _data_sources_section(cls) -> str:
         api_url = "https://open-meteo.com/en/docs/historical-weather-api"
         ref = (
@@ -124,7 +221,7 @@ class ReadMe:
         )
 
     @classmethod
-    def _make_content(cls, today, n_regions, table_md) -> str:
+    def _make_content(cls, today, n_regions, table_md, stats) -> str:
         sections = [
             "# lk_dengue_weather_model",
             "",
@@ -145,6 +242,14 @@ class ReadMe:
             "",
             "---",
             "",
+            cls._correlation_section(stats),
+            "",
+            "---",
+            "",
+            cls._precision_curve_section(stats),
+            "",
+            "---",
+            "",
             cls._data_sources_section(),
             "",
         ]
@@ -152,10 +257,13 @@ class ReadMe:
 
     @classmethod
     def build(cls, moh_list) -> None:
+        from moh.Correlation import Correlation
+
         today = datetime.date.today().strftime("%-d %B %Y")
         rows = cls._load_summary_rows(moh_list)
+        stats = Correlation.build(moh_list)
         table_md = cls._table_md(rows) if rows else "_No model results yet._"
-        content = cls._make_content(today, len(rows), table_md)
+        content = cls._make_content(today, len(rows), table_md, stats)
         with open(README_PATH, "w") as f:
             f.write(content)
         log.info(f"Wrote {README_PATH}")

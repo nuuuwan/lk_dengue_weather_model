@@ -5,7 +5,9 @@
     "district_id": "LK-11",
     "centroid_lat": 6.901455,
     "centroid_lng": 79.933163,
-    "population": 87511
+    "population": 87511,
+    "area_sqkm": 20.65,
+    "population_density": 4237.82
   },
   {
     "region_id": "LK-11-Boralesgamuwa",
@@ -13,7 +15,9 @@
     "district_id": "LK-11",
     "centroid_lat": 6.838697,
     "centroid_lng": 79.902288,
-    "population": 59240
+    "population": 59240,
+    "area_sqkm": 10.85,
+    "population_density": 5459.91
   },
   {
     "region_id": "LK-11-CMC",
@@ -21,7 +25,9 @@
     "district_id": "LK-11",
     "centroid_lat": 6.919993,
     "centroid_lng": 79.867331,
-    "population": 508408
+    "population": 508408,
+    "area_sqkm": 39.45,
+    "population_density": 12887.4
   },
   {
     "region_id": "LK-11-Dehiwala",
@@ -29,7 +35,9 @@
     "district_id": "LK-11",
     "centroid_lat": 6.85841,
     "centroid_lng": 79.875772,
-    "population": 93815
+    "population": 93815,
+    "area_sqkm": 8.44,
+    "population_density": 11115.52
   },
   {
     "region_id": "LK-11-Hanwella",
@@ -37,7 +45,9 @@
     "district_id": "LK-11",
     "centroid_lat": 6.922725,
     "centroid_lng": 80.147156,
-    "population": 122128
+    "population": 122128,
+    "area_sqkm": 146.01,
+    "population_density": 836.44
   },
   {
     "region_id": "LK-11-Homagama",
@@ -45,7 +55,9 @@
     "district_id": "LK-11",
     "centroid_lat": 6.854735,
     "centroid_lng": 80.032597,
-    "population": 179146
+    "population": 179146,
+    "area_sqkm": 77.23,
+    "population_density": 2319.64
   },
   {
     "region_id": "LK-11-Kaduwela",
@@ -53,7 +65,9 @@
     "district_id": "LK-11",
     "centroid_lat": 6.904055,
     "centroid_lng": 79.99178,
-    "population": 190407
+    "population": 190407,
+    "area_sqkm": 66.13,
+    "population_density": 2879.28
   },
   {
     "region_id": "LK-11-Kahathuduwa",
@@ -61,7 +75,9 @@
     "district_id": "LK-11",
     "centroid_lat": 6.794417,
     "centroid_lng": 79.985817,
-    "population": 101625
+    "population": 101625,
+    "area_sqkm": 43.1,
+    "population_density": 2357.89
   },
   {
     "region_id": "LK-11-Kolonnawa",
@@ -69,7 +85,9 @@
     "district_id": "LK-11",
     "centroid_lat": 6.934657,
     "centroid_lng": 79.91511,
-    "population": 214070
+    "population": 214070,
+    "area_sqkm": 25.94,
+    "population_density": 8252.51
   },
   {
     "region_id": "LK-11-Maharagama",
@@ -77,7 +95,9 @@
     "district_id": "LK-11",
     "centroid_lat": 6.853678,
     "centroid_lng": 79.946768,
-    "population": 155965
+    "population": 155965,
+    "area_sqkm": 32.01,
+    "population_density": 4872.38
   },
   {
     "region_id": "LK-11-Moratuwa",
@@ -85,7 +105,9 @@
     "district_id": "LK-11",
     "centroid_lat": 6.78271,
     "centroid_lng": 79.891084,
-    "population": 160199
+    "population": 160199,
+    "area_sqkm": 19.3,
+    "population_density": 8300.47
   },
   {
     "region_id": "LK-11-Nugegoda",
@@ -93,7 +115,9 @@
     "district_id": "LK-11",
     "centroid_lat": 6.890497,
     "centroid_lng": 79.895417,
-    "population": 75256
+    "population": 75256,
+    "area_sqkm": 12.08,
+    "population_density": 6229.8
   },
   {
     "region_id": "LK-11-Padukka",
@@ -101,7 +125,9 @@
     "district_id": "LK-11",
     "centroid_lat": 6.833886,
     "centroid_lng": 80.12193,
-    "population": 73014
+    "population": 73014,
+    "area_sqkm": 106.2,
+    "population_density": 687.51
   },
   {
     "region_id": "LK-11-Piliyandala",
@@ -109,7 +135,9 @@
     "district_id": "LK-11",
     "centroid_lat": 6.795347,
     "centroid_lng": 79.934007,
-    "population": 204301
+    "population": 204301,
+    "area_sqkm": 50.55,
+    "population_density": 4041.56
   },
   {
     "region_id": "LK-11-Pitakotte",
@@ -117,7 +145,9 @@
     "district_id": "LK-11",
     "centroid_lat": 6.881258,
     "centroid_lng": 79.913055,
-    "population": 61468
+    "population": 61468,
+    "area_sqkm": 10.03,
+    "population_density": 6128.41
   },
   {
     "region_id": "LK-11-Rathmalana",
@@ -125,7 +155,9 @@
     "district_id": "LK-11",
     "centroid_lat": 6.827059,
     "centroid_lng": 79.878088,
-    "population": 88063
+    "population": 88063,
+    "area_sqkm": 12.86,
+    "population_density": 6847.82
   },
   {
     "region_id": "LK-12-Attanagalla",
@@ -133,7 +165,9 @@
     "district_id": "LK-12",
     "centroid_lat": 7.114278,
     "centroid_lng": 80.110396,
-    "population": 199017
+    "population": 199017,
+    "area_sqkm": 155.83,
+    "population_density": 1277.14
   },
   {
     "region_id": "LK-12-Biyagama",
@@ -141,7 +175,9 @@
     "district_id": "LK-12",
     "centroid_lat": 6.96863,
     "centroid_lng": 79.978536,
-    "population": 207155
+    "population": 207155,
+    "area_sqkm": 60.98,
+    "population_density": 3397.1
   },
   {
     "region_id": "LK-12-Divulapitiya",
@@ -149,7 +185,9 @@
     "district_id": "LK-12",
     "centroid_lat": 7.25385,
     "centroid_lng": 80.00678,
-    "population": 158286
+    "population": 158286,
+    "area_sqkm": 205.55,
+    "population_density": 770.06
   },
   {
     "region_id": "LK-12-Dompe",
@@ -157,7 +195,9 @@
     "district_id": "LK-12",
     "centroid_lat": 6.99065,
     "centroid_lng": 80.098964,
-    "population": 169223
+    "population": 169223,
+    "area_sqkm": 178.83,
+    "population_density": 946.28
   },
   {
     "region_id": "LK-12-Gampaha",
@@ -165,7 +205,9 @@
     "district_id": "LK-12",
     "centroid_lat": 7.071172,
     "centroid_lng": 79.993466,
-    "population": 201818
+    "population": 201818,
+    "area_sqkm": 90.02,
+    "population_density": 2241.92
   },
   {
     "region_id": "LK-12-Ja-Ela",
@@ -173,7 +215,9 @@
     "district_id": "LK-12",
     "centroid_lat": 7.080623,
     "centroid_lng": 79.902204,
-    "population": 137864
+    "population": 137864,
+    "area_sqkm": 46.17,
+    "population_density": 2986.01
   },
   {
     "region_id": "LK-12-Katana",
@@ -181,7 +225,9 @@
     "district_id": "LK-12",
     "centroid_lat": 7.229758,
     "centroid_lng": 79.888069,
-    "population": 123983
+    "population": 123983,
+    "area_sqkm": 58.06,
+    "population_density": 2135.43
   },
   {
     "region_id": "LK-12-Kelaniya",
@@ -189,7 +235,9 @@
     "district_id": "LK-12",
     "centroid_lat": 6.970327,
     "centroid_lng": 79.910265,
-    "population": 133755
+    "population": 133755,
+    "area_sqkm": 21.95,
+    "population_density": 6093.62
   },
   {
     "region_id": "LK-12-Mahara",
@@ -197,7 +245,9 @@
     "district_id": "LK-12",
     "centroid_lat": 7.029365,
     "centroid_lng": 80.014436,
-    "population": 226214
+    "population": 226214,
+    "area_sqkm": 96.97,
+    "population_density": 2332.82
   },
   {
     "region_id": "LK-12-Minuwangoda",
@@ -205,7 +255,9 @@
     "district_id": "LK-12",
     "centroid_lat": 7.154634,
     "centroid_lng": 79.978537,
-    "population": 197883
+    "population": 197883,
+    "area_sqkm": 130.54,
+    "population_density": 1515.88
   },
   {
     "region_id": "LK-12-Mirigama",
@@ -213,7 +265,9 @@
     "district_id": "LK-12",
     "centroid_lat": 7.224621,
     "centroid_lng": 80.122616,
-    "population": 176309
+    "population": 176309,
+    "area_sqkm": 188.08,
+    "population_density": 937.41
   },
   {
     "region_id": "LK-12-Negambo",
@@ -221,7 +275,9 @@
     "district_id": "LK-12",
     "centroid_lat": 7.211433,
     "centroid_lng": 79.843604,
-    "population": 132907
+    "population": 132907,
+    "area_sqkm": 28.0,
+    "population_density": 4746.68
   },
   {
     "region_id": "LK-12-Ragama",
@@ -229,7 +285,9 @@
     "district_id": "LK-12",
     "centroid_lat": 7.035755,
     "centroid_lng": 79.92778,
-    "population": 82930
+    "population": 82930,
+    "area_sqkm": 20.94,
+    "population_density": 3960.36
   },
   {
     "region_id": "LK-12-Seeduwa",
@@ -237,7 +295,9 @@
     "district_id": "LK-12",
     "centroid_lat": 7.151395,
     "centroid_lng": 79.890323,
-    "population": 119832
+    "population": 119832,
+    "area_sqkm": 50.48,
+    "population_density": 2373.85
   },
   {
     "region_id": "LK-12-Wattala",
@@ -245,7 +305,9 @@
     "district_id": "LK-12",
     "centroid_lat": 7.037736,
     "centroid_lng": 79.876389,
-    "population": 166517
+    "population": 166517,
+    "area_sqkm": 52.51,
+    "population_density": 3171.15
   },
   {
     "region_id": "LK-13-Agalawatta",
@@ -253,7 +315,9 @@
     "district_id": "LK-13",
     "centroid_lat": 6.515278,
     "centroid_lng": 80.174443,
-    "population": 36589
+    "population": 36589,
+    "area_sqkm": 92.25,
+    "population_density": 396.63
   },
   {
     "region_id": "LK-13-Bandaragama",
@@ -261,7 +325,9 @@
     "district_id": "LK-13",
     "centroid_lat": 6.718675,
     "centroid_lng": 79.976065,
-    "population": 124133
+    "population": 124133,
+    "area_sqkm": 57.08,
+    "population_density": 2174.72
   },
   {
     "region_id": "LK-13-Beruwala",
@@ -269,7 +335,9 @@
     "district_id": "LK-13",
     "centroid_lat": 6.48883,
     "centroid_lng": 80.004725,
-    "population": 180820
+    "population": 180820,
+    "area_sqkm": 73.53,
+    "population_density": 2459.13
   },
   {
     "region_id": "LK-13-Bulathsinhala",
@@ -277,7 +345,9 @@
     "district_id": "LK-13",
     "centroid_lat": 6.647916,
     "centroid_lng": 80.174233,
-    "population": 65550
+    "population": 65550,
+    "area_sqkm": 211.04,
+    "population_density": 310.6
   },
   {
     "region_id": "LK-13-Horana",
@@ -285,7 +355,9 @@
     "district_id": "LK-13",
     "centroid_lat": 6.756307,
     "centroid_lng": 80.055903,
-    "population": 133685
+    "population": 133685,
+    "area_sqkm": 111.31,
+    "population_density": 1201.02
   },
   {
     "region_id": "LK-13-Ingiriya",
@@ -293,7 +365,9 @@
     "district_id": "LK-13",
     "centroid_lat": 6.762397,
     "centroid_lng": 80.151674,
-    "population": 58361
+    "population": 58361,
+    "area_sqkm": 94.7,
+    "population_density": 616.27
   },
   {
     "region_id": "LK-13-Kalutara",
@@ -301,7 +375,9 @@
     "district_id": "LK-13",
     "centroid_lat": 6.592119,
     "centroid_lng": 79.991661,
-    "population": 127069
+    "population": 127069,
+    "area_sqkm": 67.06,
+    "population_density": 1894.86
   },
   {
     "region_id": "LK-13-Madurawala",
@@ -309,7 +385,9 @@
     "district_id": "LK-13",
     "centroid_lat": 6.655785,
     "centroid_lng": 80.058502,
-    "population": 92889
+    "population": 92889,
+    "area_sqkm": 141.61,
+    "population_density": 655.95
   },
   {
     "region_id": "LK-13-Mathugama",
@@ -317,7 +395,9 @@
     "district_id": "LK-13",
     "centroid_lat": 6.514803,
     "centroid_lng": 80.078479,
-    "population": 130571
+    "population": 130571,
+    "area_sqkm": 218.64,
+    "population_density": 597.2
   },
   {
     "region_id": "LK-13-Palindanuwara",
@@ -325,7 +405,9 @@
     "district_id": "LK-13",
     "centroid_lat": 6.506189,
     "centroid_lng": 80.274077,
-    "population": 51171
+    "population": 51171,
+    "area_sqkm": 284.13,
+    "population_density": 180.1
   },
   {
     "region_id": "LK-13-Panadura",
@@ -333,7 +415,9 @@
     "district_id": "LK-13",
     "centroid_lat": 6.686496,
     "centroid_lng": 79.943342,
-    "population": 249613
+    "population": 249613,
+    "area_sqkm": 83.94,
+    "population_density": 2973.71
   },
   {
     "region_id": "LK-13-Walallawita",
@@ -341,7 +425,9 @@
     "district_id": "LK-13",
     "centroid_lat": 6.406837,
     "centroid_lng": 80.187045,
-    "population": 55333
+    "population": 55333,
+    "area_sqkm": 211.65,
+    "population_density": 261.44
   },
   {
     "region_id": "LK-21-Akurana",
@@ -349,7 +435,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.390807,
     "centroid_lng": 80.618493,
-    "population": 71010
+    "population": 71010,
+    "area_sqkm": 29.9,
+    "population_density": 2374.92
   },
   {
     "region_id": "LK-21-Bambaradeniya",
@@ -357,7 +445,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.216095,
     "centroid_lng": 80.544632,
-    "population": 47868
+    "population": 47868,
+    "area_sqkm": 35.48,
+    "population_density": 1349.15
   },
   {
     "region_id": "LK-21-Delthota",
@@ -365,7 +455,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.182757,
     "centroid_lng": 80.700642,
-    "population": 31904
+    "population": 31904,
+    "area_sqkm": 49.49,
+    "population_density": 644.66
   },
   {
     "region_id": "LK-21-Doluwa",
@@ -373,7 +465,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.164052,
     "centroid_lng": 80.648465,
-    "population": 53535
+    "population": 53535,
+    "area_sqkm": 101.57,
+    "population_density": 527.07
   },
   {
     "region_id": "LK-21-Ganga-Ihala-Korale",
@@ -381,7 +475,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.110969,
     "centroid_lng": 80.51535,
-    "population": 53141
+    "population": 53141,
+    "area_sqkm": 87.69,
+    "population_density": 606.01
   },
   {
     "region_id": "LK-21-Harispattuwa",
@@ -389,7 +485,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.328288,
     "centroid_lng": 80.587681,
-    "population": 95757
+    "population": 95757,
+    "area_sqkm": 49.71,
+    "population_density": 1926.31
   },
   {
     "region_id": "LK-21-Hatharaliyadda",
@@ -397,7 +495,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.331515,
     "centroid_lng": 80.48071,
-    "population": 31141
+    "population": 31141,
+    "area_sqkm": 63.97,
+    "population_density": 486.81
   },
   {
     "region_id": "LK-21-Kandy-Four-Gravets-&-Gangawata-Korale",
@@ -405,7 +505,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.272748,
     "centroid_lng": 80.638475,
-    "population": 152397
+    "population": 152397,
+    "area_sqkm": 60.16,
+    "population_density": 2533.19
   },
   {
     "region_id": "LK-21-Kundasale",
@@ -413,7 +515,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.288489,
     "centroid_lng": 80.722472,
-    "population": 73586
+    "population": 73586,
+    "area_sqkm": 40.21,
+    "population_density": 1830.04
   },
   {
     "region_id": "LK-21-Medadumbara",
@@ -421,7 +525,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.302645,
     "centroid_lng": 80.800265,
-    "population": 64539
+    "population": 64539,
+    "area_sqkm": 188.79,
+    "population_density": 341.86
   },
   {
     "region_id": "LK-21-Menikhinna",
@@ -429,7 +535,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.321173,
     "centroid_lng": 80.697675,
-    "population": 67384
+    "population": 67384,
+    "area_sqkm": 39.3,
+    "population_density": 1714.61
   },
   {
     "region_id": "LK-21-Minipe",
@@ -437,7 +545,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.346853,
     "centroid_lng": 80.949918,
-    "population": 55342
+    "population": 55342,
+    "area_sqkm": 249.31,
+    "population_density": 221.98
   },
   {
     "region_id": "LK-21-Panvila",
@@ -445,7 +555,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.40972,
     "centroid_lng": 80.740637,
-    "population": 25650
+    "population": 25650,
+    "area_sqkm": 92.61,
+    "population_density": 276.97
   },
   {
     "region_id": "LK-21-Pasbage-Korale",
@@ -453,7 +565,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.018302,
     "centroid_lng": 80.536384,
-    "population": 65553
+    "population": 65553,
+    "area_sqkm": 121.57,
+    "population_density": 539.22
   },
   {
     "region_id": "LK-21-Pathadumbara",
@@ -461,7 +575,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.348939,
     "centroid_lng": 80.661453,
-    "population": 96889
+    "population": 96889,
+    "area_sqkm": 50.68,
+    "population_density": 1911.78
   },
   {
     "region_id": "LK-21-Pathahewaheta",
@@ -469,7 +585,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.230056,
     "centroid_lng": 80.706684,
-    "population": 59835
+    "population": 59835,
+    "area_sqkm": 83.11,
+    "population_density": 719.95
   },
   {
     "region_id": "LK-21-Poojapitiya",
@@ -477,7 +595,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.400504,
     "centroid_lng": 80.566057,
-    "population": 60316
+    "population": 60316,
+    "area_sqkm": 58.59,
+    "population_density": 1029.46
   },
   {
     "region_id": "LK-21-Thumpane",
@@ -485,7 +605,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.366617,
     "centroid_lng": 80.514324,
-    "population": 38776
+    "population": 38776,
+    "area_sqkm": 50.97,
+    "population_density": 760.76
   },
   {
     "region_id": "LK-21-Udadumbara",
@@ -493,7 +615,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.329697,
     "centroid_lng": 80.875354,
-    "population": 23046
+    "population": 23046,
+    "area_sqkm": 277.53,
+    "population_density": 83.04
   },
   {
     "region_id": "LK-21-Udapalatha",
@@ -501,7 +625,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.128622,
     "centroid_lng": 80.597318,
-    "population": 109092
+    "population": 109092,
+    "area_sqkm": 91.04,
+    "population_density": 1198.29
   },
   {
     "region_id": "LK-21-Udunuwara",
@@ -509,7 +635,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.23096,
     "centroid_lng": 80.578245,
-    "population": 70803
+    "population": 70803,
+    "area_sqkm": 31.2,
+    "population_density": 2269.33
   },
   {
     "region_id": "LK-21-Yatinuwara",
@@ -517,7 +645,9 @@
     "district_id": "LK-21",
     "centroid_lat": 7.28244,
     "centroid_lng": 80.538114,
-    "population": 113769
+    "population": 113769,
+    "area_sqkm": 70.52,
+    "population_density": 1613.29
   },
   {
     "region_id": "LK-22-Ambanganga-Korale",
@@ -525,7 +655,9 @@
     "district_id": "LK-22",
     "centroid_lat": 7.561412,
     "centroid_lng": 80.677646,
-    "population": 15876
+    "population": 15876,
+    "area_sqkm": 55.37,
+    "population_density": 286.73
   },
   {
     "region_id": "LK-22-Dambulla",
@@ -533,7 +665,9 @@
     "district_id": "LK-22",
     "centroid_lat": 7.875426,
     "centroid_lng": 80.719412,
-    "population": 81239
+    "population": 81239,
+    "area_sqkm": 453.35,
+    "population_density": 179.2
   },
   {
     "region_id": "LK-22-Galewela",
@@ -541,7 +675,9 @@
     "district_id": "LK-22",
     "centroid_lat": 7.778476,
     "centroid_lng": 80.571076,
-    "population": 78639
+    "population": 78639,
+    "area_sqkm": 196.95,
+    "population_density": 399.28
   },
   {
     "region_id": "LK-22-Laggala-Pallegama",
@@ -549,7 +685,9 @@
     "district_id": "LK-22",
     "centroid_lat": 7.555007,
     "centroid_lng": 80.808892,
-    "population": 16300
+    "population": 16300,
+    "area_sqkm": 369.92,
+    "population_density": 44.06
   },
   {
     "region_id": "LK-22-Matale",
@@ -557,7 +695,9 @@
     "district_id": "LK-22",
     "centroid_lat": 7.540367,
     "centroid_lng": 80.629513,
-    "population": 80376
+    "population": 80376,
+    "area_sqkm": 70.76,
+    "population_density": 1135.9
   },
   {
     "region_id": "LK-22-Naula",
@@ -565,7 +705,9 @@
     "district_id": "LK-22",
     "centroid_lat": 7.687978,
     "centroid_lng": 80.708127,
-    "population": 30718
+    "population": 30718,
+    "area_sqkm": 287.9,
+    "population_density": 106.7
   },
   {
     "region_id": "LK-22-Pallepola",
@@ -573,7 +715,9 @@
     "district_id": "LK-22",
     "centroid_lat": 7.646668,
     "centroid_lng": 80.598702,
-    "population": 31629
+    "population": 31629,
+    "area_sqkm": 82.87,
+    "population_density": 381.67
   },
   {
     "region_id": "LK-22-Rattota",
@@ -581,7 +725,9 @@
     "district_id": "LK-22",
     "centroid_lat": 7.485902,
     "centroid_lng": 80.686096,
-    "population": 53650
+    "population": 53650,
+    "area_sqkm": 103.92,
+    "population_density": 516.26
   },
   {
     "region_id": "LK-22-Ukuwela",
@@ -589,7 +735,9 @@
     "district_id": "LK-22",
     "centroid_lat": 7.429044,
     "centroid_lng": 80.637568,
-    "population": 72313
+    "population": 72313,
+    "area_sqkm": 79.45,
+    "population_density": 910.17
   },
   {
     "region_id": "LK-22-Wilgamuwa",
@@ -597,7 +745,9 @@
     "district_id": "LK-22",
     "centroid_lat": 7.604317,
     "centroid_lng": 80.929444,
-    "population": 33715
+    "population": 33715,
+    "area_sqkm": 290.87,
+    "population_density": 115.91
   },
   {
     "region_id": "LK-22-Yatawatta",
@@ -605,7 +755,9 @@
     "district_id": "LK-22",
     "centroid_lat": 7.549546,
     "centroid_lng": 80.58882,
-    "population": 32415
+    "population": 32415,
+    "area_sqkm": 67.38,
+    "population_density": 481.08
   },
   {
     "region_id": "LK-23-Ambagamuwa",
@@ -613,7 +765,9 @@
     "district_id": "LK-23",
     "centroid_lat": 6.94399,
     "centroid_lng": 80.504549,
-    "population": 82685
+    "population": 82685,
+    "area_sqkm": 181.91,
+    "population_density": 454.54
   },
   {
     "region_id": "LK-23-Bogawanthalawa",
@@ -621,7 +775,9 @@
     "district_id": "LK-23",
     "centroid_lat": 6.813029,
     "centroid_lng": 80.674876,
-    "population": 58165
+    "population": 58165,
+    "area_sqkm": 113.55,
+    "population_density": 512.24
   },
   {
     "region_id": "LK-23-Hanguranketha",
@@ -629,7 +785,9 @@
     "district_id": "LK-23",
     "centroid_lat": 7.157698,
     "centroid_lng": 80.772225,
-    "population": 62705
+    "population": 62705,
+    "area_sqkm": 140.76,
+    "population_density": 445.47
   },
   {
     "region_id": "LK-23-Kotagala",
@@ -637,7 +795,9 @@
     "district_id": "LK-23",
     "centroid_lat": 6.942671,
     "centroid_lng": 80.627679,
-    "population": 58291
+    "population": 58291,
+    "area_sqkm": 79.74,
+    "population_density": 731.01
   },
   {
     "region_id": "LK-23-Kothmale",
@@ -645,7 +805,9 @@
     "district_id": "LK-23",
     "centroid_lat": 7.039901,
     "centroid_lng": 80.684402,
-    "population": 62796
+    "population": 62796,
+    "area_sqkm": 135.61,
+    "population_density": 463.06
   },
   {
     "region_id": "LK-23-Lindula",
@@ -653,7 +815,9 @@
     "district_id": "LK-23",
     "centroid_lat": 6.868017,
     "centroid_lng": 80.720209,
-    "population": 73801
+    "population": 73801,
+    "area_sqkm": 182.71,
+    "population_density": 403.92
   },
   {
     "region_id": "LK-23-Maskeliya",
@@ -661,7 +825,9 @@
     "district_id": "LK-23",
     "centroid_lat": 6.821909,
     "centroid_lng": 80.566832,
-    "population": 63055
+    "population": 63055,
+    "area_sqkm": 191.39,
+    "population_density": 329.46
   },
   {
     "region_id": "LK-23-Mathurata",
@@ -669,7 +835,9 @@
     "district_id": "LK-23",
     "centroid_lat": 7.064934,
     "centroid_lng": 80.785014,
-    "population": 30905
+    "population": 30905,
+    "area_sqkm": 89.39,
+    "population_density": 345.73
   },
   {
     "region_id": "LK-23-Nawathispane",
@@ -677,7 +845,9 @@
     "district_id": "LK-23",
     "centroid_lat": 7.038318,
     "centroid_lng": 80.606954,
-    "population": 40193
+    "population": 40193,
+    "area_sqkm": 85.57,
+    "population_density": 469.71
   },
   {
     "region_id": "LK-23-Nuwara-Eliya",
@@ -685,7 +855,9 @@
     "district_id": "LK-23",
     "centroid_lat": 6.92132,
     "centroid_lng": 80.779328,
-    "population": 57721
+    "population": 57721,
+    "area_sqkm": 181.97,
+    "population_density": 317.2
   },
   {
     "region_id": "LK-23-Nuwara-Eliya-Mc",
@@ -693,7 +865,9 @@
     "district_id": "LK-23",
     "centroid_lat": 6.968929,
     "centroid_lng": 80.783215,
-    "population": 27254
+    "population": 27254,
+    "area_sqkm": 39.37,
+    "population_density": 692.25
   },
   {
     "region_id": "LK-23-Ragala",
@@ -701,7 +875,9 @@
     "district_id": "LK-23",
     "centroid_lat": 7.031915,
     "centroid_lng": 80.883147,
-    "population": 60207
+    "population": 60207,
+    "area_sqkm": 116.14,
+    "population_density": 518.4
   },
   {
     "region_id": "LK-23-Walapane",
@@ -709,7 +885,9 @@
     "district_id": "LK-23",
     "centroid_lat": 7.127843,
     "centroid_lng": 80.887883,
-    "population": 47502
+    "population": 47502,
+    "area_sqkm": 206.69,
+    "population_density": 229.82
   },
   {
     "region_id": "LK-31-Akmeemana",
@@ -717,7 +895,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.058994,
     "centroid_lng": 80.28362,
-    "population": 86136
+    "population": 86136,
+    "area_sqkm": 71.21,
+    "population_density": 1209.61
   },
   {
     "region_id": "LK-31-Ambalangoda",
@@ -725,7 +905,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.222205,
     "centroid_lng": 80.102702,
-    "population": 57372
+    "population": 57372,
+    "area_sqkm": 47.17,
+    "population_density": 1216.28
   },
   {
     "region_id": "LK-31-Baddegama",
@@ -733,7 +915,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.136843,
     "centroid_lng": 80.220566,
-    "population": 78658
+    "population": 78658,
+    "area_sqkm": 112.83,
+    "population_density": 697.14
   },
   {
     "region_id": "LK-31-Balapitiya",
@@ -741,7 +925,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.314303,
     "centroid_lng": 80.051461,
-    "population": 68768
+    "population": 68768,
+    "area_sqkm": 54.35,
+    "population_density": 1265.28
   },
   {
     "region_id": "LK-31-Bentota",
@@ -749,7 +935,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.386503,
     "centroid_lng": 80.055745,
-    "population": 49650
+    "population": 49650,
+    "area_sqkm": 70.94,
+    "population_density": 699.89
   },
   {
     "region_id": "LK-31-Bope-Poddala",
@@ -757,7 +945,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.084356,
     "centroid_lng": 80.2169,
-    "population": 57890
+    "population": 57890,
+    "area_sqkm": 28.61,
+    "population_density": 2023.42
   },
   {
     "region_id": "LK-31-Elpitiya",
@@ -765,7 +955,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.290249,
     "centroid_lng": 80.186598,
-    "population": 66671
+    "population": 66671,
+    "area_sqkm": 150.67,
+    "population_density": 442.5
   },
   {
     "region_id": "LK-31-Galle-Four-Gravets",
@@ -773,7 +965,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.053122,
     "centroid_lng": 80.208393,
-    "population": 108321
+    "population": 108321,
+    "area_sqkm": 22.32,
+    "population_density": 4853.09
   },
   {
     "region_id": "LK-31-Gonapinuwala",
@@ -781,7 +975,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.166154,
     "centroid_lng": 80.131491,
-    "population": 22940
+    "population": 22940,
+    "area_sqkm": 25.26,
+    "population_density": 908.16
   },
   {
     "region_id": "LK-31-Habaraduwa",
@@ -789,7 +985,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.001053,
     "centroid_lng": 80.320379,
-    "population": 63302
+    "population": 63302,
+    "area_sqkm": 48.8,
+    "population_density": 1297.17
   },
   {
     "region_id": "LK-31-Hikkaduwa",
@@ -797,7 +995,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.168113,
     "centroid_lng": 80.096863,
-    "population": 61251
+    "population": 61251,
+    "area_sqkm": 38.38,
+    "population_density": 1595.91
   },
   {
     "region_id": "LK-31-Imaduwa",
@@ -805,7 +1005,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.032721,
     "centroid_lng": 80.357776,
-    "population": 48204
+    "population": 48204,
+    "area_sqkm": 58.34,
+    "population_density": 826.26
   },
   {
     "region_id": "LK-31-Karandeniya",
@@ -813,7 +1015,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.30108,
     "centroid_lng": 80.100622,
-    "population": 63862
+    "population": 63862,
+    "area_sqkm": 88.56,
+    "population_density": 721.12
   },
   {
     "region_id": "LK-31-Nagoda",
@@ -821,7 +1025,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.199735,
     "centroid_lng": 80.312902,
-    "population": 52031
+    "population": 52031,
+    "area_sqkm": 173.42,
+    "population_density": 300.03
   },
   {
     "region_id": "LK-31-Neluwa",
@@ -829,7 +1035,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.360282,
     "centroid_lng": 80.410723,
-    "population": 27746
+    "population": 27746,
+    "area_sqkm": 152.51,
+    "population_density": 181.93
   },
   {
     "region_id": "LK-31-Niyagama",
@@ -837,7 +1045,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.30246,
     "centroid_lng": 80.252335,
-    "population": 35751
+    "population": 35751,
+    "area_sqkm": 104.36,
+    "population_density": 342.57
   },
   {
     "region_id": "LK-31-Rathgama",
@@ -845,7 +1055,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.100956,
     "centroid_lng": 80.157329,
-    "population": 41456
+    "population": 41456,
+    "area_sqkm": 26.72,
+    "population_density": 1551.5
   },
   {
     "region_id": "LK-31-Thawalama",
@@ -853,7 +1065,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.292984,
     "centroid_lng": 80.355567,
-    "population": 30989
+    "population": 30989,
+    "area_sqkm": 173.69,
+    "population_density": 178.42
   },
   {
     "region_id": "LK-31-Welivitiya-Divithura",
@@ -861,7 +1075,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.206319,
     "centroid_lng": 80.180197,
-    "population": 29687
+    "population": 29687,
+    "area_sqkm": 56.64,
+    "population_density": 524.13
   },
   {
     "region_id": "LK-31-Yakkalamulla",
@@ -869,7 +1085,9 @@
     "district_id": "LK-31",
     "centroid_lat": 6.106627,
     "centroid_lng": 80.359402,
-    "population": 46687
+    "population": 46687,
+    "area_sqkm": 108.71,
+    "population_density": 429.46
   },
   {
     "region_id": "LK-32-Akuressa",
@@ -877,7 +1095,9 @@
     "district_id": "LK-32",
     "centroid_lat": 6.135023,
     "centroid_lng": 80.440004,
-    "population": 52624
+    "population": 52624,
+    "area_sqkm": 148.58,
+    "population_density": 354.18
   },
   {
     "region_id": "LK-32-Athuraliya",
@@ -885,7 +1105,9 @@
     "district_id": "LK-32",
     "centroid_lat": 6.117274,
     "centroid_lng": 80.508648,
-    "population": 32811
+    "population": 32811,
+    "area_sqkm": 63.04,
+    "population_density": 520.48
   },
   {
     "region_id": "LK-32-Devinuwara",
@@ -893,7 +1115,9 @@
     "district_id": "LK-32",
     "centroid_lat": 5.975571,
     "centroid_lng": 80.614638,
-    "population": 51530
+    "population": 51530,
+    "area_sqkm": 35.94,
+    "population_density": 1433.78
   },
   {
     "region_id": "LK-32-Dickwella",
@@ -901,7 +1125,9 @@
     "district_id": "LK-32",
     "centroid_lat": 5.984818,
     "centroid_lng": 80.673769,
-    "population": 56468
+    "population": 56468,
+    "area_sqkm": 51.1,
+    "population_density": 1105.05
   },
   {
     "region_id": "LK-32-Hakmana",
@@ -909,7 +1135,9 @@
     "district_id": "LK-32",
     "centroid_lat": 6.094867,
     "centroid_lng": 80.650036,
-    "population": 31822
+    "population": 31822,
+    "area_sqkm": 47.91,
+    "population_density": 664.2
   },
   {
     "region_id": "LK-32-Kamburupitiya",
@@ -917,7 +1145,9 @@
     "district_id": "LK-32",
     "centroid_lat": 6.066358,
     "centroid_lng": 80.56139,
-    "population": 42816
+    "population": 42816,
+    "area_sqkm": 57.87,
+    "population_density": 739.87
   },
   {
     "region_id": "LK-32-Kirinda-Puhulwella",
@@ -925,7 +1155,9 @@
     "district_id": "LK-32",
     "centroid_lat": 6.046113,
     "centroid_lng": 80.637133,
-    "population": 21198
+    "population": 21198,
+    "area_sqkm": 44.91,
+    "population_density": 472.01
   },
   {
     "region_id": "LK-32-Kotapola",
@@ -933,7 +1165,9 @@
     "district_id": "LK-32",
     "centroid_lat": 6.322681,
     "centroid_lng": 80.539277,
-    "population": 61002
+    "population": 61002,
+    "area_sqkm": 179.0,
+    "population_density": 340.79
   },
   {
     "region_id": "LK-32-Malimbada",
@@ -941,7 +1175,9 @@
     "district_id": "LK-32",
     "centroid_lat": 6.019413,
     "centroid_lng": 80.498265,
-    "population": 37142
+    "population": 37142,
+    "area_sqkm": 44.32,
+    "population_density": 838.04
   },
   {
     "region_id": "LK-32-Matara-Mc",
@@ -949,7 +1185,9 @@
     "district_id": "LK-32",
     "centroid_lat": 5.953054,
     "centroid_lng": 80.538768,
-    "population": 76322
+    "population": 76322,
+    "area_sqkm": 19.86,
+    "population_density": 3843.0
   },
   {
     "region_id": "LK-32-Matara-Ps",
@@ -957,7 +1195,9 @@
     "district_id": "LK-32",
     "centroid_lat": 5.968353,
     "centroid_lng": 80.575033,
-    "population": 44719
+    "population": 44719,
+    "area_sqkm": 35.95,
+    "population_density": 1243.92
   },
   {
     "region_id": "LK-32-Mulatiyana",
@@ -965,7 +1205,9 @@
     "district_id": "LK-32",
     "centroid_lat": 6.146927,
     "centroid_lng": 80.586504,
-    "population": 52995
+    "population": 52995,
+    "area_sqkm": 122.02,
+    "population_density": 434.31
   },
   {
     "region_id": "LK-32-Pasgoda",
@@ -973,7 +1215,9 @@
     "district_id": "LK-32",
     "centroid_lat": 6.275917,
     "centroid_lng": 80.608346,
-    "population": 61171
+    "population": 61171,
+    "area_sqkm": 154.03,
+    "population_density": 397.14
   },
   {
     "region_id": "LK-32-Pitabeddara",
@@ -981,7 +1225,9 @@
     "district_id": "LK-32",
     "centroid_lat": 6.23924,
     "centroid_lng": 80.472711,
-    "population": 48867
+    "population": 48867,
+    "area_sqkm": 136.98,
+    "population_density": 356.75
   },
   {
     "region_id": "LK-32-Thihagoda",
@@ -989,7 +1235,9 @@
     "district_id": "LK-32",
     "centroid_lat": 6.009617,
     "centroid_lng": 80.560306,
-    "population": 34306
+    "population": 34306,
+    "area_sqkm": 52.8,
+    "population_density": 649.73
   },
   {
     "region_id": "LK-32-Weligama",
@@ -997,7 +1245,9 @@
     "district_id": "LK-32",
     "centroid_lat": 5.967006,
     "centroid_lng": 80.443914,
-    "population": 76136
+    "population": 76136,
+    "area_sqkm": 42.66,
+    "population_density": 1784.72
   },
   {
     "region_id": "LK-32-Welipitiya",
@@ -1005,7 +1255,9 @@
     "district_id": "LK-32",
     "centroid_lat": 6.016565,
     "centroid_lng": 80.438515,
-    "population": 55960
+    "population": 55960,
+    "area_sqkm": 69.29,
+    "population_density": 807.62
   },
   {
     "region_id": "LK-33-Ambalantota",
@@ -1013,7 +1265,9 @@
     "district_id": "LK-33",
     "centroid_lat": 6.161098,
     "centroid_lng": 80.963002,
-    "population": 80506
+    "population": 80506,
+    "area_sqkm": 212.81,
+    "population_density": 378.3
   },
   {
     "region_id": "LK-33-Angunukolapeles",
@@ -1021,7 +1275,9 @@
     "district_id": "LK-33",
     "centroid_lat": 6.19316,
     "centroid_lng": 80.85191,
-    "population": 53409
+    "population": 53409,
+    "area_sqkm": 171.82,
+    "population_density": 310.84
   },
   {
     "region_id": "LK-33-Beliatta",
@@ -1029,7 +1285,9 @@
     "district_id": "LK-33",
     "centroid_lat": 6.051037,
     "centroid_lng": 80.720544,
-    "population": 58675
+    "population": 58675,
+    "area_sqkm": 102.7,
+    "population_density": 571.32
   },
   {
     "region_id": "LK-33-Hambantota",
@@ -1037,7 +1295,9 @@
     "district_id": "LK-33",
     "centroid_lat": 6.204873,
     "centroid_lng": 81.121585,
-    "population": 67207
+    "population": 67207,
+    "area_sqkm": 343.8,
+    "population_density": 195.48
   },
   {
     "region_id": "LK-33-Katuwana",
@@ -1045,7 +1305,9 @@
     "district_id": "LK-33",
     "centroid_lat": 6.263837,
     "centroid_lng": 80.715709,
-    "population": 52169
+    "population": 52169,
+    "area_sqkm": 105.09,
+    "population_density": 496.42
   },
   {
     "region_id": "LK-33-Lunugamvehera",
@@ -1053,7 +1315,9 @@
     "district_id": "LK-33",
     "centroid_lat": 6.332067,
     "centroid_lng": 81.166348,
-    "population": 36487
+    "population": 36487,
+    "area_sqkm": 280.43,
+    "population_density": 130.11
   },
   {
     "region_id": "LK-33-Okewela",
@@ -1061,7 +1325,9 @@
     "district_id": "LK-33",
     "centroid_lat": 6.130422,
     "centroid_lng": 80.693099,
-    "population": 19992
+    "population": 19992,
+    "area_sqkm": 42.15,
+    "population_density": 474.31
   },
   {
     "region_id": "LK-33-Sooriyawewa",
@@ -1069,7 +1335,9 @@
     "district_id": "LK-33",
     "centroid_lat": 6.29174,
     "centroid_lng": 81.01411,
-    "population": 52709
+    "population": 52709,
+    "area_sqkm": 193.65,
+    "population_density": 272.19
   },
   {
     "region_id": "LK-33-Tangalle",
@@ -1077,7 +1345,9 @@
     "district_id": "LK-33",
     "centroid_lat": 6.071591,
     "centroid_lng": 80.826067,
-    "population": 79543
+    "population": 79543,
+    "area_sqkm": 152.78,
+    "population_density": 520.64
   },
   {
     "region_id": "LK-33-Tissamaharama",
@@ -1085,7 +1355,9 @@
     "district_id": "LK-33",
     "centroid_lat": 6.380714,
     "centroid_lng": 81.453725,
-    "population": 74611
+    "population": 74611,
+    "area_sqkm": 796.6,
+    "population_density": 93.66
   },
   {
     "region_id": "LK-33-Walasmulla",
@@ -1093,7 +1365,9 @@
     "district_id": "LK-33",
     "centroid_lat": 6.1996,
     "centroid_lng": 80.681765,
-    "population": 47869
+    "population": 47869,
+    "area_sqkm": 108.58,
+    "population_density": 440.86
   },
   {
     "region_id": "LK-33-Weeraketiya",
@@ -1101,7 +1375,9 @@
     "district_id": "LK-33",
     "centroid_lat": 6.172037,
     "centroid_lng": 80.772005,
-    "population": 48241
+    "population": 48241,
+    "area_sqkm": 114.67,
+    "population_density": 420.69
   },
   {
     "region_id": "LK-41-Chankanai",
@@ -1109,7 +1385,9 @@
     "district_id": "LK-41",
     "centroid_lat": 9.741712,
     "centroid_lng": 79.945662,
-    "population": 44015
+    "population": 44015,
+    "area_sqkm": 47.76,
+    "population_density": 921.59
   },
   {
     "region_id": "LK-41-Chavakachcheri",
@@ -1117,7 +1395,9 @@
     "district_id": "LK-41",
     "centroid_lat": 9.677008,
     "centroid_lng": 80.190646,
-    "population": 67782
+    "population": 67782,
+    "area_sqkm": 235.12,
+    "population_density": 288.29
   },
   {
     "region_id": "LK-41-Jaffna",
@@ -1125,7 +1405,9 @@
     "district_id": "LK-41",
     "centroid_lat": 9.66349,
     "centroid_lng": 80.021338,
-    "population": 48543
+    "population": 48543,
+    "area_sqkm": 10.96,
+    "population_density": 4429.11
   },
   {
     "region_id": "LK-41-Karaveddy",
@@ -1133,7 +1415,9 @@
     "district_id": "LK-41",
     "centroid_lat": 9.77598,
     "centroid_lng": 80.184317,
-    "population": 41102
+    "population": 41102,
+    "area_sqkm": 86.45,
+    "population_density": 475.44
   },
   {
     "region_id": "LK-41-Kayts",
@@ -1141,7 +1425,9 @@
     "district_id": "LK-41",
     "centroid_lat": 9.616664,
     "centroid_lng": 79.831833,
-    "population": 38820
+    "population": 38820,
+    "area_sqkm": 195.24,
+    "population_density": 198.83
   },
   {
     "region_id": "LK-41-Kopay",
@@ -1149,7 +1435,9 @@
     "district_id": "LK-41",
     "centroid_lat": 9.737645,
     "centroid_lng": 80.096594,
-    "population": 75979
+    "population": 75979,
+    "area_sqkm": 108.76,
+    "population_density": 698.59
   },
   {
     "region_id": "LK-41-Nallur",
@@ -1157,7 +1445,9 @@
     "district_id": "LK-41",
     "centroid_lat": 9.668871,
     "centroid_lng": 80.048436,
-    "population": 72884
+    "population": 72884,
+    "area_sqkm": 32.66,
+    "population_density": 2231.6
   },
   {
     "region_id": "LK-41-Point-Pedro",
@@ -1165,7 +1455,9 @@
     "district_id": "LK-41",
     "centroid_lat": 9.644875,
     "centroid_lng": 80.378188,
-    "population": 56906
+    "population": 56906,
+    "area_sqkm": 228.33,
+    "population_density": 249.23
   },
   {
     "region_id": "LK-41-Sandilipay",
@@ -1173,7 +1465,9 @@
     "district_id": "LK-41",
     "centroid_lat": 9.750952,
     "centroid_lng": 79.980452,
-    "population": 53266
+    "population": 53266,
+    "area_sqkm": 48.82,
+    "population_density": 1091.07
   },
   {
     "region_id": "LK-41-Tellipalai",
@@ -1181,7 +1475,9 @@
     "district_id": "LK-41",
     "centroid_lat": 9.78878,
     "centroid_lng": 80.040562,
-    "population": 45794
+    "population": 45794,
+    "area_sqkm": 62.64,
+    "population_density": 731.07
   },
   {
     "region_id": "LK-41-Uduvil",
@@ -1189,7 +1485,9 @@
     "district_id": "LK-41",
     "centroid_lat": 9.744485,
     "centroid_lng": 80.034377,
-    "population": 49660
+    "population": 49660,
+    "area_sqkm": 33.48,
+    "population_density": 1483.27
   },
   {
     "region_id": "LK-42-Madhu",
@@ -1197,7 +1495,9 @@
     "district_id": "LK-42",
     "centroid_lat": 8.845824,
     "centroid_lng": 80.225307,
-    "population": 9493
+    "population": 9493,
+    "area_sqkm": 564.98,
+    "population_density": 16.8
   },
   {
     "region_id": "LK-42-Mannar-Town",
@@ -1205,7 +1505,9 @@
     "district_id": "LK-42",
     "centroid_lat": 8.990592,
     "centroid_lng": 79.888907,
-    "population": 57772
+    "population": 57772,
+    "area_sqkm": 220.17,
+    "population_density": 262.4
   },
   {
     "region_id": "LK-42-Manthai-West",
@@ -1213,7 +1515,9 @@
     "district_id": "LK-42",
     "centroid_lat": 9.027313,
     "centroid_lng": 80.112093,
-    "population": 18674
+    "population": 18674,
+    "area_sqkm": 614.97,
+    "population_density": 30.37
   },
   {
     "region_id": "LK-42-Musalai",
@@ -1221,7 +1525,9 @@
     "district_id": "LK-42",
     "centroid_lat": 8.676536,
     "centroid_lng": 80.020926,
-    "population": 16937
+    "population": 16937,
+    "area_sqkm": 461.49,
+    "population_density": 36.7
   },
   {
     "region_id": "LK-42-Nanattan",
@@ -1229,7 +1535,9 @@
     "district_id": "LK-42",
     "centroid_lat": 8.83685,
     "centroid_lng": 79.992485,
-    "population": 20880
+    "population": 20880,
+    "area_sqkm": 149.17,
+    "population_density": 139.97
   },
   {
     "region_id": "LK-43-Cheddikulam",
@@ -1237,7 +1545,9 @@
     "district_id": "LK-43",
     "centroid_lat": 8.693165,
     "centroid_lng": 80.296167,
-    "population": 25770
+    "population": 25770,
+    "area_sqkm": 415.07,
+    "population_density": 62.09
   },
   {
     "region_id": "LK-43-Vavuniya",
@@ -1245,7 +1555,9 @@
     "district_id": "LK-43",
     "centroid_lat": 8.833816,
     "centroid_lng": 80.456461,
-    "population": 116991
+    "population": 116991,
+    "area_sqkm": 616.84,
+    "population_density": 189.66
   },
   {
     "region_id": "LK-43-Vavuniya-North",
@@ -1253,7 +1565,9 @@
     "district_id": "LK-43",
     "centroid_lat": 9.002936,
     "centroid_lng": 80.578753,
-    "population": 14709
+    "population": 14709,
+    "area_sqkm": 686.72,
+    "population_density": 21.42
   },
   {
     "region_id": "LK-43-Vavuniya-South",
@@ -1261,7 +1575,9 @@
     "district_id": "LK-43",
     "centroid_lat": 8.733856,
     "centroid_lng": 80.510969,
-    "population": 14842
+    "population": 14842,
+    "area_sqkm": 216.24,
+    "population_density": 68.64
   },
   {
     "region_id": "LK-43-Welioya",
@@ -1269,7 +1585,9 @@
     "district_id": "LK-43",
     "centroid_lat": 8.985349,
     "centroid_lng": 80.749594,
-    "population": 5946
+    "population": 5946,
+    "area_sqkm": 85.77,
+    "population_density": 69.32
   },
   {
     "region_id": "LK-44-Mallavi",
@@ -1277,7 +1595,9 @@
     "district_id": "LK-44",
     "centroid_lat": 9.221339,
     "centroid_lng": 80.286475,
-    "population": 10410
+    "population": 10410,
+    "area_sqkm": 329.17,
+    "population_density": 31.62
   },
   {
     "region_id": "LK-44-Manthai-East",
@@ -1285,7 +1605,9 @@
     "district_id": "LK-44",
     "centroid_lat": 9.053687,
     "centroid_lng": 80.30991,
-    "population": 7650
+    "population": 7650,
+    "area_sqkm": 485.89,
+    "population_density": 15.74
   },
   {
     "region_id": "LK-44-Mullaitivu",
@@ -1293,7 +1615,9 @@
     "district_id": "LK-44",
     "centroid_lat": 9.14361,
     "centroid_lng": 80.796661,
-    "population": 40552
+    "population": 40552,
+    "area_sqkm": 691.07,
+    "population_density": 58.68
   },
   {
     "region_id": "LK-44-Oddusuddan",
@@ -1301,7 +1625,9 @@
     "district_id": "LK-44",
     "centroid_lat": 9.20078,
     "centroid_lng": 80.532971,
-    "population": 18149
+    "population": 18149,
+    "area_sqkm": 762.51,
+    "population_density": 23.8
   },
   {
     "region_id": "LK-44-Puthukkudiyiruppu",
@@ -1309,7 +1635,9 @@
     "district_id": "LK-44",
     "centroid_lat": 9.313855,
     "centroid_lng": 80.636692,
-    "population": 39532
+    "population": 39532,
+    "area_sqkm": 326.53,
+    "population_density": 121.07
   },
   {
     "region_id": "LK-45-Kandawalai",
@@ -1317,7 +1645,9 @@
     "district_id": "LK-45",
     "centroid_lat": 9.451642,
     "centroid_lng": 80.488637,
-    "population": 21046
+    "population": 21046,
+    "area_sqkm": 249.43,
+    "population_density": 84.38
   },
   {
     "region_id": "LK-45-Kilinochchi",
@@ -1325,7 +1655,9 @@
     "district_id": "LK-45",
     "centroid_lat": 9.363992,
     "centroid_lng": 80.335411,
-    "population": 80127
+    "population": 80127,
+    "area_sqkm": 468.62,
+    "population_density": 170.99
   },
   {
     "region_id": "LK-45-Palai",
@@ -1333,7 +1665,9 @@
     "district_id": "LK-45",
     "centroid_lat": 9.591585,
     "centroid_lng": 80.356701,
-    "population": 13045
+    "population": 13045,
+    "area_sqkm": 176.02,
+    "population_density": 74.11
   },
   {
     "region_id": "LK-45-Poonakary",
@@ -1341,7 +1675,9 @@
     "district_id": "LK-45",
     "centroid_lat": 9.395242,
     "centroid_lng": 80.165655,
-    "population": 22492
+    "population": 22492,
+    "area_sqkm": 425.2,
+    "population_density": 52.9
   },
   {
     "region_id": "LK-51-Arayampathy",
@@ -1349,7 +1685,9 @@
     "district_id": "LK-51",
     "centroid_lat": 7.638083,
     "centroid_lng": 81.753896,
-    "population": 35551
+    "population": 35551,
+    "area_sqkm": 25.04,
+    "population_density": 1419.77
   },
   {
     "region_id": "LK-51-Batticaloa",
@@ -1357,7 +1695,9 @@
     "district_id": "LK-51",
     "centroid_lat": 7.721828,
     "centroid_lng": 81.687813,
-    "population": 85114
+    "population": 85114,
+    "area_sqkm": 37.14,
+    "population_density": 2291.71
   },
   {
     "region_id": "LK-51-Chenkalady",
@@ -1365,7 +1705,9 @@
     "district_id": "LK-51",
     "centroid_lat": 7.703677,
     "centroid_lng": 81.480485,
-    "population": 77192
+    "population": 77192,
+    "area_sqkm": 585.4,
+    "population_density": 131.86
   },
   {
     "region_id": "LK-51-Eravur",
@@ -1373,7 +1715,9 @@
     "district_id": "LK-51",
     "centroid_lat": 7.793248,
     "centroid_lng": 81.615751,
-    "population": 39491
+    "population": 39491,
+    "area_sqkm": 12.77,
+    "population_density": 3092.48
   },
   {
     "region_id": "LK-51-Kaluwanchikudy",
@@ -1381,7 +1725,9 @@
     "district_id": "LK-51",
     "centroid_lat": 7.517823,
     "centroid_lng": 81.791419,
-    "population": 63472
+    "population": 63472,
+    "area_sqkm": 41.66,
+    "population_density": 1523.57
   },
   {
     "region_id": "LK-51-Kattankudy",
@@ -1389,7 +1735,9 @@
     "district_id": "LK-51",
     "centroid_lat": 7.682527,
     "centroid_lng": 81.731483,
-    "population": 50005
+    "population": 50005,
+    "area_sqkm": 4.53,
+    "population_density": 11038.63
   },
   {
     "region_id": "LK-51-Kiran",
@@ -1397,7 +1745,9 @@
     "district_id": "LK-51",
     "centroid_lat": 7.924843,
     "centroid_lng": 81.49296,
-    "population": 27469
+    "population": 27469,
+    "area_sqkm": 23.26,
+    "population_density": 1180.95
   },
   {
     "region_id": "LK-51-Koralaipattu-(-Oddmavadi-Central-)",
@@ -1405,7 +1755,9 @@
     "district_id": "LK-51",
     "centroid_lat": 7.896479,
     "centroid_lng": 81.52437,
-    "population": 27717
+    "population": 27717,
+    "area_sqkm": 7.53,
+    "population_density": 3680.88
   },
   {
     "region_id": "LK-51-Ottamavadi",
@@ -1413,7 +1765,9 @@
     "district_id": "LK-51",
     "centroid_lat": 7.905581,
     "centroid_lng": 81.546989,
-    "population": 28762
+    "population": 28762,
+    "area_sqkm": 29.89,
+    "population_density": 962.26
   },
   {
     "region_id": "LK-51-Paddipalai",
@@ -1421,7 +1775,9 @@
     "district_id": "LK-51",
     "centroid_lat": 7.563989,
     "centroid_lng": 81.65907,
-    "population": 26676
+    "population": 26676,
+    "area_sqkm": 143.9,
+    "population_density": 185.38
   },
   {
     "region_id": "LK-51-Vakarai",
@@ -1429,7 +1785,9 @@
     "district_id": "LK-51",
     "centroid_lat": 8.085571,
     "centroid_lng": 81.394527,
-    "population": 25475
+    "population": 25475,
+    "area_sqkm": 515.5,
+    "population_density": 49.42
   },
   {
     "region_id": "LK-51-Valaichenai",
@@ -1437,7 +1795,9 @@
     "district_id": "LK-51",
     "centroid_lat": 7.855622,
     "centroid_lng": 81.369917,
-    "population": 30962
+    "population": 30962,
+    "area_sqkm": 605.11,
+    "population_density": 51.17
   },
   {
     "region_id": "LK-51-Vavunathivu",
@@ -1445,7 +1805,9 @@
     "district_id": "LK-51",
     "centroid_lat": 7.63249,
     "centroid_lng": 81.600076,
-    "population": 31558
+    "population": 31558,
+    "area_sqkm": 275.56,
+    "population_density": 114.52
   },
   {
     "region_id": "LK-51-Vellaveli",
@@ -1453,7 +1815,9 @@
     "district_id": "LK-51",
     "centroid_lat": 7.498017,
     "centroid_lng": 81.708049,
-    "population": 38627
+    "population": 38627,
+    "area_sqkm": 156.56,
+    "population_density": 246.72
   },
   {
     "region_id": "LK-52-Addachchenai",
@@ -1461,7 +1825,9 @@
     "district_id": "LK-52",
     "centroid_lat": 7.266133,
     "centroid_lng": 81.822078,
-    "population": 54874
+    "population": 54874,
+    "area_sqkm": 68.88,
+    "population_density": 796.66
   },
   {
     "region_id": "LK-52-Akkaraipattu",
@@ -1469,7 +1835,9 @@
     "district_id": "LK-52",
     "centroid_lat": 7.209158,
     "centroid_lng": 81.783288,
-    "population": 37173
+    "population": 37173,
+    "area_sqkm": 49.78,
+    "population_density": 746.75
   },
   {
     "region_id": "LK-52-Alayadivembu",
@@ -1477,7 +1845,9 @@
     "district_id": "LK-52",
     "centroid_lat": 7.17371,
     "centroid_lng": 81.806138,
-    "population": 28096
+    "population": 28096,
+    "area_sqkm": 70.94,
+    "population_density": 396.05
   },
   {
     "region_id": "LK-52-Ampara",
@@ -1485,7 +1855,9 @@
     "district_id": "LK-52",
     "centroid_lat": 7.291532,
     "centroid_lng": 81.597145,
-    "population": 37604
+    "population": 37604,
+    "area_sqkm": 130.33,
+    "population_density": 288.53
   },
   {
     "region_id": "LK-52-Damana",
@@ -1493,7 +1865,9 @@
     "district_id": "LK-52",
     "centroid_lat": 7.125334,
     "centroid_lng": 81.641047,
-    "population": 48364
+    "population": 48364,
+    "area_sqkm": 567.08,
+    "population_density": 85.29
   },
   {
     "region_id": "LK-52-Dehiyathakandiya",
@@ -1501,7 +1875,9 @@
     "district_id": "LK-52",
     "centroid_lat": 7.621715,
     "centroid_lng": 81.084627,
-    "population": 67274
+    "population": 67274,
+    "area_sqkm": 374.17,
+    "population_density": 179.8
   },
   {
     "region_id": "LK-52-Irakkamam",
@@ -1509,7 +1885,9 @@
     "district_id": "LK-52",
     "centroid_lat": 7.242602,
     "centroid_lng": 81.727707,
-    "population": 18751
+    "population": 18751,
+    "area_sqkm": 73.16,
+    "population_density": 256.3
   },
   {
     "region_id": "LK-52-Kalmunai-South-(-Muslim-Div-)",
@@ -1517,7 +1895,9 @@
     "district_id": "LK-52",
     "centroid_lat": 7.414037,
     "centroid_lng": 81.824921,
-    "population": 41899
+    "population": 41899,
+    "area_sqkm": 8.64,
+    "population_density": 4849.42
   },
   {
     "region_id": "LK-52-Kalnumai-North-(-Tamil-Div-)",
@@ -1525,7 +1905,9 @@
     "district_id": "LK-52",
     "centroid_lat": 7.418038,
     "centroid_lng": 81.81152,
-    "population": 50674
+    "population": 50674,
+    "area_sqkm": 12.78,
+    "population_density": 3965.1
   },
   {
     "region_id": "LK-52-Karaithivu",
@@ -1533,7 +1915,9 @@
     "district_id": "LK-52",
     "centroid_lat": 7.372011,
     "centroid_lng": 81.834069,
-    "population": 19493
+    "population": 19493,
+    "area_sqkm": 10.15,
+    "population_density": 1920.49
   },
   {
     "region_id": "LK-52-Lahugala",
@@ -1541,7 +1925,9 @@
     "district_id": "LK-52",
     "centroid_lat": 6.751722,
     "centroid_lng": 81.699187,
-    "population": 10416
+    "population": 10416,
+    "area_sqkm": 815.31,
+    "population_density": 12.78
   },
   {
     "region_id": "LK-52-Mahaoya",
@@ -1549,7 +1935,9 @@
     "district_id": "LK-52",
     "centroid_lat": 7.561151,
     "centroid_lng": 81.348683,
-    "population": 23715
+    "population": 23715,
+    "area_sqkm": 680.4,
+    "population_density": 34.85
   },
   {
     "region_id": "LK-52-Navithanveli",
@@ -1557,7 +1945,9 @@
     "district_id": "LK-52",
     "centroid_lat": 7.42677,
     "centroid_lng": 81.763698,
-    "population": 22380
+    "population": 22380,
+    "area_sqkm": 72.99,
+    "population_density": 306.62
   },
   {
     "region_id": "LK-52-Ninthavur",
@@ -1565,7 +1955,9 @@
     "district_id": "LK-52",
     "centroid_lat": 7.327276,
     "centroid_lng": 81.840794,
-    "population": 30671
+    "population": 30671,
+    "area_sqkm": 35.95,
+    "population_density": 853.16
   },
   {
     "region_id": "LK-52-Padiyathalawa",
@@ -1573,7 +1965,9 @@
     "district_id": "LK-52",
     "centroid_lat": 7.427631,
     "centroid_lng": 81.260841,
-    "population": 20834
+    "population": 20834,
+    "area_sqkm": 388.22,
+    "population_density": 53.67
   },
   {
     "region_id": "LK-52-Pottuvil",
@@ -1581,7 +1975,9 @@
     "district_id": "LK-52",
     "centroid_lat": 6.943233,
     "centroid_lng": 81.801421,
-    "population": 43283
+    "population": 43283,
+    "area_sqkm": 319.29,
+    "population_density": 135.56
   },
   {
     "region_id": "LK-52-Sainthamaruthu",
@@ -1589,7 +1985,9 @@
     "district_id": "LK-52",
     "centroid_lat": 7.389525,
     "centroid_lng": 81.833201,
-    "population": 19409
+    "population": 19409,
+    "area_sqkm": 2.39,
+    "population_density": 8120.92
   },
   {
     "region_id": "LK-52-Sammanthurai",
@@ -1597,7 +1995,9 @@
     "district_id": "LK-52",
     "centroid_lat": 7.330242,
     "centroid_lng": 81.765336,
-    "population": 72270
+    "population": 72270,
+    "area_sqkm": 115.75,
+    "population_density": 624.36
   },
   {
     "region_id": "LK-52-Thirukkovil",
@@ -1605,7 +2005,9 @@
     "district_id": "LK-52",
     "centroid_lat": 7.094215,
     "centroid_lng": 81.796951,
-    "population": 28546
+    "population": 28546,
+    "area_sqkm": 137.94,
+    "population_density": 206.95
   },
   {
     "region_id": "LK-52-Uhana",
@@ -1613,7 +2015,9 @@
     "district_id": "LK-52",
     "centroid_lat": 7.404125,
     "centroid_lng": 81.591396,
-    "population": 64683
+    "population": 64683,
+    "area_sqkm": 539.27,
+    "population_density": 119.95
   },
   {
     "region_id": "LK-53-Eachchilampatru",
@@ -1621,7 +2025,9 @@
     "district_id": "LK-53",
     "centroid_lat": 8.312837,
     "centroid_lng": 81.359418,
-    "population": 14441
+    "population": 14441,
+    "area_sqkm": 101.42,
+    "population_density": 142.39
   },
   {
     "region_id": "LK-53-Gomarankadawala",
@@ -1629,7 +2035,9 @@
     "district_id": "LK-53",
     "centroid_lat": 8.683455,
     "centroid_lng": 80.994434,
-    "population": 17591
+    "population": 17591,
+    "area_sqkm": 585.47,
+    "population_density": 30.05
   },
   {
     "region_id": "LK-53-Kanthale",
@@ -1637,7 +2045,9 @@
     "district_id": "LK-53",
     "centroid_lat": 8.345926,
     "centroid_lng": 81.057222,
-    "population": 50840
+    "population": 50840,
+    "area_sqkm": 412.72,
+    "population_density": 123.18
   },
   {
     "region_id": "LK-53-Kinniya",
@@ -1645,7 +2055,9 @@
     "district_id": "LK-53",
     "centroid_lat": 8.432567,
     "centroid_lng": 81.164019,
-    "population": 83270
+    "population": 83270,
+    "area_sqkm": 141.7,
+    "population_density": 587.65
   },
   {
     "region_id": "LK-53-Kuchchaveli",
@@ -1653,7 +2065,9 @@
     "district_id": "LK-53",
     "centroid_lat": 8.81629,
     "centroid_lng": 81.043004,
-    "population": 40791
+    "population": 40791,
+    "area_sqkm": 454.05,
+    "population_density": 89.84
   },
   {
     "region_id": "LK-53-Muthur",
@@ -1661,7 +2075,9 @@
     "district_id": "LK-53",
     "centroid_lat": 8.429544,
     "centroid_lng": 81.29227,
-    "population": 72373
+    "population": 72373,
+    "area_sqkm": 186.5,
+    "population_density": 388.06
   },
   {
     "region_id": "LK-53-Padavi-Sri-Pura",
@@ -1669,7 +2085,9 @@
     "district_id": "LK-53",
     "centroid_lat": 8.915209,
     "centroid_lng": 80.852197,
-    "population": 11163
+    "population": 11163,
+    "area_sqkm": 106.23,
+    "population_density": 105.08
   },
   {
     "region_id": "LK-53-Seruvila",
@@ -1677,7 +2095,9 @@
     "district_id": "LK-53",
     "centroid_lat": 8.29799,
     "centroid_lng": 81.251456,
-    "population": 15136
+    "population": 15136,
+    "area_sqkm": 290.12,
+    "population_density": 52.17
   },
   {
     "region_id": "LK-53-Thampalagamam",
@@ -1685,7 +2105,9 @@
     "district_id": "LK-53",
     "centroid_lat": 8.501033,
     "centroid_lng": 81.042362,
-    "population": 36870
+    "population": 36870,
+    "area_sqkm": 284.04,
+    "population_density": 129.81
   },
   {
     "region_id": "LK-53-Trincomalee",
@@ -1693,7 +2115,9 @@
     "district_id": "LK-53",
     "centroid_lat": 8.570236,
     "centroid_lng": 81.227613,
-    "population": 44182
+    "population": 44182,
+    "area_sqkm": 12.04,
+    "population_density": 3669.6
   },
   {
     "region_id": "LK-53-Uppuveli",
@@ -1701,7 +2125,9 @@
     "district_id": "LK-53",
     "centroid_lat": 8.58498,
     "centroid_lng": 81.170393,
-    "population": 56088
+    "population": 56088,
+    "area_sqkm": 117.79,
+    "population_density": 476.17
   },
   {
     "region_id": "LK-61-Alawwa",
@@ -1709,7 +2135,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.328914,
     "centroid_lng": 80.217317,
-    "population": 65689
+    "population": 65689,
+    "area_sqkm": 130.27,
+    "population_density": 504.25
   },
   {
     "region_id": "LK-61-Ambanpola",
@@ -1717,7 +2145,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.907984,
     "centroid_lng": 80.223922,
-    "population": 25515
+    "population": 25515,
+    "area_sqkm": 140.34,
+    "population_density": 181.81
   },
   {
     "region_id": "LK-61-Bamunukotuwa",
@@ -1725,7 +2155,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.546292,
     "centroid_lng": 80.270274,
-    "population": 28859
+    "population": 28859,
+    "area_sqkm": 75.47,
+    "population_density": 382.39
   },
   {
     "region_id": "LK-61-Bingiriya",
@@ -1733,7 +2165,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.606994,
     "centroid_lng": 79.969096,
-    "population": 66724
+    "population": 66724,
+    "area_sqkm": 193.62,
+    "population_density": 344.61
   },
   {
     "region_id": "LK-61-Galgamuwa",
@@ -1741,7 +2175,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.997599,
     "centroid_lng": 80.296789,
-    "population": 90076
+    "population": 90076,
+    "area_sqkm": 444.7,
+    "population_density": 202.55
   },
   {
     "region_id": "LK-61-Ganewatta",
@@ -1749,7 +2185,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.656627,
     "centroid_lng": 80.369957,
-    "population": 43431
+    "population": 43431,
+    "area_sqkm": 150.26,
+    "population_density": 289.04
   },
   {
     "region_id": "LK-61-Giribawa",
@@ -1757,7 +2195,9 @@
     "district_id": "LK-61",
     "centroid_lat": 8.104203,
     "centroid_lng": 80.183704,
-    "population": 34929
+    "population": 34929,
+    "area_sqkm": 205.38,
+    "population_density": 170.07
   },
   {
     "region_id": "LK-61-Ibbagamuwa",
@@ -1765,7 +2205,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.618183,
     "centroid_lng": 80.47127,
-    "population": 94167
+    "population": 94167,
+    "area_sqkm": 217.15,
+    "population_density": 433.65
   },
   {
     "region_id": "LK-61-Katupotha",
@@ -1773,7 +2215,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.550898,
     "centroid_lng": 80.214074,
-    "population": 10583
+    "population": 10583,
+    "area_sqkm": 35.09,
+    "population_density": 301.6
   },
   {
     "region_id": "LK-61-Kobeigane",
@@ -1781,7 +2225,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.684315,
     "centroid_lng": 80.100893,
-    "population": 40669
+    "population": 40669,
+    "area_sqkm": 130.27,
+    "population_density": 312.19
   },
   {
     "region_id": "LK-61-Kotawehera",
@@ -1789,7 +2235,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.864034,
     "centroid_lng": 80.122993,
-    "population": 24031
+    "population": 24031,
+    "area_sqkm": 189.56,
+    "population_density": 126.77
   },
   {
     "region_id": "LK-61-Kuliyapitiya",
@@ -1797,7 +2245,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.471778,
     "centroid_lng": 80.101417,
-    "population": 143810
+    "population": 143810,
+    "area_sqkm": 279.28,
+    "population_density": 514.93
   },
   {
     "region_id": "LK-61-Kurunegala",
@@ -1805,7 +2255,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.513417,
     "centroid_lng": 80.35325,
-    "population": 88638
+    "population": 88638,
+    "area_sqkm": 96.46,
+    "population_density": 918.91
   },
   {
     "region_id": "LK-61-Mahawa",
@@ -1813,7 +2265,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.80544,
     "centroid_lng": 80.290572,
-    "population": 64122
+    "population": 64122,
+    "area_sqkm": 261.35,
+    "population_density": 245.35
   },
   {
     "region_id": "LK-61-Mallawapitiya",
@@ -1821,7 +2275,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.466464,
     "centroid_lng": 80.390766,
-    "population": 59491
+    "population": 59491,
+    "area_sqkm": 79.29,
+    "population_density": 750.3
   },
   {
     "region_id": "LK-61-Maspotha",
@@ -1829,7 +2285,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.557052,
     "centroid_lng": 80.324915,
-    "population": 42224
+    "population": 42224,
+    "area_sqkm": 66.14,
+    "population_density": 638.4
   },
   {
     "region_id": "LK-61-Mawathagama",
@@ -1837,7 +2295,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.42511,
     "centroid_lng": 80.446315,
-    "population": 70867
+    "population": 70867,
+    "area_sqkm": 108.4,
+    "population_density": 653.75
   },
   {
     "region_id": "LK-61-Narammala",
@@ -1845,7 +2305,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.398001,
     "centroid_lng": 80.193657,
-    "population": 59806
+    "population": 59806,
+    "area_sqkm": 108.5,
+    "population_density": 551.21
   },
   {
     "region_id": "LK-61-Nikaweratiya",
@@ -1853,7 +2315,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.764239,
     "centroid_lng": 80.091747,
-    "population": 68314
+    "population": 68314,
+    "area_sqkm": 275.89,
+    "population_density": 247.61
   },
   {
     "region_id": "LK-61-Panduwasnuwara",
@@ -1861,7 +2325,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.58405,
     "centroid_lng": 80.10197,
-    "population": 102976
+    "population": 102976,
+    "area_sqkm": 283.51,
+    "population_density": 363.22
   },
   {
     "region_id": "LK-61-Pannala",
@@ -1869,7 +2335,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.362602,
     "centroid_lng": 80.031342,
-    "population": 135845
+    "population": 135845,
+    "area_sqkm": 282.22,
+    "population_density": 481.34
   },
   {
     "region_id": "LK-61-Polgahawela",
@@ -1877,7 +2345,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.374766,
     "centroid_lng": 80.309739,
-    "population": 66736
+    "population": 66736,
+    "area_sqkm": 95.19,
+    "population_density": 701.08
   },
   {
     "region_id": "LK-61-Polpithigama",
@@ -1885,7 +2355,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.803225,
     "centroid_lng": 80.427557,
-    "population": 86411
+    "population": 86411,
+    "area_sqkm": 415.7,
+    "population_density": 207.87
   },
   {
     "region_id": "LK-61-Rideegama",
@@ -1893,7 +2365,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.517402,
     "centroid_lng": 80.518846,
-    "population": 95960
+    "population": 95960,
+    "area_sqkm": 225.13,
+    "population_density": 426.24
   },
   {
     "region_id": "LK-61-Udubaddawa",
@@ -1901,7 +2375,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.480278,
     "centroid_lng": 79.94713,
-    "population": 54466
+    "population": 54466,
+    "area_sqkm": 119.88,
+    "population_density": 454.34
   },
   {
     "region_id": "LK-61-Wariyapola",
@@ -1909,7 +2385,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.661859,
     "centroid_lng": 80.239593,
-    "population": 67227
+    "population": 67227,
+    "area_sqkm": 204.86,
+    "population_density": 328.16
   },
   {
     "region_id": "LK-61-Weerambugedara",
@@ -1917,7 +2395,9 @@
     "district_id": "LK-61",
     "centroid_lat": 7.465627,
     "centroid_lng": 80.271793,
-    "population": 36590
+    "population": 36590,
+    "area_sqkm": 91.83,
+    "population_density": 398.45
   },
   {
     "region_id": "LK-62-Anamaduwa",
@@ -1925,7 +2405,9 @@
     "district_id": "LK-62",
     "centroid_lat": 7.879957,
     "centroid_lng": 79.960144,
-    "population": 64436
+    "population": 64436,
+    "area_sqkm": 429.67,
+    "population_density": 149.97
   },
   {
     "region_id": "LK-62-Arachchikattuwa",
@@ -1933,7 +2415,9 @@
     "district_id": "LK-62",
     "centroid_lat": 7.680009,
     "centroid_lng": 79.849219,
-    "population": 42749
+    "population": 42749,
+    "area_sqkm": 158.49,
+    "population_density": 269.73
   },
   {
     "region_id": "LK-62-Chilaw",
@@ -1941,7 +2425,9 @@
     "district_id": "LK-62",
     "centroid_lat": 7.548853,
     "centroid_lng": 79.85149,
-    "population": 112633
+    "population": 112633,
+    "area_sqkm": 185.96,
+    "population_density": 605.68
   },
   {
     "region_id": "LK-62-Dankotuwa",
@@ -1949,7 +2435,9 @@
     "district_id": "LK-62",
     "centroid_lat": 7.320855,
     "centroid_lng": 79.90604,
-    "population": 62873
+    "population": 62873,
+    "area_sqkm": 76.66,
+    "population_density": 820.15
   },
   {
     "region_id": "LK-62-Kalpitiya",
@@ -1957,7 +2445,9 @@
     "district_id": "LK-62",
     "centroid_lat": 8.124325,
     "centroid_lng": 79.741326,
-    "population": 95874
+    "population": 95874,
+    "area_sqkm": 155.0,
+    "population_density": 618.54
   },
   {
     "region_id": "LK-62-Karuwalagaswewa",
@@ -1965,7 +2455,9 @@
     "district_id": "LK-62",
     "centroid_lat": 8.092582,
     "centroid_lng": 80.022602,
-    "population": 43796
+    "population": 43796,
+    "area_sqkm": 671.27,
+    "population_density": 65.24
   },
   {
     "region_id": "LK-62-Mahawewa",
@@ -1973,7 +2465,9 @@
     "district_id": "LK-62",
     "centroid_lat": 7.454821,
     "centroid_lng": 79.851052,
-    "population": 48833
+    "population": 48833,
+    "area_sqkm": 73.1,
+    "population_density": 668.03
   },
   {
     "region_id": "LK-62-Mundalama",
@@ -1981,7 +2475,9 @@
     "district_id": "LK-62",
     "centroid_lat": 7.859702,
     "centroid_lng": 79.813887,
-    "population": 72570
+    "population": 72570,
+    "area_sqkm": 220.37,
+    "population_density": 329.31
   },
   {
     "region_id": "LK-62-Nattandiya",
@@ -1989,7 +2485,9 @@
     "district_id": "LK-62",
     "centroid_lat": 7.395989,
     "centroid_lng": 79.874087,
-    "population": 65500
+    "population": 65500,
+    "area_sqkm": 77.78,
+    "population_density": 842.12
   },
   {
     "region_id": "LK-62-Pallama",
@@ -1997,7 +2495,9 @@
     "district_id": "LK-62",
     "centroid_lat": 7.72829,
     "centroid_lng": 79.931597,
-    "population": 27938
+    "population": 27938,
+    "area_sqkm": 121.21,
+    "population_density": 230.49
   },
   {
     "region_id": "LK-62-Puttalam",
@@ -2005,7 +2505,9 @@
     "district_id": "LK-62",
     "centroid_lat": 8.280536,
     "centroid_lng": 79.900954,
-    "population": 115725
+    "population": 115725,
+    "area_sqkm": 915.39,
+    "population_density": 126.42
   },
   {
     "region_id": "LK-62-Wennappuwa",
@@ -2013,7 +2515,9 @@
     "district_id": "LK-62",
     "centroid_lat": 7.324422,
     "centroid_lng": 79.85488,
-    "population": 64768
+    "population": 64768,
+    "area_sqkm": 41.28,
+    "population_density": 1568.99
   },
   {
     "region_id": "LK-71-Galenbidunuwawe",
@@ -2021,7 +2525,9 @@
     "district_id": "LK-71",
     "centroid_lat": 8.266309,
     "centroid_lng": 80.70699,
-    "population": 51952
+    "population": 51952,
+    "area_sqkm": 292.56,
+    "population_density": 177.58
   },
   {
     "region_id": "LK-71-Galnewa",
@@ -2029,7 +2535,9 @@
     "district_id": "LK-71",
     "centroid_lat": 8.019186,
     "centroid_lng": 80.449899,
-    "population": 39458
+    "population": 39458,
+    "area_sqkm": 138.57,
+    "population_density": 284.75
   },
   {
     "region_id": "LK-71-Horowpothana",
@@ -2037,7 +2545,9 @@
     "district_id": "LK-71",
     "centroid_lat": 8.512128,
     "centroid_lng": 80.850715,
-    "population": 41261
+    "population": 41261,
+    "area_sqkm": 832.91,
+    "population_density": 49.54
   },
   {
     "region_id": "LK-71-Ipalogama",
@@ -2045,7 +2555,9 @@
     "district_id": "LK-71",
     "centroid_lat": 8.085964,
     "centroid_lng": 80.507896,
-    "population": 41961
+    "population": 41961,
+    "area_sqkm": 141.66,
+    "population_density": 296.21
   },
   {
     "region_id": "LK-71-Kahatagasdigiliya",
@@ -2053,7 +2565,9 @@
     "district_id": "LK-71",
     "centroid_lat": 8.422779,
     "centroid_lng": 80.711598,
-    "population": 44903
+    "population": 44903,
+    "area_sqkm": 370.24,
+    "population_density": 121.28
   },
   {
     "region_id": "LK-71-Kebithigollewa",
@@ -2061,7 +2575,9 @@
     "district_id": "LK-71",
     "centroid_lat": 8.717666,
     "centroid_lng": 80.7092,
-    "population": 26432
+    "population": 26432,
+    "area_sqkm": 613.69,
+    "population_density": 43.07
   },
   {
     "region_id": "LK-71-Kekirawa",
@@ -2069,7 +2585,9 @@
     "district_id": "LK-71",
     "centroid_lat": 8.067231,
     "centroid_lng": 80.659304,
-    "population": 82190
+    "population": 82190,
+    "area_sqkm": 550.15,
+    "population_density": 149.4
   },
   {
     "region_id": "LK-71-Medawachchiya",
@@ -2077,7 +2595,9 @@
     "district_id": "LK-71",
     "centroid_lat": 8.588662,
     "centroid_lng": 80.496945,
-    "population": 52496
+    "population": 52496,
+    "area_sqkm": 489.19,
+    "population_density": 107.31
   },
   {
     "region_id": "LK-71-Mihintale",
@@ -2085,7 +2605,9 @@
     "district_id": "LK-71",
     "centroid_lat": 8.350022,
     "centroid_lng": 80.543093,
-    "population": 44107
+    "population": 44107,
+    "area_sqkm": 229.48,
+    "population_density": 192.2
   },
   {
     "region_id": "LK-71-Nochchiyagama",
@@ -2093,7 +2615,9 @@
     "district_id": "LK-71",
     "centroid_lat": 8.332175,
     "centroid_lng": 80.124773,
-    "population": 55471
+    "population": 55471,
+    "area_sqkm": 838.29,
+    "population_density": 66.17
   },
   {
     "region_id": "LK-71-Nuwaragam-Palatha-Central",
@@ -2101,7 +2625,9 @@
     "district_id": "LK-71",
     "centroid_lat": 8.491237,
     "centroid_lng": 80.247194,
-    "population": 95723
+    "population": 95723,
+    "area_sqkm": 1018.09,
+    "population_density": 94.02
   },
   {
     "region_id": "LK-71-Nuwaragam-Palatha-East",
@@ -2109,7 +2635,9 @@
     "district_id": "LK-71",
     "centroid_lat": 8.283094,
     "centroid_lng": 80.42571,
-    "population": 100781
+    "population": 100781,
+    "area_sqkm": 178.69,
+    "population_density": 564.0
   },
   {
     "region_id": "LK-71-Padaviya",
@@ -2117,7 +2645,9 @@
     "district_id": "LK-71",
     "centroid_lat": 8.851858,
     "centroid_lng": 80.7842,
-    "population": 24493
+    "population": 24493,
+    "area_sqkm": 247.25,
+    "population_density": 99.06
   },
   {
     "region_id": "LK-71-Palagala",
@@ -2125,7 +2655,9 @@
     "district_id": "LK-71",
     "centroid_lat": 7.906174,
     "centroid_lng": 80.5378,
-    "population": 38469
+    "population": 38469,
+    "area_sqkm": 225.5,
+    "population_density": 170.59
   },
   {
     "region_id": "LK-71-Rajanganaya",
@@ -2133,7 +2665,9 @@
     "district_id": "LK-71",
     "centroid_lat": 8.18307,
     "centroid_lng": 80.183654,
-    "population": 36236
+    "population": 36236,
+    "area_sqkm": 105.84,
+    "population_density": 342.37
   },
   {
     "region_id": "LK-71-Rambewa",
@@ -2141,7 +2675,9 @@
     "district_id": "LK-71",
     "centroid_lat": 8.475726,
     "centroid_lng": 80.550666,
-    "population": 39861
+    "population": 39861,
+    "area_sqkm": 306.09,
+    "population_density": 130.23
   },
   {
     "region_id": "LK-71-Thalawa",
@@ -2149,7 +2685,9 @@
     "district_id": "LK-71",
     "centroid_lat": 8.184298,
     "centroid_lng": 80.377227,
-    "population": 60237
+    "population": 60237,
+    "area_sqkm": 224.58,
+    "population_density": 268.22
   },
   {
     "region_id": "LK-71-Thambuttegama",
@@ -2157,7 +2695,9 @@
     "district_id": "LK-71",
     "centroid_lat": 8.15555,
     "centroid_lng": 80.316295,
-    "population": 47061
+    "population": 47061,
+    "area_sqkm": 113.37,
+    "population_density": 415.11
   },
   {
     "region_id": "LK-71-Thirappane",
@@ -2165,7 +2705,9 @@
     "district_id": "LK-71",
     "centroid_lat": 8.207994,
     "centroid_lng": 80.549097,
-    "population": 35723
+    "population": 35723,
+    "area_sqkm": 299.89,
+    "population_density": 119.12
   },
   {
     "region_id": "LK-72-Dimbulagala",
@@ -2173,7 +2715,9 @@
     "district_id": "LK-72",
     "centroid_lat": 7.78578,
     "centroid_lng": 81.124905,
-    "population": 85907
+    "population": 85907,
+    "area_sqkm": 585.9,
+    "population_density": 146.62
   },
   {
     "region_id": "LK-72-Elahera",
@@ -2181,7 +2725,9 @@
     "district_id": "LK-72",
     "centroid_lat": 7.810587,
     "centroid_lng": 80.841885,
-    "population": 48565
+    "population": 48565,
+    "area_sqkm": 366.1,
+    "population_density": 132.66
   },
   {
     "region_id": "LK-72-Hingurakgoda",
@@ -2189,7 +2735,9 @@
     "district_id": "LK-72",
     "centroid_lat": 8.108758,
     "centroid_lng": 80.870878,
-    "population": 74862
+    "population": 74862,
+    "area_sqkm": 713.45,
+    "population_density": 104.93
   },
   {
     "region_id": "LK-72-Lankapura",
@@ -2197,7 +2745,9 @@
     "district_id": "LK-72",
     "centroid_lat": 8.057275,
     "centroid_lng": 81.094879,
-    "population": 39673
+    "population": 39673,
+    "area_sqkm": 197.47,
+    "population_density": 200.91
   },
   {
     "region_id": "LK-72-Medirigiriya",
@@ -2205,7 +2755,9 @@
     "district_id": "LK-72",
     "centroid_lat": 8.184459,
     "centroid_lng": 81.040259,
-    "population": 72482
+    "population": 72482,
+    "area_sqkm": 573.26,
+    "population_density": 126.44
   },
   {
     "region_id": "LK-72-Thamankaduwa",
@@ -2213,7 +2765,9 @@
     "district_id": "LK-72",
     "centroid_lat": 7.875215,
     "centroid_lng": 80.987135,
-    "population": 89110
+    "population": 89110,
+    "area_sqkm": 461.45,
+    "population_density": 193.11
   },
   {
     "region_id": "LK-72-Welikanda",
@@ -2221,7 +2775,9 @@
     "district_id": "LK-72",
     "centroid_lat": 8.042498,
     "centroid_lng": 81.235006,
-    "population": 38196
+    "population": 38196,
+    "area_sqkm": 574.33,
+    "population_density": 66.51
   },
   {
     "region_id": "LK-81-Badulla",
@@ -2229,7 +2785,9 @@
     "district_id": "LK-81",
     "centroid_lat": 6.986247,
     "centroid_lng": 81.088834,
-    "population": 83033
+    "population": 83033,
+    "area_sqkm": 48.88,
+    "population_density": 1698.71
   },
   {
     "region_id": "LK-81-Bandarawela",
@@ -2237,7 +2795,9 @@
     "district_id": "LK-81",
     "centroid_lat": 6.82977,
     "centroid_lng": 81.006434,
-    "population": 65488
+    "population": 65488,
+    "area_sqkm": 70.89,
+    "population_density": 923.8
   },
   {
     "region_id": "LK-81-Ella",
@@ -2245,7 +2805,9 @@
     "district_id": "LK-81",
     "centroid_lat": 6.867712,
     "centroid_lng": 81.066455,
-    "population": 49439
+    "population": 49439,
+    "area_sqkm": 109.63,
+    "population_density": 450.96
   },
   {
     "region_id": "LK-81-Girandurukotte",
@@ -2253,7 +2815,9 @@
     "district_id": "LK-81",
     "centroid_lat": 7.486737,
     "centroid_lng": 81.01052,
-    "population": 44979
+    "population": 44979,
+    "area_sqkm": 191.88,
+    "population_density": 234.41
   },
   {
     "region_id": "LK-81-Haldummulla",
@@ -2261,7 +2825,9 @@
     "district_id": "LK-81",
     "centroid_lat": 6.700935,
     "centroid_lng": 80.96479,
-    "population": 38778
+    "population": 38778,
+    "area_sqkm": 415.23,
+    "population_density": 93.39
   },
   {
     "region_id": "LK-81-Haliela",
@@ -2269,7 +2835,9 @@
     "district_id": "LK-81",
     "centroid_lat": 6.945049,
     "centroid_lng": 81.02014,
-    "population": 94792
+    "population": 94792,
+    "area_sqkm": 171.19,
+    "population_density": 553.72
   },
   {
     "region_id": "LK-81-Haputhale",
@@ -2277,7 +2845,9 @@
     "district_id": "LK-81",
     "centroid_lat": 6.792153,
     "centroid_lng": 80.962818,
-    "population": 48280
+    "population": 48280,
+    "area_sqkm": 69.06,
+    "population_density": 699.1
   },
   {
     "region_id": "LK-81-Kandaketiya",
@@ -2285,7 +2855,9 @@
     "district_id": "LK-81",
     "centroid_lat": 7.130748,
     "centroid_lng": 80.99405,
-    "population": 26347
+    "population": 26347,
+    "area_sqkm": 149.59,
+    "population_density": 176.13
   },
   {
     "region_id": "LK-81-Lunugala",
@@ -2293,7 +2865,9 @@
     "district_id": "LK-81",
     "centroid_lat": 7.038367,
     "centroid_lng": 81.188116,
-    "population": 31234
+    "population": 31234,
+    "area_sqkm": 139.15,
+    "population_density": 224.46
   },
   {
     "region_id": "LK-81-Mahiyanganaya",
@@ -2301,7 +2875,9 @@
     "district_id": "LK-81",
     "centroid_lat": 7.419263,
     "centroid_lng": 81.112174,
-    "population": 44103
+    "population": 44103,
+    "area_sqkm": 410.01,
+    "population_density": 107.57
   },
   {
     "region_id": "LK-81-Meegahakivula",
@@ -2309,7 +2885,9 @@
     "district_id": "LK-81",
     "centroid_lat": 7.125487,
     "centroid_lng": 81.08322,
-    "population": 22683
+    "population": 22683,
+    "area_sqkm": 108.83,
+    "population_density": 208.43
   },
   {
     "region_id": "LK-81-Passara",
@@ -2317,7 +2895,9 @@
     "district_id": "LK-81",
     "centroid_lat": 6.965031,
     "centroid_lng": 81.147909,
-    "population": 50283
+    "population": 50283,
+    "area_sqkm": 138.44,
+    "population_density": 363.21
   },
   {
     "region_id": "LK-81-Rideemaliyadda",
@@ -2325,7 +2905,9 @@
     "district_id": "LK-81",
     "centroid_lat": 7.273989,
     "centroid_lng": 81.128769,
-    "population": 60882
+    "population": 60882,
+    "area_sqkm": 437.13,
+    "population_density": 139.28
   },
   {
     "region_id": "LK-81-Soranathota",
@@ -2333,7 +2915,9 @@
     "district_id": "LK-81",
     "centroid_lat": 7.045631,
     "centroid_lng": 81.049514,
-    "population": 24407
+    "population": 24407,
+    "area_sqkm": 80.51,
+    "population_density": 303.15
   },
   {
     "region_id": "LK-81-Uva-Paranagama",
@@ -2341,7 +2925,9 @@
     "district_id": "LK-81",
     "centroid_lat": 6.96657,
     "centroid_lng": 80.917435,
-    "population": 82069
+    "population": 82069,
+    "area_sqkm": 137.65,
+    "population_density": 596.22
   },
   {
     "region_id": "LK-81-Welimada",
@@ -2349,239 +2935,9 @@
     "district_id": "LK-81",
     "centroid_lat": 6.8601,
     "centroid_lng": 80.880543,
-    "population": 105510
-  },
-  {
-    "region_id": "LK-91-Ayagama",
-    "region_name": "Ayagama",
-    "district_id": "LK-91",
-    "centroid_lat": 6.650941,
-    "centroid_lng": 80.29418,
-    "population": 31506
-  },
-  {
-    "region_id": "LK-91-Balangoda",
-    "region_name": "Balangoda",
-    "district_id": "LK-91",
-    "centroid_lat": 6.628803,
-    "centroid_lng": 80.765746,
-    "population": 88914
-  },
-  {
-    "region_id": "LK-91-Eheliyagoda",
-    "region_name": "Eheliyagoda",
-    "district_id": "LK-91",
-    "centroid_lat": 6.83734,
-    "centroid_lng": 80.227433,
-    "population": 74071
-  },
-  {
-    "region_id": "LK-91-Elapatha",
-    "region_name": "Elapatha",
-    "district_id": "LK-91",
-    "centroid_lat": 6.663587,
-    "centroid_lng": 80.356697,
-    "population": 36867
-  },
-  {
-    "region_id": "LK-91-Embilipitiya",
-    "region_name": "Embilipitiya",
-    "district_id": "LK-91",
-    "centroid_lat": 6.355809,
-    "centroid_lng": 80.811417,
-    "population": 159438
-  },
-  {
-    "region_id": "LK-91-Godakawela",
-    "region_name": "Godakawela",
-    "district_id": "LK-91",
-    "centroid_lat": 6.498438,
-    "centroid_lng": 80.642252,
-    "population": 81754
-  },
-  {
-    "region_id": "LK-91-Imbulpe",
-    "region_name": "Imbulpe",
-    "district_id": "LK-91",
-    "centroid_lat": 6.71489,
-    "centroid_lng": 80.738411,
-    "population": 64555
-  },
-  {
-    "region_id": "LK-91-Kahawaththa",
-    "region_name": "Kahawaththa",
-    "district_id": "LK-91",
-    "centroid_lat": 6.527798,
-    "centroid_lng": 80.545068,
-    "population": 42896
-  },
-  {
-    "region_id": "LK-91-Kalawana",
-    "region_name": "Kalawana",
-    "district_id": "LK-91",
-    "centroid_lat": 6.463156,
-    "centroid_lng": 80.453226,
-    "population": 50753
-  },
-  {
-    "region_id": "LK-91-Kiriella",
-    "region_name": "Kiriella",
-    "district_id": "LK-91",
-    "centroid_lat": 6.758098,
-    "centroid_lng": 80.274558,
-    "population": 33631
-  },
-  {
-    "region_id": "LK-91-Kolonna",
-    "region_name": "Kolonna",
-    "district_id": "LK-91",
-    "centroid_lat": 6.391425,
-    "centroid_lng": 80.676315,
-    "population": 48237
-  },
-  {
-    "region_id": "LK-91-Kuruwita",
-    "region_name": "Kuruwita",
-    "district_id": "LK-91",
-    "centroid_lat": 6.799049,
-    "centroid_lng": 80.355821,
-    "population": 97966
-  },
-  {
-    "region_id": "LK-91-Nivithigala",
-    "region_name": "Nivithigala",
-    "district_id": "LK-91",
-    "centroid_lat": 6.568985,
-    "centroid_lng": 80.456984,
-    "population": 59442
-  },
-  {
-    "region_id": "LK-91-Opanayaka",
-    "region_name": "Opanayaka",
-    "district_id": "LK-91",
-    "centroid_lat": 6.611682,
-    "centroid_lng": 80.624788,
-    "population": 25121
-  },
-  {
-    "region_id": "LK-91-Pelmadulla",
-    "region_name": "Pelmadulla",
-    "district_id": "LK-91",
-    "centroid_lat": 6.634683,
-    "centroid_lng": 80.509776,
-    "population": 93818
-  },
-  {
-    "region_id": "LK-91-Ratnapura",
-    "region_name": "Ratnapura",
-    "district_id": "LK-91",
-    "centroid_lat": 6.734624,
-    "centroid_lng": 80.489668,
-    "population": 78533
-  },
-  {
-    "region_id": "LK-91-Ratnapura-Mc",
-    "region_name": "Ratnapura-Mc",
-    "district_id": "LK-91",
-    "centroid_lat": 6.684016,
-    "centroid_lng": 80.417953,
-    "population": 42633
-  },
-  {
-    "region_id": "LK-91-Weligepola",
-    "region_name": "Weligepola",
-    "district_id": "LK-91",
-    "centroid_lat": 6.541303,
-    "centroid_lng": 80.743736,
-    "population": 35288
-  },
-  {
-    "region_id": "LK-92-Aranayaka",
-    "region_name": "Aranayaka",
-    "district_id": "LK-92",
-    "centroid_lat": 7.165233,
-    "centroid_lng": 80.444038,
-    "population": 68918
-  },
-  {
-    "region_id": "LK-92-Bulathkohupitiya",
-    "region_name": "Bulathkohupitiya",
-    "district_id": "LK-92",
-    "centroid_lat": 7.09734,
-    "centroid_lng": 80.358279,
-    "population": 45237
-  },
-  {
-    "region_id": "LK-92-Dehiovita",
-    "region_name": "Dehiovita",
-    "district_id": "LK-92",
-    "centroid_lat": 6.93881,
-    "centroid_lng": 80.281036,
-    "population": 84967
-  },
-  {
-    "region_id": "LK-92-Deraniyagala",
-    "region_name": "Deraniyagala",
-    "district_id": "LK-92",
-    "centroid_lat": 6.906824,
-    "centroid_lng": 80.402215,
-    "population": 44005
-  },
-  {
-    "region_id": "LK-92-Galigamuwa",
-    "region_name": "Galigamuwa",
-    "district_id": "LK-92",
-    "centroid_lat": 7.215596,
-    "centroid_lng": 80.305399,
-    "population": 73778
-  },
-  {
-    "region_id": "LK-92-Kegalle",
-    "region_name": "Kegalle",
-    "district_id": "LK-92",
-    "centroid_lat": 7.20812,
-    "centroid_lng": 80.368549,
-    "population": 95033
-  },
-  {
-    "region_id": "LK-92-Mawanella",
-    "region_name": "Mawanella",
-    "district_id": "LK-92",
-    "centroid_lat": 7.229889,
-    "centroid_lng": 80.473886,
-    "population": 126026
-  },
-  {
-    "region_id": "LK-92-Rambukkana",
-    "region_name": "Rambukkana",
-    "district_id": "LK-92",
-    "centroid_lat": 7.323094,
-    "centroid_lng": 80.386393,
-    "population": 87055
-  },
-  {
-    "region_id": "LK-92-Ruwanwella",
-    "region_name": "Ruwanwella",
-    "district_id": "LK-92",
-    "centroid_lat": 7.063706,
-    "centroid_lng": 80.218699,
-    "population": 65797
-  },
-  {
-    "region_id": "LK-92-Warakapola",
-    "region_name": "Warakapola",
-    "district_id": "LK-92",
-    "centroid_lat": 7.203689,
-    "centroid_lng": 80.231609,
-    "population": 117967
-  },
-  {
-    "region_id": "LK-92-Yatiyanthota",
-    "region_name": "Yatiyanthota",
-    "district_id": "LK-92",
-    "centroid_lat": 7.028338,
-    "centroid_lng": 80.369544,
-    "population": 62255
+    "population": 105510,
+    "area_sqkm": 193.95,
+    "population_density": 544.01
   },
   {
     "region_id": "LK-82-Badalkumbura",
@@ -2589,7 +2945,9 @@
     "district_id": "LK-82",
     "centroid_lat": 6.869996,
     "centroid_lng": 81.216909,
-    "population": 46595
+    "population": 46595,
+    "area_sqkm": 237.1,
+    "population_density": 196.52
   },
   {
     "region_id": "LK-82-Bibila",
@@ -2597,7 +2955,9 @@
     "district_id": "LK-82",
     "centroid_lat": 7.189265,
     "centroid_lng": 81.296898,
-    "population": 47266
+    "population": 47266,
+    "area_sqkm": 466.06,
+    "population_density": 101.42
   },
   {
     "region_id": "LK-82-Buttala",
@@ -2605,7 +2965,9 @@
     "district_id": "LK-82",
     "centroid_lat": 6.662513,
     "centroid_lng": 81.296545,
-    "population": 60606
+    "population": 60606,
+    "area_sqkm": 709.86,
+    "population_density": 85.38
   },
   {
     "region_id": "LK-82-Kataragama",
@@ -2613,7 +2975,9 @@
     "district_id": "LK-82",
     "centroid_lat": 6.496256,
     "centroid_lng": 81.393894,
-    "population": 18158
+    "population": 18158,
+    "area_sqkm": 609.09,
+    "population_density": 29.81
   },
   {
     "region_id": "LK-82-Madulla",
@@ -2621,7 +2985,9 @@
     "district_id": "LK-82",
     "centroid_lat": 7.159405,
     "centroid_lng": 81.429897,
-    "population": 36446
+    "population": 36446,
+    "area_sqkm": 750.28,
+    "population_density": 48.58
   },
   {
     "region_id": "LK-82-Monaragala",
@@ -2629,7 +2995,9 @@
     "district_id": "LK-82",
     "centroid_lat": 6.931444,
     "centroid_lng": 81.327096,
-    "population": 101565
+    "population": 101565,
+    "area_sqkm": 530.89,
+    "population_density": 191.31
   },
   {
     "region_id": "LK-82-Sevanagala",
@@ -2637,7 +3005,9 @@
     "district_id": "LK-82",
     "centroid_lat": 6.378146,
     "centroid_lng": 80.933656,
-    "population": 49376
+    "population": 49376,
+    "area_sqkm": 184.3,
+    "population_density": 267.91
   },
   {
     "region_id": "LK-82-Siyambalanduwa",
@@ -2645,7 +3015,9 @@
     "district_id": "LK-82",
     "centroid_lat": 6.851006,
     "centroid_lng": 81.526668,
-    "population": 63055
+    "population": 63055,
+    "area_sqkm": 1059.93,
+    "population_density": 59.49
   },
   {
     "region_id": "LK-82-Thanamalwila",
@@ -2653,7 +3025,9 @@
     "district_id": "LK-82",
     "centroid_lat": 6.495955,
     "centroid_lng": 81.001728,
-    "population": 31238
+    "population": 31238,
+    "area_sqkm": 635.54,
+    "population_density": 49.15
   },
   {
     "region_id": "LK-82-Wellawaya",
@@ -2661,6 +3035,298 @@
     "district_id": "LK-82",
     "centroid_lat": 6.6128,
     "centroid_lng": 81.123399,
-    "population": 73280
+    "population": 73280,
+    "area_sqkm": 574.95,
+    "population_density": 127.45
+  },
+  {
+    "region_id": "LK-91-Ayagama",
+    "region_name": "Ayagama",
+    "district_id": "LK-91",
+    "centroid_lat": 6.650941,
+    "centroid_lng": 80.29418,
+    "population": 31506,
+    "area_sqkm": 171.4,
+    "population_density": 183.82
+  },
+  {
+    "region_id": "LK-91-Balangoda",
+    "region_name": "Balangoda",
+    "district_id": "LK-91",
+    "centroid_lat": 6.628803,
+    "centroid_lng": 80.765746,
+    "population": 88914,
+    "area_sqkm": 284.3,
+    "population_density": 312.75
+  },
+  {
+    "region_id": "LK-91-Eheliyagoda",
+    "region_name": "Eheliyagoda",
+    "district_id": "LK-91",
+    "centroid_lat": 6.83734,
+    "centroid_lng": 80.227433,
+    "population": 74071,
+    "area_sqkm": 140.97,
+    "population_density": 525.44
+  },
+  {
+    "region_id": "LK-91-Elapatha",
+    "region_name": "Elapatha",
+    "district_id": "LK-91",
+    "centroid_lat": 6.663587,
+    "centroid_lng": 80.356697,
+    "population": 36867,
+    "area_sqkm": 77.57,
+    "population_density": 475.27
+  },
+  {
+    "region_id": "LK-91-Embilipitiya",
+    "region_name": "Embilipitiya",
+    "district_id": "LK-91",
+    "centroid_lat": 6.355809,
+    "centroid_lng": 80.811417,
+    "population": 159438,
+    "area_sqkm": 395.87,
+    "population_density": 402.75
+  },
+  {
+    "region_id": "LK-91-Godakawela",
+    "region_name": "Godakawela",
+    "district_id": "LK-91",
+    "centroid_lat": 6.498438,
+    "centroid_lng": 80.642252,
+    "population": 81754,
+    "area_sqkm": 155.73,
+    "population_density": 524.97
+  },
+  {
+    "region_id": "LK-91-Imbulpe",
+    "region_name": "Imbulpe",
+    "district_id": "LK-91",
+    "centroid_lat": 6.71489,
+    "centroid_lng": 80.738411,
+    "population": 64555,
+    "area_sqkm": 255.02,
+    "population_density": 253.14
+  },
+  {
+    "region_id": "LK-91-Kahawaththa",
+    "region_name": "Kahawaththa",
+    "district_id": "LK-91",
+    "centroid_lat": 6.527798,
+    "centroid_lng": 80.545068,
+    "population": 42896,
+    "area_sqkm": 104.01,
+    "population_density": 412.42
+  },
+  {
+    "region_id": "LK-91-Kalawana",
+    "region_name": "Kalawana",
+    "district_id": "LK-91",
+    "centroid_lat": 6.463156,
+    "centroid_lng": 80.453226,
+    "population": 50753,
+    "area_sqkm": 382.42,
+    "population_density": 132.72
+  },
+  {
+    "region_id": "LK-91-Kiriella",
+    "region_name": "Kiriella",
+    "district_id": "LK-91",
+    "centroid_lat": 6.758098,
+    "centroid_lng": 80.274558,
+    "population": 33631,
+    "area_sqkm": 79.42,
+    "population_density": 423.46
+  },
+  {
+    "region_id": "LK-91-Kolonna",
+    "region_name": "Kolonna",
+    "district_id": "LK-91",
+    "centroid_lat": 6.391425,
+    "centroid_lng": 80.676315,
+    "population": 48237,
+    "area_sqkm": 167.4,
+    "population_density": 288.15
+  },
+  {
+    "region_id": "LK-91-Kuruwita",
+    "region_name": "Kuruwita",
+    "district_id": "LK-91",
+    "centroid_lat": 6.799049,
+    "centroid_lng": 80.355821,
+    "population": 97966,
+    "area_sqkm": 170.99,
+    "population_density": 572.93
+  },
+  {
+    "region_id": "LK-91-Nivithigala",
+    "region_name": "Nivithigala",
+    "district_id": "LK-91",
+    "centroid_lat": 6.568985,
+    "centroid_lng": 80.456984,
+    "population": 59442,
+    "area_sqkm": 153.45,
+    "population_density": 387.37
+  },
+  {
+    "region_id": "LK-91-Opanayaka",
+    "region_name": "Opanayaka",
+    "district_id": "LK-91",
+    "centroid_lat": 6.611682,
+    "centroid_lng": 80.624788,
+    "population": 25121,
+    "area_sqkm": 74.76,
+    "population_density": 336.02
+  },
+  {
+    "region_id": "LK-91-Pelmadulla",
+    "region_name": "Pelmadulla",
+    "district_id": "LK-91",
+    "centroid_lat": 6.634683,
+    "centroid_lng": 80.509776,
+    "population": 93818,
+    "area_sqkm": 146.68,
+    "population_density": 639.61
+  },
+  {
+    "region_id": "LK-91-Ratnapura",
+    "region_name": "Ratnapura",
+    "district_id": "LK-91",
+    "centroid_lat": 6.734624,
+    "centroid_lng": 80.489668,
+    "population": 78533,
+    "area_sqkm": 305.79,
+    "population_density": 256.82
+  },
+  {
+    "region_id": "LK-91-Ratnapura-Mc",
+    "region_name": "Ratnapura-Mc",
+    "district_id": "LK-91",
+    "centroid_lat": 6.684016,
+    "centroid_lng": 80.417953,
+    "population": 42633,
+    "area_sqkm": 21.9,
+    "population_density": 1946.71
+  },
+  {
+    "region_id": "LK-91-Weligepola",
+    "region_name": "Weligepola",
+    "district_id": "LK-91",
+    "centroid_lat": 6.541303,
+    "centroid_lng": 80.743736,
+    "population": 35288,
+    "area_sqkm": 199.35,
+    "population_density": 177.02
+  },
+  {
+    "region_id": "LK-92-Aranayaka",
+    "region_name": "Aranayaka",
+    "district_id": "LK-92",
+    "centroid_lat": 7.165233,
+    "centroid_lng": 80.444038,
+    "population": 68918,
+    "area_sqkm": 122.79,
+    "population_density": 561.27
+  },
+  {
+    "region_id": "LK-92-Bulathkohupitiya",
+    "region_name": "Bulathkohupitiya",
+    "district_id": "LK-92",
+    "centroid_lat": 7.09734,
+    "centroid_lng": 80.358279,
+    "population": 45237,
+    "area_sqkm": 125.27,
+    "population_density": 361.12
+  },
+  {
+    "region_id": "LK-92-Dehiovita",
+    "region_name": "Dehiovita",
+    "district_id": "LK-92",
+    "centroid_lat": 6.93881,
+    "centroid_lng": 80.281036,
+    "population": 84967,
+    "area_sqkm": 193.93,
+    "population_density": 438.13
+  },
+  {
+    "region_id": "LK-92-Deraniyagala",
+    "region_name": "Deraniyagala",
+    "district_id": "LK-92",
+    "centroid_lat": 6.906824,
+    "centroid_lng": 80.402215,
+    "population": 44005,
+    "area_sqkm": 222.17,
+    "population_density": 198.07
+  },
+  {
+    "region_id": "LK-92-Galigamuwa",
+    "region_name": "Galigamuwa",
+    "district_id": "LK-92",
+    "centroid_lat": 7.215596,
+    "centroid_lng": 80.305399,
+    "population": 73778,
+    "area_sqkm": 124.57,
+    "population_density": 592.26
+  },
+  {
+    "region_id": "LK-92-Kegalle",
+    "region_name": "Kegalle",
+    "district_id": "LK-92",
+    "centroid_lat": 7.20812,
+    "centroid_lng": 80.368549,
+    "population": 95033,
+    "area_sqkm": 107.87,
+    "population_density": 881.0
+  },
+  {
+    "region_id": "LK-92-Mawanella",
+    "region_name": "Mawanella",
+    "district_id": "LK-92",
+    "centroid_lat": 7.229889,
+    "centroid_lng": 80.473886,
+    "population": 126026,
+    "area_sqkm": 120.07,
+    "population_density": 1049.6
+  },
+  {
+    "region_id": "LK-92-Rambukkana",
+    "region_name": "Rambukkana",
+    "district_id": "LK-92",
+    "centroid_lat": 7.323094,
+    "centroid_lng": 80.386393,
+    "population": 87055,
+    "area_sqkm": 127.79,
+    "population_density": 681.23
+  },
+  {
+    "region_id": "LK-92-Ruwanwella",
+    "region_name": "Ruwanwella",
+    "district_id": "LK-92",
+    "centroid_lat": 7.063706,
+    "centroid_lng": 80.218699,
+    "population": 65797,
+    "area_sqkm": 140.61,
+    "population_density": 467.94
+  },
+  {
+    "region_id": "LK-92-Warakapola",
+    "region_name": "Warakapola",
+    "district_id": "LK-92",
+    "centroid_lat": 7.203689,
+    "centroid_lng": 80.231609,
+    "population": 117967,
+    "area_sqkm": 197.0,
+    "population_density": 598.82
+  },
+  {
+    "region_id": "LK-92-Yatiyanthota",
+    "region_name": "Yatiyanthota",
+    "district_id": "LK-92",
+    "centroid_lat": 7.028338,
+    "centroid_lng": 80.369544,
+    "population": 62255,
+    "area_sqkm": 179.93,
+    "population_density": 346.0
   }
 ]

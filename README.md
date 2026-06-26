@@ -52,6 +52,69 @@ Sorted by composite weather-risk score (descending).
 
 ---
 
+## Model Validation
+
+Composite weather-risk score vs reported cases/100k (333 regions with available case data).
+
+| Metric | Value |
+|---|---:|
+| Pearson *r* | 0.2343 |
+| Spearman ρ | 0.3569 |
+| *p*-value (Pearson) | < 0.001 |
+| Regions (*n*) | 333 |
+
+![Predicted vs Actual Cases](images/correlation.png)
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Top 10 False Positives (high predicted risk, low actual cases)
+
+| Region | District | Risk Score | Cases/100k |
+|---|---|---:|---:|
+| Thanamalwila | Monaragala | 3.40 | 0.0 |
+| Lunugamvehera | Hambantota | 3.31 | 0.0 |
+| Kiriella | Ratnapura | 3.11 | 0.0 |
+| Nikaweratiya | Kurunegala | 3.04 | 0.0 |
+| Angunukolapeles | Hambantota | 2.99 | 0.0 |
+| Buttala | Monaragala | 2.91 | 0.0 |
+| Dankotuwa | Puttalam | 2.87 | 0.0 |
+| Weeraketiya | Hambantota | 2.79 | 0.0 |
+| Sooriyawewa | Hambantota | 2.67 | 0.0 |
+| Narammala | Kurunegala | 2.55 | 0.0 |
+
+### Top 10 False Negatives (low predicted risk, high actual cases)
+
+| Region | District | Risk Score | Cases/100k |
+|---|---|---:|---:|
+| Ganga Ihala Korale | Kandy | -2.91 | 92.2 |
+| Palagala | Anuradhapura | -0.60 | 54.6 |
+| Kandy Four Gravets & Gangawata Korale | Kandy | -3.51 | 46.6 |
+| Yatinuwara | Kandy | -1.43 | 39.6 |
+| Kalawana | Ratnapura | -1.71 | 39.4 |
+| Udunuwara | Kandy | -1.57 | 36.7 |
+| Udapalatha | Kandy | -3.00 | 35.7 |
+| Badulla | Badulla | -5.08 | 31.3 |
+| Pathadumbara | Kandy | -1.33 | 23.7 |
+| Pasbage Korale | Kandy | -3.44 | 22.9 |
+
+---
+
+## Score Threshold Analysis
+
+Proportion of MOH regions with ≥ 5 actual cases/100k among all regions with predicted risk score above a given threshold.
+
+![Score Threshold vs High-Risk Proportion](images/precision_curve.png)
+
+False positive rate (FPR) and false negative rate (FNR) for classifying regions as high-risk (≥ 5 cases/100k) at each threshold.
+
+![FPR and FNR vs Threshold](images/fpr_fnr_curve.png)
+
+ROC curve with AUC = 0.7294.
+
+![ROC Curve](images/roc_curve.png)
+
+---
+
 ## Data Sources
 
 - **Weather:** [Open-Meteo Historical Weather API](https://open-meteo.com/en/docs/historical-weather-api)

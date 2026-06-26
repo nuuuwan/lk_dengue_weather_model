@@ -2,6 +2,7 @@ geopandas
 matplotlib
 numpy
 pandas
+scipy
 statsmodels
 topojson
 utils-nuuuwan
