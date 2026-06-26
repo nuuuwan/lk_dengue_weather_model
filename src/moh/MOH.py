@@ -63,7 +63,6 @@ class MOH:
 
     def build_weather_history(self, force=False) -> dict:
         if self.weather_history_file.exists and not force:
-            log.debug(f"{self.weather_history_file} exists")
             return self.weather_history_file.read()
 
         end_date = datetime.date.today()
@@ -135,7 +134,6 @@ class MOH:
 
     def build_model_result(self, force=False) -> dict:
         if self.model_result_file.exists and not force:
-            log.debug(f"{self.model_result_file} exists")
             return self.model_result_file.read()
 
         raw = self.build_weather_history()
