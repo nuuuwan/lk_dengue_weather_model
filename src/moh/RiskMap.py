@@ -56,7 +56,7 @@ class RiskMap:
         }
         with open(cls.TOPOJSON_PATH) as f:
             gdf = tp.Topology(json.load(f)).to_gdf()
-        gdf["risk_score"] = gdf["MOH_N"].map(name_to_score)
+        gdf["risk_score"] = gdf["MOH_N"].str.upper().map(name_to_score)
         return gdf
 
     @staticmethod
