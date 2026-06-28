@@ -1,0 +1,14 @@
+🇱🇰 DENGUE WEATHER RISK MODEL — SRI LANKA 🇱🇰
+
+☔️ Rain + 🥵 Heat = 🦟 Dengue
+
+I implemented the model from "Dengue outbreak prediction model for urban Colombo using meteorological data" (Erandi et al., 2021) using real-time @OpenMeteo weather data, and extended it to all 333 MOH regions across Sri Lanka — mapping current risk plus 2- and 4-week forecasts. 
+
+DETAILS: <https://github.com/nuuuwan/lk_dengue_weather_model>
+
+RESEARCH PAPER: <https://github.com/nuuuwan/lk_dengue_weather_model/blob/main/research_papers/%5B2021%20Erandi%20et%20al%5D%20Dengue%20outbreak%20prediction%20model%20for%20urban%20Colombo%20using%20meteorological%20data.pdf>
+
+Work in Progess. Still improving. Feedback/Help welcome.
+
+#Dengue #SriLanka #PublicHealth #DataScience
+

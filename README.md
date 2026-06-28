@@ -4,7 +4,7 @@ Dengue outbreak weather-risk model for Sri Lanka MOH regions.
 
 > 📖 **Methodology:** [README.methodology.md](README.methodology.md)
 
-_Last updated: 26 June 2026 · 333 regions with model results._
+_Last updated: 28 June 2026 · 333 regions with model results._
 
 ---
 
@@ -59,8 +59,8 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 
 | Metric | Value |
 |---|---:|
-| Pearson *r* | 0.2343 |
-| Spearman ρ | 0.3569 |
+| Pearson *r* | 0.2722 |
+| Spearman ρ | 0.3974 |
 | *p*-value (Pearson) | < 0.001 |
 | Regions (*n*) | 333 |
 
@@ -76,29 +76,29 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 |---|---|---:|---:|
 | Thanamalwila | Monaragala | 3.40 | 0.0 |
 | Lunugamvehera | Hambantota | 3.31 | 0.0 |
-| Kiriella | Ratnapura | 3.11 | 0.0 |
+| Eheliyagoda | Ratnapura | 3.20 | 0.0 |
 | Nikaweratiya | Kurunegala | 3.04 | 0.0 |
-| Angunukolapeles | Hambantota | 2.99 | 0.0 |
 | Buttala | Monaragala | 2.91 | 0.0 |
-| Dankotuwa | Puttalam | 2.87 | 0.0 |
-| Weeraketiya | Hambantota | 2.79 | 0.0 |
 | Sooriyawewa | Hambantota | 2.67 | 0.0 |
 | Narammala | Kurunegala | 2.55 | 0.0 |
+| Udubaddawa | Kurunegala | 2.52 | 0.0 |
+| Sevanagala | Monaragala | 2.32 | 0.0 |
+| Weerambugedara | Kurunegala | 2.23 | 0.0 |
 
 ### Top 10 False Negatives (low predicted risk, high actual cases)
 
 | Region | District | Risk Score | Cases/100k |
 |---|---|---:|---:|
 | Ganga Ihala Korale | Kandy | -2.91 | 92.2 |
-| Seeduwa | Gampaha | 0.50 | 80.1 |
+| Seeduwa | Gampaha | 0.50 | 86.0 |
 | Palagala | Anuradhapura | -0.60 | 54.6 |
-| Kandy Four Gravets & Gangawata Korale | Kandy | -3.51 | 46.6 |
-| Panadura | Kalutara | 0.57 | 45.3 |
-| Negambo | Gampaha | 0.54 | 42.1 |
-| Malimbada | Matara | 0.56 | 40.4 |
-| Yatinuwara | Kandy | -1.43 | 39.6 |
-| Katana | Gampaha | 0.54 | 39.5 |
-| Kalawana | Ratnapura | -1.71 | 39.4 |
+| Kandy Four Gravets & Gangawata Korale | Kandy | -3.51 | 54.5 |
+| Panadura | Kalutara | 0.57 | 51.3 |
+| Malimbada | Matara | 0.56 | 45.8 |
+| Yatinuwara | Kandy | -1.43 | 43.1 |
+| Negambo | Gampaha | 0.54 | 41.4 |
+| Imaduwa | Galle | 0.11 | 37.3 |
+| Katana | Gampaha | 0.54 | 37.1 |
 
 ---
 
@@ -112,7 +112,7 @@ False positive rate (FPR) and false negative rate (FNR) for classifying regions 
 
 ![FPR and FNR vs Threshold](images/fpr_fnr_curve.png)
 
-ROC curve with AUC = 0.7212.
+ROC curve with AUC = 0.7454.
 
 ![ROC Curve](images/roc_curve.png)
 
