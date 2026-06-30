@@ -22,7 +22,9 @@ class ReadMe:
             if MOH.DENSITY_WEIGHT
             else None
         )
-        scores = RiskMap._composite_scores(latest, density, MOH.DENSITY_WEIGHT)
+        scores = RiskMap._composite_scores(
+            latest, density, MOH.DENSITY_WEIGHT
+        )
         name_map = {m.region_id: m for m in moh_list}
         rows = []
         for rid, score in scores.items():

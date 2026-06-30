@@ -338,7 +338,9 @@ def main():
         all_score_values.extend(s.values())
     global_vmin = float(np.min(all_score_values))
     global_vmax = float(np.max(all_score_values))
-    print(f"\nGlobal risk score range: [{global_vmin:.2f}, {global_vmax:.2f}]")
+    print(
+        f"\nGlobal risk score range: [{global_vmin:.2f}, {global_vmax:.2f}]"
+    )
 
     # Shared delta colour scale: symmetric, based on max absolute delta
     all_deltas = []

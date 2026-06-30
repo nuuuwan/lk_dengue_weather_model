@@ -44,7 +44,9 @@ class MOH:
     @cache
     def list(cls):
         d_list = cls.MOH_FILE.read()
-        log.debug(f"Loaded {len(d_list)} MOH regions from {cls.MOH_FILE.path}")
+        log.debug(
+            f"Loaded {len(d_list)} MOH regions from {cls.MOH_FILE.path}"
+        )
         return [cls.from_dict(d) for d in d_list]
 
     @classmethod
