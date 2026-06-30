@@ -1,5 +1,6 @@
 import datetime
 import os
+import shutil
 import time
 from dataclasses import dataclass
 from functools import cache
@@ -71,19 +72,24 @@ class MOH:
     DIR_WEATHER_HISTORY = os.path.join("data", "weather_history")
 
     @property
-    def weather_history_file(self):
-        return JSONFile(
-            os.path.join(self.DIR_WEATHER_HISTORY, f"{self.region_id}.json")
-        )
+    def weather_history_dir(self):
+        return os.path.join(self.DIR_WEATHER_HISTORY, self.region_id)
 
-    def build_weather_history(self, force=False) -> dict:
-        if self.weather_history_file.exists and not force:
-            return self.weather_history_file.read()
+    def _existing_daily_dates(self) -> set:
+        """Return set of date strings (YYYY-MM-DD) for which per-day files exist."""
+        d = self.weather_history_dir
+        if not os.path.isdir(d):
+            return set()
+        return {
+            f[:-5]
+            for f in os.listdir(d)
+            if f.endswith(".json") and len(f) == 15  # yyyy-mm-dd.json
+        }
 
-        end_date = datetime.date.today()
-        start_date = end_date - datetime.timedelta(
-            weeks=self.WEATHER_HISTORY_WEEKS
-        )
+    def _fetch_and_store(
+        self, start_date: datetime.date, end_date: datetime.date
+    ):
+        """Fetch weather for [start_date, end_date] and write one file per day."""
         params = {
             "latitude": self.centroid_lat,
             "longitude": self.centroid_lng,
@@ -118,12 +124,57 @@ class MOH:
                 )
                 time.sleep(t_sleep)
                 t_sleep *= 2
-        data = response.json()
+        daily = response.json()["daily"]
+        os.makedirs(self.weather_history_dir, exist_ok=True)
+        for i, date_str in enumerate(daily["time"]):
+            day_data = {
+                var: daily[var][i] for var in self.WEATHER_HISTORY_DAILY_VARS
+            }
+            JSONFile(
+                os.path.join(self.weather_history_dir, f"{date_str}.json")
+            ).write(day_data)
+        log.info(
+            f"Wrote {len(daily['time'])} daily files for {self.region_id}"
+        )
 
-        os.makedirs(self.DIR_WEATHER_HISTORY, exist_ok=True)
-        self.weather_history_file.write(data)
-        log.info(f"Wrote {self.weather_history_file}")
-        return data
+    def _assemble_daily_data(
+        self, start_date: datetime.date, end_date: datetime.date
+    ) -> dict:
+        """Assemble per-day files into the dict format expected by _make_daily_df."""
+        d = self.weather_history_dir
+        times = []
+        var_lists = {var: [] for var in self.WEATHER_HISTORY_DAILY_VARS}
+        date = start_date
+        while date <= end_date:
+            date_str = date.isoformat()
+            fp = os.path.join(d, f"{date_str}.json")
+            if os.path.exists(fp):
+                day = JSONFile(fp).read()
+                times.append(date_str)
+                for var in self.WEATHER_HISTORY_DAILY_VARS:
+                    var_lists[var].append(day.get(var))
+            date += datetime.timedelta(days=1)
+        return {"daily": {"time": times, **var_lists}}
+
+    def build_weather_history(self, force=False) -> dict:
+        end_date = datetime.date.today()
+        start_date = end_date - datetime.timedelta(
+            weeks=self.WEATHER_HISTORY_WEEKS
+        )
+        if force:
+            if os.path.isdir(self.weather_history_dir):
+                shutil.rmtree(self.weather_history_dir)
+            self._fetch_and_store(start_date, end_date)
+        else:
+            existing = self._existing_daily_dates()
+            if existing:
+                latest_date = datetime.date.fromisoformat(max(existing))
+                if latest_date < end_date:
+                    fetch_start = latest_date + datetime.timedelta(days=1)
+                    self._fetch_and_store(fetch_start, end_date)
+            else:
+                self._fetch_and_store(start_date, end_date)
+        return self._assemble_daily_data(start_date, end_date)
 
     @property
     def model_result_file(self):
