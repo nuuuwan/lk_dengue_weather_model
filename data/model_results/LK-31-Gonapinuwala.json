@@ -1,23 +1,14 @@
 {
   "region_id": "LK-31-Gonapinuwala",
-  "generated_date": "2026-06-26",
+  "generated_date": "2026-06-30",
   "weekly_features": [
-    {
-      "week": "2025-10-13",
-      "rainfall": 110.0,
-      "max_temp": 29.2143,
-      "min_temp": 23.3714,
-      "R_lag10": 29.3,
-      "MT_lag16": 28.7333,
-      "mT_lag13": 24.5286
-    },
     {
       "week": "2025-10-20",
       "rainfall": 105.6,
       "max_temp": 28.5857,
       "min_temp": 23.9857,
       "R_lag10": 56.1,
-      "MT_lag16": 29.4143,
+      "MT_lag16": 29.3333,
       "mT_lag13": 24.0714
     },
     {
@@ -328,12 +319,21 @@
     },
     {
       "week": "2026-06-22",
-      "rainfall": 54.7,
-      "max_temp": 29.48,
-      "min_temp": 24.46,
+      "rainfall": 78.7,
+      "max_temp": 29.5429,
+      "min_temp": 24.5857,
       "R_lag10": 32.3,
       "MT_lag16": 30.1143,
       "mT_lag13": 23.7429
+    },
+    {
+      "week": "2026-06-29",
+      "rainfall": 37.3,
+      "max_temp": 28.75,
+      "min_temp": 25.35,
+      "R_lag10": 81.7,
+      "MT_lag16": 32.4143,
+      "mT_lag13": 23.8571
     }
   ]
 }

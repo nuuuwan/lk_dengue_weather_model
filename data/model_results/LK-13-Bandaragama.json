@@ -1,23 +1,14 @@
 {
   "region_id": "LK-13-Bandaragama",
-  "generated_date": "2026-06-26",
+  "generated_date": "2026-06-30",
   "weekly_features": [
-    {
-      "week": "2025-10-13",
-      "rainfall": 143.6,
-      "max_temp": 29.8143,
-      "min_temp": 23.0143,
-      "R_lag10": 37.3,
-      "MT_lag16": 28.9333,
-      "mT_lag13": 24.7714
-    },
     {
       "week": "2025-10-20",
       "rainfall": 105.8,
       "max_temp": 28.6857,
       "min_temp": 23.3143,
       "R_lag10": 87.2,
-      "MT_lag16": 29.7,
+      "MT_lag16": 29.6167,
       "mT_lag13": 24.0286
     },
     {
@@ -328,12 +319,21 @@
     },
     {
       "week": "2026-06-22",
-      "rainfall": 114.2,
-      "max_temp": 29.34,
-      "min_temp": 23.84,
+      "rainfall": 147.5,
+      "max_temp": 29.3429,
+      "min_temp": 23.8,
       "R_lag10": 43.8,
       "MT_lag16": 31.9429,
       "mT_lag13": 23.6571
+    },
+    {
+      "week": "2026-06-29",
+      "rainfall": 28.5,
+      "max_temp": 28.95,
+      "min_temp": 24.9,
+      "R_lag10": 56.7,
+      "MT_lag16": 33.3714,
+      "mT_lag13": 23.7286
     }
   ]
 }

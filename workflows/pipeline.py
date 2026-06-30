@@ -8,7 +8,8 @@ log = Log("pipeline")
 
 
 def load_data():
-    shutil.rmtree("data", ignore_errors=True)
+    # Remove only model results; preserve data/weather_history/ for incremental updates
+    shutil.rmtree(os.path.join("data", "model_results"), ignore_errors=True)
     os.makedirs("data", exist_ok=True)
     content = WWW(
         "https://raw.githubusercontent.com"

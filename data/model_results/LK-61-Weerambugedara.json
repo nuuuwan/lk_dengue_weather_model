@@ -1,23 +1,14 @@
 {
   "region_id": "LK-61-Weerambugedara",
-  "generated_date": "2026-06-26",
+  "generated_date": "2026-06-30",
   "weekly_features": [
-    {
-      "week": "2025-10-13",
-      "rainfall": 192.3,
-      "max_temp": 31.3429,
-      "min_temp": 22.8714,
-      "R_lag10": 18.4,
-      "MT_lag16": 29.0333,
-      "mT_lag13": 23.4286
-    },
     {
       "week": "2025-10-20",
       "rainfall": 112.6,
       "max_temp": 27.5429,
       "min_temp": 22.3286,
       "R_lag10": 30.7,
-      "MT_lag16": 29.8714,
+      "MT_lag16": 29.8167,
       "mT_lag13": 22.4143
     },
     {
@@ -328,12 +319,21 @@
     },
     {
       "week": "2026-06-22",
-      "rainfall": 38.7,
-      "max_temp": 29.38,
-      "min_temp": 23.48,
+      "rainfall": 51.2,
+      "max_temp": 29.2,
+      "min_temp": 23.3286,
       "R_lag10": 29.5,
       "MT_lag16": 34.8571,
       "mT_lag13": 23.1143
+    },
+    {
+      "week": "2026-06-29",
+      "rainfall": 8.4,
+      "max_temp": 28.25,
+      "min_temp": 23.55,
+      "R_lag10": 53.5,
+      "MT_lag16": 35.4857,
+      "mT_lag13": 23.6
     }
   ]
 }

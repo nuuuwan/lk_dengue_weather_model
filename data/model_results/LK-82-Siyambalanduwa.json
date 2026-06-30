@@ -1,23 +1,14 @@
 {
   "region_id": "LK-82-Siyambalanduwa",
-  "generated_date": "2026-06-26",
+  "generated_date": "2026-06-30",
   "weekly_features": [
-    {
-      "week": "2025-10-13",
-      "rainfall": 141.7,
-      "max_temp": 31.0286,
-      "min_temp": 23.1571,
-      "R_lag10": 20.6,
-      "MT_lag16": 34.8,
-      "mT_lag13": 23.9429
-    },
     {
       "week": "2025-10-20",
       "rainfall": 82.2,
       "max_temp": 30.2,
       "min_temp": 22.9429,
       "R_lag10": 21.1,
-      "MT_lag16": 35.7,
+      "MT_lag16": 35.7833,
       "mT_lag13": 24.2571
     },
     {
@@ -328,12 +319,21 @@
     },
     {
       "week": "2026-06-22",
-      "rainfall": 22.1,
-      "max_temp": 33.66,
-      "min_temp": 24.86,
+      "rainfall": 26.6,
+      "max_temp": 33.9429,
+      "min_temp": 24.9143,
       "R_lag10": 21.0,
       "MT_lag16": 30.6714,
       "mT_lag13": 23.7143
+    },
+    {
+      "week": "2026-06-29",
+      "rainfall": 17.9,
+      "max_temp": 33.75,
+      "min_temp": 24.9,
+      "R_lag10": 49.5,
+      "MT_lag16": 30.4857,
+      "mT_lag13": 23.0
     }
   ]
 }

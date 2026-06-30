@@ -1,23 +1,14 @@
 {
   "region_id": "LK-21-Ganga-Ihala-Korale",
-  "generated_date": "2026-06-26",
+  "generated_date": "2026-06-30",
   "weekly_features": [
-    {
-      "week": "2025-10-13",
-      "rainfall": 110.3,
-      "max_temp": 26.5429,
-      "min_temp": 19.4,
-      "R_lag10": 17.0,
-      "MT_lag16": 25.9333,
-      "mT_lag13": 20.3
-    },
     {
       "week": "2025-10-20",
       "rainfall": 91.5,
       "max_temp": 24.2857,
       "min_temp": 19.3,
       "R_lag10": 42.7,
-      "MT_lag16": 25.7,
+      "MT_lag16": 25.5833,
       "mT_lag13": 20.0429
     },
     {
@@ -328,12 +319,21 @@
     },
     {
       "week": "2026-06-22",
-      "rainfall": 54.2,
-      "max_temp": 26.16,
-      "min_temp": 20.24,
+      "rainfall": 65.6,
+      "max_temp": 26.2286,
+      "min_temp": 20.2714,
       "R_lag10": 19.1,
       "MT_lag16": 29.8714,
       "mT_lag13": 17.1429
+    },
+    {
+      "week": "2026-06-29",
+      "rainfall": 24.3,
+      "max_temp": 23.3,
+      "min_temp": 20.05,
+      "R_lag10": 48.7,
+      "MT_lag16": 29.9857,
+      "mT_lag13": 18.4
     }
   ]
 }

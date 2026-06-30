@@ -1,23 +1,14 @@
 {
   "region_id": "LK-91-Ayagama",
-  "generated_date": "2026-06-26",
+  "generated_date": "2026-06-30",
   "weekly_features": [
-    {
-      "week": "2025-10-13",
-      "rainfall": 143.2,
-      "max_temp": 30.8,
-      "min_temp": 22.5143,
-      "R_lag10": 30.4,
-      "MT_lag16": 28.9333,
-      "mT_lag13": 22.4143
-    },
     {
       "week": "2025-10-20",
       "rainfall": 99.3,
       "max_temp": 28.4429,
       "min_temp": 22.3714,
       "R_lag10": 66.5,
-      "MT_lag16": 29.8571,
+      "MT_lag16": 29.6667,
       "mT_lag13": 22.5
     },
     {
@@ -328,12 +319,21 @@
     },
     {
       "week": "2026-06-22",
-      "rainfall": 98.6,
-      "max_temp": 29.24,
-      "min_temp": 23.32,
+      "rainfall": 125.0,
+      "max_temp": 29.2286,
+      "min_temp": 23.2286,
       "R_lag10": 29.8,
       "MT_lag16": 33.4143,
       "mT_lag13": 22.6143
+    },
+    {
+      "week": "2026-06-29",
+      "rainfall": 56.2,
+      "max_temp": 26.8,
+      "min_temp": 22.75,
+      "R_lag10": 85.9,
+      "MT_lag16": 34.5857,
+      "mT_lag13": 23.0
     }
   ]
 }

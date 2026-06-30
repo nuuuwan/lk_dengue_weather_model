@@ -1,23 +1,14 @@
 {
   "region_id": "LK-41-Kayts",
-  "generated_date": "2026-06-26",
+  "generated_date": "2026-06-30",
   "weekly_features": [
-    {
-      "week": "2025-10-13",
-      "rainfall": 69.2,
-      "max_temp": 30.5,
-      "min_temp": 25.2571,
-      "R_lag10": 16.2,
-      "MT_lag16": 31.6667,
-      "mT_lag13": 28.7286
-    },
     {
       "week": "2025-10-20",
       "rainfall": 77.5,
       "max_temp": 29.0714,
       "min_temp": 25.8571,
       "R_lag10": 8.2,
-      "MT_lag16": 32.0857,
+      "MT_lag16": 32.1,
       "mT_lag13": 27.6571
     },
     {
@@ -329,11 +320,20 @@
     {
       "week": "2026-06-22",
       "rainfall": 1.0,
-      "max_temp": 31.6,
-      "min_temp": 28.58,
+      "max_temp": 31.7,
+      "min_temp": 28.5857,
       "R_lag10": 3.2,
       "MT_lag16": 30.8714,
       "mT_lag13": 25.4714
+    },
+    {
+      "week": "2026-06-29",
+      "rainfall": 0.0,
+      "max_temp": 32.85,
+      "min_temp": 29.15,
+      "R_lag10": 8.9,
+      "MT_lag16": 31.6,
+      "mT_lag13": 26.6714
     }
   ]
 }

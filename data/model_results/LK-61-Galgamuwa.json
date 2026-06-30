@@ -1,23 +1,14 @@
 {
   "region_id": "LK-61-Galgamuwa",
-  "generated_date": "2026-06-26",
+  "generated_date": "2026-06-30",
   "weekly_features": [
-    {
-      "week": "2025-10-13",
-      "rainfall": 169.9,
-      "max_temp": 30.7429,
-      "min_temp": 23.2143,
-      "R_lag10": 10.7,
-      "MT_lag16": 31.8667,
-      "mT_lag13": 25.0
-    },
     {
       "week": "2025-10-20",
       "rainfall": 158.4,
       "max_temp": 27.7286,
       "min_temp": 22.9429,
       "R_lag10": 12.6,
-      "MT_lag16": 33.0571,
+      "MT_lag16": 33.0333,
       "mT_lag13": 23.8857
     },
     {
@@ -328,12 +319,21 @@
     },
     {
       "week": "2026-06-22",
-      "rainfall": 19.4,
-      "max_temp": 30.16,
-      "min_temp": 24.52,
+      "rainfall": 23.1,
+      "max_temp": 30.1429,
+      "min_temp": 24.4571,
       "R_lag10": 25.5,
       "MT_lag16": 31.6143,
       "mT_lag13": 23.5286
+    },
+    {
+      "week": "2026-06-29",
+      "rainfall": 5.4,
+      "max_temp": 30.15,
+      "min_temp": 24.65,
+      "R_lag10": 31.6,
+      "MT_lag16": 32.5429,
+      "mT_lag13": 23.8857
     }
   ]
 }

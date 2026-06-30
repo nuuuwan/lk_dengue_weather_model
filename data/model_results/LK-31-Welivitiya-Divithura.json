@@ -1,23 +1,14 @@
 {
   "region_id": "LK-31-Welivitiya-Divithura",
-  "generated_date": "2026-06-26",
+  "generated_date": "2026-06-30",
   "weekly_features": [
-    {
-      "week": "2025-10-13",
-      "rainfall": 149.2,
-      "max_temp": 29.7143,
-      "min_temp": 22.6857,
-      "R_lag10": 36.1,
-      "MT_lag16": 28.8667,
-      "mT_lag13": 23.4857
-    },
     {
       "week": "2025-10-20",
       "rainfall": 85.3,
       "max_temp": 28.7143,
       "min_temp": 22.7286,
       "R_lag10": 57.1,
-      "MT_lag16": 29.6571,
+      "MT_lag16": 29.5833,
       "mT_lag13": 23.3143
     },
     {
@@ -328,12 +319,21 @@
     },
     {
       "week": "2026-06-22",
-      "rainfall": 66.1,
-      "max_temp": 29.6,
-      "min_temp": 23.48,
+      "rainfall": 89.1,
+      "max_temp": 29.5143,
+      "min_temp": 23.5,
       "R_lag10": 38.3,
       "MT_lag16": 30.8286,
       "mT_lag13": 22.8714
+    },
+    {
+      "week": "2026-06-29",
+      "rainfall": 39.5,
+      "max_temp": 28.6,
+      "min_temp": 24.05,
+      "R_lag10": 102.2,
+      "MT_lag16": 33.3286,
+      "mT_lag13": 22.7857
     }
   ]
 }

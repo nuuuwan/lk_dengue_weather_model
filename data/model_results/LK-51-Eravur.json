@@ -1,23 +1,14 @@
 {
   "region_id": "LK-51-Eravur",
-  "generated_date": "2026-06-26",
+  "generated_date": "2026-06-30",
   "weekly_features": [
-    {
-      "week": "2025-10-13",
-      "rainfall": 90.2,
-      "max_temp": 31.1857,
-      "min_temp": 24.6571,
-      "R_lag10": 28.0,
-      "MT_lag16": 34.8333,
-      "mT_lag13": 27.0571
-    },
     {
       "week": "2025-10-20",
       "rainfall": 128.3,
       "max_temp": 30.4143,
       "min_temp": 24.9714,
       "R_lag10": 2.9,
-      "MT_lag16": 36.2714,
+      "MT_lag16": 36.1667,
       "mT_lag13": 26.1714
     },
     {
@@ -328,12 +319,21 @@
     },
     {
       "week": "2026-06-22",
-      "rainfall": 19.5,
-      "max_temp": 33.44,
-      "min_temp": 26.98,
+      "rainfall": 21.7,
+      "max_temp": 33.4286,
+      "min_temp": 26.9429,
       "R_lag10": 14.5,
       "MT_lag16": 29.3571,
       "mT_lag13": 25.4714
+    },
+    {
+      "week": "2026-06-29",
+      "rainfall": 2.9,
+      "max_temp": 35.75,
+      "min_temp": 27.2,
+      "R_lag10": 14.1,
+      "MT_lag16": 29.6143,
+      "mT_lag13": 24.6286
     }
   ]
 }

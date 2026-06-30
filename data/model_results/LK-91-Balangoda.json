@@ -1,23 +1,14 @@
 {
   "region_id": "LK-91-Balangoda",
-  "generated_date": "2026-06-26",
+  "generated_date": "2026-06-30",
   "weekly_features": [
-    {
-      "week": "2025-10-13",
-      "rainfall": 120.5,
-      "max_temp": 27.8714,
-      "min_temp": 19.8286,
-      "R_lag10": 1.4,
-      "MT_lag16": 28.7,
-      "mT_lag13": 22.2571
-    },
     {
       "week": "2025-10-20",
       "rainfall": 47.1,
       "max_temp": 26.2571,
       "min_temp": 20.4,
       "R_lag10": 15.9,
-      "MT_lag16": 29.6571,
+      "MT_lag16": 29.5333,
       "mT_lag13": 21.3714
     },
     {
@@ -328,12 +319,21 @@
     },
     {
       "week": "2026-06-22",
-      "rainfall": 11.0,
-      "max_temp": 28.76,
-      "min_temp": 21.74,
+      "rainfall": 12.1,
+      "max_temp": 28.7143,
+      "min_temp": 21.9857,
       "R_lag10": 52.9,
       "MT_lag16": 28.1857,
       "mT_lag13": 18.4429
+    },
+    {
+      "week": "2026-06-29",
+      "rainfall": 2.3,
+      "max_temp": 27.95,
+      "min_temp": 22.9,
+      "R_lag10": 90.2,
+      "MT_lag16": 29.6286,
+      "mT_lag13": 19.5286
     }
   ]
 }
