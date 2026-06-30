@@ -2,13 +2,13 @@
 
 ## Overview
 
-This repository implements the dengue outbreak prediction model for all 300+ Ministry of Health (MOH) regions across Sri Lanka, extending the approach described by Erandi, Perera, and Mahasinghe (2021) in *International Journal of Dynamical Systems and Differential Equations*, Vol. 11, Nos. 5/6, pp. 462–472 ([Paper](<research_papers/[2021 Erandi et al] Dengue outbreak prediction model for urban Colombo using meteorological data.pdf>)).
+This repository implements the dengue outbreak prediction model for all 300+ Ministry of Health (MOH) regions across Sri Lanka, extending the approach described by Erandi, Perera, and Mahasinghe (2021) in _International Journal of Dynamical Systems and Differential Equations_, Vol. 11, Nos. 5/6, pp. 462–472 ([Paper](<research_papers/[2021 Erandi et al] Dengue outbreak prediction model for urban Colombo using meteorological data.pdf>)).
 
 The original study developed a generalised linear regression model (GLM) that incorporates lagged meteorological variables — weekly rainfall, maximum temperature, and minimum temperature — to predict weekly dengue incidence approximately one month in advance. This implementation reproduces that model in Python and applies it independently to each MOH region, producing one prediction per region per week. Meteorological data for each region is sourced from the Open-Meteo API using the geographic centroid of that region as the representative point.
 
 ## Background and Motivation
 
-Dengue fever is a vector-borne viral disease transmitted by *Aedes aegypti* and *Aedes albopictus* mosquitoes. Sri Lanka has experienced dengue as an endemic disease since 1962, with the CMC area — the most densely populated urban zone in the country, home to approximately 555,000 residents within 37 km² — consistently reporting the highest case counts nationally, accounting for roughly 25% of annual dengue cases. The city is subject to two monsoon seasons (Northeast: December–February; Southwest: May–September), and temperatures range from 22°C to 33°C, creating conditions highly favourable for mosquito breeding and viral replication.
+Dengue fever is a vector-borne viral disease transmitted by _Aedes aegypti_ and _Aedes albopictus_ mosquitoes. Sri Lanka has experienced dengue as an endemic disease since 1962, with the CMC area — the most densely populated urban zone in the country, home to approximately 555,000 residents within 37 km² — consistently reporting the highest case counts nationally, accounting for roughly 25% of annual dengue cases. The city is subject to two monsoon seasons (Northeast: December–February; Southwest: May–September), and temperatures range from 22°C to 33°C, creating conditions highly favourable for mosquito breeding and viral replication.
 
 Classical time-series models fail to capture the impact of external climatic drivers, and simple moving-average thresholds used by the Epidemiology Unit, Department of Health, do not adequately signal outbreak onset. A climate-driven predictive model that can anticipate outbreak magnitude several weeks ahead gives public health authorities actionable lead time to deploy vector control resources.
 
@@ -30,11 +30,11 @@ The results established three empirical lags:
 | Maximum temperature | 16 |
 | Minimum temperature | 13 |
 
-The 10-week lag for rainfall reflects the combined duration of the *Aedes* mosquito lifecycle (approximately 1–2 weeks from egg to adult depending on temperature and nutrient availability) and the human incubation period for dengue (3–14 days). The longer temperature lags (13–16 weeks) are consistent with the biology: temperature modulates both the speed of larval development and the extrinsic incubation period of the virus within the mosquito, and these indirect effects propagate on a longer timescale than direct rainfall-driven breeding.
+The 10-week lag for rainfall reflects the combined duration of the _Aedes_ mosquito lifecycle (approximately 1–2 weeks from egg to adult depending on temperature and nutrient availability) and the human incubation period for dengue (3–14 days). The longer temperature lags (13–16 weeks) are consistent with the biology: temperature modulates both the speed of larval development and the extrinsic incubation period of the virus within the mosquito, and these indirect effects propagate on a longer timescale than direct rainfall-driven breeding.
 
 ## Final Model Equation
 
-To account for the autoregressive dynamics of dengue transmission — specifically, that current mosquito density depends on the infected human population approximately four weeks prior (one *Aedes* generation cycle of ~2 weeks plus a 3–14 day incubation period) — the moderated regression equation incorporates a lagged dengue term alongside the climate predictors. The final model (Equation 3 in the paper) is:
+To account for the autoregressive dynamics of dengue transmission — specifically, that current mosquito density depends on the infected human population approximately four weeks prior (one _Aedes_ generation cycle of ~2 weeks plus a 3–14 day incubation period) — the moderated regression equation incorporates a lagged dengue term alongside the climate predictors. The final model (Equation 3 in the paper) is:
 
 $$\log(D_t + 1) = \beta_0 + \beta_1 R_{t-10} + \beta_2 MT_{t-16} + \beta_3 mT_{t-13} + \beta_4 D_{t-4}$$
 
@@ -76,7 +76,7 @@ The Python pipeline in `workflows/pipeline.py` executes the following stages for
 1. **Region enumeration**: Load the list of 300+ MOH regions and compute or retrieve the centroid coordinates for each.
 2. **Fetch**: Query the Open-Meteo historical weather API for the centroid of the current region and the target date range; aggregate daily values to ISO calendar weeks.
 3. **Lag construction**: For each predictor, shift the weekly time series by its empirical lag (10, 16, or 13 weeks) using `pandas.DataFrame.shift()`.
-4. **Log transform**: Compute $\log(D_{t-4} + 1)$ for the autoregressive dengue term, sourced from Ministry of Health (MOH) weekly case data stored under `moh_data/`.
+4. **Log transform**: Compute $\log(D_{t-4} + 1)$ for the autoregressive dengue term, sourced from Ministry of Health (MOH) weekly case data stored under `static_data/`.
 5. **Model fitting**: Fit the GLM using `statsmodels.api.GLM` on the training period, recovering $\hat{\beta}_0$ through $\hat{\beta}_4$.
 6. **Prediction**: Apply the fitted coefficients to the lagged feature matrix for the forecast period, then back-transform via $\hat{D}_t = \exp(\hat{y}_t) - 1$.
 7. **Threshold comparison**: Compare $\hat{D}_t$ against the calibration-period mean. Weeks where the prediction exceeds the threshold are classified as outbreak weeks.
@@ -99,4 +99,4 @@ The original model was calibrated on 2009–2015 CMC data. This implementation u
 
 ## Reference
 
-Erandi, K.K.W.H., Perera, S.S.N. and Mahasinghe, A.C. (2021) 'Dengue outbreak prediction model for urban Colombo using meteorological data', *Int. J. Dynamical Systems and Differential Equations*, Vol. 11, Nos. 5/6, pp. 462–472.
+Erandi, K.K.W.H., Perera, S.S.N. and Mahasinghe, A.C. (2021) 'Dengue outbreak prediction model for urban Colombo using meteorological data', _Int. J. Dynamical Systems and Differential Equations_, Vol. 11, Nos. 5/6, pp. 462–472.
