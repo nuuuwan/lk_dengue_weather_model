@@ -6,6 +6,7 @@ import pandas as pd
 from matplotlib.patches import Patch
 from scipy.stats import pearsonr, spearmanr
 
+from moh.MOH import MOH
 from moh.RiskMap import RiskMap
 from utils_future import Log
 
@@ -20,7 +21,7 @@ class Correlation:
     FPR_FNR_PATH = os.path.join("images", "fpr_fnr_curve.png")
     ROC_PATH = os.path.join("images", "roc_curve.png")
     CONFUSION_MAP_PATH = os.path.join("images", "confusion_map.png")
-    DISTRICTS_TSV = os.path.join("data", "districts.tsv")
+    DISTRICTS_TSV = os.path.join("static_data", "districts.tsv")
 
     PRECISION_CUTOFF = 10
 
@@ -33,7 +34,6 @@ class Correlation:
 
     @classmethod
     def _build_pairs(cls, moh_list) -> list[dict]:
-        from moh.MOH import MOH
 
         actual = cls._load_actual()
         latest = RiskMap._load_latest_features()
@@ -42,9 +42,7 @@ class Correlation:
             if MOH.DENSITY_WEIGHT
             else None
         )
-        scores = RiskMap._composite_scores(
-            latest, density, MOH.DENSITY_WEIGHT
-        )
+        scores = RiskMap._composite_scores(latest, density, MOH.DENSITY_WEIGHT)
         name_map = {m.region_id: m.region_name for m in moh_list}
         dist_map = {m.region_id: m.district_id for m in moh_list}
         dist_names = cls._load_district_names()
@@ -160,9 +158,7 @@ class Correlation:
     def _plot_fpr_fnr(cls, pairs) -> str:
         scores = np.array([p["score"] for p in pairs])
         thresholds = np.linspace(scores.min(), scores.max(), 200)
-        fpr, fnr = cls._fpr_fnr_values(
-            pairs, thresholds, cls.PRECISION_CUTOFF
-        )
+        fpr, fnr = cls._fpr_fnr_values(pairs, thresholds, cls.PRECISION_CUTOFF)
         fpr_arr, fnr_arr = np.array(fpr), np.array(fnr)
         fig, ax = plt.subplots(figsize=(9, 5))
         ax.plot(
@@ -213,9 +209,7 @@ class Correlation:
                 [scores.max() + 1],
             ]
         )
-        fpr, fnr = cls._fpr_fnr_values(
-            pairs, thresholds, cls.PRECISION_CUTOFF
-        )
+        fpr, fnr = cls._fpr_fnr_values(pairs, thresholds, cls.PRECISION_CUTOFF)
         tpr = [1.0 - f for f in fnr]
         pts = sorted(zip(fpr, tpr))
         fpr_s = np.array([x for x, _ in pts])
@@ -257,9 +251,7 @@ class Correlation:
     def _classify_pairs(cls, pairs) -> tuple[dict, float]:
         scores = np.array([p["score"] for p in pairs])
         thresholds = np.linspace(scores.min(), scores.max(), 200)
-        fpr, fnr = cls._fpr_fnr_values(
-            pairs, thresholds, cls.PRECISION_CUTOFF
-        )
+        fpr, fnr = cls._fpr_fnr_values(pairs, thresholds, cls.PRECISION_CUTOFF)
         idx = int(np.nanargmin(np.abs(np.array(fpr) - np.array(fnr))))
         s_thresh = float(thresholds[idx])
         buckets: dict = {"TP": [], "FP": [], "FN": [], "TN": []}
@@ -462,9 +454,9 @@ class Correlation:
         cls._plot_fpr_fnr(pairs)
         auc = cls._plot_roc(pairs)
         buckets, s_thresh = cls._classify_pairs(pairs)
-        top_fp = sorted(
-            buckets["FP"], key=lambda p: p["score"], reverse=True
-        )[:10]
+        top_fp = sorted(buckets["FP"], key=lambda p: p["score"], reverse=True)[
+            :10
+        ]
         top_fn = sorted(
             buckets["FN"], key=lambda p: p["actual"], reverse=True
         )[:10]

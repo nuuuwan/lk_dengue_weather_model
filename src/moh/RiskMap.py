@@ -12,7 +12,7 @@ log = Log("RiskMap")
 
 
 class RiskMap:
-    TOPOJSON_PATH = os.path.join("moh_data", "geo", "moh.topojson")
+    TOPOJSON_PATH = os.path.join("static_data", "geo", "moh.topojson")
     OUTPUT_PATH = os.path.join("images", "risk_map.png")
     DIR_MODEL_RESULTS = os.path.join("data", "model_results")
 

@@ -29,8 +29,8 @@ import topojson as tp
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "src"))
 
 DIR_MODEL_RESULTS = os.path.join("data", "model_results")
-TOPOJSON_PATH = os.path.join("moh_data", "geo", "moh.topojson")
-MOH_JSON = os.path.join("moh_data", "ent", "moh.json")
+TOPOJSON_PATH = os.path.join("static_data", "geo", "moh.topojson")
+MOH_JSON = os.path.join("static_data", "ent", "moh.json")
 DENSITY_WEIGHT = 2
 DENSITY_EXPONENT = 0.05
 
@@ -123,16 +123,16 @@ def composite_scores(forecast_features: dict, density: dict) -> dict:
 
 
 def load_density() -> dict:
-    moh_data = json.load(open(MOH_JSON))
+    static_data = json.load(open(MOH_JSON))
     return {
         d["region_id"]: d["population_density"] ** DENSITY_EXPONENT
-        for d in moh_data
+        for d in static_data
     }
 
 
 def load_region_names() -> dict:
-    moh_data = json.load(open(MOH_JSON))
-    return {d["region_id"]: d["region_name"] for d in moh_data}
+    static_data = json.load(open(MOH_JSON))
+    return {d["region_id"]: d["region_name"] for d in static_data}
 
 
 def label_fontsize(ax, geom, label):
@@ -338,9 +338,7 @@ def main():
         all_score_values.extend(s.values())
     global_vmin = float(np.min(all_score_values))
     global_vmax = float(np.max(all_score_values))
-    print(
-        f"\nGlobal risk score range: [{global_vmin:.2f}, {global_vmax:.2f}]"
-    )
+    print(f"\nGlobal risk score range: [{global_vmin:.2f}, {global_vmax:.2f}]")
 
     # Shared delta colour scale: symmetric, based on max absolute delta
     all_deltas = []

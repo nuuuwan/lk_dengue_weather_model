@@ -36,7 +36,7 @@ class MOH:
             population_density=data["population_density"],
         )
 
-    MOH_FILE = JSONFile(os.path.join("moh_data", "ent", "moh.json"))
+    MOH_FILE = JSONFile(os.path.join("static_data", "ent", "moh.json"))
 
     DENSITY_WEIGHT = 0
 
@@ -44,9 +44,7 @@ class MOH:
     @cache
     def list(cls):
         d_list = cls.MOH_FILE.read()
-        log.debug(
-            f"Loaded {len(d_list)} MOH regions from {cls.MOH_FILE.path}"
-        )
+        log.debug(f"Loaded {len(d_list)} MOH regions from {cls.MOH_FILE.path}")
         return [cls.from_dict(d) for d in d_list]
 
     @classmethod
