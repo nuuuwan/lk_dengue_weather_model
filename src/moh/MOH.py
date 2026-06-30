@@ -1,5 +1,6 @@
 import datetime
 import os
+import time
 from dataclasses import dataclass
 from functools import cache
 
@@ -44,9 +45,7 @@ class MOH:
     @cache
     def list(cls):
         d_list = cls.MOH_FILE.read()
-        log.debug(
-            f"Loaded {len(d_list)} MOH regions from {cls.MOH_FILE.path}"
-        )
+        log.debug(f"Loaded {len(d_list)} MOH regions from {cls.MOH_FILE.path}")
         return [cls.from_dict(d) for d in d_list]
 
     @classmethod
@@ -97,10 +96,28 @@ class MOH:
             f"Fetching weather history for {self.region_id}"
             f" ({start_date} → {end_date})"
         )
-        response = requests.get(
-            self.WEATHER_HISTORY_URL, params=params, timeout=60
-        )
-        response.raise_for_status()
+        max_retries = 5
+        t_sleep = 5
+        for attempt in range(max_retries):
+            try:
+                response = requests.get(
+                    self.WEATHER_HISTORY_URL, params=params, timeout=120
+                )
+                response.raise_for_status()
+                break
+            except requests.exceptions.RequestException as e:
+                if attempt + 1 == max_retries:
+                    log.error(
+                        f"[{attempt + 1}/{max_retries}] {self.region_id}: {e}."
+                        " Max retries reached. Aborting."
+                    )
+                    raise
+                log.warning(
+                    f"[{attempt + 1}/{max_retries}] {self.region_id}: {e}."
+                    f" Retrying in {t_sleep}s..."
+                )
+                time.sleep(t_sleep)
+                t_sleep *= 2
         data = response.json()
 
         os.makedirs(self.DIR_WEATHER_HISTORY, exist_ok=True)
