@@ -386,7 +386,7 @@ class Correlation:
     def _scatter_by_district(cls, ax, pairs):
         dist_names = cls._load_district_names()
         districts = sorted({p["district_id"] for p in pairs})
-        cmap = plt.cm.get_cmap("nipy_spectral", len(districts))
+        cmap = plt.colormaps["nipy_spectral"].resampled(len(districts))
         color_map = {d: cmap(i) for i, d in enumerate(districts)}
         for dist in districts:
             pts = [p for p in pairs if p["district_id"] == dist]
