@@ -4,7 +4,7 @@ Dengue outbreak weather-risk model for Sri Lanka MOH regions.
 
 > 📖 **Methodology:** [README.methodology.md](README.methodology.md)
 
-_Last updated: 30 June 2026 · 333 regions with model results._
+_Last updated: 2 July 2026 · 333 regions with model results._
 
 ---
 
@@ -30,8 +30,8 @@ Sorted by composite weather-risk score (descending).
 | Karandeniya | LK-31 | 3.24 | 100.4 | 33.6 | 23.1 |
 | Kuruwita | LK-91 | 3.23 | 98.2 | 33.8 | 23.1 |
 | Polgahawela | LK-61 | 3.10 | 74.7 | 35.6 | 23.5 |
-| Sooriyawewa | LK-33 | 3.08 | 83.2 | 34.3 | 23.8 |
 | Welivitiya-Divithura | LK-31 | 3.08 | 102.2 | 33.3 | 22.8 |
+| Sooriyawewa | LK-33 | 3.08 | 83.2 | 34.3 | 23.8 |
 | Narammala | LK-61 | 3.07 | 72.9 | 35.6 | 23.6 |
 | Kiriella | LK-91 | 3.04 | 98.2 | 33.6 | 22.9 |
 | Ayagama | LK-91 | 2.97 | 85.9 | 34.6 | 23.0 |

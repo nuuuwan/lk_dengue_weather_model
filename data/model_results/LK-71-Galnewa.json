@@ -1,6 +1,6 @@
 {
   "region_id": "LK-71-Galnewa",
-  "generated_date": "2026-06-30",
+  "generated_date": "2026-07-02",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 28.1286,
       "min_temp": 23.0429,
       "R_lag10": 8.9,
-      "MT_lag16": 33.7667,
+      "MT_lag16": 33.825,
       "mT_lag13": 23.9286
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-06-29",
       "rainfall": 5.4,
-      "max_temp": 31.15,
-      "min_temp": 24.8,
+      "max_temp": 31.875,
+      "min_temp": 25.375,
       "R_lag10": 36.2,
       "MT_lag16": 31.7286,
       "mT_lag13": 23.5714

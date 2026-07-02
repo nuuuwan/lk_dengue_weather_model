@@ -1,6 +1,6 @@
 {
   "region_id": "LK-52-Damana",
-  "generated_date": "2026-06-30",
+  "generated_date": "2026-07-02",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 29.7857,
       "min_temp": 23.5143,
       "R_lag10": 9.1,
-      "MT_lag16": 35.9,
+      "MT_lag16": 36.1,
       "mT_lag13": 24.4429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 12.1,
-      "max_temp": 33.7,
-      "min_temp": 25.6,
+      "rainfall": 13.1,
+      "max_temp": 33.825,
+      "min_temp": 25.175,
       "R_lag10": 24.5,
       "MT_lag16": 30.7857,
       "mT_lag13": 23.3571

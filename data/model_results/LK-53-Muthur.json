@@ -1,6 +1,6 @@
 {
   "region_id": "LK-53-Muthur",
-  "generated_date": "2026-06-30",
+  "generated_date": "2026-07-02",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 29.6571,
       "min_temp": 24.2857,
       "R_lag10": 2.3,
-      "MT_lag16": 35.9333,
+      "MT_lag16": 36.0,
       "mT_lag13": 26.1286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 2.7,
-      "max_temp": 34.25,
-      "min_temp": 26.95,
+      "rainfall": 2.8,
+      "max_temp": 35.1,
+      "min_temp": 27.325,
       "R_lag10": 15.9,
       "MT_lag16": 30.1714,
       "mT_lag13": 23.2857

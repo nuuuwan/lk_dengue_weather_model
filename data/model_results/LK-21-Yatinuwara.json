@@ -1,6 +1,6 @@
 {
   "region_id": "LK-21-Yatinuwara",
-  "generated_date": "2026-06-30",
+  "generated_date": "2026-07-02",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 26.2857,
       "min_temp": 20.9143,
       "R_lag10": 33.0,
-      "MT_lag16": 28.4167,
+      "MT_lag16": 28.45,
       "mT_lag13": 21.4857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 34.8,
-      "max_temp": 26.15,
-      "min_temp": 22.15,
+      "rainfall": 37.0,
+      "max_temp": 27.4,
+      "min_temp": 22.225,
       "R_lag10": 44.4,
       "MT_lag16": 32.1857,
       "mT_lag13": 20.6429

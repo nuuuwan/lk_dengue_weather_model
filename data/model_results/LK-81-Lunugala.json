@@ -1,6 +1,6 @@
 {
   "region_id": "LK-81-Lunugala",
-  "generated_date": "2026-06-30",
+  "generated_date": "2026-07-02",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 24.7714,
       "min_temp": 18.5714,
       "R_lag10": 13.2,
-      "MT_lag16": 30.4167,
+      "MT_lag16": 30.4,
       "mT_lag13": 19.6429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 15.7,
-      "max_temp": 28.75,
-      "min_temp": 20.65,
+      "rainfall": 19.7,
+      "max_temp": 29.425,
+      "min_temp": 20.15,
       "R_lag10": 41.4,
       "MT_lag16": 25.6429,
       "mT_lag13": 17.9429

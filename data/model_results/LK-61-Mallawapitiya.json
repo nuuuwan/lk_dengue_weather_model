@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Mallawapitiya",
-  "generated_date": "2026-06-30",
+  "generated_date": "2026-07-02",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 27.5857,
       "min_temp": 22.3143,
       "R_lag10": 29.5,
-      "MT_lag16": 29.9667,
+      "MT_lag16": 30.075,
       "mT_lag13": 22.3571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 12.7,
-      "max_temp": 28.15,
-      "min_temp": 23.7,
+      "rainfall": 15.5,
+      "max_temp": 29.0,
+      "min_temp": 23.9,
       "R_lag10": 41.8,
       "MT_lag16": 35.5714,
       "mT_lag13": 23.4286
