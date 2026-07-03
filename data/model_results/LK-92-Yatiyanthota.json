@@ -1,6 +1,6 @@
 {
   "region_id": "LK-92-Yatiyanthota",
-  "generated_date": "2026-07-02",
+  "generated_date": "2026-07-03",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 24.5286,
       "min_temp": 19.6714,
       "R_lag10": 87.5,
-      "MT_lag16": 25.875,
+      "MT_lag16": 26.0667,
       "mT_lag13": 19.9429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 77.5,
-      "max_temp": 25.375,
-      "min_temp": 20.2,
+      "rainfall": 99.8,
+      "max_temp": 25.26,
+      "min_temp": 20.34,
       "R_lag10": 61.4,
       "MT_lag16": 29.8714,
       "mT_lag13": 18.2429

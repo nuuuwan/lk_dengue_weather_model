@@ -1,6 +1,6 @@
 {
   "region_id": "LK-31-Balapitiya",
-  "generated_date": "2026-07-02",
+  "generated_date": "2026-07-03",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 28.2429,
       "min_temp": 24.0143,
       "R_lag10": 45.3,
-      "MT_lag16": 29.175,
+      "MT_lag16": 29.4333,
       "mT_lag13": 24.3571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 54.0,
-      "max_temp": 29.25,
-      "min_temp": 26.125,
+      "rainfall": 56.6,
+      "max_temp": 29.32,
+      "min_temp": 26.16,
       "R_lag10": 72.9,
       "MT_lag16": 32.1571,
       "mT_lag13": 23.9571

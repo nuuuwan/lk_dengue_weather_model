@@ -1,6 +1,6 @@
 {
   "region_id": "LK-13-Madurawala",
-  "generated_date": "2026-07-02",
+  "generated_date": "2026-07-03",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 28.2714,
       "min_temp": 22.7571,
       "R_lag10": 98.0,
-      "MT_lag16": 29.35,
+      "MT_lag16": 29.5333,
       "mT_lag13": 23.2571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 40.0,
-      "max_temp": 29.35,
-      "min_temp": 24.2,
+      "rainfall": 45.9,
+      "max_temp": 29.4,
+      "min_temp": 24.28,
       "R_lag10": 83.5,
       "MT_lag16": 33.7,
       "mT_lag13": 23.2

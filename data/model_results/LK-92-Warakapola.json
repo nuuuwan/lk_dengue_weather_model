@@ -1,6 +1,6 @@
 {
   "region_id": "LK-92-Warakapola",
-  "generated_date": "2026-07-02",
+  "generated_date": "2026-07-03",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 27.7286,
       "min_temp": 22.2286,
       "R_lag10": 54.4,
-      "MT_lag16": 29.575,
+      "MT_lag16": 29.8667,
       "mT_lag13": 22.1857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 33.2,
-      "max_temp": 28.975,
-      "min_temp": 23.3,
+      "rainfall": 44.8,
+      "max_temp": 28.88,
+      "min_temp": 23.32,
       "R_lag10": 57.3,
       "MT_lag16": 34.7286,
       "mT_lag13": 23.1857

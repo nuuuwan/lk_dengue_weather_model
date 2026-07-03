@@ -1,6 +1,6 @@
 {
   "region_id": "LK-33-Beliatta",
-  "generated_date": "2026-07-02",
+  "generated_date": "2026-07-03",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 29.4,
       "min_temp": 22.6857,
       "R_lag10": 29.9,
-      "MT_lag16": 30.925,
+      "MT_lag16": 31.0667,
       "mT_lag13": 23.2571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 7.9,
-      "max_temp": 30.4,
-      "min_temp": 24.475,
+      "rainfall": 9.4,
+      "max_temp": 30.6,
+      "min_temp": 24.56,
       "R_lag10": 77.0,
       "MT_lag16": 32.6429,
       "mT_lag13": 22.7286

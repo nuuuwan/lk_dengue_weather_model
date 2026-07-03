@@ -1,6 +1,6 @@
 {
   "region_id": "LK-32-Kamburupitiya",
-  "generated_date": "2026-07-02",
+  "generated_date": "2026-07-03",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 29.4571,
       "min_temp": 22.6857,
       "R_lag10": 34.8,
-      "MT_lag16": 29.7,
+      "MT_lag16": 29.9333,
       "mT_lag13": 23.3143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 17.6,
-      "max_temp": 29.8,
-      "min_temp": 24.35,
+      "rainfall": 19.1,
+      "max_temp": 30.0,
+      "min_temp": 24.46,
       "R_lag10": 83.2,
       "MT_lag16": 33.2429,
       "mT_lag13": 22.8571
