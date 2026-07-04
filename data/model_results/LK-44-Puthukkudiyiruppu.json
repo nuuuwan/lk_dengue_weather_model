@@ -1,6 +1,6 @@
 {
   "region_id": "LK-44-Puthukkudiyiruppu",
-  "generated_date": "2026-07-03",
+  "generated_date": "2026-07-04",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 28.7286,
       "min_temp": 24.0429,
       "R_lag10": 5.6,
-      "MT_lag16": 34.7667,
+      "MT_lag16": 34.55,
       "mT_lag13": 26.3143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 3.6,
-      "max_temp": 35.66,
-      "min_temp": 27.84,
+      "rainfall": 4.1,
+      "max_temp": 35.6,
+      "min_temp": 27.8667,
       "R_lag10": 13.0,
       "MT_lag16": 30.7286,
       "mT_lag13": 23.2714

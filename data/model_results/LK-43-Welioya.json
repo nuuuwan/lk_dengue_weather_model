@@ -1,6 +1,6 @@
 {
   "region_id": "LK-43-Welioya",
-  "generated_date": "2026-07-03",
+  "generated_date": "2026-07-04",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 28.5857,
       "min_temp": 24.0714,
       "R_lag10": 2.9,
-      "MT_lag16": 36.5667,
+      "MT_lag16": 36.5,
       "mT_lag13": 26.1714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 4.6,
-      "max_temp": 35.64,
-      "min_temp": 27.58,
+      "rainfall": 4.8,
+      "max_temp": 35.5667,
+      "min_temp": 27.6167,
       "R_lag10": 14.0,
       "MT_lag16": 30.9429,
       "mT_lag13": 23.5143

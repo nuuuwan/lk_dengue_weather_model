@@ -1,6 +1,6 @@
 {
   "region_id": "LK-91-Opanayaka",
-  "generated_date": "2026-07-03",
+  "generated_date": "2026-07-04",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 27.5286,
       "min_temp": 22.3571,
       "R_lag10": 64.8,
-      "MT_lag16": 28.9333,
+      "MT_lag16": 28.3,
       "mT_lag13": 22.5
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 32.8,
-      "max_temp": 28.38,
-      "min_temp": 23.28,
+      "rainfall": 40.2,
+      "max_temp": 28.2333,
+      "min_temp": 23.2333,
       "R_lag10": 61.4,
       "MT_lag16": 34.1,
       "mT_lag13": 22.4143

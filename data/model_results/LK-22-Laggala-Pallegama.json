@@ -1,6 +1,6 @@
 {
   "region_id": "LK-22-Laggala-Pallegama",
-  "generated_date": "2026-07-03",
+  "generated_date": "2026-07-04",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 26.8143,
       "min_temp": 21.6143,
       "R_lag10": 8.4,
-      "MT_lag16": 31.4667,
+      "MT_lag16": 31.45,
       "mT_lag13": 23.5
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 5.2,
-      "max_temp": 30.86,
-      "min_temp": 24.64,
+      "rainfall": 9.3,
+      "max_temp": 30.45,
+      "min_temp": 24.5667,
       "R_lag10": 28.7,
       "MT_lag16": 28.1714,
       "mT_lag13": 20.8429

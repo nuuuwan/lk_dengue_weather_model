@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Ganewatta",
-  "generated_date": "2026-07-03",
+  "generated_date": "2026-07-04",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 27.6286,
       "min_temp": 22.7143,
       "R_lag10": 18.2,
-      "MT_lag16": 32.1333,
+      "MT_lag16": 32.0,
       "mT_lag13": 22.9
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 9.4,
-      "max_temp": 29.92,
-      "min_temp": 24.38,
+      "rainfall": 19.5,
+      "max_temp": 29.8167,
+      "min_temp": 24.2167,
       "R_lag10": 32.7,
       "MT_lag16": 34.3714,
       "mT_lag13": 23.9429

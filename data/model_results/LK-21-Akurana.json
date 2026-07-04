@@ -1,6 +1,6 @@
 {
   "region_id": "LK-21-Akurana",
-  "generated_date": "2026-07-03",
+  "generated_date": "2026-07-04",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 24.3143,
       "min_temp": 20.4571,
       "R_lag10": 47.1,
-      "MT_lag16": 26.6667,
+      "MT_lag16": 26.4,
       "mT_lag13": 20.6143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 36.5,
-      "max_temp": 25.7,
-      "min_temp": 21.3,
+      "rainfall": 54.1,
+      "max_temp": 25.65,
+      "min_temp": 21.2167,
       "R_lag10": 55.9,
       "MT_lag16": 31.1286,
       "mT_lag13": 20.4714

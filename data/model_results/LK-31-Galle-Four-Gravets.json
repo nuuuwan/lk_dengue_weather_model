@@ -1,6 +1,6 @@
 {
   "region_id": "LK-31-Galle-Four-Gravets",
-  "generated_date": "2026-07-03",
+  "generated_date": "2026-07-04",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 28.6143,
       "min_temp": 23.9571,
       "R_lag10": 53.0,
-      "MT_lag16": 29.4,
+      "MT_lag16": 29.3,
       "mT_lag13": 23.9857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 27.2,
-      "max_temp": 29.46,
-      "min_temp": 26.02,
+      "rainfall": 37.1,
+      "max_temp": 29.4,
+      "min_temp": 25.7,
       "R_lag10": 79.5,
       "MT_lag16": 32.6,
       "mT_lag13": 23.8571
