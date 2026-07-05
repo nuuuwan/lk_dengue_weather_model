@@ -1,6 +1,6 @@
 {
   "region_id": "LK-22-Ambanganga-Korale",
-  "generated_date": "2026-07-04",
+  "generated_date": "2026-07-05",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 24.5286,
       "min_temp": 20.7143,
       "R_lag10": 34.5,
-      "MT_lag16": 27.35,
+      "MT_lag16": 26.5,
       "mT_lag13": 20.8857
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-06-29",
       "rainfall": 26.8,
-      "max_temp": 26.5167,
-      "min_temp": 21.7833,
+      "max_temp": 26.7143,
+      "min_temp": 21.7571,
       "R_lag10": 33.4,
       "MT_lag16": 28.6286,
       "mT_lag13": 20.2

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-62-Wennappuwa",
-  "generated_date": "2026-07-04",
+  "generated_date": "2026-07-05",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 28.0143,
       "min_temp": 24.1571,
       "R_lag10": 41.6,
-      "MT_lag16": 29.45,
+      "MT_lag16": 29.4,
       "mT_lag13": 24.7
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 36.2,
-      "max_temp": 29.0667,
-      "min_temp": 26.1833,
+      "rainfall": 37.4,
+      "max_temp": 29.1143,
+      "min_temp": 26.1857,
       "R_lag10": 51.8,
       "MT_lag16": 32.9143,
       "mT_lag13": 24.3286

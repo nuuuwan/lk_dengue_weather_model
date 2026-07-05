@@ -1,6 +1,6 @@
 {
   "region_id": "LK-31-Niyagama",
-  "generated_date": "2026-07-04",
+  "generated_date": "2026-07-05",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 29.2286,
       "min_temp": 22.8,
       "R_lag10": 64.5,
-      "MT_lag16": 29.5,
+      "MT_lag16": 29.2,
       "mT_lag13": 23.1143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-06-29",
-      "rainfall": 54.7,
-      "max_temp": 29.2333,
-      "min_temp": 23.8667,
+      "rainfall": 55.3,
+      "max_temp": 29.3857,
+      "min_temp": 23.8714,
       "R_lag10": 67.9,
       "MT_lag16": 33.9857,
       "mT_lag13": 22.9286

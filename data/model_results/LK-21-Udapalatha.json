@@ -1,6 +1,6 @@
 {
   "region_id": "LK-21-Udapalatha",
-  "generated_date": "2026-07-04",
+  "generated_date": "2026-07-05",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -8,7 +8,7 @@
       "max_temp": 24.1571,
       "min_temp": 19.1714,
       "R_lag10": 42.7,
-      "MT_lag16": 25.25,
+      "MT_lag16": 24.6,
       "mT_lag13": 19.9143
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-06-29",
       "rainfall": 50.5,
-      "max_temp": 24.3833,
-      "min_temp": 20.1333,
+      "max_temp": 24.7,
+      "min_temp": 19.9286,
       "R_lag10": 48.7,
       "MT_lag16": 29.8571,
       "mT_lag13": 18.2714

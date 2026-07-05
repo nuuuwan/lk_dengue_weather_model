@@ -1,6 +1,6 @@
 {
   "region_id": "LK-42-Musalai",
-  "generated_date": "2026-07-04",
+  "generated_date": "2026-07-05",
   "weekly_features": [
     {
       "week": "2025-10-20",
@@ -329,8 +329,8 @@
     {
       "week": "2026-06-29",
       "rainfall": 0.4,
-      "max_temp": 31.6167,
-      "min_temp": 27.7333,
+      "max_temp": 31.5714,
+      "min_temp": 27.6714,
       "R_lag10": 27.1,
       "MT_lag16": 33.0286,
       "mT_lag13": 23.8143
