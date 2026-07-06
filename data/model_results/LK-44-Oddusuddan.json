@@ -1,16 +1,7 @@
 {
   "region_id": "LK-44-Oddusuddan",
-  "generated_date": "2026-07-05",
+  "generated_date": "2026-07-06",
   "weekly_features": [
-    {
-      "week": "2025-10-20",
-      "rainfall": 79.0,
-      "max_temp": 28.6143,
-      "min_temp": 23.8571,
-      "R_lag10": 8.6,
-      "MT_lag16": 34.6,
-      "mT_lag13": 25.8
-    },
     {
       "week": "2025-10-27",
       "rainfall": 5.1,
@@ -334,6 +325,15 @@
       "R_lag10": 18.6,
       "MT_lag16": 31.6857,
       "mT_lag13": 23.0571
+    },
+    {
+      "week": "2026-07-06",
+      "rainfall": 0.0,
+      "max_temp": 35.6,
+      "min_temp": 26.7,
+      "R_lag10": 28.3,
+      "MT_lag16": 33.3,
+      "mT_lag13": 24.8
     }
   ]
 }

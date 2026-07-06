@@ -1,16 +1,7 @@
 {
   "region_id": "LK-32-Kotapola",
-  "generated_date": "2026-07-05",
+  "generated_date": "2026-07-06",
   "weekly_features": [
-    {
-      "week": "2025-10-20",
-      "rainfall": 82.7,
-      "max_temp": 24.9286,
-      "min_temp": 20.6143,
-      "R_lag10": 71.9,
-      "MT_lag16": 23.6,
-      "mT_lag13": 20.7857
-    },
     {
       "week": "2025-10-27",
       "rainfall": 13.8,
@@ -334,6 +325,15 @@
       "R_lag10": 74.9,
       "MT_lag16": 29.7143,
       "mT_lag13": 20.7714
+    },
+    {
+      "week": "2026-07-06",
+      "rainfall": 0.6,
+      "max_temp": 27.6,
+      "min_temp": 21.7,
+      "R_lag10": 80.1,
+      "MT_lag16": 29.2714,
+      "mT_lag13": 21.6714
     }
   ]
 }

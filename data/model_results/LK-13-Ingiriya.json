@@ -1,16 +1,7 @@
 {
   "region_id": "LK-13-Ingiriya",
-  "generated_date": "2026-07-05",
+  "generated_date": "2026-07-06",
   "weekly_features": [
-    {
-      "week": "2025-10-20",
-      "rainfall": 109.5,
-      "max_temp": 27.6143,
-      "min_temp": 22.1857,
-      "R_lag10": 83.3,
-      "MT_lag16": 28.2,
-      "mT_lag13": 22.2571
-    },
     {
       "week": "2025-10-27",
       "rainfall": 12.2,
@@ -334,6 +325,15 @@
       "R_lag10": 74.2,
       "MT_lag16": 33.3857,
       "mT_lag13": 23.0286
+    },
+    {
+      "week": "2026-07-06",
+      "rainfall": 0.8,
+      "max_temp": 30.1,
+      "min_temp": 23.1,
+      "R_lag10": 66.8,
+      "MT_lag16": 33.4143,
+      "mT_lag13": 23.3714
     }
   ]
 }

@@ -1,16 +1,7 @@
 {
   "region_id": "LK-52-Ampara",
-  "generated_date": "2026-07-05",
+  "generated_date": "2026-07-06",
   "weekly_features": [
-    {
-      "week": "2025-10-20",
-      "rainfall": 63.1,
-      "max_temp": 29.7857,
-      "min_temp": 24.3571,
-      "R_lag10": 8.2,
-      "MT_lag16": 35.4,
-      "mT_lag13": 24.6286
-    },
     {
       "week": "2025-10-27",
       "rainfall": 3.0,
@@ -334,6 +325,15 @@
       "R_lag10": 38.6,
       "MT_lag16": 30.5429,
       "mT_lag13": 23.9
+    },
+    {
+      "week": "2026-07-06",
+      "rainfall": 0.0,
+      "max_temp": 34.2,
+      "min_temp": 24.9,
+      "R_lag10": 39.1,
+      "MT_lag16": 31.5571,
+      "mT_lag13": 25.0429
     }
   ]
 }

@@ -1,16 +1,7 @@
 {
   "region_id": "LK-61-Mawathagama",
-  "generated_date": "2026-07-05",
+  "generated_date": "2026-07-06",
   "weekly_features": [
-    {
-      "week": "2025-10-20",
-      "rainfall": 117.0,
-      "max_temp": 26.8571,
-      "min_temp": 21.9571,
-      "R_lag10": 30.6,
-      "MT_lag16": 27.8,
-      "mT_lag13": 22.0
-    },
     {
       "week": "2025-10-27",
       "rainfall": 14.7,
@@ -334,6 +325,15 @@
       "R_lag10": 62.7,
       "MT_lag16": 34.7286,
       "mT_lag13": 22.4143
+    },
+    {
+      "week": "2026-07-06",
+      "rainfall": 0.1,
+      "max_temp": 29.6,
+      "min_temp": 23.6,
+      "R_lag10": 30.4,
+      "MT_lag16": 35.2,
+      "mT_lag13": 23.1286
     }
   ]
 }

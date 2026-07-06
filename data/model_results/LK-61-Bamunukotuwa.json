@@ -1,16 +1,7 @@
 {
   "region_id": "LK-61-Bamunukotuwa",
-  "generated_date": "2026-07-05",
+  "generated_date": "2026-07-06",
   "weekly_features": [
-    {
-      "week": "2025-10-20",
-      "rainfall": 104.4,
-      "max_temp": 27.6143,
-      "min_temp": 22.5286,
-      "R_lag10": 25.6,
-      "MT_lag16": 30.0,
-      "mT_lag13": 22.7571
-    },
     {
       "week": "2025-10-27",
       "rainfall": 13.4,
@@ -334,6 +325,15 @@
       "R_lag10": 35.8,
       "MT_lag16": 34.9,
       "mT_lag13": 23.7714
+    },
+    {
+      "week": "2026-07-06",
+      "rainfall": 0.2,
+      "max_temp": 29.6,
+      "min_temp": 24.0,
+      "R_lag10": 35.1,
+      "MT_lag16": 35.3143,
+      "mT_lag13": 24.5
     }
   ]
 }

@@ -1,16 +1,7 @@
 {
   "region_id": "LK-51-Chenkalady",
-  "generated_date": "2026-07-05",
+  "generated_date": "2026-07-06",
   "weekly_features": [
-    {
-      "week": "2025-10-20",
-      "rainfall": 132.7,
-      "max_temp": 30.1143,
-      "min_temp": 24.1857,
-      "R_lag10": 2.2,
-      "MT_lag16": 35.5,
-      "mT_lag13": 25.6571
-    },
     {
       "week": "2025-10-27",
       "rainfall": 2.4,
@@ -334,6 +325,15 @@
       "R_lag10": 21.4,
       "MT_lag16": 30.2286,
       "mT_lag13": 23.4571
+    },
+    {
+      "week": "2026-07-06",
+      "rainfall": 0.0,
+      "max_temp": 36.8,
+      "min_temp": 25.6,
+      "R_lag10": 28.8,
+      "MT_lag16": 31.4429,
+      "mT_lag13": 24.7714
     }
   ]
 }

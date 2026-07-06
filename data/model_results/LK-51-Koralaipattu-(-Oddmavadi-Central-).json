@@ -1,16 +1,7 @@
 {
   "region_id": "LK-51-Koralaipattu-(-Oddmavadi-Central-)",
-  "generated_date": "2026-07-05",
+  "generated_date": "2026-07-06",
   "weekly_features": [
-    {
-      "week": "2025-10-20",
-      "rainfall": 155.1,
-      "max_temp": 30.2429,
-      "min_temp": 25.0571,
-      "R_lag10": 2.6,
-      "MT_lag16": 35.7,
-      "mT_lag13": 27.2143
-    },
     {
       "week": "2025-10-27",
       "rainfall": 1.2,
@@ -334,6 +325,15 @@
       "R_lag10": 13.0,
       "MT_lag16": 29.6429,
       "mT_lag13": 24.2571
+    },
+    {
+      "week": "2026-07-06",
+      "rainfall": 0.0,
+      "max_temp": 36.8,
+      "min_temp": 27.4,
+      "R_lag10": 13.1,
+      "MT_lag16": 30.6,
+      "mT_lag13": 25.5286
     }
   ]
 }

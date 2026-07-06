@@ -1,16 +1,7 @@
 {
   "region_id": "LK-92-Bulathkohupitiya",
-  "generated_date": "2026-07-05",
+  "generated_date": "2026-07-06",
   "weekly_features": [
-    {
-      "week": "2025-10-20",
-      "rainfall": 113.6,
-      "max_temp": 27.9429,
-      "min_temp": 22.3857,
-      "R_lag10": 69.9,
-      "MT_lag16": 27.9,
-      "mT_lag13": 22.6
-    },
     {
       "week": "2025-10-27",
       "rainfall": 10.3,
@@ -334,6 +325,15 @@
       "R_lag10": 60.6,
       "MT_lag16": 34.1143,
       "mT_lag13": 22.4429
+    },
+    {
+      "week": "2026-07-06",
+      "rainfall": 0.0,
+      "max_temp": 30.5,
+      "min_temp": 22.4,
+      "R_lag10": 56.4,
+      "MT_lag16": 33.9286,
+      "mT_lag13": 23.4429
     }
   ]
 }
