@@ -1,6 +1,6 @@
 {
   "region_id": "LK-13-Bulathsinhala",
-  "generated_date": "2026-07-06",
+  "generated_date": "2026-07-07",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 30.5,
       "min_temp": 22.8714,
       "R_lag10": 17.9,
-      "MT_lag16": 29.3857,
+      "MT_lag16": 29.3667,
       "mT_lag13": 23.1286
     },
     {
@@ -328,8 +328,8 @@
     },
     {
       "week": "2026-07-06",
-      "rainfall": 1.6,
-      "max_temp": 30.1,
+      "rainfall": 3.0,
+      "max_temp": 30.35,
       "min_temp": 23.3,
       "R_lag10": 90.6,
       "MT_lag16": 33.3286,

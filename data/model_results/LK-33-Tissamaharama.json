@@ -1,6 +1,6 @@
 {
   "region_id": "LK-33-Tissamaharama",
-  "generated_date": "2026-07-06",
+  "generated_date": "2026-07-07",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 31.9429,
       "min_temp": 24.4571,
       "R_lag10": 3.4,
-      "MT_lag16": 36.7286,
+      "MT_lag16": 36.7833,
       "mT_lag13": 25.7
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-07-06",
       "rainfall": 0.0,
-      "max_temp": 37.5,
-      "min_temp": 26.6,
+      "max_temp": 38.05,
+      "min_temp": 26.75,
       "R_lag10": 22.8,
       "MT_lag16": 31.4,
       "mT_lag13": 25.2429

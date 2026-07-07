@@ -1,6 +1,6 @@
 {
   "region_id": "LK-32-Athuraliya",
-  "generated_date": "2026-07-06",
+  "generated_date": "2026-07-07",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 31.7429,
       "min_temp": 23.3714,
       "R_lag10": 10.2,
-      "MT_lag16": 30.4,
+      "MT_lag16": 30.3167,
       "mT_lag13": 24.0714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-06",
-      "rainfall": 0.0,
-      "max_temp": 31.1,
-      "min_temp": 24.6,
+      "rainfall": 0.1,
+      "max_temp": 31.4,
+      "min_temp": 24.5,
       "R_lag10": 73.5,
       "MT_lag16": 32.7714,
       "mT_lag13": 24.2571
