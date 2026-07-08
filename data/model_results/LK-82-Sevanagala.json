@@ -1,6 +1,6 @@
 {
   "region_id": "LK-82-Sevanagala",
-  "generated_date": "2026-07-07",
+  "generated_date": "2026-07-08",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 32.4429,
       "min_temp": 23.8714,
       "R_lag10": 3.3,
-      "MT_lag16": 34.6167,
+      "MT_lag16": 34.56,
       "mT_lag13": 25.3429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-06",
-      "rainfall": 0.0,
-      "max_temp": 35.35,
-      "min_temp": 25.6,
+      "rainfall": 1.5,
+      "max_temp": 35.4667,
+      "min_temp": 25.6667,
       "R_lag10": 66.1,
       "MT_lag16": 32.5571,
       "mT_lag13": 24.6143

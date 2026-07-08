@@ -1,6 +1,6 @@
 {
   "region_id": "LK-43-Cheddikulam",
-  "generated_date": "2026-07-07",
+  "generated_date": "2026-07-08",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 32.0429,
       "min_temp": 24.5714,
       "R_lag10": 6.2,
-      "MT_lag16": 35.9667,
+      "MT_lag16": 36.12,
       "mT_lag13": 25.3429
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-07-06",
       "rainfall": 0.0,
-      "max_temp": 35.1,
-      "min_temp": 26.65,
+      "max_temp": 35.2,
+      "min_temp": 26.6,
       "R_lag10": 24.6,
       "MT_lag16": 35.2429,
       "mT_lag13": 25.4286
