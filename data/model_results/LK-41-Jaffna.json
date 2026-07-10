@@ -1,6 +1,6 @@
 {
   "region_id": "LK-41-Jaffna",
-  "generated_date": "2026-07-08",
+  "generated_date": "2026-07-10",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 30.2571,
       "min_temp": 26.7286,
       "R_lag10": 3.8,
-      "MT_lag16": 32.8,
+      "MT_lag16": 32.7333,
       "mT_lag13": 26.7286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-06",
-      "rainfall": 0.1,
-      "max_temp": 31.0333,
-      "min_temp": 28.4333,
+      "rainfall": 0.6,
+      "max_temp": 31.34,
+      "min_temp": 28.46,
       "R_lag10": 3.3,
       "MT_lag16": 32.3857,
       "mT_lag13": 27.0714

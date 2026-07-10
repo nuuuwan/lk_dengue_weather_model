@@ -1,6 +1,6 @@
 {
   "region_id": "LK-32-Welipitiya",
-  "generated_date": "2026-07-08",
+  "generated_date": "2026-07-10",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 30.7571,
       "min_temp": 24.3143,
       "R_lag10": 8.7,
-      "MT_lag16": 30.18,
+      "MT_lag16": 30.0333,
       "mT_lag13": 24.5571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-06",
-      "rainfall": 0.4,
-      "max_temp": 31.2,
-      "min_temp": 25.5667,
+      "rainfall": 4.0,
+      "max_temp": 31.16,
+      "min_temp": 25.6,
       "R_lag10": 63.4,
       "MT_lag16": 31.4714,
       "mT_lag13": 25.0286

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-31-Bentota",
-  "generated_date": "2026-07-08",
+  "generated_date": "2026-07-10",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 29.9286,
       "min_temp": 24.8714,
       "R_lag10": 24.7,
-      "MT_lag16": 29.16,
+      "MT_lag16": 29.0667,
       "mT_lag13": 24.8857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-06",
-      "rainfall": 4.3,
-      "max_temp": 29.7333,
-      "min_temp": 26.0333,
+      "rainfall": 18.1,
+      "max_temp": 29.66,
+      "min_temp": 25.82,
       "R_lag10": 65.1,
       "MT_lag16": 31.7857,
       "mT_lag13": 24.9286

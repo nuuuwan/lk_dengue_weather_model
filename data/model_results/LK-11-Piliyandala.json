@@ -1,6 +1,6 @@
 {
   "region_id": "LK-11-Piliyandala",
-  "generated_date": "2026-07-08",
+  "generated_date": "2026-07-10",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 30.1571,
       "min_temp": 25.4571,
       "R_lag10": 19.9,
-      "MT_lag16": 29.5,
+      "MT_lag16": 29.3333,
       "mT_lag13": 25.1286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-06",
-      "rainfall": 4.6,
-      "max_temp": 29.8,
-      "min_temp": 26.6,
+      "rainfall": 18.7,
+      "max_temp": 29.76,
+      "min_temp": 26.5,
       "R_lag10": 39.9,
       "MT_lag16": 31.7857,
       "mT_lag13": 25.4286
