@@ -1,6 +1,6 @@
 {
   "region_id": "LK-21-Bambaradeniya",
-  "generated_date": "2026-07-10",
+  "generated_date": "2026-07-11",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 28.3,
       "min_temp": 19.4286,
       "R_lag10": 8.4,
-      "MT_lag16": 26.6667,
+      "MT_lag16": 26.65,
       "mT_lag13": 20.3857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-06",
-      "rainfall": 11.8,
-      "max_temp": 27.62,
-      "min_temp": 21.74,
+      "rainfall": 15.2,
+      "max_temp": 27.6,
+      "min_temp": 21.85,
       "R_lag10": 43.9,
       "MT_lag16": 31.9143,
       "mT_lag13": 20.0714

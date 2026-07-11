@@ -1,6 +1,6 @@
 {
   "region_id": "LK-13-Kalutara",
-  "generated_date": "2026-07-10",
+  "generated_date": "2026-07-11",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 30.0,
       "min_temp": 24.6,
       "R_lag10": 19.5,
-      "MT_lag16": 29.1667,
+      "MT_lag16": 29.25,
       "mT_lag13": 24.6
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-06",
-      "rainfall": 23.9,
-      "max_temp": 29.76,
-      "min_temp": 25.88,
+      "rainfall": 34.2,
+      "max_temp": 29.7333,
+      "min_temp": 25.7,
       "R_lag10": 31.8,
       "MT_lag16": 32.5429,
       "mT_lag13": 25.0

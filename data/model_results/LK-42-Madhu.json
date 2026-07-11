@@ -1,6 +1,6 @@
 {
   "region_id": "LK-42-Madhu",
-  "generated_date": "2026-07-10",
+  "generated_date": "2026-07-11",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 31.9857,
       "min_temp": 24.7143,
       "R_lag10": 4.3,
-      "MT_lag16": 35.0333,
+      "MT_lag16": 34.75,
       "mT_lag13": 25.3286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-06",
-      "rainfall": 5.7,
-      "max_temp": 34.54,
-      "min_temp": 26.82,
+      "rainfall": 5.8,
+      "max_temp": 34.5,
+      "min_temp": 26.8,
       "R_lag10": 17.7,
       "MT_lag16": 34.8714,
       "mT_lag13": 25.1571

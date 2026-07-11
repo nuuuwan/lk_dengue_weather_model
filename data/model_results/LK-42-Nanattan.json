@@ -1,6 +1,6 @@
 {
   "region_id": "LK-42-Nanattan",
-  "generated_date": "2026-07-10",
+  "generated_date": "2026-07-11",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 30.3143,
       "min_temp": 25.9714,
       "R_lag10": 5.9,
-      "MT_lag16": 32.4667,
+      "MT_lag16": 32.35,
       "mT_lag13": 26.0429
     },
     {
@@ -328,8 +328,8 @@
     },
     {
       "week": "2026-07-06",
-      "rainfall": 0.0,
-      "max_temp": 31.64,
+      "rainfall": 0.1,
+      "max_temp": 31.5667,
       "min_temp": 27.5,
       "R_lag10": 27.4,
       "MT_lag16": 33.5286,

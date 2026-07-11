@@ -1,6 +1,6 @@
 {
   "region_id": "LK-12-Minuwangoda",
-  "generated_date": "2026-07-10",
+  "generated_date": "2026-07-11",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-06",
-      "rainfall": 21.0,
-      "max_temp": 30.32,
-      "min_temp": 24.52,
+      "rainfall": 23.1,
+      "max_temp": 30.3167,
+      "min_temp": 24.5333,
       "R_lag10": 33.6,
       "MT_lag16": 33.3,
       "mT_lag13": 24.5857
