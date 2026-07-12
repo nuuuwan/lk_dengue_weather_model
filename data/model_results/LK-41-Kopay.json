@@ -1,6 +1,6 @@
 {
   "region_id": "LK-41-Kopay",
-  "generated_date": "2026-07-11",
+  "generated_date": "2026-07-12",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 31.1429,
       "min_temp": 25.6,
       "R_lag10": 22.0,
-      "MT_lag16": 33.55,
+      "MT_lag16": 32.9,
       "mT_lag13": 25.7571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-06",
-      "rainfall": 9.4,
-      "max_temp": 32.5667,
-      "min_temp": 28.1833,
+      "rainfall": 9.7,
+      "max_temp": 32.4857,
+      "min_temp": 28.1571,
       "R_lag10": 30.9,
       "MT_lag16": 33.0,
       "mT_lag13": 25.9286

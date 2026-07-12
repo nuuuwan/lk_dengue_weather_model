@@ -1,6 +1,6 @@
 {
   "region_id": "LK-11-Rathmalana",
-  "generated_date": "2026-07-11",
+  "generated_date": "2026-07-12",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 30.1714,
       "min_temp": 25.3429,
       "R_lag10": 16.0,
-      "MT_lag16": 29.45,
+      "MT_lag16": 29.5,
       "mT_lag13": 25.1429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-06",
-      "rainfall": 22.6,
-      "max_temp": 29.7,
-      "min_temp": 26.35,
+      "rainfall": 24.5,
+      "max_temp": 29.6857,
+      "min_temp": 26.4571,
       "R_lag10": 42.1,
       "MT_lag16": 31.8,
       "mT_lag13": 25.5857

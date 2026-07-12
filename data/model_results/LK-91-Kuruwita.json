@@ -1,6 +1,6 @@
 {
   "region_id": "LK-91-Kuruwita",
-  "generated_date": "2026-07-11",
+  "generated_date": "2026-07-12",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 31.1,
       "min_temp": 22.6286,
       "R_lag10": 23.7,
-      "MT_lag16": 29.7,
+      "MT_lag16": 29.8,
       "mT_lag13": 23.4
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-06",
-      "rainfall": 36.5,
-      "max_temp": 30.5167,
-      "min_temp": 23.55,
+      "rainfall": 39.4,
+      "max_temp": 30.5143,
+      "min_temp": 23.5857,
       "R_lag10": 58.1,
       "MT_lag16": 34.1714,
       "mT_lag13": 23.5143

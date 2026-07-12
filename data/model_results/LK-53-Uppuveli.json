@@ -1,6 +1,6 @@
 {
   "region_id": "LK-53-Uppuveli",
-  "generated_date": "2026-07-11",
+  "generated_date": "2026-07-12",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 31.6286,
       "min_temp": 25.1286,
       "R_lag10": 1.1,
-      "MT_lag16": 35.85,
+      "MT_lag16": 36.2,
       "mT_lag13": 25.8143
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-07-06",
       "rainfall": 4.1,
-      "max_temp": 36.4667,
-      "min_temp": 27.05,
+      "max_temp": 36.3714,
+      "min_temp": 27.0857,
       "R_lag10": 27.9,
       "MT_lag16": 30.7,
       "mT_lag13": 25.7714

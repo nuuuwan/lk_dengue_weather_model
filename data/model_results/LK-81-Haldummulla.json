@@ -1,6 +1,6 @@
 {
   "region_id": "LK-81-Haldummulla",
-  "generated_date": "2026-07-11",
+  "generated_date": "2026-07-12",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 29.3571,
       "min_temp": 19.1,
       "R_lag10": 4.9,
-      "MT_lag16": 33.25,
+      "MT_lag16": 33.5,
       "mT_lag13": 20.4143
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-07-06",
       "rainfall": 7.7,
-      "max_temp": 32.7333,
-      "min_temp": 21.0833,
+      "max_temp": 32.6571,
+      "min_temp": 21.3,
       "R_lag10": 44.0,
       "MT_lag16": 29.0857,
       "mT_lag13": 20.1429

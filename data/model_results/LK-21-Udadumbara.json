@@ -1,6 +1,6 @@
 {
   "region_id": "LK-21-Udadumbara",
-  "generated_date": "2026-07-11",
+  "generated_date": "2026-07-12",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 27.0571,
       "min_temp": 19.3429,
       "R_lag10": 13.9,
-      "MT_lag16": 25.85,
+      "MT_lag16": 26.6,
       "mT_lag13": 20.0143
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-07-06",
       "rainfall": 7.1,
-      "max_temp": 27.1833,
-      "min_temp": 20.4667,
+      "max_temp": 27.2571,
+      "min_temp": 20.5,
       "R_lag10": 26.2,
       "MT_lag16": 27.3429,
       "mT_lag13": 19.9714

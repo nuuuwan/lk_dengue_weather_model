@@ -1,6 +1,6 @@
 {
   "region_id": "LK-72-Lankapura",
-  "generated_date": "2026-07-11",
+  "generated_date": "2026-07-12",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 32.3143,
       "min_temp": 24.5,
       "R_lag10": 3.9,
-      "MT_lag16": 34.15,
+      "MT_lag16": 34.3,
       "mT_lag13": 25.4
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-07-06",
       "rainfall": 0.9,
-      "max_temp": 34.5667,
-      "min_temp": 26.95,
+      "max_temp": 34.5429,
+      "min_temp": 26.9857,
       "R_lag10": 38.7,
       "MT_lag16": 32.1,
       "mT_lag13": 24.9286

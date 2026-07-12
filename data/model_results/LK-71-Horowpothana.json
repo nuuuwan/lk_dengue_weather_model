@@ -1,6 +1,6 @@
 {
   "region_id": "LK-71-Horowpothana",
-  "generated_date": "2026-07-11",
+  "generated_date": "2026-07-12",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 31.5714,
       "min_temp": 24.2714,
       "R_lag10": 3.2,
-      "MT_lag16": 36.15,
+      "MT_lag16": 36.0,
       "mT_lag13": 25.1571
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-07-06",
       "rainfall": 3.4,
-      "max_temp": 35.3333,
-      "min_temp": 26.2333,
+      "max_temp": 35.2286,
+      "min_temp": 26.2714,
       "R_lag10": 25.7,
       "MT_lag16": 32.2714,
       "mT_lag13": 24.9143

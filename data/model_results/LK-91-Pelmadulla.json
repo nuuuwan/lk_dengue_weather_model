@@ -1,6 +1,6 @@
 {
   "region_id": "LK-91-Pelmadulla",
-  "generated_date": "2026-07-11",
+  "generated_date": "2026-07-12",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 30.8857,
       "min_temp": 22.9429,
       "R_lag10": 16.0,
-      "MT_lag16": 29.4,
+      "MT_lag16": 29.6,
       "mT_lag13": 23.3857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-06",
-      "rainfall": 29.9,
-      "max_temp": 30.0667,
-      "min_temp": 23.6833,
+      "rainfall": 35.1,
+      "max_temp": 30.1,
+      "min_temp": 23.7,
       "R_lag10": 67.1,
       "MT_lag16": 33.6571,
       "mT_lag13": 23.4286

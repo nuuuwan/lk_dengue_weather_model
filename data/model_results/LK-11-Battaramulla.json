@@ -1,6 +1,6 @@
 {
   "region_id": "LK-11-Battaramulla",
-  "generated_date": "2026-07-11",
+  "generated_date": "2026-07-12",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 30.2571,
       "min_temp": 25.3286,
       "R_lag10": 12.9,
-      "MT_lag16": 29.75,
+      "MT_lag16": 30.0,
       "mT_lag13": 25.1286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-06",
-      "rainfall": 23.5,
-      "max_temp": 29.7167,
-      "min_temp": 26.3,
+      "rainfall": 25.5,
+      "max_temp": 29.7,
+      "min_temp": 26.4286,
       "R_lag10": 31.0,
       "MT_lag16": 31.8,
       "mT_lag13": 25.8

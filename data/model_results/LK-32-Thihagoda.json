@@ -1,6 +1,6 @@
 {
   "region_id": "LK-32-Thihagoda",
-  "generated_date": "2026-07-11",
+  "generated_date": "2026-07-12",
   "weekly_features": [
     {
       "week": "2025-10-27",
@@ -8,7 +8,7 @@
       "max_temp": 30.9143,
       "min_temp": 24.2571,
       "R_lag10": 18.2,
-      "MT_lag16": 30.35,
+      "MT_lag16": 30.5,
       "mT_lag13": 24.5714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-06",
-      "rainfall": 5.6,
-      "max_temp": 31.2333,
-      "min_temp": 25.5,
+      "rainfall": 12.4,
+      "max_temp": 31.0857,
+      "min_temp": 25.4857,
       "R_lag10": 57.5,
       "MT_lag16": 31.5286,
       "mT_lag13": 25.0857
