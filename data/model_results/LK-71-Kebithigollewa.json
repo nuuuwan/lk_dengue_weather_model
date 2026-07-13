@@ -1,16 +1,7 @@
 {
   "region_id": "LK-71-Kebithigollewa",
-  "generated_date": "2026-07-12",
+  "generated_date": "2026-07-13",
   "weekly_features": [
-    {
-      "week": "2025-10-27",
-      "rainfall": 2.2,
-      "max_temp": 31.3429,
-      "min_temp": 24.1714,
-      "R_lag10": 2.0,
-      "MT_lag16": 37.0,
-      "mT_lag13": 24.9
-    },
     {
       "week": "2025-11-03",
       "rainfall": 25.4,
@@ -334,6 +325,15 @@
       "R_lag10": 17.6,
       "MT_lag16": 32.3571,
       "mT_lag13": 24.8286
+    },
+    {
+      "week": "2026-07-13",
+      "rainfall": 0.0,
+      "max_temp": 35.4,
+      "min_temp": 26.2,
+      "R_lag10": 88.0,
+      "MT_lag16": 34.1429,
+      "mT_lag13": 24.1429
     }
   ]
 }

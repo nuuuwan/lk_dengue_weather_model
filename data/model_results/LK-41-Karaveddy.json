@@ -1,16 +1,7 @@
 {
   "region_id": "LK-41-Karaveddy",
-  "generated_date": "2026-07-12",
+  "generated_date": "2026-07-13",
   "weekly_features": [
-    {
-      "week": "2025-10-27",
-      "rainfall": 9.8,
-      "max_temp": 31.2857,
-      "min_temp": 25.7286,
-      "R_lag10": 6.3,
-      "MT_lag16": 34.2,
-      "mT_lag13": 26.0571
-    },
     {
       "week": "2025-11-03",
       "rainfall": 22.2,
@@ -334,6 +325,15 @@
       "R_lag10": 3.9,
       "MT_lag16": 31.6571,
       "mT_lag13": 26.3286
+    },
+    {
+      "week": "2026-07-13",
+      "rainfall": 0.0,
+      "max_temp": 33.4,
+      "min_temp": 27.9,
+      "R_lag10": 38.6,
+      "MT_lag16": 31.8571,
+      "mT_lag13": 26.3714
     }
   ]
 }

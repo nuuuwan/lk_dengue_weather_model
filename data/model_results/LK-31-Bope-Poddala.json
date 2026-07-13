@@ -1,16 +1,7 @@
 {
   "region_id": "LK-31-Bope-Poddala",
-  "generated_date": "2026-07-12",
+  "generated_date": "2026-07-13",
   "weekly_features": [
-    {
-      "week": "2025-10-27",
-      "rainfall": 4.6,
-      "max_temp": 30.3429,
-      "min_temp": 25.0429,
-      "R_lag10": 16.9,
-      "MT_lag16": 29.7,
-      "mT_lag13": 24.9286
-    },
     {
       "week": "2025-11-03",
       "rainfall": 14.6,
@@ -334,6 +325,15 @@
       "R_lag10": 77.5,
       "MT_lag16": 31.6,
       "mT_lag13": 25.3286
+    },
+    {
+      "week": "2026-07-13",
+      "rainfall": 4.8,
+      "max_temp": 29.2,
+      "min_temp": 25.8,
+      "R_lag10": 71.1,
+      "MT_lag16": 32.3429,
+      "mT_lag13": 24.2429
     }
   ]
 }
