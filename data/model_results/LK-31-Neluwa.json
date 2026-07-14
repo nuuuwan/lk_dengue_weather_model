@@ -1,6 +1,6 @@
 {
   "region_id": "LK-31-Neluwa",
-  "generated_date": "2026-07-13",
+  "generated_date": "2026-07-14",
   "weekly_features": [
     {
       "week": "2025-11-03",
@@ -8,7 +8,7 @@
       "max_temp": 29.8143,
       "min_temp": 23.0143,
       "R_lag10": 89.9,
-      "MT_lag16": 26.9714,
+      "MT_lag16": 26.9167,
       "mT_lag13": 23.5286
     },
     {
@@ -328,8 +328,8 @@
     },
     {
       "week": "2026-07-13",
-      "rainfall": 8.9,
-      "max_temp": 29.1,
+      "rainfall": 15.7,
+      "max_temp": 29.45,
       "min_temp": 24.4,
       "R_lag10": 86.8,
       "MT_lag16": 34.2,

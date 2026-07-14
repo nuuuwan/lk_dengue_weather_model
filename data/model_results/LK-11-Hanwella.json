@@ -1,6 +1,6 @@
 {
   "region_id": "LK-11-Hanwella",
-  "generated_date": "2026-07-13",
+  "generated_date": "2026-07-14",
   "weekly_features": [
     {
       "week": "2025-11-03",
@@ -8,7 +8,7 @@
       "max_temp": 29.8,
       "min_temp": 22.3857,
       "R_lag10": 117.5,
-      "MT_lag16": 27.9714,
+      "MT_lag16": 28.1333,
       "mT_lag13": 22.8714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-13",
-      "rainfall": 4.4,
-      "max_temp": 29.5,
-      "min_temp": 24.4,
+      "rainfall": 5.9,
+      "max_temp": 29.85,
+      "min_temp": 24.45,
       "R_lag10": 61.6,
       "MT_lag16": 34.6571,
       "mT_lag13": 23.7571

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-21-Thumpane",
-  "generated_date": "2026-07-13",
+  "generated_date": "2026-07-14",
   "weekly_features": [
     {
       "week": "2025-11-03",
@@ -8,7 +8,7 @@
       "max_temp": 29.6143,
       "min_temp": 21.6,
       "R_lag10": 45.1,
-      "MT_lag16": 27.6,
+      "MT_lag16": 27.5333,
       "mT_lag13": 22.5429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-13",
-      "rainfall": 1.6,
-      "max_temp": 29.2,
-      "min_temp": 24.1,
+      "rainfall": 2.2,
+      "max_temp": 29.25,
+      "min_temp": 24.0,
       "R_lag10": 69.4,
       "MT_lag16": 36.1429,
       "mT_lag13": 22.4571

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-12-Wattala",
-  "generated_date": "2026-07-13",
+  "generated_date": "2026-07-14",
   "weekly_features": [
     {
       "week": "2025-11-03",
@@ -8,7 +8,7 @@
       "max_temp": 29.6,
       "min_temp": 24.0429,
       "R_lag10": 81.0,
-      "MT_lag16": 28.4,
+      "MT_lag16": 28.3667,
       "mT_lag13": 24.9286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-13",
-      "rainfall": 4.4,
-      "max_temp": 28.8,
-      "min_temp": 26.8,
+      "rainfall": 5.5,
+      "max_temp": 28.95,
+      "min_temp": 26.9,
       "R_lag10": 31.4,
       "MT_lag16": 32.7714,
       "mT_lag13": 24.6571

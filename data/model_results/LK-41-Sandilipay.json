@@ -1,6 +1,6 @@
 {
   "region_id": "LK-41-Sandilipay",
-  "generated_date": "2026-07-13",
+  "generated_date": "2026-07-14",
   "weekly_features": [
     {
       "week": "2025-11-03",
@@ -8,7 +8,7 @@
       "max_temp": 30.5429,
       "min_temp": 26.0286,
       "R_lag10": 6.4,
-      "MT_lag16": 32.9571,
+      "MT_lag16": 32.8667,
       "mT_lag13": 26.5857
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-07-13",
       "rainfall": 0.0,
-      "max_temp": 32.7,
-      "min_temp": 28.1,
+      "max_temp": 32.5,
+      "min_temp": 28.0,
       "R_lag10": 50.1,
       "MT_lag16": 32.2857,
       "mT_lag13": 27.1429
