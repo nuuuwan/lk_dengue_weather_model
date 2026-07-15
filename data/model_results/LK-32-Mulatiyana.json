@@ -1,6 +1,6 @@
 {
   "region_id": "LK-32-Mulatiyana",
-  "generated_date": "2026-07-14",
+  "generated_date": "2026-07-15",
   "weekly_features": [
     {
       "week": "2025-11-03",
@@ -8,7 +8,7 @@
       "max_temp": 31.3286,
       "min_temp": 23.0,
       "R_lag10": 27.3,
-      "MT_lag16": 27.1667,
+      "MT_lag16": 27.16,
       "mT_lag13": 23.5143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-13",
-      "rainfall": 4.8,
-      "max_temp": 30.3,
-      "min_temp": 24.6,
+      "rainfall": 5.9,
+      "max_temp": 30.3333,
+      "min_temp": 24.5667,
       "R_lag10": 94.5,
       "MT_lag16": 34.6714,
       "mT_lag13": 23.3

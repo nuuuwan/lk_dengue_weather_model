@@ -4,7 +4,7 @@ Dengue outbreak weather-risk model for Sri Lanka MOH regions.
 
 > 📖 **Methodology:** [README.methodology.md](README.methodology.md)
 
-_Last updated: 14 July 2026 · 333 regions with model results._
+_Last updated: 15 July 2026 · 333 regions with model results._
 
 ---
 
