@@ -1,6 +1,6 @@
 {
   "region_id": "LK-31-Imaduwa",
-  "generated_date": "2026-07-15",
+  "generated_date": "2026-07-16",
   "weekly_features": [
     {
       "week": "2025-11-03",
@@ -8,7 +8,7 @@
       "max_temp": 30.2143,
       "min_temp": 24.2571,
       "R_lag10": 48.3,
-      "MT_lag16": 27.88,
+      "MT_lag16": 27.9,
       "mT_lag13": 24.7
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-13",
-      "rainfall": 10.4,
-      "max_temp": 29.3333,
-      "min_temp": 25.9333,
+      "rainfall": 11.6,
+      "max_temp": 29.5,
+      "min_temp": 25.775,
       "R_lag10": 60.9,
       "MT_lag16": 32.0571,
       "mT_lag13": 24.3714

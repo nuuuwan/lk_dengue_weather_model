@@ -4,7 +4,7 @@ Dengue outbreak weather-risk model for Sri Lanka MOH regions.
 
 > 📖 **Methodology:** [README.methodology.md](README.methodology.md)
 
-_Last updated: 15 July 2026 · 333 regions with model results._
+_Last updated: 16 July 2026 · 333 regions with model results._
 
 ---
 
@@ -32,19 +32,19 @@ Sorted by composite weather-risk score (descending).
 | Nuwaragam Palatha East | LK-71 | 2.70 | 108.7 | 34.9 | 24.5 |
 | Karuwalagaswewa | LK-62 | 2.67 | 98.6 | 36.0 | 24.4 |
 | Puttalam | LK-62 | 2.55 | 104.3 | 35.2 | 24.4 |
-| Mihintale | LK-71 | 2.46 | 104.7 | 34.8 | 24.4 |
 | Kobeigane | LK-61 | 2.46 | 89.7 | 36.5 | 24.5 |
+| Mihintale | LK-71 | 2.46 | 104.7 | 34.8 | 24.4 |
 | Nochchiyagama | LK-71 | 2.41 | 89.3 | 36.4 | 24.5 |
 | Mallawapitiya | LK-61 | 2.41 | 88.9 | 37.0 | 24.0 |
 | Kurunegala | LK-61 | 2.41 | 88.9 | 37.0 | 24.0 |
 | Lankapura | LK-72 | 2.31 | 108.9 | 33.5 | 24.8 |
-| Nikaweratiya | LK-61 | 2.30 | 86.2 | 36.4 | 24.5 |
 | Lunugamvehera | LK-33 | 2.30 | 97.1 | 35.2 | 24.5 |
+| Nikaweratiya | LK-61 | 2.30 | 86.2 | 36.4 | 24.5 |
 | Okewela | LK-33 | 2.28 | 115.3 | 34.4 | 23.2 |
-| Madhu | LK-42 | 2.24 | 84.2 | 36.4 | 24.6 |
 | Rajanganaya | LK-71 | 2.24 | 88.3 | 35.8 | 24.8 |
-| Ambanpola | LK-61 | 2.19 | 92.1 | 35.8 | 24.2 |
+| Madhu | LK-42 | 2.24 | 84.2 | 36.4 | 24.6 |
 | Giribawa | LK-61 | 2.19 | 84.3 | 36.0 | 24.8 |
+| Ambanpola | LK-61 | 2.19 | 92.1 | 35.8 | 24.2 |
 | Thalawa | LK-71 | 2.14 | 91.9 | 35.3 | 24.5 |
 
 > **Note:** Risk scores are weather-only (composite z-score of lagged

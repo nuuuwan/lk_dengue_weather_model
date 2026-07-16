@@ -1,6 +1,6 @@
 {
   "region_id": "LK-22-Wilgamuwa",
-  "generated_date": "2026-07-15",
+  "generated_date": "2026-07-16",
   "weekly_features": [
     {
       "week": "2025-11-03",
@@ -8,7 +8,7 @@
       "max_temp": 34.5429,
       "min_temp": 22.8714,
       "R_lag10": 3.5,
-      "MT_lag16": 32.5,
+      "MT_lag16": 31.95,
       "mT_lag13": 23.9857
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-07-13",
       "rainfall": 0.0,
-      "max_temp": 36.0333,
-      "min_temp": 26.8,
+      "max_temp": 36.225,
+      "min_temp": 26.175,
       "R_lag10": 77.1,
       "MT_lag16": 33.7286,
       "mT_lag13": 23.1286
