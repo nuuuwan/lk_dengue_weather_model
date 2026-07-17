@@ -1,6 +1,6 @@
 {
   "region_id": "LK-13-Mathugama",
-  "generated_date": "2026-07-16",
+  "generated_date": "2026-07-17",
   "weekly_features": [
     {
       "week": "2025-11-03",
@@ -8,7 +8,7 @@
       "max_temp": 29.6714,
       "min_temp": 23.3286,
       "R_lag10": 105.7,
-      "MT_lag16": 28.1,
+      "MT_lag16": 27.6667,
       "mT_lag13": 23.6
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-13",
-      "rainfall": 12.6,
-      "max_temp": 29.425,
-      "min_temp": 24.95,
+      "rainfall": 15.2,
+      "max_temp": 29.42,
+      "min_temp": 24.88,
       "R_lag10": 54.7,
       "MT_lag16": 33.3,
       "mT_lag13": 23.4857

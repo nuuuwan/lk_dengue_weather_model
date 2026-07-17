@@ -1,6 +1,6 @@
 {
   "region_id": "LK-52-Navithanveli",
-  "generated_date": "2026-07-16",
+  "generated_date": "2026-07-17",
   "weekly_features": [
     {
       "week": "2025-11-03",
@@ -8,7 +8,7 @@
       "max_temp": 32.3429,
       "min_temp": 23.6429,
       "R_lag10": 7.9,
-      "MT_lag16": 34.225,
+      "MT_lag16": 34.1,
       "mT_lag13": 24.0429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-13",
-      "rainfall": 0.7,
-      "max_temp": 35.625,
-      "min_temp": 25.975,
+      "rainfall": 2.2,
+      "max_temp": 35.48,
+      "min_temp": 25.82,
       "R_lag10": 79.8,
       "MT_lag16": 31.8571,
       "mT_lag13": 24.8714
