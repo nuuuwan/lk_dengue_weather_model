@@ -1,6 +1,6 @@
 {
   "region_id": "LK-31-Rathgama",
-  "generated_date": "2026-07-17",
+  "generated_date": "2026-07-18",
   "weekly_features": [
     {
       "week": "2025-11-03",
@@ -8,7 +8,7 @@
       "max_temp": 29.6429,
       "min_temp": 24.3857,
       "R_lag10": 77.3,
-      "MT_lag16": 27.2667,
+      "MT_lag16": 27.6,
       "mT_lag13": 24.7857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-13",
-      "rainfall": 14.2,
-      "max_temp": 29.08,
-      "min_temp": 25.98,
+      "rainfall": 14.6,
+      "max_temp": 29.1833,
+      "min_temp": 26.0167,
       "R_lag10": 66.7,
       "MT_lag16": 32.0286,
       "mT_lag13": 24.2286

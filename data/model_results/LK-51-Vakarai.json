@@ -1,6 +1,6 @@
 {
   "region_id": "LK-51-Vakarai",
-  "generated_date": "2026-07-17",
+  "generated_date": "2026-07-18",
   "weekly_features": [
     {
       "week": "2025-11-03",
@@ -8,7 +8,7 @@
       "max_temp": 32.4857,
       "min_temp": 24.2429,
       "R_lag10": 9.7,
-      "MT_lag16": 33.8333,
+      "MT_lag16": 33.25,
       "mT_lag13": 25.7714
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-07-13",
       "rainfall": 0.3,
-      "max_temp": 36.26,
-      "min_temp": 26.98,
+      "max_temp": 36.15,
+      "min_temp": 27.0333,
       "R_lag10": 67.3,
       "MT_lag16": 31.5143,
       "mT_lag13": 24.8571
