@@ -1,6 +1,6 @@
 {
   "region_id": "LK-13-Agalawatta",
-  "generated_date": "2026-07-18",
+  "generated_date": "2026-07-19",
   "weekly_features": [
     {
       "week": "2025-11-03",
@@ -8,7 +8,7 @@
       "max_temp": 29.5286,
       "min_temp": 22.6857,
       "R_lag10": 97.4,
-      "MT_lag16": 26.9,
+      "MT_lag16": 26.2,
       "mT_lag13": 22.9857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-13",
-      "rainfall": 22.2,
-      "max_temp": 29.5833,
-      "min_temp": 24.2167,
+      "rainfall": 34.2,
+      "max_temp": 29.4429,
+      "min_temp": 24.0571,
       "R_lag10": 51.3,
       "MT_lag16": 33.5286,
       "mT_lag13": 23.3

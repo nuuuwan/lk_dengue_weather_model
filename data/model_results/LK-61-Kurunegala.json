@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Kurunegala",
-  "generated_date": "2026-07-18",
+  "generated_date": "2026-07-19",
   "weekly_features": [
     {
       "week": "2025-11-03",
@@ -8,7 +8,7 @@
       "max_temp": 30.0429,
       "min_temp": 22.4143,
       "R_lag10": 31.9,
-      "MT_lag16": 28.4,
+      "MT_lag16": 26.6,
       "mT_lag13": 23.6571
     },
     {
@@ -328,8 +328,8 @@
     },
     {
       "week": "2026-07-13",
-      "rainfall": 7.8,
-      "max_temp": 30.1833,
+      "rainfall": 10.9,
+      "max_temp": 30.1429,
       "min_temp": 24.2,
       "R_lag10": 88.9,
       "MT_lag16": 36.9714,
