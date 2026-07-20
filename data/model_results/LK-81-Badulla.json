@@ -1,16 +1,7 @@
 {
   "region_id": "LK-81-Badulla",
-  "generated_date": "2026-07-19",
+  "generated_date": "2026-07-20",
   "weekly_features": [
-    {
-      "week": "2025-11-03",
-      "rainfall": 11.6,
-      "max_temp": 26.5714,
-      "min_temp": 16.9,
-      "R_lag10": 25.0,
-      "MT_lag16": 25.2,
-      "mT_lag13": 17.8
-    },
     {
       "week": "2025-11-10",
       "rainfall": 56.0,
@@ -334,6 +325,15 @@
       "R_lag10": 75.0,
       "MT_lag16": 27.2571,
       "mT_lag13": 18.1429
+    },
+    {
+      "week": "2026-07-20",
+      "rainfall": 5.2,
+      "max_temp": 28.3,
+      "min_temp": 18.3,
+      "R_lag10": 68.4,
+      "MT_lag16": 27.4857,
+      "mT_lag13": 17.9857
     }
   ]
 }

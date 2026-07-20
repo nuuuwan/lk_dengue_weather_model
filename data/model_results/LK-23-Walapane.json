@@ -1,16 +1,7 @@
 {
   "region_id": "LK-23-Walapane",
-  "generated_date": "2026-07-19",
+  "generated_date": "2026-07-20",
   "weekly_features": [
-    {
-      "week": "2025-11-03",
-      "rainfall": 19.5,
-      "max_temp": 28.8571,
-      "min_temp": 19.0143,
-      "R_lag10": 7.6,
-      "MT_lag16": 23.8,
-      "mT_lag13": 19.3429
-    },
     {
       "week": "2025-11-10",
       "rainfall": 70.0,
@@ -334,6 +325,15 @@
       "R_lag10": 60.0,
       "MT_lag16": 28.6143,
       "mT_lag13": 19.6571
+    },
+    {
+      "week": "2026-07-20",
+      "rainfall": 0.6,
+      "max_temp": 31.0,
+      "min_temp": 21.9,
+      "R_lag10": 55.3,
+      "MT_lag16": 28.6429,
+      "mT_lag13": 20.3714
     }
   ]
 }

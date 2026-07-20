@@ -4,7 +4,7 @@ Dengue outbreak weather-risk model for Sri Lanka MOH regions.
 
 > 📖 **Methodology:** [README.methodology.md](README.methodology.md)
 
-_Last updated: 19 July 2026 · 333 regions with model results._
+_Last updated: 20 July 2026 · 333 regions with model results._
 
 ---
 
@@ -26,26 +26,26 @@ Sorted by composite weather-risk score (descending).
 
 | Region | District | Risk Score | Rainfall mm (−10w) | Max Temp °C (−16w) | Min Temp °C (−13w) |
 |---|---|---:|---:|---:|---:|
-| Galenbidunuwawe | LK-71 | 3.05 | 125.7 | 34.1 | 24.2 |
-| Cheddikulam | LK-43 | 2.75 | 90.8 | 36.9 | 24.7 |
-| Kekirawa | LK-71 | 2.73 | 132.1 | 33.0 | 23.8 |
-| Nuwaragam Palatha East | LK-71 | 2.70 | 108.7 | 34.9 | 24.5 |
-| Karuwalagaswewa | LK-62 | 2.67 | 98.6 | 36.0 | 24.4 |
-| Puttalam | LK-62 | 2.55 | 104.3 | 35.2 | 24.4 |
-| Kobeigane | LK-61 | 2.46 | 89.7 | 36.5 | 24.5 |
-| Mihintale | LK-71 | 2.46 | 104.7 | 34.8 | 24.4 |
-| Nochchiyagama | LK-71 | 2.41 | 89.3 | 36.4 | 24.5 |
-| Mallawapitiya | LK-61 | 2.41 | 88.9 | 37.0 | 24.0 |
-| Kurunegala | LK-61 | 2.41 | 88.9 | 37.0 | 24.0 |
-| Lankapura | LK-72 | 2.31 | 108.9 | 33.5 | 24.8 |
-| Lunugamvehera | LK-33 | 2.30 | 97.1 | 35.2 | 24.5 |
-| Nikaweratiya | LK-61 | 2.30 | 86.2 | 36.4 | 24.5 |
-| Okewela | LK-33 | 2.28 | 115.3 | 34.4 | 23.2 |
-| Rajanganaya | LK-71 | 2.24 | 88.3 | 35.8 | 24.8 |
-| Madhu | LK-42 | 2.24 | 84.2 | 36.4 | 24.6 |
-| Giribawa | LK-61 | 2.19 | 84.3 | 36.0 | 24.8 |
-| Ambanpola | LK-61 | 2.19 | 92.1 | 35.8 | 24.2 |
-| Thalawa | LK-71 | 2.14 | 91.9 | 35.3 | 24.5 |
+| Manthai East | LK-44 | 3.47 | 127.4 | 35.4 | 24.5 |
+| Mahara | LK-12 | 2.85 | 129.3 | 34.3 | 23.9 |
+| Pitakotte | LK-11 | 2.75 | 130.7 | 32.9 | 25.0 |
+| Maharagama | LK-11 | 2.75 | 130.7 | 32.9 | 25.0 |
+| Rathmalana | LK-11 | 2.75 | 130.7 | 32.9 | 25.0 |
+| Boralesgamuwa | LK-11 | 2.75 | 130.7 | 32.9 | 25.0 |
+| Alawwa | LK-61 | 2.74 | 113.9 | 35.7 | 23.7 |
+| Kuruwita | LK-91 | 2.69 | 125.7 | 34.3 | 23.9 |
+| Dehiwala | LK-11 | 2.63 | 130.7 | 32.8 | 24.8 |
+| Battaramulla | LK-11 | 2.59 | 127.7 | 32.7 | 25.1 |
+| Nugegoda | LK-11 | 2.59 | 127.7 | 32.7 | 25.1 |
+| Kolonnawa | LK-11 | 2.59 | 127.7 | 32.7 | 25.1 |
+| CMC | LK-11 | 2.57 | 127.7 | 32.7 | 25.0 |
+| Kiriella | LK-91 | 2.50 | 125.7 | 34.1 | 23.7 |
+| Mathugama | LK-13 | 2.48 | 138.6 | 33.2 | 23.4 |
+| Katupotha | LK-61 | 2.48 | 108.6 | 35.3 | 24.0 |
+| Attanagalla | LK-12 | 2.47 | 118.5 | 34.5 | 23.8 |
+| Nallur | LK-41 | 2.46 | 88.0 | 33.5 | 27.5 |
+| Jaffna | LK-41 | 2.46 | 88.0 | 33.5 | 27.5 |
+| Warakapola | LK-92 | 2.46 | 115.7 | 34.9 | 23.6 |
 
 > **Note:** Risk scores are weather-only (composite z-score of lagged
 > meteorological predictors). Full GLM-based dengue
@@ -59,8 +59,8 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 
 | Metric | Value |
 |---|---:|
-| Pearson *r* | -0.1992 |
-| Spearman ρ | -0.2919 |
+| Pearson *r* | 0.1842 |
+| Spearman ρ | 0.2002 |
 | *p*-value (Pearson) | < 0.001 |
 | Regions (*n*) | 333 |
 
@@ -74,31 +74,31 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 
 | Region | District | Risk Score | Cases/100k |
 |---|---|---:|---:|
-| Galenbidunuwawe | Anuradhapura | 3.05 | 0.0 |
-| Cheddikulam | Vavuniya | 2.75 | 0.0 |
-| Kekirawa | Anuradhapura | 2.73 | 0.0 |
-| Nuwaragam Palatha East | Anuradhapura | 2.70 | 0.0 |
-| Karuwalagaswewa | Puttalam | 2.67 | 0.0 |
-| Puttalam | Puttalam | 2.55 | 0.0 |
-| Mihintale | Anuradhapura | 2.46 | 0.0 |
-| Kobeigane | Kurunegala | 2.46 | 0.0 |
-| Nochchiyagama | Anuradhapura | 2.41 | 0.0 |
-| Mallawapitiya | Kurunegala | 2.41 | 0.0 |
+| Manthai East | Mullaitivu | 3.47 | 0.0 |
+| Mathugama | Kalutara | 2.48 | 0.0 |
+| Katupotha | Kurunegala | 2.48 | 0.0 |
+| Nallur | Jaffna | 2.46 | 0.0 |
+| Jaffna | Jaffna | 2.46 | 0.0 |
+| Vavuniya North | Vavuniya | 2.40 | 0.0 |
+| Kandawalai | Kilinochchi | 2.34 | 0.0 |
+| Panadura | Kalutara | 2.33 | 0.0 |
+| Uduvil | Jaffna | 2.25 | 0.0 |
+| Beruwala | Kalutara | 2.20 | 0.0 |
 
 ### Top 10 False Negatives (low predicted risk, high actual cases)
 
 | Region | District | Risk Score | Cases/100k |
 |---|---|---:|---:|
-| Kelaniya | Gampaha | -1.61 | 191.4 |
-| Biyagama | Gampaha | -0.00 | 154.5 |
-| Boralesgamuwa | Colombo | -1.22 | 145.2 |
-| Battaramulla | Colombo | -1.24 | 138.3 |
-| Ganga Ihala Korale | Kandy | -2.27 | 133.6 |
-| Maharagama | Colombo | -1.22 | 125.0 |
-| Ja-Ela | Gampaha | -1.52 | 122.6 |
-| Wennappuwa | Puttalam | -0.81 | 98.8 |
-| Wattala | Gampaha | -1.52 | 91.9 |
-| Nugegoda | Colombo | -1.24 | 87.7 |
+| Ganga Ihala Korale | Kandy | -2.91 | 133.6 |
+| Yatinuwara | Kandy | -0.63 | 67.7 |
+| Kandy Four Gravets & Gangawata Korale | Kandy | -2.71 | 67.6 |
+| Harispattuwa | Kandy | -1.15 | 58.5 |
+| Badulla | Badulla | -5.14 | 57.8 |
+| Udapalatha | Kandy | -3.03 | 57.7 |
+| Kalawana | Ratnapura | -2.61 | 57.1 |
+| Udunuwara | Kandy | -1.80 | 52.3 |
+| Ratnapura | Ratnapura | 0.66 | 50.9 |
+| Nivithigala | Ratnapura | 0.18 | 48.8 |
 
 ---
 
@@ -112,7 +112,7 @@ False positive rate (FPR) and false negative rate (FNR) for classifying regions 
 
 ![FPR and FNR vs Threshold](images/fpr_fnr_curve.png)
 
-ROC curve with AUC = 0.3393.
+ROC curve with AUC = 0.6041.
 
 ![ROC Curve](images/roc_curve.png)
 
@@ -122,11 +122,11 @@ ROC curve with AUC = 0.3393.
 
 Dengue weather-risk scores projected 2 and 4 weeks ahead, using the same lagged meteorological predictors applied to already-recorded historical weather.  All three maps (current + forecasts) share an identical colour scale so regional risk levels are directly comparable.
 
-### 2-Week Forecast (27 July 2026)
+### 2-Week Forecast (3 August 2026)
 
 ![2-Week Forecast Risk Map](images/forecast_map_2w.png)
 
-### 4-Week Forecast (10 August 2026)
+### 4-Week Forecast (17 August 2026)
 
 ![4-Week Forecast Risk Map](images/forecast_map_4w.png)
 

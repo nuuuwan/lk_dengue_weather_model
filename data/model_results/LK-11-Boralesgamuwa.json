@@ -1,16 +1,7 @@
 {
   "region_id": "LK-11-Boralesgamuwa",
-  "generated_date": "2026-07-19",
+  "generated_date": "2026-07-20",
   "weekly_features": [
-    {
-      "week": "2025-11-03",
-      "rainfall": 52.4,
-      "max_temp": 29.7857,
-      "min_temp": 24.3286,
-      "R_lag10": 63.5,
-      "MT_lag16": 27.5,
-      "mT_lag13": 25.1286
-    },
     {
       "week": "2025-11-10",
       "rainfall": 30.5,
@@ -333,6 +324,15 @@
       "min_temp": 26.4857,
       "R_lag10": 31.7,
       "MT_lag16": 33.1571,
+      "mT_lag13": 24.9857
+    },
+    {
+      "week": "2026-07-20",
+      "rainfall": 4.7,
+      "max_temp": 29.4,
+      "min_temp": 26.4,
+      "R_lag10": 130.7,
+      "MT_lag16": 32.9429,
       "mT_lag13": 24.9857
     }
   ]

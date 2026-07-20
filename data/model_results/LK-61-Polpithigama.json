@@ -1,16 +1,7 @@
 {
   "region_id": "LK-61-Polpithigama",
-  "generated_date": "2026-07-19",
+  "generated_date": "2026-07-20",
   "weekly_features": [
-    {
-      "week": "2025-11-03",
-      "rainfall": 37.6,
-      "max_temp": 29.6143,
-      "min_temp": 22.6286,
-      "R_lag10": 14.8,
-      "MT_lag16": 29.0,
-      "mT_lag13": 23.8143
-    },
     {
       "week": "2025-11-10",
       "rainfall": 63.5,
@@ -334,6 +325,15 @@
       "R_lag10": 85.4,
       "MT_lag16": 35.2286,
       "mT_lag13": 23.7571
+    },
+    {
+      "week": "2026-07-20",
+      "rainfall": 1.7,
+      "max_temp": 30.7,
+      "min_temp": 24.3,
+      "R_lag10": 79.9,
+      "MT_lag16": 33.6714,
+      "mT_lag13": 23.9286
     }
   ]
 }
