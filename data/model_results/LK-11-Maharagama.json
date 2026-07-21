@@ -1,6 +1,6 @@
 {
   "region_id": "LK-11-Maharagama",
-  "generated_date": "2026-07-20",
+  "generated_date": "2026-07-21",
   "weekly_features": [
     {
       "week": "2025-11-10",
@@ -8,7 +8,7 @@
       "max_temp": 30.2286,
       "min_temp": 23.8571,
       "R_lag10": 20.4,
-      "MT_lag16": 28.0571,
+      "MT_lag16": 28.2167,
       "mT_lag13": 24.6143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-20",
-      "rainfall": 4.7,
-      "max_temp": 29.4,
-      "min_temp": 26.4,
+      "rainfall": 7.4,
+      "max_temp": 29.7,
+      "min_temp": 26.45,
       "R_lag10": 130.7,
       "MT_lag16": 32.9429,
       "mT_lag13": 24.9857

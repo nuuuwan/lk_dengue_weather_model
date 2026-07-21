@@ -1,6 +1,6 @@
 {
   "region_id": "LK-71-Palagala",
-  "generated_date": "2026-07-20",
+  "generated_date": "2026-07-21",
   "weekly_features": [
     {
       "week": "2025-11-10",
@@ -8,7 +8,7 @@
       "max_temp": 28.8571,
       "min_temp": 22.5714,
       "R_lag10": 6.8,
-      "MT_lag16": 29.8429,
+      "MT_lag16": 29.75,
       "mT_lag13": 23.5286
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-07-20",
       "rainfall": 1.8,
-      "max_temp": 32.0,
-      "min_temp": 24.7,
+      "max_temp": 32.5,
+      "min_temp": 24.85,
       "R_lag10": 58.6,
       "MT_lag16": 32.9286,
       "mT_lag13": 24.0857

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-82-Buttala",
-  "generated_date": "2026-07-20",
+  "generated_date": "2026-07-21",
   "weekly_features": [
     {
       "week": "2025-11-10",
@@ -8,7 +8,7 @@
       "max_temp": 31.0286,
       "min_temp": 22.5571,
       "R_lag10": 5.3,
-      "MT_lag16": 33.1571,
+      "MT_lag16": 33.75,
       "mT_lag13": 24.8857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-20",
-      "rainfall": 2.0,
-      "max_temp": 35.4,
-      "min_temp": 26.1,
+      "rainfall": 2.9,
+      "max_temp": 36.1,
+      "min_temp": 25.7,
       "R_lag10": 58.2,
       "MT_lag16": 33.9429,
       "mT_lag13": 23.1857
