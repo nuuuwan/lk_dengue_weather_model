@@ -1,6 +1,6 @@
 {
   "region_id": "LK-31-Karandeniya",
-  "generated_date": "2026-07-21",
+  "generated_date": "2026-07-22",
   "weekly_features": [
     {
       "week": "2025-11-10",
@@ -8,7 +8,7 @@
       "max_temp": 30.3714,
       "min_temp": 22.5857,
       "R_lag10": 31.2,
-      "MT_lag16": 28.8167,
+      "MT_lag16": 29.04,
       "mT_lag13": 23.3714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-20",
-      "rainfall": 7.2,
-      "max_temp": 29.65,
-      "min_temp": 24.65,
+      "rainfall": 8.5,
+      "max_temp": 29.8667,
+      "min_temp": 24.7333,
       "R_lag10": 130.2,
       "MT_lag16": 32.0,
       "mT_lag13": 23.3571

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-41-Point-Pedro",
-  "generated_date": "2026-07-21",
+  "generated_date": "2026-07-22",
   "weekly_features": [
     {
       "week": "2025-11-10",
@@ -8,7 +8,7 @@
       "max_temp": 28.7429,
       "min_temp": 25.1,
       "R_lag10": 5.0,
-      "MT_lag16": 31.6,
+      "MT_lag16": 31.62,
       "mT_lag13": 26.5286
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-07-20",
       "rainfall": 0.2,
-      "max_temp": 33.4,
-      "min_temp": 27.55,
+      "max_temp": 33.5,
+      "min_temp": 27.5,
       "R_lag10": 71.1,
       "MT_lag16": 33.6,
       "mT_lag13": 26.5571

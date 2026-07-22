@@ -1,6 +1,6 @@
 {
   "region_id": "LK-71-Mihintale",
-  "generated_date": "2026-07-21",
+  "generated_date": "2026-07-22",
   "weekly_features": [
     {
       "week": "2025-11-10",
@@ -8,7 +8,7 @@
       "max_temp": 29.0,
       "min_temp": 23.0429,
       "R_lag10": 14.2,
-      "MT_lag16": 32.9,
+      "MT_lag16": 32.92,
       "mT_lag13": 24.6429
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-07-20",
       "rainfall": 2.4,
-      "max_temp": 33.95,
-      "min_temp": 26.1,
+      "max_temp": 34.2,
+      "min_temp": 25.9,
       "R_lag10": 70.4,
       "MT_lag16": 34.0714,
       "mT_lag13": 24.4571

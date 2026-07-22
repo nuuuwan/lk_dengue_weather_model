@@ -1,6 +1,6 @@
 {
   "region_id": "LK-71-Medawachchiya",
-  "generated_date": "2026-07-21",
+  "generated_date": "2026-07-22",
   "weekly_features": [
     {
       "week": "2025-11-10",
@@ -8,7 +8,7 @@
       "max_temp": 28.8143,
       "min_temp": 22.9714,
       "R_lag10": 10.8,
-      "MT_lag16": 33.3667,
+      "MT_lag16": 33.4,
       "mT_lag13": 25.1
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-07-20",
       "rainfall": 0.4,
-      "max_temp": 34.75,
-      "min_temp": 26.55,
+      "max_temp": 35.0667,
+      "min_temp": 26.4,
       "R_lag10": 84.6,
       "MT_lag16": 34.5429,
       "mT_lag13": 24.5714
