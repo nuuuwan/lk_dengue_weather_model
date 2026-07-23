@@ -1,6 +1,6 @@
 {
   "region_id": "LK-52-Thirukkovil",
-  "generated_date": "2026-07-22",
+  "generated_date": "2026-07-23",
   "weekly_features": [
     {
       "week": "2025-11-10",
@@ -8,7 +8,7 @@
       "max_temp": 29.8,
       "min_temp": 23.4286,
       "R_lag10": 16.2,
-      "MT_lag16": 34.98,
+      "MT_lag16": 35.375,
       "mT_lag13": 24.8714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-20",
-      "rainfall": 2.8,
-      "max_temp": 32.4,
-      "min_temp": 25.5333,
+      "rainfall": 4.1,
+      "max_temp": 32.675,
+      "min_temp": 25.7,
       "R_lag10": 60.0,
       "MT_lag16": 31.0714,
       "mT_lag13": 24.4571

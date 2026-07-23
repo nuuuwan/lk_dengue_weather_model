@@ -4,7 +4,7 @@ Dengue outbreak weather-risk model for Sri Lanka MOH regions.
 
 > 📖 **Methodology:** [README.methodology.md](README.methodology.md)
 
-_Last updated: 22 July 2026 · 333 regions with model results._
+_Last updated: 23 July 2026 · 333 regions with model results._
 
 ---
 
@@ -59,8 +59,8 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 
 | Metric | Value |
 |---|---:|
-| Pearson *r* | 0.1842 |
-| Spearman ρ | 0.2002 |
+| Pearson *r* | 0.2174 |
+| Spearman ρ | 0.2544 |
 | *p*-value (Pearson) | < 0.001 |
 | Regions (*n*) | 333 |
 
@@ -75,7 +75,6 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 | Region | District | Risk Score | Cases/100k |
 |---|---|---:|---:|
 | Manthai East | Mullaitivu | 3.47 | 0.0 |
-| Mathugama | Kalutara | 2.48 | 0.0 |
 | Katupotha | Kurunegala | 2.48 | 0.0 |
 | Nallur | Jaffna | 2.46 | 0.0 |
 | Jaffna | Jaffna | 2.46 | 0.0 |
@@ -84,21 +83,22 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 | Panadura | Kalutara | 2.33 | 0.0 |
 | Uduvil | Jaffna | 2.25 | 0.0 |
 | Beruwala | Kalutara | 2.20 | 0.0 |
+| Narammala | Kurunegala | 2.18 | 0.0 |
 
 ### Top 10 False Negatives (low predicted risk, high actual cases)
 
 | Region | District | Risk Score | Cases/100k |
 |---|---|---:|---:|
-| Ganga Ihala Korale | Kandy | -2.91 | 133.6 |
-| Yatinuwara | Kandy | -0.63 | 67.7 |
-| Kandy Four Gravets & Gangawata Korale | Kandy | -2.71 | 67.6 |
-| Harispattuwa | Kandy | -1.15 | 58.5 |
-| Badulla | Badulla | -5.14 | 57.8 |
-| Udapalatha | Kandy | -3.03 | 57.7 |
-| Kalawana | Ratnapura | -2.61 | 57.1 |
-| Udunuwara | Kandy | -1.80 | 52.3 |
-| Ratnapura | Ratnapura | 0.66 | 50.9 |
-| Nivithigala | Ratnapura | 0.18 | 48.8 |
+| Ganga Ihala Korale | Kandy | -2.91 | 160.0 |
+| Kandy Four Gravets & Gangawata Korale | Kandy | -2.71 | 69.6 |
+| Pasbage Korale | Kandy | -2.60 | 56.4 |
+| Udunuwara | Kandy | -1.80 | 53.7 |
+| Harispattuwa | Kandy | -1.15 | 53.3 |
+| Kalawana | Ratnapura | -2.61 | 53.2 |
+| Yatinuwara | Kandy | -0.63 | 50.1 |
+| Kahawaththa | Ratnapura | 0.37 | 49.0 |
+| Akkaraipattu | Ampara | 0.02 | 45.7 |
+| Badulla | Badulla | -5.14 | 42.2 |
 
 ---
 
@@ -112,7 +112,7 @@ False positive rate (FPR) and false negative rate (FNR) for classifying regions 
 
 ![FPR and FNR vs Threshold](images/fpr_fnr_curve.png)
 
-ROC curve with AUC = 0.6041.
+ROC curve with AUC = 0.6251.
 
 ![ROC Curve](images/roc_curve.png)
 

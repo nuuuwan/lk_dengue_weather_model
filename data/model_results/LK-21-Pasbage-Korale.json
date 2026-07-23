@@ -1,6 +1,6 @@
 {
   "region_id": "LK-21-Pasbage-Korale",
-  "generated_date": "2026-07-22",
+  "generated_date": "2026-07-23",
   "weekly_features": [
     {
       "week": "2025-11-10",
@@ -8,7 +8,7 @@
       "max_temp": 26.2714,
       "min_temp": 17.6286,
       "R_lag10": 42.1,
-      "MT_lag16": 23.68,
+      "MT_lag16": 24.1,
       "mT_lag13": 19.1
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-20",
-      "rainfall": 14.2,
-      "max_temp": 25.6,
-      "min_temp": 19.1667,
+      "rainfall": 16.4,
+      "max_temp": 26.125,
+      "min_temp": 18.9,
       "R_lag10": 116.8,
       "MT_lag16": 28.6714,
       "mT_lag13": 18.3143
