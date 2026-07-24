@@ -4,7 +4,7 @@ Dengue outbreak weather-risk model for Sri Lanka MOH regions.
 
 > 📖 **Methodology:** [README.methodology.md](README.methodology.md)
 
-_Last updated: 23 July 2026 · 333 regions with model results._
+_Last updated: 24 July 2026 · 333 regions with model results._
 
 ---
 
@@ -28,16 +28,16 @@ Sorted by composite weather-risk score (descending).
 |---|---|---:|---:|---:|---:|
 | Manthai East | LK-44 | 3.47 | 127.4 | 35.4 | 24.5 |
 | Mahara | LK-12 | 2.85 | 129.3 | 34.3 | 23.9 |
-| Pitakotte | LK-11 | 2.75 | 130.7 | 32.9 | 25.0 |
-| Maharagama | LK-11 | 2.75 | 130.7 | 32.9 | 25.0 |
 | Rathmalana | LK-11 | 2.75 | 130.7 | 32.9 | 25.0 |
 | Boralesgamuwa | LK-11 | 2.75 | 130.7 | 32.9 | 25.0 |
+| Pitakotte | LK-11 | 2.75 | 130.7 | 32.9 | 25.0 |
+| Maharagama | LK-11 | 2.75 | 130.7 | 32.9 | 25.0 |
 | Alawwa | LK-61 | 2.74 | 113.9 | 35.7 | 23.7 |
 | Kuruwita | LK-91 | 2.69 | 125.7 | 34.3 | 23.9 |
 | Dehiwala | LK-11 | 2.63 | 130.7 | 32.8 | 24.8 |
-| Battaramulla | LK-11 | 2.59 | 127.7 | 32.7 | 25.1 |
 | Nugegoda | LK-11 | 2.59 | 127.7 | 32.7 | 25.1 |
 | Kolonnawa | LK-11 | 2.59 | 127.7 | 32.7 | 25.1 |
+| Battaramulla | LK-11 | 2.59 | 127.7 | 32.7 | 25.1 |
 | CMC | LK-11 | 2.57 | 127.7 | 32.7 | 25.0 |
 | Kiriella | LK-91 | 2.50 | 125.7 | 34.1 | 23.7 |
 | Mathugama | LK-13 | 2.48 | 138.6 | 33.2 | 23.4 |

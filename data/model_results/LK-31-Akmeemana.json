@@ -1,6 +1,6 @@
 {
   "region_id": "LK-31-Akmeemana",
-  "generated_date": "2026-07-23",
+  "generated_date": "2026-07-24",
   "weekly_features": [
     {
       "week": "2025-11-10",
@@ -8,7 +8,7 @@
       "max_temp": 30.6857,
       "min_temp": 22.7429,
       "R_lag10": 23.5,
-      "MT_lag16": 29.175,
+      "MT_lag16": 29.4,
       "mT_lag13": 23.3143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-20",
-      "rainfall": 8.1,
-      "max_temp": 30.1,
-      "min_temp": 24.575,
+      "rainfall": 10.5,
+      "max_temp": 30.16,
+      "min_temp": 24.72,
       "R_lag10": 94.9,
       "MT_lag16": 31.7857,
       "mT_lag13": 23.3

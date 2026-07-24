@@ -1,6 +1,6 @@
 {
   "region_id": "LK-12-Divulapitiya",
-  "generated_date": "2026-07-23",
+  "generated_date": "2026-07-24",
   "weekly_features": [
     {
       "week": "2025-11-10",
@@ -8,7 +8,7 @@
       "max_temp": 30.2714,
       "min_temp": 22.7714,
       "R_lag10": 26.8,
-      "MT_lag16": 29.225,
+      "MT_lag16": 29.6,
       "mT_lag13": 22.6714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-20",
-      "rainfall": 17.9,
-      "max_temp": 30.375,
-      "min_temp": 24.175,
+      "rainfall": 18.9,
+      "max_temp": 30.54,
+      "min_temp": 24.26,
       "R_lag10": 99.6,
       "MT_lag16": 34.8143,
       "mT_lag13": 23.9286
