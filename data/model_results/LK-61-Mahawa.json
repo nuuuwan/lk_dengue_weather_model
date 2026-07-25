@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Mahawa",
-  "generated_date": "2026-07-24",
+  "generated_date": "2026-07-25",
   "weekly_features": [
     {
       "week": "2025-11-10",
@@ -8,7 +8,7 @@
       "max_temp": 29.1429,
       "min_temp": 22.9,
       "R_lag10": 6.9,
-      "MT_lag16": 30.2,
+      "MT_lag16": 30.25,
       "mT_lag13": 23.3429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-20",
-      "rainfall": 3.7,
-      "max_temp": 32.3,
-      "min_temp": 24.78,
+      "rainfall": 4.4,
+      "max_temp": 32.4333,
+      "min_temp": 24.9167,
       "R_lag10": 80.4,
       "MT_lag16": 34.5143,
       "mT_lag13": 24.3857

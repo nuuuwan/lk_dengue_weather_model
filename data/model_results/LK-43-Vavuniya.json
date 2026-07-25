@@ -1,6 +1,6 @@
 {
   "region_id": "LK-43-Vavuniya",
-  "generated_date": "2026-07-24",
+  "generated_date": "2026-07-25",
   "weekly_features": [
     {
       "week": "2025-11-10",
@@ -8,7 +8,7 @@
       "max_temp": 29.2,
       "min_temp": 22.7857,
       "R_lag10": 16.9,
-      "MT_lag16": 34.3667,
+      "MT_lag16": 34.8,
       "mT_lag13": 25.2286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-20",
-      "rainfall": 0.1,
-      "max_temp": 35.66,
-      "min_temp": 26.42,
+      "rainfall": 0.5,
+      "max_temp": 35.9333,
+      "min_temp": 26.4333,
       "R_lag10": 80.5,
       "MT_lag16": 35.2571,
       "mT_lag13": 24.3571

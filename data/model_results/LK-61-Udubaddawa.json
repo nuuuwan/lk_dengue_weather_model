@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Udubaddawa",
-  "generated_date": "2026-07-24",
+  "generated_date": "2026-07-25",
   "weekly_features": [
     {
       "week": "2025-11-10",
@@ -8,7 +8,7 @@
       "max_temp": 30.1286,
       "min_temp": 22.8429,
       "R_lag10": 15.0,
-      "MT_lag16": 29.2,
+      "MT_lag16": 29.05,
       "mT_lag13": 24.1286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-20",
-      "rainfall": 6.4,
-      "max_temp": 30.92,
-      "min_temp": 25.44,
+      "rainfall": 8.8,
+      "max_temp": 30.95,
+      "min_temp": 25.4167,
       "R_lag10": 89.4,
       "MT_lag16": 33.6857,
       "mT_lag13": 23.8
