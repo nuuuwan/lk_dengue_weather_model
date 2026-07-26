@@ -1,6 +1,6 @@
 {
   "region_id": "LK-31-Habaraduwa",
-  "generated_date": "2026-07-25",
+  "generated_date": "2026-07-26",
   "weekly_features": [
     {
       "week": "2025-11-10",
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-20",
-      "rainfall": 22.7,
-      "max_temp": 30.1167,
-      "min_temp": 25.9,
+      "rainfall": 31.0,
+      "max_temp": 29.9714,
+      "min_temp": 25.7286,
       "R_lag10": 101.1,
       "MT_lag16": 30.8286,
       "mT_lag13": 24.5

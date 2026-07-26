@@ -1,6 +1,6 @@
 {
   "region_id": "LK-53-Kuchchaveli",
-  "generated_date": "2026-07-25",
+  "generated_date": "2026-07-26",
   "weekly_features": [
     {
       "week": "2025-11-10",
@@ -8,7 +8,7 @@
       "max_temp": 28.4143,
       "min_temp": 24.1286,
       "R_lag10": 24.3,
-      "MT_lag16": 35.95,
+      "MT_lag16": 36.8,
       "mT_lag13": 26.0571
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-07-20",
       "rainfall": 5.5,
-      "max_temp": 36.6833,
-      "min_temp": 26.9167,
+      "max_temp": 36.6714,
+      "min_temp": 26.9429,
       "R_lag10": 74.0,
       "MT_lag16": 32.1,
       "mT_lag13": 25.7286
