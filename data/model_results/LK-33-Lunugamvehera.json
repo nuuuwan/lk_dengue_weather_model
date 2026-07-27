@@ -1,16 +1,7 @@
 {
   "region_id": "LK-33-Lunugamvehera",
-  "generated_date": "2026-07-26",
+  "generated_date": "2026-07-27",
   "weekly_features": [
-    {
-      "week": "2025-11-10",
-      "rainfall": 104.6,
-      "max_temp": 30.6429,
-      "min_temp": 23.5,
-      "R_lag10": 3.4,
-      "MT_lag16": 35.0,
-      "mT_lag13": 24.8857
-    },
     {
       "week": "2025-11-17",
       "rainfall": 153.0,
@@ -334,6 +325,15 @@
       "R_lag10": 47.9,
       "MT_lag16": 33.4571,
       "mT_lag13": 24.2429
+    },
+    {
+      "week": "2026-07-27",
+      "rainfall": 2.4,
+      "max_temp": 37.2,
+      "min_temp": 26.5,
+      "R_lag10": 4.2,
+      "MT_lag16": 34.4714,
+      "mT_lag13": 24.6429
     }
   ]
 }

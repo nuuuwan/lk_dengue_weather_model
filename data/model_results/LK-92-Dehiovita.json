@@ -1,16 +1,7 @@
 {
   "region_id": "LK-92-Dehiovita",
-  "generated_date": "2026-07-26",
+  "generated_date": "2026-07-27",
   "weekly_features": [
-    {
-      "week": "2025-11-10",
-      "rainfall": 80.9,
-      "max_temp": 30.8714,
-      "min_temp": 21.8,
-      "R_lag10": 41.6,
-      "MT_lag16": 29.6,
-      "mT_lag13": 22.0571
-    },
     {
       "week": "2025-11-17",
       "rainfall": 123.5,
@@ -334,6 +325,15 @@
       "R_lag10": 127.4,
       "MT_lag16": 34.3,
       "mT_lag13": 22.8286
+    },
+    {
+      "week": "2026-07-27",
+      "rainfall": 7.5,
+      "max_temp": 30.3,
+      "min_temp": 23.0,
+      "R_lag10": 135.2,
+      "MT_lag16": 33.5714,
+      "mT_lag13": 23.4143
     }
   ]
 }

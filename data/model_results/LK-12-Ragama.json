@@ -1,16 +1,7 @@
 {
   "region_id": "LK-12-Ragama",
-  "generated_date": "2026-07-26",
+  "generated_date": "2026-07-27",
   "weekly_features": [
-    {
-      "week": "2025-11-10",
-      "rainfall": 43.7,
-      "max_temp": 30.2143,
-      "min_temp": 23.5857,
-      "R_lag10": 25.7,
-      "MT_lag16": 28.6,
-      "mT_lag13": 24.3714
-    },
     {
       "week": "2025-11-17",
       "rainfall": 95.6,
@@ -334,6 +325,15 @@
       "R_lag10": 117.4,
       "MT_lag16": 32.1857,
       "mT_lag13": 24.5429
+    },
+    {
+      "week": "2026-07-27",
+      "rainfall": 3.7,
+      "max_temp": 29.9,
+      "min_temp": 26.9,
+      "R_lag10": 127.3,
+      "MT_lag16": 31.6571,
+      "mT_lag13": 25.2286
     }
   ]
 }

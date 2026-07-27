@@ -1,16 +1,7 @@
 {
   "region_id": "LK-62-Puttalam",
-  "generated_date": "2026-07-26",
+  "generated_date": "2026-07-27",
   "weekly_features": [
-    {
-      "week": "2025-11-10",
-      "rainfall": 66.8,
-      "max_temp": 29.8857,
-      "min_temp": 23.1286,
-      "R_lag10": 11.4,
-      "MT_lag16": 31.0,
-      "mT_lag13": 25.5714
-    },
     {
       "week": "2025-11-17",
       "rainfall": 116.3,
@@ -334,6 +325,15 @@
       "R_lag10": 78.9,
       "MT_lag16": 33.4286,
       "mT_lag13": 23.9429
+    },
+    {
+      "week": "2026-07-27",
+      "rainfall": 0.5,
+      "max_temp": 31.6,
+      "min_temp": 27.2,
+      "R_lag10": 12.2,
+      "MT_lag16": 33.0571,
+      "mT_lag13": 25.1857
     }
   ]
 }

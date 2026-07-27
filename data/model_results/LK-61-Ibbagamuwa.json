@@ -1,16 +1,7 @@
 {
   "region_id": "LK-61-Ibbagamuwa",
-  "generated_date": "2026-07-26",
+  "generated_date": "2026-07-27",
   "weekly_features": [
-    {
-      "week": "2025-11-10",
-      "rainfall": 66.6,
-      "max_temp": 29.4571,
-      "min_temp": 22.3429,
-      "R_lag10": 9.5,
-      "MT_lag16": 29.4,
-      "mT_lag13": 23.0857
-    },
     {
       "week": "2025-11-17",
       "rainfall": 170.7,
@@ -334,6 +325,15 @@
       "R_lag10": 82.3,
       "MT_lag16": 34.6143,
       "mT_lag13": 23.7857
+    },
+    {
+      "week": "2026-07-27",
+      "rainfall": 2.0,
+      "max_temp": 32.0,
+      "min_temp": 24.9,
+      "R_lag10": 15.5,
+      "MT_lag16": 34.8571,
+      "mT_lag13": 24.0714
     }
   ]
 }

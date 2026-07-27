@@ -1,16 +1,7 @@
 {
   "region_id": "LK-91-Weligepola",
-  "generated_date": "2026-07-26",
+  "generated_date": "2026-07-27",
   "weekly_features": [
-    {
-      "week": "2025-11-10",
-      "rainfall": 70.2,
-      "max_temp": 29.6714,
-      "min_temp": 21.0714,
-      "R_lag10": 10.0,
-      "MT_lag16": 28.4,
-      "mT_lag13": 21.4143
-    },
     {
       "week": "2025-11-17",
       "rainfall": 100.9,
@@ -334,6 +325,15 @@
       "R_lag10": 31.7,
       "MT_lag16": 32.1429,
       "mT_lag13": 21.6429
+    },
+    {
+      "week": "2026-07-27",
+      "rainfall": 3.2,
+      "max_temp": 30.0,
+      "min_temp": 22.9,
+      "R_lag10": 12.4,
+      "MT_lag16": 32.4429,
+      "mT_lag13": 22.0
     }
   ]
 }
