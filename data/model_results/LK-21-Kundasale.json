@@ -1,6 +1,6 @@
 {
   "region_id": "LK-21-Kundasale",
-  "generated_date": "2026-07-27",
+  "generated_date": "2026-07-28",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 28.3,
       "min_temp": 21.0286,
       "R_lag10": 47.6,
-      "MT_lag16": 28.4429,
+      "MT_lag16": 28.25,
       "mT_lag13": 20.9429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 1.8,
-      "max_temp": 29.7,
-      "min_temp": 22.5,
+      "rainfall": 4.5,
+      "max_temp": 29.95,
+      "min_temp": 22.85,
       "R_lag10": 14.2,
       "MT_lag16": 32.1429,
       "mT_lag13": 22.1429

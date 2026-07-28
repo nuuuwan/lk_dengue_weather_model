@@ -1,6 +1,6 @@
 {
   "region_id": "LK-72-Hingurakgoda",
-  "generated_date": "2026-07-27",
+  "generated_date": "2026-07-28",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 28.2857,
       "min_temp": 22.5571,
       "R_lag10": 22.4,
-      "MT_lag16": 34.4429,
+      "MT_lag16": 34.1833,
       "mT_lag13": 24.3857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 0.8,
-      "max_temp": 33.7,
-      "min_temp": 26.1,
+      "rainfall": 2.7,
+      "max_temp": 34.0,
+      "min_temp": 25.65,
       "R_lag10": 4.3,
       "MT_lag16": 33.0857,
       "mT_lag13": 24.8571

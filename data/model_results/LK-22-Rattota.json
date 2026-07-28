@@ -1,6 +1,6 @@
 {
   "region_id": "LK-22-Rattota",
-  "generated_date": "2026-07-27",
+  "generated_date": "2026-07-28",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 26.1857,
       "min_temp": 20.2571,
       "R_lag10": 57.4,
-      "MT_lag16": 26.8714,
+      "MT_lag16": 26.7333,
       "mT_lag13": 20.6
     },
     {
@@ -328,7 +328,7 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 7.3,
+      "rainfall": 16.1,
       "max_temp": 26.9,
       "min_temp": 21.4,
       "R_lag10": 31.3,
