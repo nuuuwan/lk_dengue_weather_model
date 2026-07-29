@@ -1,6 +1,6 @@
 {
   "region_id": "LK-41-Uduvil",
-  "generated_date": "2026-07-28",
+  "generated_date": "2026-07-29",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 28.4857,
       "min_temp": 23.7571,
       "R_lag10": 28.7,
-      "MT_lag16": 33.4667,
+      "MT_lag16": 33.14,
       "mT_lag13": 26.5143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 0.0,
-      "max_temp": 32.45,
-      "min_temp": 28.05,
+      "rainfall": 1.0,
+      "max_temp": 32.5333,
+      "min_temp": 28.1,
       "R_lag10": 0.4,
       "MT_lag16": 33.2143,
       "mT_lag13": 28.2429

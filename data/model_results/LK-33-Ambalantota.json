@@ -1,6 +1,6 @@
 {
   "region_id": "LK-33-Ambalantota",
-  "generated_date": "2026-07-28",
+  "generated_date": "2026-07-29",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 29.3571,
       "min_temp": 23.1857,
       "R_lag10": 9.7,
-      "MT_lag16": 34.1833,
+      "MT_lag16": 33.38,
       "mT_lag13": 25.1143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 4.6,
-      "max_temp": 33.85,
-      "min_temp": 25.95,
+      "rainfall": 5.8,
+      "max_temp": 33.7333,
+      "min_temp": 26.1333,
       "R_lag10": 6.9,
       "MT_lag16": 33.5143,
       "mT_lag13": 24.7571
