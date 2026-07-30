@@ -1,6 +1,6 @@
 {
   "region_id": "LK-21-Poojapitiya",
-  "generated_date": "2026-07-29",
+  "generated_date": "2026-07-30",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 27.0286,
       "min_temp": 20.0857,
       "R_lag10": 62.8,
-      "MT_lag16": 26.62,
+      "MT_lag16": 26.025,
       "mT_lag13": 20.6429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 24.7,
-      "max_temp": 26.7333,
-      "min_temp": 21.6,
+      "rainfall": 27.2,
+      "max_temp": 27.075,
+      "min_temp": 21.725,
       "R_lag10": 37.6,
       "MT_lag16": 31.1714,
       "mT_lag13": 21.6143

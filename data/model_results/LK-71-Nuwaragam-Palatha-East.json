@@ -1,6 +1,6 @@
 {
   "region_id": "LK-71-Nuwaragam-Palatha-East",
-  "generated_date": "2026-07-29",
+  "generated_date": "2026-07-30",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 28.7,
       "min_temp": 22.7714,
       "R_lag10": 38.0,
-      "MT_lag16": 34.48,
+      "MT_lag16": 33.8,
       "mT_lag13": 24.4714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 1.4,
-      "max_temp": 33.6667,
-      "min_temp": 26.5,
+      "rainfall": 2.4,
+      "max_temp": 33.675,
+      "min_temp": 26.625,
       "R_lag10": 6.0,
       "MT_lag16": 34.5571,
       "mT_lag13": 24.8286

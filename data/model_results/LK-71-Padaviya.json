@@ -1,6 +1,6 @@
 {
   "region_id": "LK-71-Padaviya",
-  "generated_date": "2026-07-29",
+  "generated_date": "2026-07-30",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 27.9286,
       "min_temp": 23.0286,
       "R_lag10": 23.3,
-      "MT_lag16": 35.04,
+      "MT_lag16": 34.5,
       "mT_lag13": 25.3857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 0.8,
-      "max_temp": 35.0333,
-      "min_temp": 27.2,
+      "rainfall": 0.9,
+      "max_temp": 35.05,
+      "min_temp": 27.375,
       "R_lag10": 2.1,
       "MT_lag16": 34.2429,
       "mT_lag13": 25.4429

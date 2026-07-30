@@ -1,6 +1,6 @@
 {
   "region_id": "LK-51-Valaichenai",
-  "generated_date": "2026-07-29",
+  "generated_date": "2026-07-30",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 29.1571,
       "min_temp": 22.8286,
       "R_lag10": 43.8,
-      "MT_lag16": 34.38,
+      "MT_lag16": 33.725,
       "mT_lag13": 25.1286
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-07-27",
       "rainfall": 1.0,
-      "max_temp": 36.0,
-      "min_temp": 27.1667,
+      "max_temp": 36.325,
+      "min_temp": 27.45,
       "R_lag10": 8.6,
       "MT_lag16": 33.4571,
       "mT_lag13": 24.7143

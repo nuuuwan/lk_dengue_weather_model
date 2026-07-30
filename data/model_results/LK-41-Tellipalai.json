@@ -1,6 +1,6 @@
 {
   "region_id": "LK-41-Tellipalai",
-  "generated_date": "2026-07-29",
+  "generated_date": "2026-07-30",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 27.8714,
       "min_temp": 24.4286,
       "R_lag10": 17.1,
-      "MT_lag16": 33.22,
+      "MT_lag16": 32.825,
       "mT_lag13": 26.6857
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-07-27",
       "rainfall": 0.0,
-      "max_temp": 33.2,
-      "min_temp": 28.3667,
+      "max_temp": 33.25,
+      "min_temp": 28.325,
       "R_lag10": 0.2,
       "MT_lag16": 32.7571,
       "mT_lag13": 28.2429

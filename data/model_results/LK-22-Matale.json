@@ -1,6 +1,6 @@
 {
   "region_id": "LK-22-Matale",
-  "generated_date": "2026-07-29",
+  "generated_date": "2026-07-30",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 28.0286,
       "min_temp": 20.9714,
       "R_lag10": 47.1,
-      "MT_lag16": 28.34,
+      "MT_lag16": 27.775,
       "mT_lag13": 21.8857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 14.5,
-      "max_temp": 29.5,
-      "min_temp": 22.8667,
+      "rainfall": 15.2,
+      "max_temp": 29.725,
+      "min_temp": 23.05,
       "R_lag10": 15.8,
       "MT_lag16": 32.5286,
       "mT_lag13": 22.6
