@@ -1,6 +1,6 @@
 {
   "region_id": "LK-44-Manthai-East",
-  "generated_date": "2026-07-30",
+  "generated_date": "2026-07-31",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 29.0714,
       "min_temp": 22.6714,
       "R_lag10": 19.4,
-      "MT_lag16": 34.775,
+      "MT_lag16": 34.2,
       "mT_lag13": 25.1429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 3.1,
-      "max_temp": 34.45,
-      "min_temp": 27.275,
+      "rainfall": 3.3,
+      "max_temp": 34.54,
+      "min_temp": 27.26,
       "R_lag10": 0.7,
       "MT_lag16": 36.0143,
       "mT_lag13": 25.1714

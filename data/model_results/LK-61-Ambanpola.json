@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Ambanpola",
-  "generated_date": "2026-07-30",
+  "generated_date": "2026-07-31",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 28.9286,
       "min_temp": 22.8143,
       "R_lag10": 43.3,
-      "MT_lag16": 32.5,
+      "MT_lag16": 31.9333,
       "mT_lag13": 24.1286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 4.8,
-      "max_temp": 32.65,
-      "min_temp": 26.2,
+      "rainfall": 8.9,
+      "max_temp": 32.62,
+      "min_temp": 25.92,
       "R_lag10": 14.4,
       "MT_lag16": 34.0429,
       "mT_lag13": 24.4429

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-92-Galigamuwa",
-  "generated_date": "2026-07-30",
+  "generated_date": "2026-07-31",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 29.0143,
       "min_temp": 21.7429,
       "R_lag10": 31.1,
-      "MT_lag16": 27.45,
+      "MT_lag16": 27.1,
       "mT_lag13": 23.2429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 28.8,
-      "max_temp": 29.175,
-      "min_temp": 23.375,
+      "rainfall": 53.7,
+      "max_temp": 29.0,
+      "min_temp": 23.2,
       "R_lag10": 72.3,
       "MT_lag16": 33.8571,
       "mT_lag13": 23.7714

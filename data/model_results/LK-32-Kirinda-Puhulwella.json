@@ -1,6 +1,6 @@
 {
   "region_id": "LK-32-Kirinda-Puhulwella",
-  "generated_date": "2026-07-30",
+  "generated_date": "2026-07-31",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 29.2857,
       "min_temp": 22.9,
       "R_lag10": 18.2,
-      "MT_lag16": 29.6,
+      "MT_lag16": 29.1,
       "mT_lag13": 24.4571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 22.9,
-      "max_temp": 31.1,
-      "min_temp": 25.275,
+      "rainfall": 44.8,
+      "max_temp": 30.52,
+      "min_temp": 25.06,
       "R_lag10": 11.3,
       "MT_lag16": 32.2571,
       "mT_lag13": 24.2286

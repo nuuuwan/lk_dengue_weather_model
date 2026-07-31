@@ -1,6 +1,6 @@
 {
   "region_id": "LK-71-Thambuttegama",
-  "generated_date": "2026-07-30",
+  "generated_date": "2026-07-31",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 28.9429,
       "min_temp": 23.0,
       "R_lag10": 25.7,
-      "MT_lag16": 32.65,
+      "MT_lag16": 31.9333,
       "mT_lag13": 24.5857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 2.6,
-      "max_temp": 33.175,
-      "min_temp": 26.75,
+      "rainfall": 6.2,
+      "max_temp": 33.02,
+      "min_temp": 26.6,
       "R_lag10": 5.4,
       "MT_lag16": 34.4714,
       "mT_lag13": 24.9286
