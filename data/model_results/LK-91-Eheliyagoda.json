@@ -1,6 +1,6 @@
 {
   "region_id": "LK-91-Eheliyagoda",
-  "generated_date": "2026-07-31",
+  "generated_date": "2026-08-01",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 30.0,
       "min_temp": 22.2714,
       "R_lag10": 48.2,
-      "MT_lag16": 27.8333,
+      "MT_lag16": 26.8,
       "mT_lag13": 22.2857
     },
     {
@@ -328,8 +328,8 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 59.4,
-      "max_temp": 29.9,
+      "rainfall": 86.2,
+      "max_temp": 29.7667,
       "min_temp": 23.3,
       "R_lag10": 118.2,
       "MT_lag16": 33.3143,

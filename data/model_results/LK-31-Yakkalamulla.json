@@ -1,6 +1,6 @@
 {
   "region_id": "LK-31-Yakkalamulla",
-  "generated_date": "2026-07-31",
+  "generated_date": "2026-08-01",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 29.8286,
       "min_temp": 22.0286,
       "R_lag10": 27.6,
-      "MT_lag16": 27.7,
+      "MT_lag16": 27.1,
       "mT_lag13": 23.4571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 61.4,
-      "max_temp": 29.52,
-      "min_temp": 24.56,
+      "rainfall": 80.1,
+      "max_temp": 29.3833,
+      "min_temp": 24.3667,
       "R_lag10": 33.0,
       "MT_lag16": 31.8857,
       "mT_lag13": 23.3714

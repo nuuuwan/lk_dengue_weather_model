@@ -1,6 +1,6 @@
 {
   "region_id": "LK-11-Homagama",
-  "generated_date": "2026-07-31",
+  "generated_date": "2026-08-01",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 29.8571,
       "min_temp": 22.3571,
       "R_lag10": 44.1,
-      "MT_lag16": 27.9667,
+      "MT_lag16": 27.25,
       "mT_lag13": 22.9571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 59.5,
-      "max_temp": 29.8,
-      "min_temp": 24.36,
+      "rainfall": 84.0,
+      "max_temp": 29.6833,
+      "min_temp": 24.1,
       "R_lag10": 124.9,
       "MT_lag16": 32.6571,
       "mT_lag13": 23.8714

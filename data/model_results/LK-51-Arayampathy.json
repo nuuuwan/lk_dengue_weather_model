@@ -1,6 +1,6 @@
 {
   "region_id": "LK-51-Arayampathy",
-  "generated_date": "2026-07-31",
+  "generated_date": "2026-08-01",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 29.1143,
       "min_temp": 24.1,
       "R_lag10": 10.0,
-      "MT_lag16": 31.6667,
+      "MT_lag16": 31.0,
       "mT_lag13": 25.5429
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-07-27",
       "rainfall": 6.4,
-      "max_temp": 34.26,
-      "min_temp": 27.12,
+      "max_temp": 34.1333,
+      "min_temp": 27.1,
       "R_lag10": 9.0,
       "MT_lag16": 31.9286,
       "mT_lag13": 26.2571

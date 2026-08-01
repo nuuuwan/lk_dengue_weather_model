@@ -1,6 +1,6 @@
 {
   "region_id": "LK-22-Yatawatta",
-  "generated_date": "2026-07-31",
+  "generated_date": "2026-08-01",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 28.0286,
       "min_temp": 20.9714,
       "R_lag10": 47.1,
-      "MT_lag16": 27.5333,
+      "MT_lag16": 26.4,
       "mT_lag13": 21.8857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 19.2,
-      "max_temp": 29.78,
-      "min_temp": 22.84,
+      "rainfall": 30.6,
+      "max_temp": 29.1667,
+      "min_temp": 22.6667,
       "R_lag10": 15.8,
       "MT_lag16": 32.5286,
       "mT_lag13": 22.6

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-32-Weligama",
-  "generated_date": "2026-07-31",
+  "generated_date": "2026-08-01",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 29.4857,
       "min_temp": 23.0571,
       "R_lag10": 18.8,
-      "MT_lag16": 28.2667,
+      "MT_lag16": 27.55,
       "mT_lag13": 24.5429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 52.1,
-      "max_temp": 30.22,
-      "min_temp": 25.52,
+      "rainfall": 66.2,
+      "max_temp": 30.1333,
+      "min_temp": 25.2833,
       "R_lag10": 21.7,
       "MT_lag16": 32.2571,
       "mT_lag13": 24.3857

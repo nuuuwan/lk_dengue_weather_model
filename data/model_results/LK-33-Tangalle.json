@@ -1,6 +1,6 @@
 {
   "region_id": "LK-33-Tangalle",
-  "generated_date": "2026-07-31",
+  "generated_date": "2026-08-01",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 29.0857,
       "min_temp": 22.8143,
       "R_lag10": 12.6,
-      "MT_lag16": 31.2667,
+      "MT_lag16": 30.2,
       "mT_lag13": 24.6143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 24.8,
-      "max_temp": 32.04,
-      "min_temp": 25.32,
+      "rainfall": 28.6,
+      "max_temp": 31.9167,
+      "min_temp": 25.0833,
       "R_lag10": 8.3,
       "MT_lag16": 33.2429,
       "mT_lag13": 24.2571

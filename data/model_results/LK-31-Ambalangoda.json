@@ -1,6 +1,6 @@
 {
   "region_id": "LK-31-Ambalangoda",
-  "generated_date": "2026-07-31",
+  "generated_date": "2026-08-01",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 29.2429,
       "min_temp": 23.4,
       "R_lag10": 32.7,
-      "MT_lag16": 27.6667,
+      "MT_lag16": 27.5,
       "mT_lag13": 25.4143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 68.4,
-      "max_temp": 29.52,
-      "min_temp": 25.96,
+      "rainfall": 88.8,
+      "max_temp": 29.4167,
+      "min_temp": 25.8167,
       "R_lag10": 65.1,
       "MT_lag16": 30.8857,
       "mT_lag13": 25.1571
