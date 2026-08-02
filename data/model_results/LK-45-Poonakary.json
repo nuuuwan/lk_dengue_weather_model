@@ -1,6 +1,6 @@
 {
   "region_id": "LK-45-Poonakary",
-  "generated_date": "2026-08-01",
+  "generated_date": "2026-08-02",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 28.8571,
       "min_temp": 23.4571,
       "R_lag10": 33.9,
-      "MT_lag16": 31.0,
+      "MT_lag16": 29.8,
       "mT_lag13": 26.0714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 2.0,
-      "max_temp": 32.3167,
-      "min_temp": 27.7333,
+      "rainfall": 3.8,
+      "max_temp": 32.4,
+      "min_temp": 27.7571,
       "R_lag10": 1.2,
       "MT_lag16": 33.8429,
       "mT_lag13": 26.7714

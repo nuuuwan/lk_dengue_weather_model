@@ -1,6 +1,6 @@
 {
   "region_id": "LK-12-Mahara",
-  "generated_date": "2026-08-01",
+  "generated_date": "2026-08-02",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 30.2143,
       "min_temp": 22.6,
       "R_lag10": 20.4,
-      "MT_lag16": 28.1,
+      "MT_lag16": 27.4,
       "mT_lag13": 23.2429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 67.3,
-      "max_temp": 30.25,
-      "min_temp": 24.1333,
+      "rainfall": 74.5,
+      "max_temp": 30.0571,
+      "min_temp": 24.0286,
       "R_lag10": 121.5,
       "MT_lag16": 33.7286,
       "mT_lag13": 24.4429

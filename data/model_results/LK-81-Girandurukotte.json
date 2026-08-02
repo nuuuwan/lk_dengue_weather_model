@@ -1,6 +1,6 @@
 {
   "region_id": "LK-81-Girandurukotte",
-  "generated_date": "2026-08-01",
+  "generated_date": "2026-08-02",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 29.2,
       "min_temp": 23.1286,
       "R_lag10": 39.6,
-      "MT_lag16": 32.0,
+      "MT_lag16": 29.5,
       "mT_lag13": 23.7857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 6.9,
-      "max_temp": 35.5833,
-      "min_temp": 26.15,
+      "rainfall": 7.2,
+      "max_temp": 35.3286,
+      "min_temp": 26.1286,
       "R_lag10": 7.4,
       "MT_lag16": 33.7857,
       "mT_lag13": 25.0571

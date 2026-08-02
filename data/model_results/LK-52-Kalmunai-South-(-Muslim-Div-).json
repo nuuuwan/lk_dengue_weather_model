@@ -1,6 +1,6 @@
 {
   "region_id": "LK-52-Kalmunai-South-(-Muslim-Div-)",
-  "generated_date": "2026-08-01",
+  "generated_date": "2026-08-02",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 29.0286,
       "min_temp": 23.5429,
       "R_lag10": 15.3,
-      "MT_lag16": 30.8,
+      "MT_lag16": 30.1,
       "mT_lag13": 24.9714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 5.4,
-      "max_temp": 35.2,
-      "min_temp": 26.8167,
+      "rainfall": 15.1,
+      "max_temp": 35.5714,
+      "min_temp": 26.7,
       "R_lag10": 15.2,
       "MT_lag16": 32.5429,
       "mT_lag13": 25.8286

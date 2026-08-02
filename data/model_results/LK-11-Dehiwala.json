@@ -1,6 +1,6 @@
 {
   "region_id": "LK-11-Dehiwala",
-  "generated_date": "2026-08-01",
+  "generated_date": "2026-08-02",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 29.5286,
       "min_temp": 23.1429,
       "R_lag10": 26.7,
-      "MT_lag16": 27.15,
+      "MT_lag16": 26.5,
       "mT_lag13": 24.8857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 52.4,
-      "max_temp": 29.6833,
-      "min_temp": 26.15,
+      "rainfall": 57.8,
+      "max_temp": 29.5143,
+      "min_temp": 26.0857,
       "R_lag10": 138.3,
       "MT_lag16": 32.2857,
       "mT_lag13": 25.3714

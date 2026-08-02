@@ -1,6 +1,6 @@
 {
   "region_id": "LK-31-Elpitiya",
-  "generated_date": "2026-08-01",
+  "generated_date": "2026-08-02",
   "weekly_features": [
     {
       "week": "2025-11-17",
@@ -8,7 +8,7 @@
       "max_temp": 30.1857,
       "min_temp": 22.3143,
       "R_lag10": 41.4,
-      "MT_lag16": 27.35,
+      "MT_lag16": 26.5,
       "mT_lag13": 23.4571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-07-27",
-      "rainfall": 98.8,
-      "max_temp": 29.4833,
-      "min_temp": 24.3,
+      "rainfall": 119.5,
+      "max_temp": 29.4714,
+      "min_temp": 24.0714,
       "R_lag10": 69.0,
       "MT_lag16": 31.6143,
       "mT_lag13": 23.7143
