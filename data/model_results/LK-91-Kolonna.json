@@ -1,23 +1,14 @@
 {
   "region_id": "LK-91-Kolonna",
-  "generated_date": "2026-08-02",
+  "generated_date": "2026-08-04",
   "weekly_features": [
-    {
-      "week": "2025-11-17",
-      "rainfall": 77.2,
-      "max_temp": 26.2286,
-      "min_temp": 19.5429,
-      "R_lag10": 28.1,
-      "MT_lag16": 23.4,
-      "mT_lag13": 20.2571
-    },
     {
       "week": "2025-11-24",
       "rainfall": 290.5,
       "max_temp": 23.2714,
       "min_temp": 19.1,
       "R_lag10": 27.0,
-      "MT_lag16": 26.3143,
+      "MT_lag16": 26.2333,
       "mT_lag13": 20.1
     },
     {
@@ -334,6 +325,15 @@
       "R_lag10": 24.4,
       "MT_lag16": 29.4857,
       "mT_lag13": 20.7857
+    },
+    {
+      "week": "2026-08-03",
+      "rainfall": 24.8,
+      "max_temp": 24.15,
+      "min_temp": 20.3,
+      "R_lag10": 17.7,
+      "MT_lag16": 29.1286,
+      "mT_lag13": 20.9429
     }
   ]
 }

@@ -1,23 +1,14 @@
 {
   "region_id": "LK-72-Welikanda",
-  "generated_date": "2026-08-02",
+  "generated_date": "2026-08-04",
   "weekly_features": [
-    {
-      "week": "2025-11-17",
-      "rainfall": 157.7,
-      "max_temp": 28.9857,
-      "min_temp": 22.8143,
-      "R_lag10": 25.8,
-      "MT_lag16": 30.9,
-      "mT_lag13": 25.6714
-    },
     {
       "week": "2025-11-24",
       "rainfall": 384.7,
       "max_temp": 26.1714,
       "min_temp": 22.9714,
       "R_lag10": 26.6,
-      "MT_lag16": 33.8143,
+      "MT_lag16": 33.75,
       "mT_lag13": 25.6429
     },
     {
@@ -334,6 +325,15 @@
       "R_lag10": 2.7,
       "MT_lag16": 33.7143,
       "mT_lag13": 25.0714
+    },
+    {
+      "week": "2026-08-03",
+      "rainfall": 19.1,
+      "max_temp": 32.25,
+      "min_temp": 25.25,
+      "R_lag10": 3.3,
+      "MT_lag16": 33.7,
+      "mT_lag13": 24.5714
     }
   ]
 }

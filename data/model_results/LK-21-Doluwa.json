@@ -1,23 +1,14 @@
 {
   "region_id": "LK-21-Doluwa",
-  "generated_date": "2026-08-02",
+  "generated_date": "2026-08-04",
   "weekly_features": [
-    {
-      "week": "2025-11-17",
-      "rainfall": 121.3,
-      "max_temp": 26.9714,
-      "min_temp": 19.3286,
-      "R_lag10": 26.6,
-      "MT_lag16": 24.9,
-      "mT_lag13": 19.3571
-    },
     {
       "week": "2025-11-24",
       "rainfall": 490.4,
       "max_temp": 22.5143,
       "min_temp": 18.8286,
       "R_lag10": 14.3,
-      "MT_lag16": 27.3857,
+      "MT_lag16": 27.4,
       "mT_lag13": 20.1571
     },
     {
@@ -334,6 +325,15 @@
       "R_lag10": 17.7,
       "MT_lag16": 30.9429,
       "mT_lag13": 20.4857
+    },
+    {
+      "week": "2026-08-03",
+      "rainfall": 32.3,
+      "max_temp": 23.85,
+      "min_temp": 20.6,
+      "R_lag10": 15.2,
+      "MT_lag16": 31.5,
+      "mT_lag13": 20.4714
     }
   ]
 }

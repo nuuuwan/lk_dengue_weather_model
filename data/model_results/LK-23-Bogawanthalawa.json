@@ -1,23 +1,14 @@
 {
   "region_id": "LK-23-Bogawanthalawa",
-  "generated_date": "2026-08-02",
+  "generated_date": "2026-08-04",
   "weekly_features": [
-    {
-      "week": "2025-11-17",
-      "rainfall": 116.8,
-      "max_temp": 21.4286,
-      "min_temp": 15.1143,
-      "R_lag10": 36.9,
-      "MT_lag16": 19.8,
-      "mT_lag13": 14.8143
-    },
     {
       "week": "2025-11-24",
       "rainfall": 337.9,
       "max_temp": 19.3143,
       "min_temp": 15.3429,
       "R_lag10": 22.9,
-      "MT_lag16": 21.7857,
+      "MT_lag16": 21.9333,
       "mT_lag13": 15.9286
     },
     {
@@ -334,6 +325,15 @@
       "R_lag10": 27.7,
       "MT_lag16": 23.7143,
       "mT_lag13": 15.8286
+    },
+    {
+      "week": "2026-08-03",
+      "rainfall": 46.8,
+      "max_temp": 18.7,
+      "min_temp": 16.25,
+      "R_lag10": 25.0,
+      "MT_lag16": 23.6286,
+      "mT_lag13": 16.3
     }
   ]
 }

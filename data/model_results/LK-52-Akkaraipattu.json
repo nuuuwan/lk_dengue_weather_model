@@ -1,23 +1,14 @@
 {
   "region_id": "LK-52-Akkaraipattu",
-  "generated_date": "2026-08-02",
+  "generated_date": "2026-08-04",
   "weekly_features": [
-    {
-      "week": "2025-11-17",
-      "rainfall": 124.4,
-      "max_temp": 29.1,
-      "min_temp": 22.9143,
-      "R_lag10": 27.3,
-      "MT_lag16": 30.0,
-      "mT_lag13": 24.5429
-    },
     {
       "week": "2025-11-24",
       "rainfall": 210.4,
       "max_temp": 27.3714,
       "min_temp": 22.8571,
       "R_lag10": 30.6,
-      "MT_lag16": 32.8571,
+      "MT_lag16": 33.0,
       "mT_lag13": 25.1429
     },
     {
@@ -334,6 +325,15 @@
       "R_lag10": 8.8,
       "MT_lag16": 33.4857,
       "mT_lag13": 24.8571
+    },
+    {
+      "week": "2026-08-03",
+      "rainfall": 25.7,
+      "max_temp": 32.6,
+      "min_temp": 25.0,
+      "R_lag10": 10.2,
+      "MT_lag16": 32.5143,
+      "mT_lag13": 24.7571
     }
   ]
 }

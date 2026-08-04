@@ -1,23 +1,14 @@
 {
   "region_id": "LK-53-Kanthale",
-  "generated_date": "2026-08-02",
+  "generated_date": "2026-08-04",
   "weekly_features": [
-    {
-      "week": "2025-11-17",
-      "rainfall": 104.8,
-      "max_temp": 29.0714,
-      "min_temp": 23.1286,
-      "R_lag10": 23.3,
-      "MT_lag16": 31.1,
-      "mT_lag13": 25.1429
-    },
     {
       "week": "2025-11-24",
       "rainfall": 662.1,
       "max_temp": 26.0714,
       "min_temp": 23.0714,
       "R_lag10": 19.7,
-      "MT_lag16": 33.0429,
+      "MT_lag16": 33.0,
       "mT_lag13": 25.2286
     },
     {
@@ -334,6 +325,15 @@
       "R_lag10": 3.0,
       "MT_lag16": 33.9571,
       "mT_lag13": 25.5429
+    },
+    {
+      "week": "2026-08-03",
+      "rainfall": 43.8,
+      "max_temp": 31.6,
+      "min_temp": 25.55,
+      "R_lag10": 7.5,
+      "MT_lag16": 34.6714,
+      "mT_lag13": 24.8857
     }
   ]
 }
