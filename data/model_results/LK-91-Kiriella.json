@@ -1,6 +1,6 @@
 {
   "region_id": "LK-91-Kiriella",
-  "generated_date": "2026-08-04",
+  "generated_date": "2026-08-05",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 26.1857,
       "min_temp": 21.9857,
       "R_lag10": 94.6,
-      "MT_lag16": 29.2667,
+      "MT_lag16": 29.46,
       "mT_lag13": 22.2857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 113.4,
-      "max_temp": 26.4,
-      "min_temp": 22.95,
+      "rainfall": 123.9,
+      "max_temp": 27.2667,
+      "min_temp": 22.9,
       "R_lag10": 91.3,
       "MT_lag16": 33.5857,
       "mT_lag13": 23.7

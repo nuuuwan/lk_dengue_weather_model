@@ -1,6 +1,6 @@
 {
   "region_id": "LK-62-Pallama",
-  "generated_date": "2026-08-04",
+  "generated_date": "2026-08-05",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 25.6714,
       "min_temp": 22.2714,
       "R_lag10": 55.7,
-      "MT_lag16": 30.5667,
+      "MT_lag16": 30.78,
       "mT_lag13": 24.9286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 10.9,
-      "max_temp": 29.3,
-      "min_temp": 25.55,
+      "rainfall": 11.0,
+      "max_temp": 29.6,
+      "min_temp": 25.7333,
       "R_lag10": 16.9,
       "MT_lag16": 33.7143,
       "mT_lag13": 24.4286

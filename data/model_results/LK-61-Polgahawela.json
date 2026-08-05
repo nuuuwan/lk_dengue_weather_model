@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Polgahawela",
-  "generated_date": "2026-08-04",
+  "generated_date": "2026-08-05",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 25.2857,
       "min_temp": 21.6714,
       "R_lag10": 56.6,
-      "MT_lag16": 29.2167,
+      "MT_lag16": 29.28,
       "mT_lag13": 22.7857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 55.1,
-      "max_temp": 26.65,
-      "min_temp": 22.8,
+      "rainfall": 57.0,
+      "max_temp": 27.3667,
+      "min_temp": 22.8333,
       "R_lag10": 35.6,
       "MT_lag16": 35.0857,
       "mT_lag13": 23.9714

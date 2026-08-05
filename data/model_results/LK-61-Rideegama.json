@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Rideegama",
-  "generated_date": "2026-08-04",
+  "generated_date": "2026-08-05",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 24.5714,
       "min_temp": 21.7429,
       "R_lag10": 35.5,
-      "MT_lag16": 29.8167,
+      "MT_lag16": 30.0,
       "mT_lag13": 23.3
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 48.5,
-      "max_temp": 27.25,
-      "min_temp": 23.15,
+      "rainfall": 51.0,
+      "max_temp": 27.8333,
+      "min_temp": 23.3,
       "R_lag10": 12.9,
       "MT_lag16": 34.1714,
       "mT_lag13": 23.9571

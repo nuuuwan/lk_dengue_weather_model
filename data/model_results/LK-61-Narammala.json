@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Narammala",
-  "generated_date": "2026-08-04",
+  "generated_date": "2026-08-05",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 25.0857,
       "min_temp": 21.6714,
       "R_lag10": 45.3,
-      "MT_lag16": 29.5667,
+      "MT_lag16": 29.62,
       "mT_lag13": 22.7286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 49.6,
-      "max_temp": 26.75,
-      "min_temp": 22.75,
+      "rainfall": 52.2,
+      "max_temp": 27.5,
+      "min_temp": 22.9,
       "R_lag10": 22.1,
       "MT_lag16": 34.9571,
       "mT_lag13": 23.9286

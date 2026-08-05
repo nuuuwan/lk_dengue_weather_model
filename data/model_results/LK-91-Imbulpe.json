@@ -1,6 +1,6 @@
 {
   "region_id": "LK-91-Imbulpe",
-  "generated_date": "2026-08-04",
+  "generated_date": "2026-08-05",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 22.8286,
       "min_temp": 18.1143,
       "R_lag10": 7.3,
-      "MT_lag16": 26.3333,
+      "MT_lag16": 26.42,
       "mT_lag13": 19.5714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 35.4,
-      "max_temp": 25.35,
-      "min_temp": 19.8,
+      "rainfall": 35.5,
+      "max_temp": 26.4,
+      "min_temp": 20.3333,
       "R_lag10": 6.7,
       "MT_lag16": 26.5286,
       "mT_lag13": 19.2571

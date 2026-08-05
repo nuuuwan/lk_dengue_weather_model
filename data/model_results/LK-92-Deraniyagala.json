@@ -1,6 +1,6 @@
 {
   "region_id": "LK-92-Deraniyagala",
-  "generated_date": "2026-08-04",
+  "generated_date": "2026-08-05",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 24.1143,
       "min_temp": 19.8429,
       "R_lag10": 90.0,
-      "MT_lag16": 26.7333,
+      "MT_lag16": 26.9,
       "mT_lag13": 20.4714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 93.7,
-      "max_temp": 24.1,
-      "min_temp": 21.2,
+      "rainfall": 106.1,
+      "max_temp": 25.1,
+      "min_temp": 21.1667,
       "R_lag10": 81.0,
       "MT_lag16": 31.3286,
       "mT_lag13": 21.6

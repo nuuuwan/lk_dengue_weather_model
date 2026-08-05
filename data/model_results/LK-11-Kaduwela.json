@@ -1,6 +1,6 @@
 {
   "region_id": "LK-11-Kaduwela",
-  "generated_date": "2026-08-04",
+  "generated_date": "2026-08-05",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 26.8286,
       "min_temp": 22.4286,
       "R_lag10": 102.0,
-      "MT_lag16": 29.0667,
+      "MT_lag16": 29.16,
       "mT_lag13": 23.7286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 29.1,
-      "max_temp": 28.25,
-      "min_temp": 24.15,
+      "rainfall": 31.3,
+      "max_temp": 28.5667,
+      "min_temp": 24.7667,
       "R_lag10": 68.9,
       "MT_lag16": 32.2286,
       "mT_lag13": 24.2143

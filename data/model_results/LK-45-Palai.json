@@ -1,6 +1,6 @@
 {
   "region_id": "LK-45-Palai",
-  "generated_date": "2026-08-04",
+  "generated_date": "2026-08-05",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 27.4571,
       "min_temp": 24.1,
       "R_lag10": 15.7,
-      "MT_lag16": 32.3,
+      "MT_lag16": 32.2,
       "mT_lag13": 26.8714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 15.3,
-      "max_temp": 32.9,
-      "min_temp": 27.25,
+      "rainfall": 16.2,
+      "max_temp": 32.7667,
+      "min_temp": 27.3667,
       "R_lag10": 0.2,
       "MT_lag16": 34.5857,
       "mT_lag13": 26.7143
