@@ -1,6 +1,6 @@
 {
   "region_id": "LK-21-Menikhinna",
-  "generated_date": "2026-08-05",
+  "generated_date": "2026-08-06",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 23.3714,
       "min_temp": 20.2714,
       "R_lag10": 19.8,
-      "MT_lag16": 28.22,
+      "MT_lag16": 28.225,
       "mT_lag13": 21.1714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 32.8,
-      "max_temp": 25.6333,
-      "min_temp": 21.6333,
+      "rainfall": 50.3,
+      "max_temp": 25.725,
+      "min_temp": 21.7,
       "R_lag10": 9.2,
       "MT_lag16": 32.3143,
       "mT_lag13": 21.9143

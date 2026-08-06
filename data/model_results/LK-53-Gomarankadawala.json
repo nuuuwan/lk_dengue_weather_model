@@ -1,6 +1,6 @@
 {
   "region_id": "LK-53-Gomarankadawala",
-  "generated_date": "2026-08-05",
+  "generated_date": "2026-08-06",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 26.1857,
       "min_temp": 22.8714,
       "R_lag10": 18.6,
-      "MT_lag16": 33.38,
+      "MT_lag16": 33.35,
       "mT_lag13": 25.4286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 45.6,
-      "max_temp": 32.2667,
-      "min_temp": 25.5667,
+      "rainfall": 55.8,
+      "max_temp": 31.975,
+      "min_temp": 25.75,
       "R_lag10": 9.3,
       "MT_lag16": 34.3714,
       "mT_lag13": 24.5857

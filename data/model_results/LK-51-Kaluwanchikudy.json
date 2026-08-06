@@ -1,6 +1,6 @@
 {
   "region_id": "LK-51-Kaluwanchikudy",
-  "generated_date": "2026-08-05",
+  "generated_date": "2026-08-06",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 27.4714,
       "min_temp": 23.2143,
       "R_lag10": 41.8,
-      "MT_lag16": 32.96,
+      "MT_lag16": 32.825,
       "mT_lag13": 25.3286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 46.1,
-      "max_temp": 33.2667,
-      "min_temp": 25.1,
+      "rainfall": 50.1,
+      "max_temp": 33.4,
+      "min_temp": 25.25,
       "R_lag10": 5.0,
       "MT_lag16": 32.3857,
       "mT_lag13": 25.1

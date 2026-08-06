@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Kotawehera",
-  "generated_date": "2026-08-05",
+  "generated_date": "2026-08-06",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 25.2429,
       "min_temp": 22.3143,
       "R_lag10": 27.9,
-      "MT_lag16": 32.0,
+      "MT_lag16": 31.75,
       "mT_lag13": 24.4714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 9.7,
-      "max_temp": 30.0667,
-      "min_temp": 24.8333,
+      "rainfall": 12.5,
+      "max_temp": 30.05,
+      "min_temp": 25.075,
       "R_lag10": 9.9,
       "MT_lag16": 34.5571,
       "mT_lag13": 24.6714
