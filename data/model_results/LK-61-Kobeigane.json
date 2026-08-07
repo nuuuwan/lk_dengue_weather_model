@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Kobeigane",
-  "generated_date": "2026-08-06",
+  "generated_date": "2026-08-07",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 25.2286,
       "min_temp": 22.2,
       "R_lag10": 37.2,
-      "MT_lag16": 31.175,
+      "MT_lag16": 31.3,
       "mT_lag13": 23.9
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 30.9,
-      "max_temp": 29.225,
-      "min_temp": 24.65,
+      "rainfall": 31.9,
+      "max_temp": 29.6,
+      "min_temp": 24.92,
       "R_lag10": 17.8,
       "MT_lag16": 34.5429,
       "mT_lag13": 24.5714

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-23-Ambagamuwa",
-  "generated_date": "2026-08-06",
+  "generated_date": "2026-08-07",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 22.8286,
       "min_temp": 18.7571,
       "R_lag10": 107.8,
-      "MT_lag16": 24.925,
+      "MT_lag16": 25.0,
       "mT_lag13": 19.6286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 195.4,
-      "max_temp": 23.125,
-      "min_temp": 20.275,
+      "rainfall": 232.5,
+      "max_temp": 23.02,
+      "min_temp": 20.26,
       "R_lag10": 84.8,
       "MT_lag16": 28.9286,
       "mT_lag13": 20.4857

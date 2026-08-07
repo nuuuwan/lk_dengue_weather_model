@@ -1,6 +1,6 @@
 {
   "region_id": "LK-12-Ja-Ela",
-  "generated_date": "2026-08-06",
+  "generated_date": "2026-08-07",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 26.7286,
       "min_temp": 22.6,
       "R_lag10": 99.6,
-      "MT_lag16": 28.575,
+      "MT_lag16": 28.7,
       "mT_lag13": 24.7714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 25.2,
-      "max_temp": 28.325,
-      "min_temp": 25.4,
+      "rainfall": 29.9,
+      "max_temp": 28.32,
+      "min_temp": 25.42,
       "R_lag10": 73.0,
       "MT_lag16": 31.6571,
       "mT_lag13": 25.0429
