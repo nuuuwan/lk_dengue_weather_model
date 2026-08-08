@@ -1,6 +1,6 @@
 {
   "region_id": "LK-41-Nallur",
-  "generated_date": "2026-08-07",
+  "generated_date": "2026-08-08",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 27.3,
       "min_temp": 23.5429,
       "R_lag10": 44.3,
-      "MT_lag16": 29.6333,
+      "MT_lag16": 29.25,
       "mT_lag13": 27.3857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 21.9,
-      "max_temp": 32.28,
-      "min_temp": 27.86,
+      "rainfall": 22.2,
+      "max_temp": 31.95,
+      "min_temp": 27.8667,
       "R_lag10": 0.3,
       "MT_lag16": 33.6,
       "mT_lag13": 27.0571

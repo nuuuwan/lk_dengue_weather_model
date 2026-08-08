@@ -1,6 +1,6 @@
 {
   "region_id": "LK-91-Godakawela",
-  "generated_date": "2026-08-07",
+  "generated_date": "2026-08-08",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 25.3857,
       "min_temp": 21.3571,
       "R_lag10": 22.9,
-      "MT_lag16": 28.6333,
+      "MT_lag16": 28.6,
       "mT_lag13": 22.2571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 62.8,
-      "max_temp": 26.16,
-      "min_temp": 22.2,
+      "rainfall": 83.2,
+      "max_temp": 26.0167,
+      "min_temp": 22.1167,
       "R_lag10": 26.7,
       "MT_lag16": 32.2,
       "mT_lag13": 23.1429

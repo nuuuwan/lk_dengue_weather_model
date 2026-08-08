@@ -1,6 +1,6 @@
 {
   "region_id": "LK-52-Karaithivu",
-  "generated_date": "2026-08-07",
+  "generated_date": "2026-08-08",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 27.5714,
       "min_temp": 23.3429,
       "R_lag10": 36.9,
-      "MT_lag16": 33.7333,
+      "MT_lag16": 34.25,
       "mT_lag13": 25.1286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 50.4,
-      "max_temp": 33.0,
-      "min_temp": 25.48,
+      "rainfall": 52.9,
+      "max_temp": 33.7167,
+      "min_temp": 25.5333,
       "R_lag10": 5.7,
       "MT_lag16": 32.6429,
       "mT_lag13": 25.2571

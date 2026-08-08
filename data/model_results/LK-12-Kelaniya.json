@@ -1,6 +1,6 @@
 {
   "region_id": "LK-12-Kelaniya",
-  "generated_date": "2026-08-07",
+  "generated_date": "2026-08-08",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 26.8714,
       "min_temp": 22.8429,
       "R_lag10": 108.4,
-      "MT_lag16": 28.7333,
+      "MT_lag16": 28.8,
       "mT_lag13": 24.8714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 34.6,
-      "max_temp": 28.34,
-      "min_temp": 25.74,
+      "rainfall": 49.6,
+      "max_temp": 28.25,
+      "min_temp": 25.45,
       "R_lag10": 71.7,
       "MT_lag16": 31.6286,
       "mT_lag13": 25.1857
