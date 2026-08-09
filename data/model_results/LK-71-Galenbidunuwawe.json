@@ -1,6 +1,6 @@
 {
   "region_id": "LK-71-Galenbidunuwawe",
-  "generated_date": "2026-08-08",
+  "generated_date": "2026-08-09",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 25.3,
       "min_temp": 22.3571,
       "R_lag10": 14.6,
-      "MT_lag16": 32.6,
+      "MT_lag16": 33.0,
       "mT_lag13": 24.2571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 39.6,
-      "max_temp": 31.8333,
-      "min_temp": 25.0333,
+      "rainfall": 42.4,
+      "max_temp": 32.1857,
+      "min_temp": 25.0,
       "R_lag10": 6.9,
       "MT_lag16": 34.4571,
       "mT_lag13": 24.4429

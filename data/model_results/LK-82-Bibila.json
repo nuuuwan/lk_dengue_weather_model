@@ -1,6 +1,6 @@
 {
   "region_id": "LK-82-Bibila",
-  "generated_date": "2026-08-08",
+  "generated_date": "2026-08-09",
   "weekly_features": [
     {
       "week": "2025-11-24",
@@ -8,7 +8,7 @@
       "max_temp": 26.2143,
       "min_temp": 21.8429,
       "R_lag10": 29.3,
-      "MT_lag16": 32.45,
+      "MT_lag16": 32.8,
       "mT_lag13": 23.4143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-03",
-      "rainfall": 23.0,
-      "max_temp": 33.6167,
-      "min_temp": 25.5833,
+      "rainfall": 27.5,
+      "max_temp": 33.8571,
+      "min_temp": 25.5,
       "R_lag10": 8.8,
       "MT_lag16": 33.1571,
       "mT_lag13": 23.7714
