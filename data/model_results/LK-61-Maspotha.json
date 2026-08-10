@@ -1,16 +1,7 @@
 {
   "region_id": "LK-61-Maspotha",
-  "generated_date": "2026-08-09",
+  "generated_date": "2026-08-10",
   "weekly_features": [
-    {
-      "week": "2025-11-24",
-      "rainfall": 434.7,
-      "max_temp": 24.9714,
-      "min_temp": 21.8143,
-      "R_lag10": 35.0,
-      "MT_lag16": 31.2,
-      "mT_lag13": 23.2143
-    },
     {
       "week": "2025-12-01",
       "rainfall": 16.6,
@@ -334,6 +325,15 @@
       "R_lag10": 22.4,
       "MT_lag16": 34.3571,
       "mT_lag13": 24.0857
+    },
+    {
+      "week": "2026-08-10",
+      "rainfall": 0.9,
+      "max_temp": 30.9,
+      "min_temp": 24.2,
+      "R_lag10": 39.3,
+      "MT_lag16": 33.3,
+      "mT_lag13": 23.5286
     }
   ]
 }
