@@ -1,6 +1,6 @@
 {
   "region_id": "LK-71-Ipalogama",
-  "generated_date": "2026-08-10",
+  "generated_date": "2026-08-11",
   "weekly_features": [
     {
       "week": "2025-12-01",
@@ -8,7 +8,7 @@
       "max_temp": 29.0571,
       "min_temp": 22.0714,
       "R_lag10": 15.5,
-      "MT_lag16": 31.8429,
+      "MT_lag16": 31.8167,
       "mT_lag13": 24.4429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-10",
-      "rainfall": 0.0,
-      "max_temp": 34.2,
-      "min_temp": 25.1,
+      "rainfall": 0.6,
+      "max_temp": 34.3,
+      "min_temp": 25.3,
       "R_lag10": 7.7,
       "MT_lag16": 33.6857,
       "mT_lag13": 23.8571

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-52-Sainthamaruthu",
-  "generated_date": "2026-08-10",
+  "generated_date": "2026-08-11",
   "weekly_features": [
     {
       "week": "2025-12-01",
@@ -8,7 +8,7 @@
       "max_temp": 29.3714,
       "min_temp": 23.4714,
       "R_lag10": 18.8,
-      "MT_lag16": 33.5286,
+      "MT_lag16": 33.5833,
       "mT_lag13": 25.2
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-10",
-      "rainfall": 4.1,
-      "max_temp": 33.6,
-      "min_temp": 25.8,
+      "rainfall": 5.9,
+      "max_temp": 34.2,
+      "min_temp": 26.05,
       "R_lag10": 8.2,
       "MT_lag16": 32.0286,
       "mT_lag13": 25.3714

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-81-Haputhale",
-  "generated_date": "2026-08-10",
+  "generated_date": "2026-08-11",
   "weekly_features": [
     {
       "week": "2025-12-01",
@@ -8,7 +8,7 @@
       "max_temp": 23.1857,
       "min_temp": 13.9,
       "R_lag10": 17.7,
-      "MT_lag16": 23.6,
+      "MT_lag16": 23.5167,
       "mT_lag13": 16.3857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-10",
-      "rainfall": 3.1,
-      "max_temp": 27.0,
-      "min_temp": 18.3,
+      "rainfall": 6.0,
+      "max_temp": 26.45,
+      "min_temp": 17.8,
       "R_lag10": 10.8,
       "MT_lag16": 24.5571,
       "mT_lag13": 16.9286
