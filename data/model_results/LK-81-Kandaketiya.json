@@ -1,6 +1,6 @@
 {
   "region_id": "LK-81-Kandaketiya",
-  "generated_date": "2026-08-11",
+  "generated_date": "2026-08-12",
   "weekly_features": [
     {
       "week": "2025-12-01",
@@ -8,7 +8,7 @@
       "max_temp": 29.2857,
       "min_temp": 20.1714,
       "R_lag10": 1.6,
-      "MT_lag16": 32.5667,
+      "MT_lag16": 32.64,
       "mT_lag13": 24.5714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-10",
-      "rainfall": 0.3,
-      "max_temp": 35.8,
-      "min_temp": 25.35,
+      "rainfall": 0.5,
+      "max_temp": 35.5,
+      "min_temp": 25.6667,
       "R_lag10": 3.1,
       "MT_lag16": 32.2429,
       "mT_lag13": 23.5143
