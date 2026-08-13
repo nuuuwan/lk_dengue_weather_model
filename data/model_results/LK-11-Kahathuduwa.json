@@ -1,6 +1,6 @@
 {
   "region_id": "LK-11-Kahathuduwa",
-  "generated_date": "2026-08-12",
+  "generated_date": "2026-08-13",
   "weekly_features": [
     {
       "week": "2025-12-01",
@@ -8,7 +8,7 @@
       "max_temp": 30.0857,
       "min_temp": 22.0143,
       "R_lag10": 130.9,
-      "MT_lag16": 29.12,
+      "MT_lag16": 29.15,
       "mT_lag13": 24.2
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-10",
-      "rainfall": 16.5,
-      "max_temp": 29.9667,
-      "min_temp": 24.9667,
+      "rainfall": 21.2,
+      "max_temp": 29.95,
+      "min_temp": 25.075,
       "R_lag10": 83.9,
       "MT_lag16": 32.7,
       "mT_lag13": 23.5714

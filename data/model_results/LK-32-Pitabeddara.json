@@ -1,6 +1,6 @@
 {
   "region_id": "LK-32-Pitabeddara",
-  "generated_date": "2026-08-12",
+  "generated_date": "2026-08-13",
   "weekly_features": [
     {
       "week": "2025-12-01",
@@ -8,7 +8,7 @@
       "max_temp": 30.6286,
       "min_temp": 21.5714,
       "R_lag10": 105.9,
-      "MT_lag16": 28.48,
+      "MT_lag16": 28.85,
       "mT_lag13": 23.0429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-10",
-      "rainfall": 16.2,
-      "max_temp": 29.3333,
-      "min_temp": 23.2667,
+      "rainfall": 25.1,
+      "max_temp": 29.175,
+      "min_temp": 23.25,
       "R_lag10": 73.8,
       "MT_lag16": 32.9143,
       "mT_lag13": 23.5143

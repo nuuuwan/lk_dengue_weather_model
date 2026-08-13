@@ -1,6 +1,6 @@
 {
   "region_id": "LK-52-Pottuvil",
-  "generated_date": "2026-08-12",
+  "generated_date": "2026-08-13",
   "weekly_features": [
     {
       "week": "2025-12-01",
@@ -8,7 +8,7 @@
       "max_temp": 29.6286,
       "min_temp": 23.0571,
       "R_lag10": 25.1,
-      "MT_lag16": 34.26,
+      "MT_lag16": 34.375,
       "mT_lag13": 25.4429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-10",
-      "rainfall": 5.4,
-      "max_temp": 34.6667,
-      "min_temp": 26.3333,
+      "rainfall": 14.6,
+      "max_temp": 34.45,
+      "min_temp": 26.3,
       "R_lag10": 10.1,
       "MT_lag16": 31.0143,
       "mT_lag13": 24.8286

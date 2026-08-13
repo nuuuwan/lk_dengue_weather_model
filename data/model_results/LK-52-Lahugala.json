@@ -1,6 +1,6 @@
 {
   "region_id": "LK-52-Lahugala",
-  "generated_date": "2026-08-12",
+  "generated_date": "2026-08-13",
   "weekly_features": [
     {
       "week": "2025-12-01",
@@ -8,7 +8,7 @@
       "max_temp": 30.8143,
       "min_temp": 22.3714,
       "R_lag10": 5.2,
-      "MT_lag16": 35.38,
+      "MT_lag16": 35.55,
       "mT_lag13": 25.6143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-10",
-      "rainfall": 8.6,
-      "max_temp": 36.5,
-      "min_temp": 25.9667,
+      "rainfall": 9.1,
+      "max_temp": 36.525,
+      "min_temp": 25.975,
       "R_lag10": 5.7,
       "MT_lag16": 32.3571,
       "mT_lag13": 24.4714

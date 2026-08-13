@@ -1,6 +1,6 @@
 {
   "region_id": "LK-62-Karuwalagaswewa",
-  "generated_date": "2026-08-12",
+  "generated_date": "2026-08-13",
   "weekly_features": [
     {
       "week": "2025-12-01",
@@ -8,7 +8,7 @@
       "max_temp": 29.5,
       "min_temp": 22.5286,
       "R_lag10": 45.8,
-      "MT_lag16": 30.86,
+      "MT_lag16": 31.0,
       "mT_lag13": 25.8
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-10",
-      "rainfall": 2.3,
-      "max_temp": 33.0667,
-      "min_temp": 26.6667,
+      "rainfall": 5.6,
+      "max_temp": 32.75,
+      "min_temp": 26.625,
       "R_lag10": 13.8,
       "MT_lag16": 34.4286,
       "mT_lag13": 23.9571

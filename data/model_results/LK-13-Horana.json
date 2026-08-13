@@ -1,6 +1,6 @@
 {
   "region_id": "LK-13-Horana",
-  "generated_date": "2026-08-12",
+  "generated_date": "2026-08-13",
   "weekly_features": [
     {
       "week": "2025-12-01",
@@ -8,7 +8,7 @@
       "max_temp": 29.9429,
       "min_temp": 21.4714,
       "R_lag10": 122.0,
-      "MT_lag16": 28.86,
+      "MT_lag16": 28.95,
       "mT_lag13": 23.1571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-10",
-      "rainfall": 17.6,
-      "max_temp": 29.8667,
-      "min_temp": 24.2,
+      "rainfall": 25.4,
+      "max_temp": 29.8,
+      "min_temp": 24.225,
       "R_lag10": 98.6,
       "MT_lag16": 32.5143,
       "mT_lag13": 23.1714

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-41-Chankanai",
-  "generated_date": "2026-08-12",
+  "generated_date": "2026-08-13",
   "weekly_features": [
     {
       "week": "2025-12-01",
@@ -8,7 +8,7 @@
       "max_temp": 29.4,
       "min_temp": 23.9429,
       "R_lag10": 32.6,
-      "MT_lag16": 31.02,
+      "MT_lag16": 30.975,
       "mT_lag13": 27.1857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-10",
-      "rainfall": 0.2,
-      "max_temp": 32.5333,
-      "min_temp": 27.6667,
+      "rainfall": 0.7,
+      "max_temp": 32.575,
+      "min_temp": 27.725,
       "R_lag10": 0.9,
       "MT_lag16": 33.9286,
       "mT_lag13": 26.4

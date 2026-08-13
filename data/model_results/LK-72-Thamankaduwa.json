@@ -1,6 +1,6 @@
 {
   "region_id": "LK-72-Thamankaduwa",
-  "generated_date": "2026-08-12",
+  "generated_date": "2026-08-13",
   "weekly_features": [
     {
       "week": "2025-12-01",
@@ -8,7 +8,7 @@
       "max_temp": 30.2143,
       "min_temp": 22.1714,
       "R_lag10": 5.6,
-      "MT_lag16": 33.14,
+      "MT_lag16": 33.175,
       "mT_lag13": 26.3
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-10",
-      "rainfall": 1.1,
-      "max_temp": 35.3667,
-      "min_temp": 27.2667,
+      "rainfall": 2.9,
+      "max_temp": 35.3,
+      "min_temp": 27.25,
       "R_lag10": 9.5,
       "MT_lag16": 34.4,
       "mT_lag13": 24.7714
