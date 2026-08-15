@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Alawwa",
-  "generated_date": "2026-08-14",
+  "generated_date": "2026-08-15",
   "weekly_features": [
     {
       "week": "2025-12-01",
@@ -8,7 +8,7 @@
       "max_temp": 30.7714,
       "min_temp": 21.2429,
       "R_lag10": 72.7,
-      "MT_lag16": 28.9,
+      "MT_lag16": 29.05,
       "mT_lag13": 23.3857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-10",
-      "rainfall": 14.6,
-      "max_temp": 29.98,
-      "min_temp": 23.76,
+      "rainfall": 18.5,
+      "max_temp": 29.9333,
+      "min_temp": 23.6333,
       "R_lag10": 59.1,
       "MT_lag16": 33.5714,
       "mT_lag13": 23.5

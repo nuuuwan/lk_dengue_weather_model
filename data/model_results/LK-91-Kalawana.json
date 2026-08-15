@@ -1,6 +1,6 @@
 {
   "region_id": "LK-91-Kalawana",
-  "generated_date": "2026-08-14",
+  "generated_date": "2026-08-15",
   "weekly_features": [
     {
       "week": "2025-12-01",
@@ -8,7 +8,7 @@
       "max_temp": 27.3286,
       "min_temp": 18.9286,
       "R_lag10": 100.1,
-      "MT_lag16": 24.1,
+      "MT_lag16": 24.2,
       "mT_lag13": 20.4143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-10",
-      "rainfall": 61.7,
-      "max_temp": 24.68,
-      "min_temp": 20.54,
+      "rainfall": 75.6,
+      "max_temp": 24.5667,
+      "min_temp": 20.5667,
       "R_lag10": 106.9,
       "MT_lag16": 28.7429,
       "mT_lag13": 20.8714

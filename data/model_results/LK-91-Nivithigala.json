@@ -1,6 +1,6 @@
 {
   "region_id": "LK-91-Nivithigala",
-  "generated_date": "2026-08-14",
+  "generated_date": "2026-08-15",
   "weekly_features": [
     {
       "week": "2025-12-01",
@@ -8,7 +8,7 @@
       "max_temp": 30.6143,
       "min_temp": 20.3429,
       "R_lag10": 121.4,
-      "MT_lag16": 27.3333,
+      "MT_lag16": 27.5,
       "mT_lag13": 22.3286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-10",
-      "rainfall": 41.1,
-      "max_temp": 28.78,
-      "min_temp": 22.84,
+      "rainfall": 55.7,
+      "max_temp": 28.4333,
+      "min_temp": 22.75,
       "R_lag10": 101.2,
       "MT_lag16": 33.3857,
       "mT_lag13": 22.7286

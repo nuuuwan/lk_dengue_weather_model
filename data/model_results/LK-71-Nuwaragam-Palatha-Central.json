@@ -1,6 +1,6 @@
 {
   "region_id": "LK-71-Nuwaragam-Palatha-Central",
-  "generated_date": "2026-08-14",
+  "generated_date": "2026-08-15",
   "weekly_features": [
     {
       "week": "2025-12-01",
@@ -8,7 +8,7 @@
       "max_temp": 29.6286,
       "min_temp": 22.6429,
       "R_lag10": 13.4,
-      "MT_lag16": 31.9667,
+      "MT_lag16": 32.15,
       "mT_lag13": 25.7571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-10",
-      "rainfall": 9.2,
-      "max_temp": 34.64,
-      "min_temp": 26.62,
+      "rainfall": 11.9,
+      "max_temp": 34.4167,
+      "min_temp": 26.55,
       "R_lag10": 7.1,
       "MT_lag16": 34.8286,
       "mT_lag13": 24.4286

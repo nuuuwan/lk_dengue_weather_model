@@ -1,6 +1,6 @@
 {
   "region_id": "LK-53-Eachchilampatru",
-  "generated_date": "2026-08-14",
+  "generated_date": "2026-08-15",
   "weekly_features": [
     {
       "week": "2025-12-01",
@@ -8,7 +8,7 @@
       "max_temp": 29.8,
       "min_temp": 23.2429,
       "R_lag10": 17.8,
-      "MT_lag16": 33.8,
+      "MT_lag16": 33.6,
       "mT_lag13": 26.2714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-10",
-      "rainfall": 7.8,
+      "rainfall": 8.7,
       "max_temp": 34.5,
-      "min_temp": 26.58,
+      "min_temp": 26.5667,
       "R_lag10": 7.7,
       "MT_lag16": 32.4,
       "mT_lag13": 24.7857

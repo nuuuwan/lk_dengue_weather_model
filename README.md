@@ -4,7 +4,7 @@ Dengue outbreak weather-risk model for Sri Lanka MOH regions.
 
 > 📖 **Methodology:** [README.methodology.md](README.methodology.md)
 
-_Last updated: 14 August 2026 · 333 regions with model results._
+_Last updated: 15 August 2026 · 333 regions with model results._
 
 ---
 
@@ -27,8 +27,8 @@ Sorted by composite weather-risk score (descending).
 | Region | District | Risk Score | Rainfall mm (−10w) | Max Temp °C (−16w) | Min Temp °C (−13w) |
 |---|---|---:|---:|---:|---:|
 | Ratnapura-Mc | LK-91 | 3.02 | 108.5 | 33.8 | 24.0 |
-| Elapatha | LK-91 | 2.81 | 111.2 | 33.7 | 23.5 |
 | Ayagama | LK-91 | 2.81 | 111.2 | 33.7 | 23.5 |
+| Elapatha | LK-91 | 2.81 | 111.2 | 33.7 | 23.5 |
 | Kuruwita | LK-91 | 2.73 | 111.0 | 33.1 | 23.9 |
 | Eheliyagoda | LK-91 | 2.60 | 103.4 | 33.7 | 23.6 |
 | Agalawatta | LK-13 | 2.58 | 118.5 | 32.9 | 23.3 |
@@ -74,8 +74,8 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 
 | Region | District | Risk Score | Cases/100k |
 |---|---|---:|---:|
-| Elapatha | Ratnapura | 2.81 | 0.0 |
 | Ayagama | Ratnapura | 2.81 | 0.0 |
+| Elapatha | Ratnapura | 2.81 | 0.0 |
 | Agalawatta | Kalutara | 2.58 | 0.0 |
 | Walallawita | Kalutara | 2.43 | 0.0 |
 | Bulathkohupitiya | Kegalle | 2.35 | 0.0 |
