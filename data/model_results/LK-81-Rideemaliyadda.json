@@ -1,6 +1,6 @@
 {
   "region_id": "LK-81-Rideemaliyadda",
-  "generated_date": "2026-08-15",
+  "generated_date": "2026-08-16",
   "weekly_features": [
     {
       "week": "2025-12-01",
@@ -8,7 +8,7 @@
       "max_temp": 29.2286,
       "min_temp": 20.9714,
       "R_lag10": 3.0,
-      "MT_lag16": 32.15,
+      "MT_lag16": 32.3,
       "mT_lag13": 24.9286
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-08-10",
       "rainfall": 10.9,
-      "max_temp": 35.4333,
-      "min_temp": 26.1,
+      "max_temp": 35.4714,
+      "min_temp": 25.9857,
       "R_lag10": 3.9,
       "MT_lag16": 32.0714,
       "mT_lag13": 23.7286
