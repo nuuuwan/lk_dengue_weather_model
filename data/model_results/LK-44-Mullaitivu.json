@@ -1,16 +1,7 @@
 {
   "region_id": "LK-44-Mullaitivu",
-  "generated_date": "2026-08-16",
+  "generated_date": "2026-08-17",
   "weekly_features": [
-    {
-      "week": "2025-12-01",
-      "rainfall": 53.7,
-      "max_temp": 29.5,
-      "min_temp": 23.7429,
-      "R_lag10": 3.8,
-      "MT_lag16": 31.9,
-      "mT_lag13": 26.1143
-    },
     {
       "week": "2025-12-08",
       "rainfall": 112.4,
@@ -334,6 +325,15 @@
       "R_lag10": 1.9,
       "MT_lag16": 33.0286,
       "mT_lag13": 24.9714
+    },
+    {
+      "week": "2026-08-17",
+      "rainfall": 1.5,
+      "max_temp": 34.7,
+      "min_temp": 26.5,
+      "R_lag10": 12.6,
+      "MT_lag16": 34.9286,
+      "mT_lag13": 27.0571
     }
   ]
 }

@@ -1,16 +1,7 @@
 {
   "region_id": "LK-13-Palindanuwara",
-  "generated_date": "2026-08-16",
+  "generated_date": "2026-08-17",
   "weekly_features": [
-    {
-      "week": "2025-12-01",
-      "rainfall": 61.6,
-      "max_temp": 29.6857,
-      "min_temp": 21.6429,
-      "R_lag10": 172.2,
-      "MT_lag16": 27.6,
-      "mT_lag13": 22.6429
-    },
     {
       "week": "2025-12-08",
       "rainfall": 90.8,
@@ -334,6 +325,15 @@
       "R_lag10": 121.0,
       "MT_lag16": 32.1714,
       "mT_lag13": 23.1714
+    },
+    {
+      "week": "2026-08-17",
+      "rainfall": 21.0,
+      "max_temp": 27.4,
+      "min_temp": 22.8,
+      "R_lag10": 112.8,
+      "MT_lag16": 31.0,
+      "mT_lag13": 23.2857
     }
   ]
 }

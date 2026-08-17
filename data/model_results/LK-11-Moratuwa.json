@@ -1,16 +1,7 @@
 {
   "region_id": "LK-11-Moratuwa",
-  "generated_date": "2026-08-16",
+  "generated_date": "2026-08-17",
   "weekly_features": [
-    {
-      "week": "2025-12-01",
-      "rainfall": 26.4,
-      "max_temp": 29.5286,
-      "min_temp": 23.1857,
-      "R_lag10": 120.5,
-      "MT_lag16": 28.5,
-      "mT_lag13": 25.6143
-    },
     {
       "week": "2025-12-08",
       "rainfall": 52.3,
@@ -334,6 +325,15 @@
       "R_lag10": 66.4,
       "MT_lag16": 31.9857,
       "mT_lag13": 24.7714
+    },
+    {
+      "week": "2026-08-17",
+      "rainfall": 11.7,
+      "max_temp": 28.6,
+      "min_temp": 25.4,
+      "R_lag10": 80.6,
+      "MT_lag16": 31.4286,
+      "mT_lag13": 25.2286
     }
   ]
 }
