@@ -1,6 +1,6 @@
 {
   "region_id": "LK-33-Okewela",
-  "generated_date": "2026-08-18",
+  "generated_date": "2026-08-19",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 29.8571,
       "min_temp": 21.6286,
       "R_lag10": 11.8,
-      "MT_lag16": 32.0,
+      "MT_lag16": 31.96,
       "mT_lag13": 23.8571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-17",
-      "rainfall": 17.5,
-      "max_temp": 29.7,
-      "min_temp": 23.35,
+      "rainfall": 24.2,
+      "max_temp": 29.7667,
+      "min_temp": 23.3667,
       "R_lag10": 30.8,
       "MT_lag16": 31.8429,
       "mT_lag13": 24.6286

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-92-Aranayaka",
-  "generated_date": "2026-08-18",
+  "generated_date": "2026-08-19",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 28.6143,
       "min_temp": 20.8,
       "R_lag10": 26.0,
-      "MT_lag16": 29.4,
+      "MT_lag16": 29.36,
       "mT_lag13": 22.5143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-17",
-      "rainfall": 13.1,
-      "max_temp": 28.1,
-      "min_temp": 22.5,
+      "rainfall": 20.5,
+      "max_temp": 27.7,
+      "min_temp": 22.5667,
       "R_lag10": 78.3,
       "MT_lag16": 31.6429,
       "mT_lag13": 23.5429

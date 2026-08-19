@@ -1,6 +1,6 @@
 {
   "region_id": "LK-32-Malimbada",
-  "generated_date": "2026-08-18",
+  "generated_date": "2026-08-19",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 29.2143,
       "min_temp": 22.6286,
       "R_lag10": 15.0,
-      "MT_lag16": 30.0167,
+      "MT_lag16": 29.98,
       "mT_lag13": 24.8571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-17",
-      "rainfall": 8.6,
+      "rainfall": 19.1,
       "max_temp": 29.1,
-      "min_temp": 24.5,
+      "min_temp": 24.3333,
       "R_lag10": 36.9,
       "MT_lag16": 31.0143,
       "mT_lag13": 25.3857

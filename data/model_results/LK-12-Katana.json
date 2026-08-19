@@ -1,6 +1,6 @@
 {
   "region_id": "LK-12-Katana",
-  "generated_date": "2026-08-18",
+  "generated_date": "2026-08-19",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 29.3714,
       "min_temp": 23.0143,
       "R_lag10": 14.7,
-      "MT_lag16": 30.0167,
+      "MT_lag16": 30.04,
       "mT_lag13": 25.4286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-17",
-      "rainfall": 13.4,
-      "max_temp": 29.05,
-      "min_temp": 24.85,
+      "rainfall": 19.6,
+      "max_temp": 29.4,
+      "min_temp": 25.0,
       "R_lag10": 110.4,
       "MT_lag16": 32.4571,
       "mT_lag13": 24.6286

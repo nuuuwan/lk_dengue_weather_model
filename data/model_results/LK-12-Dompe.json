@@ -1,6 +1,6 @@
 {
   "region_id": "LK-12-Dompe",
-  "generated_date": "2026-08-18",
+  "generated_date": "2026-08-19",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 29.5714,
       "min_temp": 22.4714,
       "R_lag10": 33.2,
-      "MT_lag16": 30.1167,
+      "MT_lag16": 30.08,
       "mT_lag13": 23.1571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-17",
-      "rainfall": 26.3,
-      "max_temp": 29.45,
-      "min_temp": 23.15,
+      "rainfall": 35.0,
+      "max_temp": 29.6333,
+      "min_temp": 23.2333,
       "R_lag10": 111.6,
       "MT_lag16": 32.9571,
       "mT_lag13": 23.6857
