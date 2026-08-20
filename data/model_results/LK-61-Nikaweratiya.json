@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Nikaweratiya",
-  "generated_date": "2026-08-19",
+  "generated_date": "2026-08-20",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 27.9857,
       "min_temp": 22.4143,
       "R_lag10": 31.4,
-      "MT_lag16": 33.52,
+      "MT_lag16": 33.45,
       "mT_lag13": 24.3143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-17",
-      "rainfall": 5.2,
-      "max_temp": 32.3333,
-      "min_temp": 24.5667,
+      "rainfall": 8.0,
+      "max_temp": 32.3,
+      "min_temp": 24.75,
       "R_lag10": 84.1,
       "MT_lag16": 33.3714,
       "mT_lag13": 24.6857

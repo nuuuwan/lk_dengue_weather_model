@@ -1,6 +1,6 @@
 {
   "region_id": "LK-62-Nattandiya",
-  "generated_date": "2026-08-19",
+  "generated_date": "2026-08-20",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 28.9857,
       "min_temp": 22.9143,
       "R_lag10": 15.8,
-      "MT_lag16": 29.78,
+      "MT_lag16": 29.775,
       "mT_lag13": 25.5714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-17",
-      "rainfall": 13.4,
-      "max_temp": 30.2333,
-      "min_temp": 25.7667,
+      "rainfall": 22.5,
+      "max_temp": 30.0,
+      "min_temp": 25.75,
       "R_lag10": 126.5,
       "MT_lag16": 32.5286,
       "mT_lag13": 24.9143

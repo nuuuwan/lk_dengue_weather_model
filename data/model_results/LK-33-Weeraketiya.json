@@ -1,6 +1,6 @@
 {
   "region_id": "LK-33-Weeraketiya",
-  "generated_date": "2026-08-19",
+  "generated_date": "2026-08-20",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 29.6286,
       "min_temp": 21.9,
       "R_lag10": 12.6,
-      "MT_lag16": 33.44,
+      "MT_lag16": 33.125,
       "mT_lag13": 24.3714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-17",
-      "rainfall": 14.8,
-      "max_temp": 30.5667,
-      "min_temp": 23.7333,
+      "rainfall": 22.0,
+      "max_temp": 30.6,
+      "min_temp": 23.65,
       "R_lag10": 23.1,
       "MT_lag16": 32.0,
       "mT_lag13": 24.9714

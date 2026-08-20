@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Wariyapola",
-  "generated_date": "2026-08-19",
+  "generated_date": "2026-08-20",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 28.1429,
       "min_temp": 22.5,
       "R_lag10": 22.6,
-      "MT_lag16": 33.4,
+      "MT_lag16": 33.25,
       "mT_lag13": 24.1143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-17",
-      "rainfall": 5.6,
-      "max_temp": 33.4667,
-      "min_temp": 24.5667,
+      "rainfall": 10.7,
+      "max_temp": 33.35,
+      "min_temp": 24.6,
       "R_lag10": 84.8,
       "MT_lag16": 33.1286,
       "mT_lag13": 24.7

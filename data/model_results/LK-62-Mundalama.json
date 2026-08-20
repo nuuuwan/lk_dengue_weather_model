@@ -1,6 +1,6 @@
 {
   "region_id": "LK-62-Mundalama",
-  "generated_date": "2026-08-19",
+  "generated_date": "2026-08-20",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 28.7143,
       "min_temp": 23.2286,
       "R_lag10": 13.6,
-      "MT_lag16": 30.88,
+      "MT_lag16": 30.875,
       "mT_lag13": 26.2571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-17",
-      "rainfall": 5.7,
-      "max_temp": 30.2333,
-      "min_temp": 26.5,
+      "rainfall": 10.5,
+      "max_temp": 30.075,
+      "min_temp": 26.525,
       "R_lag10": 75.0,
       "MT_lag16": 32.4143,
       "mT_lag13": 26.5429

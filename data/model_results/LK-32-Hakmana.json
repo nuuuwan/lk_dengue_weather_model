@@ -1,6 +1,6 @@
 {
   "region_id": "LK-32-Hakmana",
-  "generated_date": "2026-08-19",
+  "generated_date": "2026-08-20",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 29.7,
       "min_temp": 21.7714,
       "R_lag10": 20.2,
-      "MT_lag16": 31.92,
+      "MT_lag16": 31.65,
       "mT_lag13": 24.0429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-17",
-      "rainfall": 17.9,
-      "max_temp": 30.0333,
-      "min_temp": 23.6333,
+      "rainfall": 32.2,
+      "max_temp": 29.775,
+      "min_temp": 23.45,
       "R_lag10": 31.3,
       "MT_lag16": 31.5571,
       "mT_lag13": 24.8

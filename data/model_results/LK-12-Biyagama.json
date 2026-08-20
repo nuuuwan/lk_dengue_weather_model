@@ -1,6 +1,6 @@
 {
   "region_id": "LK-12-Biyagama",
-  "generated_date": "2026-08-19",
+  "generated_date": "2026-08-20",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 30.1571,
       "min_temp": 22.7286,
       "R_lag10": 26.8,
-      "MT_lag16": 29.9,
+      "MT_lag16": 29.775,
       "mT_lag13": 24.1286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-17",
-      "rainfall": 30.8,
-      "max_temp": 29.7333,
-      "min_temp": 23.8,
+      "rainfall": 43.9,
+      "max_temp": 29.625,
+      "min_temp": 23.775,
       "R_lag10": 96.3,
       "MT_lag16": 32.9143,
       "mT_lag13": 24.1286
