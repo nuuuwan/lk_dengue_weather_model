@@ -1,6 +1,6 @@
 {
   "region_id": "LK-12-Mirigama",
-  "generated_date": "2026-08-20",
+  "generated_date": "2026-08-21",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 29.1,
       "min_temp": 22.4,
       "R_lag10": 21.3,
-      "MT_lag16": 29.65,
+      "MT_lag16": 29.3667,
       "mT_lag13": 23.3857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-17",
-      "rainfall": 34.5,
-      "max_temp": 28.975,
-      "min_temp": 23.2,
+      "rainfall": 36.4,
+      "max_temp": 29.12,
+      "min_temp": 23.32,
       "R_lag10": 108.8,
       "MT_lag16": 33.5143,
       "mT_lag13": 23.5857
