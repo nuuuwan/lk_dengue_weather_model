@@ -1,6 +1,6 @@
 {
   "region_id": "LK-23-Nuwara-Eliya-Mc",
-  "generated_date": "2026-08-21",
+  "generated_date": "2026-08-22",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 19.4571,
       "min_temp": 12.1857,
       "R_lag10": 41.3,
-      "MT_lag16": 19.5333,
+      "MT_lag16": 18.5,
       "mT_lag13": 12.8143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-17",
-      "rainfall": 26.5,
-      "max_temp": 18.94,
-      "min_temp": 13.22,
+      "rainfall": 28.7,
+      "max_temp": 18.8333,
+      "min_temp": 13.05,
       "R_lag10": 67.3,
       "MT_lag16": 21.9714,
       "mT_lag13": 14.6714

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-81-Welimada",
-  "generated_date": "2026-08-21",
+  "generated_date": "2026-08-22",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 22.0429,
       "min_temp": 15.4714,
       "R_lag10": 50.6,
-      "MT_lag16": 25.1667,
+      "MT_lag16": 25.25,
       "mT_lag13": 15.4714
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-08-17",
       "rainfall": 14.7,
-      "max_temp": 26.9,
-      "min_temp": 17.64,
+      "max_temp": 26.7,
+      "min_temp": 17.5667,
       "R_lag10": 13.0,
       "MT_lag16": 25.2,
       "mT_lag13": 18.5286

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-21-Hatharaliyadda",
-  "generated_date": "2026-08-21",
+  "generated_date": "2026-08-22",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 28.9429,
       "min_temp": 21.0,
       "R_lag10": 41.0,
-      "MT_lag16": 29.5,
+      "MT_lag16": 29.25,
       "mT_lag13": 22.1857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-17",
-      "rainfall": 21.8,
-      "max_temp": 28.78,
-      "min_temp": 23.12,
+      "rainfall": 22.2,
+      "max_temp": 28.9667,
+      "min_temp": 23.2333,
       "R_lag10": 70.8,
       "MT_lag16": 32.0571,
       "mT_lag13": 23.9714

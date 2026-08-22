@@ -1,6 +1,6 @@
 {
   "region_id": "LK-82-Kataragama",
-  "generated_date": "2026-08-21",
+  "generated_date": "2026-08-22",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 29.7429,
       "min_temp": 22.7143,
       "R_lag10": 37.0,
-      "MT_lag16": 36.6667,
+      "MT_lag16": 36.6,
       "mT_lag13": 25.1714
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-08-17",
       "rainfall": 8.3,
-      "max_temp": 36.14,
-      "min_temp": 25.4,
+      "max_temp": 36.1167,
+      "min_temp": 25.4833,
       "R_lag10": 7.4,
       "MT_lag16": 32.7857,
       "mT_lag13": 26.0143

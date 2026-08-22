@@ -1,6 +1,6 @@
 {
   "region_id": "LK-53-Trincomalee",
-  "generated_date": "2026-08-21",
+  "generated_date": "2026-08-22",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 27.1857,
       "min_temp": 23.7286,
       "R_lag10": 48.6,
-      "MT_lag16": 34.6333,
+      "MT_lag16": 34.2,
       "mT_lag13": 25.4429
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-08-17",
       "rainfall": 5.9,
-      "max_temp": 35.54,
-      "min_temp": 26.56,
+      "max_temp": 35.4333,
+      "min_temp": 26.6167,
       "R_lag10": 10.1,
       "MT_lag16": 35.0143,
       "mT_lag13": 26.6714

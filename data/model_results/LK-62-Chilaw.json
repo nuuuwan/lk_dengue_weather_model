@@ -1,6 +1,6 @@
 {
   "region_id": "LK-62-Chilaw",
-  "generated_date": "2026-08-21",
+  "generated_date": "2026-08-22",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 28.6143,
       "min_temp": 22.9714,
       "R_lag10": 15.7,
-      "MT_lag16": 29.7667,
+      "MT_lag16": 29.5,
       "mT_lag13": 25.8714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-17",
-      "rainfall": 20.4,
-      "max_temp": 30.4,
-      "min_temp": 26.0,
+      "rainfall": 22.2,
+      "max_temp": 30.4167,
+      "min_temp": 26.1667,
       "R_lag10": 108.3,
       "MT_lag16": 32.3571,
       "mT_lag13": 25.4286
