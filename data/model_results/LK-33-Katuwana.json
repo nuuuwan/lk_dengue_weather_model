@@ -1,6 +1,6 @@
 {
   "region_id": "LK-33-Katuwana",
-  "generated_date": "2026-08-22",
+  "generated_date": "2026-08-23",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 28.5286,
       "min_temp": 22.2143,
       "R_lag10": 15.3,
-      "MT_lag16": 31.9,
+      "MT_lag16": 33.1,
       "mT_lag13": 24.4857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-17",
-      "rainfall": 13.5,
-      "max_temp": 30.7667,
-      "min_temp": 24.4333,
+      "rainfall": 16.6,
+      "max_temp": 30.7429,
+      "min_temp": 24.4571,
       "R_lag10": 21.6,
       "MT_lag16": 31.6143,
       "mT_lag13": 25.5

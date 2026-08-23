@@ -1,6 +1,6 @@
 {
   "region_id": "LK-81-Uva-Paranagama",
-  "generated_date": "2026-08-22",
+  "generated_date": "2026-08-23",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 21.7857,
       "min_temp": 17.0857,
       "R_lag10": 30.6,
-      "MT_lag16": 28.2,
+      "MT_lag16": 29.1,
       "mT_lag13": 16.8286
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-08-17",
       "rainfall": 16.3,
-      "max_temp": 29.9833,
-      "min_temp": 19.5667,
+      "max_temp": 30.1286,
+      "min_temp": 19.5714,
       "R_lag10": 12.4,
       "MT_lag16": 27.2857,
       "mT_lag13": 19.3

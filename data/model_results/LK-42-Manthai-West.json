@@ -1,6 +1,6 @@
 {
   "region_id": "LK-42-Manthai-West",
-  "generated_date": "2026-08-22",
+  "generated_date": "2026-08-23",
   "weekly_features": [
     {
       "week": "2025-12-08",
@@ -8,7 +8,7 @@
       "max_temp": 28.1429,
       "min_temp": 22.9714,
       "R_lag10": 17.7,
-      "MT_lag16": 33.35,
+      "MT_lag16": 34.0,
       "mT_lag13": 25.6
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-17",
-      "rainfall": 2.0,
-      "max_temp": 33.15,
-      "min_temp": 26.7833,
+      "rainfall": 2.7,
+      "max_temp": 33.3286,
+      "min_temp": 26.8286,
       "R_lag10": 13.2,
       "MT_lag16": 34.1571,
       "mT_lag13": 27.6429
