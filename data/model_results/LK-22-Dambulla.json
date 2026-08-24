@@ -1,16 +1,7 @@
 {
   "region_id": "LK-22-Dambulla",
-  "generated_date": "2026-08-23",
+  "generated_date": "2026-08-24",
   "weekly_features": [
-    {
-      "week": "2025-12-08",
-      "rainfall": 95.7,
-      "max_temp": 26.7571,
-      "min_temp": 21.7143,
-      "R_lag10": 11.6,
-      "MT_lag16": 34.0,
-      "mT_lag13": 23.9571
-    },
     {
       "week": "2025-12-15",
       "rainfall": 40.6,
@@ -334,6 +325,15 @@
       "R_lag10": 28.0,
       "MT_lag16": 33.2571,
       "mT_lag13": 25.1
+    },
+    {
+      "week": "2026-08-24",
+      "rainfall": 2.6,
+      "max_temp": 32.6,
+      "min_temp": 24.6,
+      "R_lag10": 5.5,
+      "MT_lag16": 31.6429,
+      "mT_lag13": 25.0571
     }
   ]
 }

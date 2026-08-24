@@ -1,16 +1,7 @@
 {
   "region_id": "LK-71-Nochchiyagama",
-  "generated_date": "2026-08-23",
+  "generated_date": "2026-08-24",
   "weekly_features": [
-    {
-      "week": "2025-12-08",
-      "rainfall": 43.4,
-      "max_temp": 28.1714,
-      "min_temp": 22.3714,
-      "R_lag10": 13.2,
-      "MT_lag16": 33.5,
-      "mT_lag13": 25.1286
-    },
     {
       "week": "2025-12-15",
       "rainfall": 26.6,
@@ -333,6 +324,15 @@
       "min_temp": 26.2429,
       "R_lag10": 29.0,
       "MT_lag16": 33.8714,
+      "mT_lag13": 26.3
+    },
+    {
+      "week": "2026-08-24",
+      "rainfall": 1.5,
+      "max_temp": 32.3,
+      "min_temp": 26.4,
+      "R_lag10": 9.9,
+      "MT_lag16": 32.7857,
       "mT_lag13": 26.3
     }
   ]

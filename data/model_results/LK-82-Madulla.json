@@ -1,16 +1,7 @@
 {
   "region_id": "LK-82-Madulla",
-  "generated_date": "2026-08-23",
+  "generated_date": "2026-08-24",
   "weekly_features": [
-    {
-      "week": "2025-12-08",
-      "rainfall": 103.9,
-      "max_temp": 28.0571,
-      "min_temp": 21.7714,
-      "R_lag10": 54.1,
-      "MT_lag16": 35.8,
-      "mT_lag13": 23.0286
-    },
     {
       "week": "2025-12-15",
       "rainfall": 96.9,
@@ -334,6 +325,15 @@
       "R_lag10": 25.1,
       "MT_lag16": 33.6714,
       "mT_lag13": 23.9429
+    },
+    {
+      "week": "2026-08-24",
+      "rainfall": 1.0,
+      "max_temp": 35.8,
+      "min_temp": 24.8,
+      "R_lag10": 10.3,
+      "MT_lag16": 31.8143,
+      "mT_lag13": 24.0857
     }
   ]
 }

@@ -1,16 +1,7 @@
 {
   "region_id": "LK-82-Monaragala",
-  "generated_date": "2026-08-23",
+  "generated_date": "2026-08-24",
   "weekly_features": [
-    {
-      "week": "2025-12-08",
-      "rainfall": 62.7,
-      "max_temp": 27.9857,
-      "min_temp": 21.8,
-      "R_lag10": 34.5,
-      "MT_lag16": 34.5,
-      "mT_lag13": 22.6857
-    },
     {
       "week": "2025-12-15",
       "rainfall": 82.5,
@@ -334,6 +325,15 @@
       "R_lag10": 15.5,
       "MT_lag16": 32.4857,
       "mT_lag13": 23.7571
+    },
+    {
+      "week": "2026-08-24",
+      "rainfall": 1.4,
+      "max_temp": 33.1,
+      "min_temp": 24.1,
+      "R_lag10": 6.4,
+      "MT_lag16": 30.9143,
+      "mT_lag13": 23.9571
     }
   ]
 }

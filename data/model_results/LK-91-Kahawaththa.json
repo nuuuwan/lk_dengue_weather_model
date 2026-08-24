@@ -1,16 +1,7 @@
 {
   "region_id": "LK-91-Kahawaththa",
-  "generated_date": "2026-08-23",
+  "generated_date": "2026-08-24",
   "weekly_features": [
-    {
-      "week": "2025-12-08",
-      "rainfall": 51.6,
-      "max_temp": 28.9857,
-      "min_temp": 21.5143,
-      "R_lag10": 30.0,
-      "MT_lag16": 30.2,
-      "mT_lag13": 22.9714
-    },
     {
       "week": "2025-12-15",
       "rainfall": 12.5,
@@ -334,6 +325,15 @@
       "R_lag10": 94.1,
       "MT_lag16": 32.0714,
       "mT_lag13": 23.3429
+    },
+    {
+      "week": "2026-08-24",
+      "rainfall": 8.4,
+      "max_temp": 28.7,
+      "min_temp": 22.6,
+      "R_lag10": 49.6,
+      "MT_lag16": 31.0571,
+      "mT_lag13": 23.4
     }
   ]
 }

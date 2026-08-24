@@ -1,16 +1,7 @@
 {
   "region_id": "LK-82-Wellawaya",
-  "generated_date": "2026-08-23",
+  "generated_date": "2026-08-24",
   "weekly_features": [
-    {
-      "week": "2025-12-08",
-      "rainfall": 41.7,
-      "max_temp": 29.0,
-      "min_temp": 22.3143,
-      "R_lag10": 29.0,
-      "MT_lag16": 37.2,
-      "mT_lag13": 24.5571
-    },
     {
       "week": "2025-12-15",
       "rainfall": 32.3,
@@ -334,6 +325,15 @@
       "R_lag10": 6.6,
       "MT_lag16": 32.3143,
       "mT_lag13": 25.4143
+    },
+    {
+      "week": "2026-08-24",
+      "rainfall": 1.0,
+      "max_temp": 36.0,
+      "min_temp": 25.8,
+      "R_lag10": 14.6,
+      "MT_lag16": 31.7571,
+      "mT_lag13": 25.4429
     }
   ]
 }

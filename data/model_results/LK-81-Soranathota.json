@@ -1,16 +1,7 @@
 {
   "region_id": "LK-81-Soranathota",
-  "generated_date": "2026-08-23",
+  "generated_date": "2026-08-24",
   "weekly_features": [
-    {
-      "week": "2025-12-08",
-      "rainfall": 91.2,
-      "max_temp": 24.2714,
-      "min_temp": 19.5,
-      "R_lag10": 32.6,
-      "MT_lag16": 32.5,
-      "mT_lag13": 19.5
-    },
     {
       "week": "2025-12-15",
       "rainfall": 169.1,
@@ -334,6 +325,15 @@
       "R_lag10": 38.3,
       "MT_lag16": 30.1,
       "mT_lag13": 20.7714
+    },
+    {
+      "week": "2026-08-24",
+      "rainfall": 6.9,
+      "max_temp": 33.3,
+      "min_temp": 22.7,
+      "R_lag10": 15.2,
+      "MT_lag16": 28.3571,
+      "mT_lag13": 20.8143
     }
   ]
 }

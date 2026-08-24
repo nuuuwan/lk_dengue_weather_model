@@ -1,16 +1,7 @@
 {
   "region_id": "LK-21-Harispattuwa",
-  "generated_date": "2026-08-23",
+  "generated_date": "2026-08-24",
   "weekly_features": [
-    {
-      "week": "2025-12-08",
-      "rainfall": 54.6,
-      "max_temp": 27.6,
-      "min_temp": 20.2714,
-      "R_lag10": 23.7,
-      "MT_lag16": 28.4,
-      "mT_lag13": 20.4
-    },
     {
       "week": "2025-12-15",
       "rainfall": 19.1,
@@ -334,6 +325,15 @@
       "R_lag10": 72.6,
       "MT_lag16": 30.2143,
       "mT_lag13": 22.1857
+    },
+    {
+      "week": "2026-08-24",
+      "rainfall": 5.0,
+      "max_temp": 26.7,
+      "min_temp": 21.5,
+      "R_lag10": 34.7,
+      "MT_lag16": 29.1571,
+      "mT_lag13": 21.9286
     }
   ]
 }

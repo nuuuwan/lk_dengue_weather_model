@@ -1,16 +1,7 @@
 {
   "region_id": "LK-53-Kinniya",
-  "generated_date": "2026-08-23",
+  "generated_date": "2026-08-24",
   "weekly_features": [
-    {
-      "week": "2025-12-08",
-      "rainfall": 121.1,
-      "max_temp": 27.4143,
-      "min_temp": 23.3714,
-      "R_lag10": 28.0,
-      "MT_lag16": 36.0,
-      "mT_lag13": 25.2571
-    },
     {
       "week": "2025-12-15",
       "rainfall": 70.5,
@@ -334,6 +325,15 @@
       "R_lag10": 19.4,
       "MT_lag16": 35.7857,
       "mT_lag13": 26.5857
+    },
+    {
+      "week": "2026-08-24",
+      "rainfall": 0.2,
+      "max_temp": 35.8,
+      "min_temp": 26.7,
+      "R_lag10": 19.9,
+      "MT_lag16": 33.3286,
+      "mT_lag13": 26.8429
     }
   ]
 }

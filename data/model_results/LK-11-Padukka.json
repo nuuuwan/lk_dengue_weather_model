@@ -1,16 +1,7 @@
 {
   "region_id": "LK-11-Padukka",
-  "generated_date": "2026-08-23",
+  "generated_date": "2026-08-24",
   "weekly_features": [
-    {
-      "week": "2025-12-08",
-      "rainfall": 66.5,
-      "max_temp": 29.4571,
-      "min_temp": 22.2429,
-      "R_lag10": 42.5,
-      "MT_lag16": 30.0,
-      "mT_lag13": 22.8714
-    },
     {
       "week": "2025-12-15",
       "rainfall": 53.8,
@@ -334,6 +325,15 @@
       "R_lag10": 100.8,
       "MT_lag16": 32.2857,
       "mT_lag13": 23.5
+    },
+    {
+      "week": "2026-08-24",
+      "rainfall": 14.2,
+      "max_temp": 29.4,
+      "min_temp": 22.5,
+      "R_lag10": 74.3,
+      "MT_lag16": 31.7,
+      "mT_lag13": 23.5714
     }
   ]
 }

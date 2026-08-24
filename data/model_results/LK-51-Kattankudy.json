@@ -1,16 +1,7 @@
 {
   "region_id": "LK-51-Kattankudy",
-  "generated_date": "2026-08-23",
+  "generated_date": "2026-08-24",
   "weekly_features": [
-    {
-      "week": "2025-12-08",
-      "rainfall": 125.8,
-      "max_temp": 27.7429,
-      "min_temp": 23.8571,
-      "R_lag10": 25.3,
-      "MT_lag16": 32.8,
-      "mT_lag13": 25.1714
-    },
     {
       "week": "2025-12-15",
       "rainfall": 86.8,
@@ -334,6 +325,15 @@
       "R_lag10": 29.1,
       "MT_lag16": 32.5286,
       "mT_lag13": 26.8857
+    },
+    {
+      "week": "2026-08-24",
+      "rainfall": 1.6,
+      "max_temp": 33.8,
+      "min_temp": 26.5,
+      "R_lag10": 4.9,
+      "MT_lag16": 31.1714,
+      "mT_lag13": 27.0143
     }
   ]
 }
