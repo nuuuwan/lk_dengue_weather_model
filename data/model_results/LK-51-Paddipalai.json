@@ -1,6 +1,6 @@
 {
   "region_id": "LK-51-Paddipalai",
-  "generated_date": "2026-08-24",
+  "generated_date": "2026-08-25",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 27.3,
       "min_temp": 22.9429,
       "R_lag10": 43.1,
-      "MT_lag16": 35.3571,
+      "MT_lag16": 35.4667,
       "mT_lag13": 24.7429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-24",
-      "rainfall": 2.6,
-      "max_temp": 36.3,
-      "min_temp": 25.7,
+      "rainfall": 11.0,
+      "max_temp": 36.0,
+      "min_temp": 25.65,
       "R_lag10": 11.5,
       "MT_lag16": 31.7286,
       "mT_lag13": 25.9286

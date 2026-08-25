@@ -1,6 +1,6 @@
 {
   "region_id": "LK-21-Kandy-Four-Gravets-&-Gangawata-Korale",
-  "generated_date": "2026-08-24",
+  "generated_date": "2026-08-25",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 25.7,
       "min_temp": 19.1429,
       "R_lag10": 15.7,
-      "MT_lag16": 26.8286,
+      "MT_lag16": 26.2667,
       "mT_lag13": 18.8429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-24",
-      "rainfall": 3.0,
-      "max_temp": 26.2,
-      "min_temp": 20.3,
+      "rainfall": 7.9,
+      "max_temp": 25.8,
+      "min_temp": 20.15,
       "R_lag10": 19.1,
       "MT_lag16": 28.2,
       "mT_lag13": 20.3143

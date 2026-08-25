@@ -1,6 +1,6 @@
 {
   "region_id": "LK-92-Rambukkana",
-  "generated_date": "2026-08-24",
+  "generated_date": "2026-08-25",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 29.4571,
       "min_temp": 21.6429,
       "R_lag10": 15.8,
-      "MT_lag16": 29.6714,
+      "MT_lag16": 29.1167,
       "mT_lag13": 23.2143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-24",
-      "rainfall": 3.9,
-      "max_temp": 28.8,
-      "min_temp": 23.5,
+      "rainfall": 9.6,
+      "max_temp": 28.2,
+      "min_temp": 23.15,
       "R_lag10": 32.8,
       "MT_lag16": 32.0286,
       "mT_lag13": 24.2

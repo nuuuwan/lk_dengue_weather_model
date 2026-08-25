@@ -1,6 +1,6 @@
 {
   "region_id": "LK-92-Kegalle",
-  "generated_date": "2026-08-24",
+  "generated_date": "2026-08-25",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 29.6143,
       "min_temp": 22.0429,
       "R_lag10": 21.1,
-      "MT_lag16": 29.2,
+      "MT_lag16": 28.7333,
       "mT_lag13": 23.0429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-24",
-      "rainfall": 8.6,
-      "max_temp": 28.7,
-      "min_temp": 23.1,
+      "rainfall": 24.4,
+      "max_temp": 27.8,
+      "min_temp": 22.8,
       "R_lag10": 56.5,
       "MT_lag16": 31.9429,
       "mT_lag13": 23.9571

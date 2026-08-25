@@ -1,6 +1,6 @@
 {
   "region_id": "LK-21-Pathahewaheta",
-  "generated_date": "2026-08-24",
+  "generated_date": "2026-08-25",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 26.5143,
       "min_temp": 20.9,
       "R_lag10": 12.9,
-      "MT_lag16": 28.3857,
+      "MT_lag16": 27.8333,
       "mT_lag13": 20.9143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-24",
-      "rainfall": 2.3,
-      "max_temp": 28.3,
-      "min_temp": 22.3,
+      "rainfall": 7.7,
+      "max_temp": 27.9,
+      "min_temp": 22.25,
       "R_lag10": 12.5,
       "MT_lag16": 29.6,
       "mT_lag13": 22.0286

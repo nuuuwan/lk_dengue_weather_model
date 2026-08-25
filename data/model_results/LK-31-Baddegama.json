@@ -1,6 +1,6 @@
 {
   "region_id": "LK-31-Baddegama",
-  "generated_date": "2026-08-24",
+  "generated_date": "2026-08-25",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 29.6429,
       "min_temp": 22.0571,
       "R_lag10": 34.5,
-      "MT_lag16": 28.9429,
+      "MT_lag16": 28.7667,
       "mT_lag13": 23.4429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-24",
-      "rainfall": 9.2,
-      "max_temp": 29.7,
-      "min_temp": 24.2,
+      "rainfall": 37.5,
+      "max_temp": 28.85,
+      "min_temp": 23.7,
       "R_lag10": 51.8,
       "MT_lag16": 30.4714,
       "mT_lag13": 24.2429

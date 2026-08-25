@@ -1,6 +1,6 @@
 {
   "region_id": "LK-52-Uhana",
-  "generated_date": "2026-08-24",
+  "generated_date": "2026-08-25",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 26.8857,
       "min_temp": 22.2857,
       "R_lag10": 38.7,
-      "MT_lag16": 35.6429,
+      "MT_lag16": 35.6167,
       "mT_lag13": 24.1
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-24",
-      "rainfall": 1.0,
-      "max_temp": 36.2,
-      "min_temp": 25.6,
+      "rainfall": 6.5,
+      "max_temp": 35.2,
+      "min_temp": 25.45,
       "R_lag10": 15.6,
       "MT_lag16": 31.4571,
       "mT_lag13": 25.2
