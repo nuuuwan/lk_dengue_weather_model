@@ -1,6 +1,6 @@
 {
   "region_id": "LK-71-Thirappane",
-  "generated_date": "2026-08-25",
+  "generated_date": "2026-08-26",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 27.2286,
       "min_temp": 21.9429,
       "R_lag10": 39.9,
-      "MT_lag16": 33.1167,
+      "MT_lag16": 33.18,
       "mT_lag13": 24.4714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-24",
-      "rainfall": 4.8,
-      "max_temp": 33.5,
-      "min_temp": 24.85,
+      "rainfall": 9.2,
+      "max_temp": 33.2,
+      "min_temp": 24.8667,
       "R_lag10": 6.5,
       "MT_lag16": 32.0429,
       "mT_lag13": 25.0714

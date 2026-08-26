@@ -1,6 +1,6 @@
 {
   "region_id": "LK-51-Batticaloa",
-  "generated_date": "2026-08-25",
+  "generated_date": "2026-08-26",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 27.5286,
       "min_temp": 23.8143,
       "R_lag10": 33.7,
-      "MT_lag16": 35.3,
+      "MT_lag16": 35.72,
       "mT_lag13": 25.5714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-24",
-      "rainfall": 8.8,
-      "max_temp": 34.5,
-      "min_temp": 26.5,
+      "rainfall": 14.5,
+      "max_temp": 34.3667,
+      "min_temp": 26.5667,
       "R_lag10": 9.3,
       "MT_lag16": 31.7286,
       "mT_lag13": 27.0857

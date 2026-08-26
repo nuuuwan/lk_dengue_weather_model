@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Pannala",
-  "generated_date": "2026-08-25",
+  "generated_date": "2026-08-26",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 29.2286,
       "min_temp": 22.5286,
       "R_lag10": 7.6,
-      "MT_lag16": 29.9333,
+      "MT_lag16": 29.7,
       "mT_lag13": 23.2
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-24",
-      "rainfall": 30.0,
-      "max_temp": 29.65,
-      "min_temp": 23.25,
+      "rainfall": 38.9,
+      "max_temp": 29.7333,
+      "min_temp": 23.3,
       "R_lag10": 46.5,
       "MT_lag16": 32.7714,
       "mT_lag13": 24.1

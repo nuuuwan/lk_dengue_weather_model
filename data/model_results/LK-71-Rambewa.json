@@ -1,6 +1,6 @@
 {
   "region_id": "LK-71-Rambewa",
-  "generated_date": "2026-08-25",
+  "generated_date": "2026-08-26",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 27.3429,
       "min_temp": 22.0714,
       "R_lag10": 28.9,
-      "MT_lag16": 34.1167,
+      "MT_lag16": 34.18,
       "mT_lag13": 24.7429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-24",
-      "rainfall": 3.0,
+      "rainfall": 4.5,
       "max_temp": 33.7,
-      "min_temp": 25.75,
+      "min_temp": 25.6333,
       "R_lag10": 12.7,
       "MT_lag16": 32.1714,
       "mT_lag13": 25.6286

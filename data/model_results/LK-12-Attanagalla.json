@@ -1,6 +1,6 @@
 {
   "region_id": "LK-12-Attanagalla",
-  "generated_date": "2026-08-25",
+  "generated_date": "2026-08-26",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 29.5143,
       "min_temp": 22.7,
       "R_lag10": 11.8,
-      "MT_lag16": 28.8833,
+      "MT_lag16": 28.66,
       "mT_lag13": 22.8286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-24",
-      "rainfall": 22.9,
-      "max_temp": 28.3,
-      "min_temp": 23.1,
+      "rainfall": 32.4,
+      "max_temp": 28.5333,
+      "min_temp": 23.0667,
       "R_lag10": 65.4,
       "MT_lag16": 32.5571,
       "mT_lag13": 23.8143
