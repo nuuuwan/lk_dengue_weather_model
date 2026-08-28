@@ -1,6 +1,6 @@
 {
   "region_id": "LK-23-Kothmale",
-  "generated_date": "2026-08-26",
+  "generated_date": "2026-08-28",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 21.0714,
       "min_temp": 15.9,
       "R_lag10": 51.8,
-      "MT_lag16": 20.76,
+      "MT_lag16": 21.1333,
       "mT_lag13": 16.3429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-24",
-      "rainfall": 21.0,
-      "max_temp": 21.2667,
-      "min_temp": 17.1333,
+      "rainfall": 27.2,
+      "max_temp": 21.48,
+      "min_temp": 17.24,
       "R_lag10": 28.6,
       "MT_lag16": 23.3143,
       "mT_lag13": 17.2857

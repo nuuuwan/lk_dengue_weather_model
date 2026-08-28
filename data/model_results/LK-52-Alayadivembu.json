@@ -1,6 +1,6 @@
 {
   "region_id": "LK-52-Alayadivembu",
-  "generated_date": "2026-08-26",
+  "generated_date": "2026-08-28",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 27.2143,
       "min_temp": 22.5,
       "R_lag10": 32.5,
-      "MT_lag16": 35.2,
+      "MT_lag16": 35.4,
       "mT_lag13": 25.1429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-24",
-      "rainfall": 23.9,
-      "max_temp": 35.7333,
-      "min_temp": 26.2333,
+      "rainfall": 27.9,
+      "max_temp": 35.7,
+      "min_temp": 26.18,
       "R_lag10": 11.6,
       "MT_lag16": 31.5143,
       "mT_lag13": 25.2429
