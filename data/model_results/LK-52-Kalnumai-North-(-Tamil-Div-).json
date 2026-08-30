@@ -1,6 +1,6 @@
 {
   "region_id": "LK-52-Kalnumai-North-(-Tamil-Div-)",
-  "generated_date": "2026-08-29",
+  "generated_date": "2026-08-30",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 27.4143,
       "min_temp": 23.8143,
       "R_lag10": 39.7,
-      "MT_lag16": 34.8,
+      "MT_lag16": 35.5,
       "mT_lag13": 25.3857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-24",
-      "rainfall": 21.9,
-      "max_temp": 33.8667,
-      "min_temp": 26.1333,
+      "rainfall": 22.4,
+      "max_temp": 33.9429,
+      "min_temp": 26.0429,
       "R_lag10": 12.2,
       "MT_lag16": 31.4429,
       "mT_lag13": 25.8857

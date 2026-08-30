@@ -1,6 +1,6 @@
 {
   "region_id": "LK-81-Ella",
-  "generated_date": "2026-08-29",
+  "generated_date": "2026-08-30",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -329,8 +329,8 @@
     {
       "week": "2026-08-24",
       "rainfall": 22.1,
-      "max_temp": 28.6333,
-      "min_temp": 20.0333,
+      "max_temp": 28.9429,
+      "min_temp": 20.0286,
       "R_lag10": 30.7,
       "MT_lag16": 25.5714,
       "mT_lag13": 19.4571

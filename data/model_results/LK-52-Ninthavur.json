@@ -1,6 +1,6 @@
 {
   "region_id": "LK-52-Ninthavur",
-  "generated_date": "2026-08-29",
+  "generated_date": "2026-08-30",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 27.2714,
       "min_temp": 23.5857,
       "R_lag10": 40.2,
-      "MT_lag16": 35.7,
+      "MT_lag16": 35.8,
       "mT_lag13": 25.3286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-24",
-      "rainfall": 18.6,
-      "max_temp": 34.7167,
-      "min_temp": 26.1833,
+      "rainfall": 19.3,
+      "max_temp": 34.8143,
+      "min_temp": 26.1,
       "R_lag10": 8.0,
       "MT_lag16": 31.8857,
       "mT_lag13": 25.6143

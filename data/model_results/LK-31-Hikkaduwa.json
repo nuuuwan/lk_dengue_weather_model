@@ -1,6 +1,6 @@
 {
   "region_id": "LK-31-Hikkaduwa",
-  "generated_date": "2026-08-29",
+  "generated_date": "2026-08-30",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 29.4571,
       "min_temp": 22.6714,
       "R_lag10": 26.7,
-      "MT_lag16": 28.55,
+      "MT_lag16": 28.4,
       "mT_lag13": 24.2
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-24",
-      "rainfall": 82.6,
-      "max_temp": 28.85,
-      "min_temp": 24.45,
+      "rainfall": 86.5,
+      "max_temp": 28.9571,
+      "min_temp": 24.5,
       "R_lag10": 53.3,
       "MT_lag16": 30.5143,
       "mT_lag13": 25.2

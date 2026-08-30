@@ -1,6 +1,6 @@
 {
   "region_id": "LK-52-Irakkamam",
-  "generated_date": "2026-08-29",
+  "generated_date": "2026-08-30",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 27.3,
       "min_temp": 22.6429,
       "R_lag10": 21.9,
-      "MT_lag16": 36.65,
+      "MT_lag16": 36.7,
       "mT_lag13": 25.0857
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-08-24",
       "rainfall": 34.2,
-      "max_temp": 35.3833,
-      "min_temp": 26.05,
+      "max_temp": 35.7,
+      "min_temp": 25.9857,
       "R_lag10": 15.4,
       "MT_lag16": 31.7429,
       "mT_lag13": 25.4

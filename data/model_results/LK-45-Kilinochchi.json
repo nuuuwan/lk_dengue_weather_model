@@ -1,6 +1,6 @@
 {
   "region_id": "LK-45-Kilinochchi",
-  "generated_date": "2026-08-29",
+  "generated_date": "2026-08-30",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 28.3429,
       "min_temp": 23.0,
       "R_lag10": 24.1,
-      "MT_lag16": 33.65,
+      "MT_lag16": 34.3,
       "mT_lag13": 26.1857
     },
     {
@@ -329,7 +329,7 @@
     {
       "week": "2026-08-24",
       "rainfall": 4.1,
-      "max_temp": 34.4667,
+      "max_temp": 34.4857,
       "min_temp": 27.3,
       "R_lag10": 9.6,
       "MT_lag16": 33.6714,

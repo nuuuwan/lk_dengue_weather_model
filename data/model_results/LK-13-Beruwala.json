@@ -1,6 +1,6 @@
 {
   "region_id": "LK-13-Beruwala",
-  "generated_date": "2026-08-29",
+  "generated_date": "2026-08-30",
   "weekly_features": [
     {
       "week": "2025-12-15",
@@ -8,7 +8,7 @@
       "max_temp": 29.1143,
       "min_temp": 22.6714,
       "R_lag10": 28.4,
-      "MT_lag16": 28.25,
+      "MT_lag16": 28.1,
       "mT_lag13": 24.1286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-24",
-      "rainfall": 85.6,
-      "max_temp": 28.6833,
-      "min_temp": 24.5333,
+      "rainfall": 91.1,
+      "max_temp": 28.7857,
+      "min_temp": 24.5857,
       "R_lag10": 63.5,
       "MT_lag16": 30.4429,
       "mT_lag13": 25.0429
