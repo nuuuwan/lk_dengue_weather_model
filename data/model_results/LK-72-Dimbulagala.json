@@ -1,16 +1,7 @@
 {
   "region_id": "LK-72-Dimbulagala",
-  "generated_date": "2026-08-30",
+  "generated_date": "2026-08-31",
   "weekly_features": [
-    {
-      "week": "2025-12-15",
-      "rainfall": 84.0,
-      "max_temp": 27.2714,
-      "min_temp": 22.4143,
-      "R_lag10": 39.3,
-      "MT_lag16": 34.8,
-      "mT_lag13": 25.3857
-    },
     {
       "week": "2025-12-22",
       "rainfall": 19.8,
@@ -334,6 +325,15 @@
       "R_lag10": 8.5,
       "MT_lag16": 32.9286,
       "mT_lag13": 26.7571
+    },
+    {
+      "week": "2026-08-31",
+      "rainfall": 0.0,
+      "max_temp": 36.8,
+      "min_temp": 27.6,
+      "R_lag10": 16.0,
+      "MT_lag16": 31.7571,
+      "mT_lag13": 26.5857
     }
   ]
 }

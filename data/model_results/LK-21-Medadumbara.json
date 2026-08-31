@@ -1,16 +1,7 @@
 {
   "region_id": "LK-21-Medadumbara",
-  "generated_date": "2026-08-30",
+  "generated_date": "2026-08-31",
   "weekly_features": [
-    {
-      "week": "2025-12-15",
-      "rainfall": 63.7,
-      "max_temp": 24.4571,
-      "min_temp": 19.6143,
-      "R_lag10": 36.8,
-      "MT_lag16": 26.1,
-      "mT_lag13": 20.2857
-    },
     {
       "week": "2025-12-22",
       "rainfall": 8.5,
@@ -334,6 +325,15 @@
       "R_lag10": 15.5,
       "MT_lag16": 28.3714,
       "mT_lag13": 21.5
+    },
+    {
+      "week": "2026-08-31",
+      "rainfall": 0.2,
+      "max_temp": 29.5,
+      "min_temp": 21.7,
+      "R_lag10": 21.9,
+      "MT_lag16": 26.8143,
+      "mT_lag13": 21.5857
     }
   ]
 }

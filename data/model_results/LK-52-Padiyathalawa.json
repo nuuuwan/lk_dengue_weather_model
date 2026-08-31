@@ -1,16 +1,7 @@
 {
   "region_id": "LK-52-Padiyathalawa",
-  "generated_date": "2026-08-30",
+  "generated_date": "2026-08-31",
   "weekly_features": [
-    {
-      "week": "2025-12-15",
-      "rainfall": 96.1,
-      "max_temp": 26.3,
-      "min_temp": 21.7429,
-      "R_lag10": 47.8,
-      "MT_lag16": 34.8,
-      "mT_lag13": 22.9286
-    },
     {
       "week": "2025-12-22",
       "rainfall": 23.6,
@@ -334,6 +325,15 @@
       "R_lag10": 16.0,
       "MT_lag16": 31.6571,
       "mT_lag13": 25.3143
+    },
+    {
+      "week": "2026-08-31",
+      "rainfall": 0.0,
+      "max_temp": 37.6,
+      "min_temp": 27.4,
+      "R_lag10": 22.2,
+      "MT_lag16": 31.2571,
+      "mT_lag13": 25.8857
     }
   ]
 }

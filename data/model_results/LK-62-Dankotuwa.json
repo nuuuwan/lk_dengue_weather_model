@@ -1,16 +1,7 @@
 {
   "region_id": "LK-62-Dankotuwa",
-  "generated_date": "2026-08-30",
+  "generated_date": "2026-08-31",
   "weekly_features": [
-    {
-      "week": "2025-12-15",
-      "rainfall": 25.7,
-      "max_temp": 29.3,
-      "min_temp": 22.5143,
-      "R_lag10": 8.2,
-      "MT_lag16": 29.6,
-      "mT_lag13": 23.4714
-    },
     {
       "week": "2025-12-22",
       "rainfall": 4.8,
@@ -334,6 +325,15 @@
       "R_lag10": 42.1,
       "MT_lag16": 32.3286,
       "mT_lag13": 24.6429
+    },
+    {
+      "week": "2026-08-31",
+      "rainfall": 1.0,
+      "max_temp": 31.1,
+      "min_temp": 25.3,
+      "R_lag10": 63.1,
+      "MT_lag16": 29.4714,
+      "mT_lag13": 24.9286
     }
   ]
 }

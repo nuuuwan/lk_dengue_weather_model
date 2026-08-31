@@ -1,16 +1,7 @@
 {
   "region_id": "LK-33-Angunukolapeles",
-  "generated_date": "2026-08-30",
+  "generated_date": "2026-08-31",
   "weekly_features": [
-    {
-      "week": "2025-12-15",
-      "rainfall": 50.6,
-      "max_temp": 29.4,
-      "min_temp": 22.4714,
-      "R_lag10": 33.7,
-      "MT_lag16": 33.0,
-      "mT_lag13": 24.9
-    },
     {
       "week": "2025-12-22",
       "rainfall": 16.1,
@@ -334,6 +325,15 @@
       "R_lag10": 11.1,
       "MT_lag16": 32.4286,
       "mT_lag13": 25.6571
+    },
+    {
+      "week": "2026-08-31",
+      "rainfall": 2.0,
+      "max_temp": 34.0,
+      "min_temp": 25.5,
+      "R_lag10": 18.0,
+      "MT_lag16": 30.7857,
+      "mT_lag13": 25.4571
     }
   ]
 }
