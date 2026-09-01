@@ -1,6 +1,6 @@
 {
   "region_id": "LK-23-Ragala",
-  "generated_date": "2026-08-31",
+  "generated_date": "2026-09-01",
   "weekly_features": [
     {
       "week": "2025-12-22",
@@ -8,7 +8,7 @@
       "max_temp": 20.4,
       "min_temp": 14.2714,
       "R_lag10": 58.8,
-      "MT_lag16": 25.5714,
+      "MT_lag16": 25.65,
       "mT_lag13": 17.0714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-31",
-      "rainfall": 0.7,
-      "max_temp": 27.4,
-      "min_temp": 18.4,
+      "rainfall": 2.5,
+      "max_temp": 28.05,
+      "min_temp": 18.1,
       "R_lag10": 45.0,
       "MT_lag16": 24.1429,
       "mT_lag13": 18.1429

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-23-Mathurata",
-  "generated_date": "2026-08-31",
+  "generated_date": "2026-09-01",
   "weekly_features": [
     {
       "week": "2025-12-22",
@@ -8,7 +8,7 @@
       "max_temp": 22.5,
       "min_temp": 16.5143,
       "R_lag10": 105.6,
-      "MT_lag16": 26.7714,
+      "MT_lag16": 27.0,
       "mT_lag13": 18.8714
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-08-31",
       "rainfall": 0.4,
-      "max_temp": 28.7,
-      "min_temp": 19.7,
+      "max_temp": 29.55,
+      "min_temp": 19.45,
       "R_lag10": 19.8,
       "MT_lag16": 25.6143,
       "mT_lag13": 20.0857

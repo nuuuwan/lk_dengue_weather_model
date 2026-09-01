@@ -1,6 +1,6 @@
 {
   "region_id": "LK-52-Addachchenai",
-  "generated_date": "2026-08-31",
+  "generated_date": "2026-09-01",
   "weekly_features": [
     {
       "week": "2025-12-22",
@@ -8,7 +8,7 @@
       "max_temp": 28.0143,
       "min_temp": 22.8571,
       "R_lag10": 82.3,
-      "MT_lag16": 34.6714,
+      "MT_lag16": 34.4667,
       "mT_lag13": 25.5429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-31",
-      "rainfall": 1.4,
-      "max_temp": 34.3,
-      "min_temp": 25.8,
+      "rainfall": 2.1,
+      "max_temp": 34.0,
+      "min_temp": 26.2,
       "R_lag10": 27.2,
       "MT_lag16": 31.9286,
       "mT_lag13": 26.1286
