@@ -1,6 +1,6 @@
 {
   "region_id": "LK-22-Pallepola",
-  "generated_date": "2026-09-01",
+  "generated_date": "2026-09-02",
   "weekly_features": [
     {
       "week": "2025-12-22",
@@ -8,7 +8,7 @@
       "max_temp": 27.4286,
       "min_temp": 20.8286,
       "R_lag10": 166.1,
-      "MT_lag16": 31.4,
+      "MT_lag16": 31.44,
       "mT_lag13": 22.3
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-31",
-      "rainfall": 2.6,
-      "max_temp": 31.7,
-      "min_temp": 23.8,
+      "rainfall": 4.0,
+      "max_temp": 31.4333,
+      "min_temp": 23.7,
       "R_lag10": 23.1,
       "MT_lag16": 28.4143,
       "mT_lag13": 23.1714

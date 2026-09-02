@@ -1,6 +1,6 @@
 {
   "region_id": "LK-11-Nugegoda",
-  "generated_date": "2026-09-01",
+  "generated_date": "2026-09-02",
   "weekly_features": [
     {
       "week": "2025-12-22",
@@ -8,7 +8,7 @@
       "max_temp": 31.5857,
       "min_temp": 22.9714,
       "R_lag10": 120.2,
-      "MT_lag16": 28.8667,
+      "MT_lag16": 28.88,
       "mT_lag13": 24.1
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-31",
-      "rainfall": 5.4,
-      "max_temp": 29.5,
-      "min_temp": 26.05,
+      "rainfall": 8.6,
+      "max_temp": 29.5333,
+      "min_temp": 26.2333,
       "R_lag10": 121.0,
       "MT_lag16": 29.6857,
       "mT_lag13": 26.4857
