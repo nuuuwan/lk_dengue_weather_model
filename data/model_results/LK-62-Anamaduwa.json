@@ -1,6 +1,6 @@
 {
   "region_id": "LK-62-Anamaduwa",
-  "generated_date": "2026-09-02",
+  "generated_date": "2026-09-03",
   "weekly_features": [
     {
       "week": "2025-12-22",
@@ -8,7 +8,7 @@
       "max_temp": 28.8143,
       "min_temp": 21.5714,
       "R_lag10": 138.9,
-      "MT_lag16": 31.98,
+      "MT_lag16": 32.125,
       "mT_lag13": 24.4429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-31",
-      "rainfall": 0.5,
-      "max_temp": 33.6,
-      "min_temp": 26.7667,
+      "rainfall": 1.2,
+      "max_temp": 33.525,
+      "min_temp": 26.8,
       "R_lag10": 35.1,
       "MT_lag16": 29.6429,
       "mT_lag13": 25.6571

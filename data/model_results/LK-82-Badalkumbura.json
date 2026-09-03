@@ -1,6 +1,6 @@
 {
   "region_id": "LK-82-Badalkumbura",
-  "generated_date": "2026-09-02",
+  "generated_date": "2026-09-03",
   "weekly_features": [
     {
       "week": "2025-12-22",
@@ -8,7 +8,7 @@
       "max_temp": 28.1714,
       "min_temp": 20.9571,
       "R_lag10": 92.2,
-      "MT_lag16": 32.96,
+      "MT_lag16": 32.85,
       "mT_lag13": 22.0
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-31",
-      "rainfall": 3.8,
-      "max_temp": 32.5667,
-      "min_temp": 22.8333,
+      "rainfall": 14.2,
+      "max_temp": 32.675,
+      "min_temp": 22.775,
       "R_lag10": 62.4,
       "MT_lag16": 28.9429,
       "mT_lag13": 23.5286

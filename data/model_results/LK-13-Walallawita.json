@@ -1,6 +1,6 @@
 {
   "region_id": "LK-13-Walallawita",
-  "generated_date": "2026-09-02",
+  "generated_date": "2026-09-03",
   "weekly_features": [
     {
       "week": "2025-12-22",
@@ -8,7 +8,7 @@
       "max_temp": 30.5,
       "min_temp": 22.1571,
       "R_lag10": 127.1,
-      "MT_lag16": 29.48,
+      "MT_lag16": 29.55,
       "mT_lag13": 22.7143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-31",
-      "rainfall": 19.9,
-      "max_temp": 30.2667,
-      "min_temp": 24.0333,
+      "rainfall": 25.7,
+      "max_temp": 30.4,
+      "min_temp": 24.05,
       "R_lag10": 108.2,
       "MT_lag16": 29.5286,
       "mT_lag13": 24.0

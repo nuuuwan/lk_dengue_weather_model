@@ -1,6 +1,6 @@
 {
   "region_id": "LK-31-Nagoda",
-  "generated_date": "2026-09-02",
+  "generated_date": "2026-09-03",
   "weekly_features": [
     {
       "week": "2025-12-22",
@@ -8,7 +8,7 @@
       "max_temp": 30.2571,
       "min_temp": 21.7714,
       "R_lag10": 138.9,
-      "MT_lag16": 29.48,
+      "MT_lag16": 29.6,
       "mT_lag13": 22.7429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-31",
-      "rainfall": 15.8,
-      "max_temp": 30.1667,
-      "min_temp": 23.5667,
+      "rainfall": 19.9,
+      "max_temp": 30.15,
+      "min_temp": 23.6,
       "R_lag10": 72.3,
       "MT_lag16": 29.5571,
       "mT_lag13": 23.9429

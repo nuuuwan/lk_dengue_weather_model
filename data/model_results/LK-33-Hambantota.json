@@ -1,6 +1,6 @@
 {
   "region_id": "LK-33-Hambantota",
-  "generated_date": "2026-09-02",
+  "generated_date": "2026-09-03",
   "weekly_features": [
     {
       "week": "2025-12-22",
@@ -8,7 +8,7 @@
       "max_temp": 30.5571,
       "min_temp": 23.0571,
       "R_lag10": 98.4,
-      "MT_lag16": 36.12,
+      "MT_lag16": 36.65,
       "mT_lag13": 24.6143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-31",
-      "rainfall": 3.2,
-      "max_temp": 35.3333,
-      "min_temp": 26.3333,
+      "rainfall": 7.2,
+      "max_temp": 35.15,
+      "min_temp": 26.375,
       "R_lag10": 21.3,
       "MT_lag16": 31.2286,
       "mT_lag13": 26.2571
