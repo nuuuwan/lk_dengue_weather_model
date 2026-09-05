@@ -1,6 +1,6 @@
 {
   "region_id": "LK-12-Seeduwa",
-  "generated_date": "2026-09-03",
+  "generated_date": "2026-09-05",
   "weekly_features": [
     {
       "week": "2025-12-22",
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-31",
-      "rainfall": 16.1,
-      "max_temp": 29.875,
-      "min_temp": 25.6,
+      "rainfall": 21.7,
+      "max_temp": 30.2,
+      "min_temp": 25.7167,
       "R_lag10": 87.5,
       "MT_lag16": 29.8,
       "mT_lag13": 25.8714

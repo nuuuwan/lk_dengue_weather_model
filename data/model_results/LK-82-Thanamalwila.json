@@ -1,6 +1,6 @@
 {
   "region_id": "LK-82-Thanamalwila",
-  "generated_date": "2026-09-03",
+  "generated_date": "2026-09-05",
   "weekly_features": [
     {
       "week": "2025-12-22",
@@ -8,7 +8,7 @@
       "max_temp": 30.4429,
       "min_temp": 20.8857,
       "R_lag10": 114.8,
-      "MT_lag16": 35.125,
+      "MT_lag16": 35.65,
       "mT_lag13": 24.3857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-31",
-      "rainfall": 5.7,
-      "max_temp": 35.85,
-      "min_temp": 25.7,
+      "rainfall": 20.5,
+      "max_temp": 36.1167,
+      "min_temp": 25.7667,
       "R_lag10": 22.5,
       "MT_lag16": 30.6429,
       "mT_lag13": 25.8

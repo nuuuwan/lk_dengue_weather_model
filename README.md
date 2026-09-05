@@ -4,7 +4,7 @@ Dengue outbreak weather-risk model for Sri Lanka MOH regions.
 
 > 📖 **Methodology:** [README.methodology.md](README.methodology.md)
 
-_Last updated: 3 September 2026 · 333 regions with model results._
+_Last updated: 5 September 2026 · 333 regions with model results._
 
 ---
 
@@ -28,24 +28,24 @@ Sorted by composite weather-risk score (descending).
 |---|---|---:|---:|---:|---:|
 | Piliyandala | LK-11 | 2.90 | 129.5 | 30.0 | 26.4 |
 | Moratuwa | LK-11 | 2.90 | 129.5 | 30.0 | 26.4 |
-| Boralesgamuwa | LK-11 | 2.83 | 127.4 | 29.9 | 26.5 |
-| Maharagama | LK-11 | 2.83 | 127.4 | 29.9 | 26.5 |
-| Pitakotte | LK-11 | 2.83 | 127.4 | 29.9 | 26.5 |
 | Rathmalana | LK-11 | 2.83 | 127.4 | 29.9 | 26.5 |
+| Pitakotte | LK-11 | 2.83 | 127.4 | 29.9 | 26.5 |
+| Maharagama | LK-11 | 2.83 | 127.4 | 29.9 | 26.5 |
+| Boralesgamuwa | LK-11 | 2.83 | 127.4 | 29.9 | 26.5 |
 | Bandaragama | LK-13 | 2.82 | 147.5 | 29.9 | 25.3 |
 | Kuruwita | LK-91 | 2.78 | 177.1 | 29.5 | 24.0 |
 | Dehiwala | LK-11 | 2.72 | 127.4 | 29.8 | 26.3 |
 | Kahathuduwa | LK-11 | 2.68 | 152.0 | 29.7 | 25.0 |
 | Panadura | LK-13 | 2.66 | 119.2 | 30.1 | 26.3 |
 | Ratnapura-Mc | LK-91 | 2.62 | 148.7 | 30.4 | 24.2 |
-| Battaramulla | LK-11 | 2.58 | 121.0 | 29.7 | 26.5 |
 | Kolonnawa | LK-11 | 2.58 | 121.0 | 29.7 | 26.5 |
+| Battaramulla | LK-11 | 2.58 | 121.0 | 29.7 | 26.5 |
 | Nugegoda | LK-11 | 2.58 | 121.0 | 29.7 | 26.5 |
 | Kiriella | LK-91 | 2.57 | 177.1 | 29.3 | 23.8 |
 | CMC | LK-11 | 2.53 | 121.0 | 29.7 | 26.4 |
 | Eheliyagoda | LK-91 | 2.48 | 176.8 | 29.2 | 23.7 |
-| Dehiovita | LK-92 | 2.33 | 173.5 | 29.2 | 23.5 |
 | Kalutara | LK-13 | 2.33 | 126.0 | 29.6 | 25.7 |
+| Dehiovita | LK-92 | 2.33 | 173.5 | 29.2 | 23.5 |
 
 > **Note:** Risk scores are weather-only (composite z-score of lagged
 > meteorological predictors). Full GLM-based dengue

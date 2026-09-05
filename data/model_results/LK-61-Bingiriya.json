@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Bingiriya",
-  "generated_date": "2026-09-03",
+  "generated_date": "2026-09-05",
   "weekly_features": [
     {
       "week": "2025-12-22",
@@ -8,7 +8,7 @@
       "max_temp": 29.0286,
       "min_temp": 21.6857,
       "R_lag10": 206.3,
-      "MT_lag16": 31.45,
+      "MT_lag16": 31.6,
       "mT_lag13": 23.4
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-31",
-      "rainfall": 7.2,
-      "max_temp": 32.725,
-      "min_temp": 26.075,
+      "rainfall": 10.4,
+      "max_temp": 33.1167,
+      "min_temp": 26.1167,
       "R_lag10": 48.1,
       "MT_lag16": 29.3571,
       "mT_lag13": 24.7286

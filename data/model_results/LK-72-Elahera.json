@@ -1,6 +1,6 @@
 {
   "region_id": "LK-72-Elahera",
-  "generated_date": "2026-09-03",
+  "generated_date": "2026-09-05",
   "weekly_features": [
     {
       "week": "2025-12-22",
@@ -8,7 +8,7 @@
       "max_temp": 27.8571,
       "min_temp": 21.3714,
       "R_lag10": 146.7,
-      "MT_lag16": 35.275,
+      "MT_lag16": 35.7,
       "mT_lag13": 24.8286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-08-31",
-      "rainfall": 1.7,
-      "max_temp": 35.3,
-      "min_temp": 25.95,
+      "rainfall": 9.3,
+      "max_temp": 35.5333,
+      "min_temp": 26.0333,
       "R_lag10": 13.4,
       "MT_lag16": 30.6857,
       "mT_lag13": 25.8429
