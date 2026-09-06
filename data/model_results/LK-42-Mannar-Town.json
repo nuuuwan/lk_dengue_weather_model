@@ -1,6 +1,6 @@
 {
   "region_id": "LK-42-Mannar-Town",
-  "generated_date": "2026-09-05",
+  "generated_date": "2026-09-06",
   "weekly_features": [
     {
       "week": "2025-12-22",
@@ -8,7 +8,7 @@
       "max_temp": 28.1143,
       "min_temp": 24.9286,
       "R_lag10": 85.9,
-      "MT_lag16": 30.5,
+      "MT_lag16": 30.3,
       "mT_lag13": 27.1714
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-08-31",
       "rainfall": 0.1,
-      "max_temp": 30.75,
-      "min_temp": 27.35,
+      "max_temp": 30.7429,
+      "min_temp": 27.4286,
       "R_lag10": 0.8,
       "MT_lag16": 30.3143,
       "mT_lag13": 28.3
