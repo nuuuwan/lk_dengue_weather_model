@@ -1,16 +1,7 @@
 {
   "region_id": "LK-33-Walasmulla",
-  "generated_date": "2026-09-06",
+  "generated_date": "2026-09-07",
   "weekly_features": [
-    {
-      "week": "2025-12-22",
-      "rainfall": 11.7,
-      "max_temp": 30.1429,
-      "min_temp": 21.2143,
-      "R_lag10": 96.9,
-      "MT_lag16": 32.8,
-      "mT_lag13": 22.8143
-    },
     {
       "week": "2025-12-29",
       "rainfall": 13.2,
@@ -333,6 +324,15 @@
       "min_temp": 24.3714,
       "R_lag10": 23.4,
       "MT_lag16": 29.3857,
+      "mT_lag13": 24.1
+    },
+    {
+      "week": "2026-09-07",
+      "rainfall": 2.4,
+      "max_temp": 33.0,
+      "min_temp": 24.6,
+      "R_lag10": 12.1,
+      "MT_lag16": 30.3857,
       "mT_lag13": 24.1
     }
   ]

@@ -1,16 +1,7 @@
 {
   "region_id": "LK-45-Kandawalai",
-  "generated_date": "2026-09-06",
+  "generated_date": "2026-09-07",
   "weekly_features": [
-    {
-      "week": "2025-12-22",
-      "rainfall": 7.2,
-      "max_temp": 28.1857,
-      "min_temp": 23.7,
-      "R_lag10": 89.5,
-      "MT_lag16": 34.0,
-      "mT_lag13": 26.5429
-    },
     {
       "week": "2025-12-29",
       "rainfall": 32.9,
@@ -334,6 +325,15 @@
       "R_lag10": 4.3,
       "MT_lag16": 31.0,
       "mT_lag13": 27.8571
+    },
+    {
+      "week": "2026-09-07",
+      "rainfall": 0.3,
+      "max_temp": 36.2,
+      "min_temp": 28.0,
+      "R_lag10": 2.3,
+      "MT_lag16": 33.6429,
+      "mT_lag13": 27.4571
     }
   ]
 }
