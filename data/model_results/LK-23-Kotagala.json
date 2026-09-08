@@ -1,6 +1,6 @@
 {
   "region_id": "LK-23-Kotagala",
-  "generated_date": "2026-09-07",
+  "generated_date": "2026-09-08",
   "weekly_features": [
     {
       "week": "2025-12-29",
@@ -8,7 +8,7 @@
       "max_temp": 23.1714,
       "min_temp": 14.7571,
       "R_lag10": 90.0,
-      "MT_lag16": 22.8571,
+      "MT_lag16": 22.5,
       "mT_lag13": 16.1
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-07",
-      "rainfall": 6.7,
-      "max_temp": 24.3,
-      "min_temp": 15.5,
+      "rainfall": 12.8,
+      "max_temp": 23.25,
+      "min_temp": 16.4,
       "R_lag10": 115.4,
       "MT_lag16": 22.4286,
       "mT_lag13": 17.9286
