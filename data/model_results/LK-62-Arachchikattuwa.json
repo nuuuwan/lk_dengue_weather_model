@@ -1,6 +1,6 @@
 {
   "region_id": "LK-62-Arachchikattuwa",
-  "generated_date": "2026-09-08",
+  "generated_date": "2026-09-09",
   "weekly_features": [
     {
       "week": "2025-12-29",
@@ -8,7 +8,7 @@
       "max_temp": 28.6429,
       "min_temp": 23.2714,
       "R_lag10": 116.0,
-      "MT_lag16": 30.7167,
+      "MT_lag16": 30.66,
       "mT_lag13": 25.9571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-07",
-      "rainfall": 2.0,
-      "max_temp": 31.25,
-      "min_temp": 28.1,
+      "rainfall": 3.4,
+      "max_temp": 31.2333,
+      "min_temp": 27.6333,
       "R_lag10": 11.7,
       "MT_lag16": 30.3143,
       "mT_lag13": 26.0571
