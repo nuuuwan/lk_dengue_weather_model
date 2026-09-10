@@ -1,6 +1,6 @@
 {
   "region_id": "LK-23-Maskeliya",
-  "generated_date": "2026-09-09",
+  "generated_date": "2026-09-10",
   "weekly_features": [
     {
       "week": "2025-12-29",
@@ -8,7 +8,7 @@
       "max_temp": 23.5,
       "min_temp": 16.1857,
       "R_lag10": 115.7,
-      "MT_lag16": 22.54,
+      "MT_lag16": 22.575,
       "mT_lag13": 17.5
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-07",
-      "rainfall": 25.2,
-      "max_temp": 22.7667,
-      "min_temp": 17.8333,
+      "rainfall": 32.8,
+      "max_temp": 22.75,
+      "min_temp": 17.6,
       "R_lag10": 138.6,
       "MT_lag16": 22.4429,
       "mT_lag13": 18.6429

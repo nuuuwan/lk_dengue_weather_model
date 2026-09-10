@@ -1,6 +1,6 @@
 {
   "region_id": "LK-81-Bandarawela",
-  "generated_date": "2026-09-09",
+  "generated_date": "2026-09-10",
   "weekly_features": [
     {
       "week": "2025-12-29",
@@ -8,7 +8,7 @@
       "max_temp": 22.4143,
       "min_temp": 15.9714,
       "R_lag10": 64.9,
-      "MT_lag16": 26.8,
+      "MT_lag16": 27.1,
       "mT_lag13": 16.8143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-07",
-      "rainfall": 10.2,
-      "max_temp": 27.5333,
-      "min_temp": 16.2,
+      "rainfall": 13.2,
+      "max_temp": 27.575,
+      "min_temp": 15.9,
       "R_lag10": 3.2,
       "MT_lag16": 27.2714,
       "mT_lag13": 18.7143

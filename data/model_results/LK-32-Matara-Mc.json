@@ -1,6 +1,6 @@
 {
   "region_id": "LK-32-Matara-Mc",
-  "generated_date": "2026-09-09",
+  "generated_date": "2026-09-10",
   "weekly_features": [
     {
       "week": "2025-12-29",
@@ -8,7 +8,7 @@
       "max_temp": 29.6429,
       "min_temp": 23.2143,
       "R_lag10": 62.6,
-      "MT_lag16": 30.9,
+      "MT_lag16": 30.925,
       "mT_lag13": 24.3429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-07",
-      "rainfall": 7.2,
-      "max_temp": 31.1333,
-      "min_temp": 25.3333,
+      "rainfall": 8.2,
+      "max_temp": 31.525,
+      "min_temp": 25.55,
       "R_lag10": 15.5,
       "MT_lag16": 30.7571,
       "mT_lag13": 25.4571

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-92-Mawanella",
-  "generated_date": "2026-09-09",
+  "generated_date": "2026-09-10",
   "weekly_features": [
     {
       "week": "2025-12-29",
@@ -8,7 +8,7 @@
       "max_temp": 29.6714,
       "min_temp": 22.0,
       "R_lag10": 103.4,
-      "MT_lag16": 29.82,
+      "MT_lag16": 29.95,
       "mT_lag13": 22.6857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-07",
-      "rainfall": 12.4,
-      "max_temp": 30.4333,
-      "min_temp": 23.3667,
+      "rainfall": 13.8,
+      "max_temp": 30.575,
+      "min_temp": 23.25,
       "R_lag10": 64.7,
       "MT_lag16": 29.6286,
       "mT_lag13": 23.7143
