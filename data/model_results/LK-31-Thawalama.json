@@ -1,6 +1,6 @@
 {
   "region_id": "LK-31-Thawalama",
-  "generated_date": "2026-09-10",
+  "generated_date": "2026-09-11",
   "weekly_features": [
     {
       "week": "2025-12-29",
@@ -8,7 +8,7 @@
       "max_temp": 29.9429,
       "min_temp": 22.4286,
       "R_lag10": 71.3,
-      "MT_lag16": 29.6,
+      "MT_lag16": 29.4,
       "mT_lag13": 22.9286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-07",
-      "rainfall": 13.0,
-      "max_temp": 30.65,
-      "min_temp": 23.85,
+      "rainfall": 15.4,
+      "max_temp": 30.74,
+      "min_temp": 23.86,
       "R_lag10": 56.8,
       "MT_lag16": 30.1714,
       "mT_lag13": 23.7714

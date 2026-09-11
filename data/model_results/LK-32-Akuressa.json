@@ -1,6 +1,6 @@
 {
   "region_id": "LK-32-Akuressa",
-  "generated_date": "2026-09-10",
+  "generated_date": "2026-09-11",
   "weekly_features": [
     {
       "week": "2025-12-29",
@@ -8,7 +8,7 @@
       "max_temp": 30.3714,
       "min_temp": 22.1857,
       "R_lag10": 65.3,
-      "MT_lag16": 30.575,
+      "MT_lag16": 30.4667,
       "mT_lag13": 22.8
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-07",
-      "rainfall": 10.5,
-      "max_temp": 30.975,
-      "min_temp": 23.85,
+      "rainfall": 12.0,
+      "max_temp": 31.14,
+      "min_temp": 23.86,
       "R_lag10": 36.7,
       "MT_lag16": 30.7286,
       "mT_lag13": 23.5714

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Panduwasnuwara",
-  "generated_date": "2026-09-10",
+  "generated_date": "2026-09-11",
   "weekly_features": [
     {
       "week": "2025-12-29",
@@ -8,7 +8,7 @@
       "max_temp": 29.0571,
       "min_temp": 22.6714,
       "R_lag10": 105.1,
-      "MT_lag16": 32.375,
+      "MT_lag16": 32.5333,
       "mT_lag13": 23.8857
     },
     {
@@ -328,8 +328,8 @@
     },
     {
       "week": "2026-09-07",
-      "rainfall": 6.5,
-      "max_temp": 34.275,
+      "rainfall": 7.5,
+      "max_temp": 34.4,
       "min_temp": 25.7,
       "R_lag10": 31.2,
       "MT_lag16": 30.2286,
