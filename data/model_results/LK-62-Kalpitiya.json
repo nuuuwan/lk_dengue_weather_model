@@ -1,6 +1,6 @@
 {
   "region_id": "LK-62-Kalpitiya",
-  "generated_date": "2026-09-11",
+  "generated_date": "2026-09-12",
   "weekly_features": [
     {
       "week": "2025-12-29",
@@ -8,7 +8,7 @@
       "max_temp": 29.0286,
       "min_temp": 23.3571,
       "R_lag10": 113.0,
-      "MT_lag16": 32.0333,
+      "MT_lag16": 31.85,
       "mT_lag13": 26.0286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-07",
-      "rainfall": 2.9,
-      "max_temp": 32.22,
-      "min_temp": 27.78,
+      "rainfall": 3.1,
+      "max_temp": 32.35,
+      "min_temp": 27.5667,
       "R_lag10": 4.5,
       "MT_lag16": 31.1857,
       "mT_lag13": 26.6286

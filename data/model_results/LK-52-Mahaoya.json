@@ -1,6 +1,6 @@
 {
   "region_id": "LK-52-Mahaoya",
-  "generated_date": "2026-09-11",
+  "generated_date": "2026-09-12",
   "weekly_features": [
     {
       "week": "2025-12-29",
@@ -8,7 +8,7 @@
       "max_temp": 28.4857,
       "min_temp": 22.8286,
       "R_lag10": 156.6,
-      "MT_lag16": 34.9,
+      "MT_lag16": 34.7,
       "mT_lag13": 24.8571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-07",
-      "rainfall": 6.8,
-      "max_temp": 35.38,
-      "min_temp": 25.14,
+      "rainfall": 7.6,
+      "max_temp": 35.4333,
+      "min_temp": 25.25,
       "R_lag10": 2.8,
       "MT_lag16": 34.6,
       "mT_lag13": 26.1714

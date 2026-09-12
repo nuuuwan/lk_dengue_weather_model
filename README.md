@@ -4,7 +4,7 @@ Dengue outbreak weather-risk model for Sri Lanka MOH regions.
 
 > 📖 **Methodology:** [README.methodology.md](README.methodology.md)
 
-_Last updated: 11 September 2026 · 333 regions with model results._
+_Last updated: 12 September 2026 · 333 regions with model results._
 
 ---
 
@@ -59,9 +59,9 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 
 | Metric | Value |
 |---|---:|
-| Pearson *r* | 0.0829 |
-| Spearman ρ | 0.1261 |
-| *p*-value (Pearson) | 0.131 |
+| Pearson *r* | 0.0239 |
+| Spearman ρ | 0.0711 |
+| *p*-value (Pearson) | 0.664 |
 | Regions (*n*) | 333 |
 
 ![Predicted vs Actual Cases](images/correlation.png)
@@ -76,29 +76,29 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 |---|---|---:|---:|
 | Dehiovita | Kegalle | 2.48 | 0.0 |
 | Rathmalana | Colombo | 2.03 | 0.0 |
+| Boralesgamuwa | Colombo | 2.03 | 0.0 |
 | Moratuwa | Colombo | 2.00 | 0.0 |
 | Dehiwala | Colombo | 1.91 | 0.0 |
 | Lahugala | Ampara | 1.87 | 0.0 |
 | Biyagama | Gampaha | 1.87 | 0.0 |
 | Kelaniya | Gampaha | 1.84 | 0.0 |
 | Pottuvil | Ampara | 1.81 | 0.0 |
-| Kolonnawa | Colombo | 1.80 | 6.1 |
-| Dompe | Gampaha | 1.79 | 0.0 |
+| Nugegoda | Colombo | 1.80 | 0.0 |
 
 ### Top 10 False Negatives (low predicted risk, high actual cases)
 
 | Region | District | Risk Score | Cases/100k |
 |---|---|---:|---:|
-| Ruwanwella | Kegalle | -0.44 | 27.4 |
-| Yatiyanthota | Kegalle | -0.26 | 24.1 |
-| Wennappuwa | Puttalam | 0.48 | 21.6 |
+| Pasbage Korale | Kandy | -1.39 | 32.0 |
+| Thalawa | Anuradhapura | -0.08 | 23.2 |
 | Kandy Four Gravets & Gangawata Korale | Kandy | -2.89 | 21.0 |
-| Pasbage Korale | Kandy | -1.39 | 16.8 |
-| Galle Four Gravets | Galle | 0.58 | 13.8 |
-| Kundasale | Kandy | -1.61 | 13.6 |
-| Yatinuwara | Kandy | -0.85 | 12.3 |
-| Harispattuwa | Kandy | -1.55 | 10.4 |
-| Udapalatha | Kandy | -3.02 | 10.1 |
+| Yatiyanthota | Kegalle | -0.26 | 17.7 |
+| Pathadumbara | Kandy | -1.57 | 16.5 |
+| Yatinuwara | Kandy | -0.85 | 15.8 |
+| Wennappuwa | Puttalam | 0.48 | 15.4 |
+| Kundasale | Kandy | -1.61 | 14.9 |
+| Weligama | Matara | 0.14 | 14.4 |
+| Udunuwara | Kandy | -1.87 | 14.1 |
 
 ---
 
@@ -112,7 +112,7 @@ False positive rate (FPR) and false negative rate (FNR) for classifying regions 
 
 ![FPR and FNR vs Threshold](images/fpr_fnr_curve.png)
 
-ROC curve with AUC = 0.6076.
+ROC curve with AUC = 0.57.
 
 ![ROC Curve](images/roc_curve.png)
 
