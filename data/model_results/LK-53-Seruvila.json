@@ -1,16 +1,7 @@
 {
   "region_id": "LK-53-Seruvila",
-  "generated_date": "2026-09-12",
+  "generated_date": "2026-09-14",
   "weekly_features": [
-    {
-      "week": "2025-12-29",
-      "rainfall": 70.6,
-      "max_temp": 27.6286,
-      "min_temp": 23.2714,
-      "R_lag10": 206.6,
-      "MT_lag16": 36.3,
-      "mT_lag13": 25.4714
-    },
     {
       "week": "2026-01-05",
       "rainfall": 117.6,
@@ -328,12 +319,21 @@
     },
     {
       "week": "2026-09-07",
-      "rainfall": 33.1,
-      "max_temp": 35.4833,
-      "min_temp": 25.6,
+      "rainfall": 36.5,
+      "max_temp": 35.4714,
+      "min_temp": 25.5429,
       "R_lag10": 10.2,
       "MT_lag16": 33.1571,
       "mT_lag13": 25.7143
+    },
+    {
+      "week": "2026-09-14",
+      "rainfall": 3.5,
+      "max_temp": 31.4,
+      "min_temp": 25.0,
+      "R_lag10": 6.3,
+      "MT_lag16": 34.1286,
+      "mT_lag13": 26.5429
     }
   ]
 }
