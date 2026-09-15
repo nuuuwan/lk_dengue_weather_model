@@ -1,6 +1,6 @@
 {
   "region_id": "LK-21-Delthota",
-  "generated_date": "2026-09-14",
+  "generated_date": "2026-09-15",
   "weekly_features": [
     {
       "week": "2026-01-05",
@@ -8,7 +8,7 @@
       "max_temp": 22.1,
       "min_temp": 17.5429,
       "R_lag10": 3.7,
-      "MT_lag16": 24.4571,
+      "MT_lag16": 24.3667,
       "mT_lag13": 17.5143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-14",
-      "rainfall": 16.9,
-      "max_temp": 27.0,
-      "min_temp": 18.9,
+      "rainfall": 22.2,
+      "max_temp": 25.5,
+      "min_temp": 19.1,
       "R_lag10": 7.3,
       "MT_lag16": 26.5571,
       "mT_lag13": 18.9
