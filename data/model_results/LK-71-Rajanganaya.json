@@ -1,6 +1,6 @@
 {
   "region_id": "LK-71-Rajanganaya",
-  "generated_date": "2026-09-15",
+  "generated_date": "2026-09-16",
   "weekly_features": [
     {
       "week": "2026-01-05",
@@ -8,7 +8,7 @@
       "max_temp": 27.0286,
       "min_temp": 21.9857,
       "R_lag10": 3.4,
-      "MT_lag16": 31.7333,
+      "MT_lag16": 31.58,
       "mT_lag13": 24.4
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-14",
-      "rainfall": 24.0,
-      "max_temp": 35.35,
-      "min_temp": 24.45,
+      "rainfall": 26.9,
+      "max_temp": 34.6,
+      "min_temp": 24.7333,
       "R_lag10": 7.2,
       "MT_lag16": 31.9286,
       "mT_lag13": 25.2429
