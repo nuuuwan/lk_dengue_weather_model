@@ -1,6 +1,6 @@
 {
   "region_id": "LK-72-Medirigiriya",
-  "generated_date": "2026-09-16",
+  "generated_date": "2026-09-17",
   "weekly_features": [
     {
       "week": "2026-01-05",
@@ -8,7 +8,7 @@
       "max_temp": 27.4,
       "min_temp": 22.4,
       "R_lag10": 0.3,
-      "MT_lag16": 34.28,
+      "MT_lag16": 34.25,
       "mT_lag13": 23.9857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-14",
-      "rainfall": 15.0,
-      "max_temp": 33.6,
-      "min_temp": 25.3333,
+      "rainfall": 16.1,
+      "max_temp": 33.2,
+      "min_temp": 25.425,
       "R_lag10": 5.1,
       "MT_lag16": 33.9857,
       "mT_lag13": 26.6571

@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Giribawa",
-  "generated_date": "2026-09-16",
+  "generated_date": "2026-09-17",
   "weekly_features": [
     {
       "week": "2026-01-05",
@@ -8,7 +8,7 @@
       "max_temp": 27.0857,
       "min_temp": 22.0143,
       "R_lag10": 3.5,
-      "MT_lag16": 31.32,
+      "MT_lag16": 31.425,
       "mT_lag13": 24.4429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-14",
-      "rainfall": 19.5,
-      "max_temp": 34.4,
-      "min_temp": 24.8333,
+      "rainfall": 22.2,
+      "max_temp": 33.6,
+      "min_temp": 24.95,
       "R_lag10": 5.8,
       "MT_lag16": 31.8143,
       "mT_lag13": 25.2714
