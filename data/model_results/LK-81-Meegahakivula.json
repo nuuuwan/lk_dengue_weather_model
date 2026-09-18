@@ -1,6 +1,6 @@
 {
   "region_id": "LK-81-Meegahakivula",
-  "generated_date": "2026-09-17",
+  "generated_date": "2026-09-18",
   "weekly_features": [
     {
       "week": "2026-01-05",
@@ -8,7 +8,7 @@
       "max_temp": 26.7143,
       "min_temp": 21.7429,
       "R_lag10": 2.3,
-      "MT_lag16": 34.55,
+      "MT_lag16": 35.0667,
       "mT_lag13": 21.8
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-14",
-      "rainfall": 29.1,
-      "max_temp": 32.675,
-      "min_temp": 24.875,
+      "rainfall": 30.7,
+      "max_temp": 33.04,
+      "min_temp": 24.96,
       "R_lag10": 2.1,
       "MT_lag16": 34.5,
       "mT_lag13": 24.4714

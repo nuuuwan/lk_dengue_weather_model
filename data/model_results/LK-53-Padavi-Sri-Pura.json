@@ -1,6 +1,6 @@
 {
   "region_id": "LK-53-Padavi-Sri-Pura",
-  "generated_date": "2026-09-17",
+  "generated_date": "2026-09-18",
   "weekly_features": [
     {
       "week": "2026-01-05",
@@ -8,7 +8,7 @@
       "max_temp": 27.0,
       "min_temp": 22.5429,
       "R_lag10": 2.1,
-      "MT_lag16": 32.825,
+      "MT_lag16": 33.3,
       "mT_lag13": 24.0
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-14",
-      "rainfall": 6.6,
-      "max_temp": 33.425,
-      "min_temp": 25.675,
+      "rainfall": 9.9,
+      "max_temp": 33.72,
+      "min_temp": 25.82,
       "R_lag10": 4.1,
       "MT_lag16": 34.2714,
       "mT_lag13": 26.3286

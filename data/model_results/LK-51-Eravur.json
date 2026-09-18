@@ -1,6 +1,6 @@
 {
   "region_id": "LK-51-Eravur",
-  "generated_date": "2026-09-17",
+  "generated_date": "2026-09-18",
   "weekly_features": [
     {
       "week": "2026-01-05",
@@ -8,7 +8,7 @@
       "max_temp": 27.8429,
       "min_temp": 23.7143,
       "R_lag10": 1.9,
-      "MT_lag16": 31.925,
+      "MT_lag16": 31.9,
       "mT_lag13": 25.0429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-14",
-      "rainfall": 23.7,
-      "max_temp": 31.825,
-      "min_temp": 25.8,
+      "rainfall": 29.1,
+      "max_temp": 31.82,
+      "min_temp": 26.04,
       "R_lag10": 8.5,
       "MT_lag16": 33.3286,
       "mT_lag13": 26.9143

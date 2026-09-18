@@ -1,6 +1,6 @@
 {
   "region_id": "LK-71-Kekirawa",
-  "generated_date": "2026-09-17",
+  "generated_date": "2026-09-18",
   "weekly_features": [
     {
       "week": "2026-01-05",
@@ -8,7 +8,7 @@
       "max_temp": 25.9286,
       "min_temp": 21.5143,
       "R_lag10": 3.6,
-      "MT_lag16": 31.45,
+      "MT_lag16": 31.9667,
       "mT_lag13": 23.4
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-14",
-      "rainfall": 16.2,
-      "max_temp": 32.325,
-      "min_temp": 23.9,
+      "rainfall": 20.9,
+      "max_temp": 32.22,
+      "min_temp": 24.14,
       "R_lag10": 5.9,
       "MT_lag16": 31.5143,
       "mT_lag13": 24.8429
