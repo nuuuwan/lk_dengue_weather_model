@@ -1,16 +1,7 @@
 {
   "region_id": "LK-62-Mahawewa",
-  "generated_date": "2026-09-18",
+  "generated_date": "2026-09-21",
   "weekly_features": [
-    {
-      "week": "2026-01-05",
-      "rainfall": 17.8,
-      "max_temp": 27.8,
-      "min_temp": 22.5,
-      "R_lag10": 20.0,
-      "MT_lag16": 28.9,
-      "mT_lag13": 24.7714
-    },
     {
       "week": "2026-01-12",
       "rainfall": 15.6,
@@ -328,12 +319,21 @@
     },
     {
       "week": "2026-09-14",
-      "rainfall": 43.3,
-      "max_temp": 29.98,
-      "min_temp": 25.1,
+      "rainfall": 101.8,
+      "max_temp": 29.9,
+      "min_temp": 25.0429,
       "R_lag10": 12.7,
       "MT_lag16": 30.1857,
       "mT_lag13": 25.4429
+    },
+    {
+      "week": "2026-09-21",
+      "rainfall": 13.0,
+      "max_temp": 28.7,
+      "min_temp": 24.9,
+      "R_lag10": 13.7,
+      "MT_lag16": 30.0714,
+      "mT_lag13": 25.9143
     }
   ]
 }

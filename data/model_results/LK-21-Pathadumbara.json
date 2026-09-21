@@ -1,16 +1,7 @@
 {
   "region_id": "LK-21-Pathadumbara",
-  "generated_date": "2026-09-18",
+  "generated_date": "2026-09-21",
   "weekly_features": [
-    {
-      "week": "2026-01-05",
-      "rainfall": 48.3,
-      "max_temp": 25.9429,
-      "min_temp": 19.7571,
-      "R_lag10": 15.6,
-      "MT_lag16": 27.0667,
-      "mT_lag13": 19.9571
-    },
     {
       "week": "2026-01-12",
       "rainfall": 3.7,
@@ -328,12 +319,21 @@
     },
     {
       "week": "2026-09-14",
-      "rainfall": 55.2,
-      "max_temp": 28.0,
-      "min_temp": 21.9,
+      "rainfall": 108.3,
+      "max_temp": 27.5429,
+      "min_temp": 21.7857,
       "R_lag10": 25.2,
       "MT_lag16": 28.3429,
       "mT_lag13": 21.2429
+    },
+    {
+      "week": "2026-09-21",
+      "rainfall": 19.9,
+      "max_temp": 26.7,
+      "min_temp": 21.4,
+      "R_lag10": 18.3,
+      "MT_lag16": 28.3,
+      "mT_lag13": 21.5286
     }
   ]
 }

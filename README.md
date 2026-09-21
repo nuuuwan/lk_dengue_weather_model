@@ -4,7 +4,7 @@ Dengue outbreak weather-risk model for Sri Lanka MOH regions.
 
 > 📖 **Methodology:** [README.methodology.md](README.methodology.md)
 
-_Last updated: 18 September 2026 · 333 regions with model results._
+_Last updated: 21 September 2026 · 333 regions with model results._
 
 ---
 
@@ -26,26 +26,26 @@ Sorted by composite weather-risk score (descending).
 
 | Region | District | Risk Score | Rainfall mm (−10w) | Max Temp °C (−16w) | Min Temp °C (−13w) |
 |---|---|---:|---:|---:|---:|
-| Kiran | LK-51 | 2.63 | 12.4 | 35.6 | 26.5 |
-| Valaichenai | LK-51 | 2.43 | 11.5 | 35.6 | 26.2 |
-| Ottamavadi | LK-51 | 2.35 | 9.0 | 35.4 | 26.8 |
-| Koralaipattu ( Oddmavadi Central ) | LK-51 | 2.35 | 9.0 | 35.4 | 26.8 |
-| Vakarai | LK-51 | 1.94 | 3.6 | 35.0 | 27.2 |
-| Mathugama | LK-13 | 1.93 | 42.6 | 29.8 | 24.0 |
-| Eachchilampatru | LK-53 | 1.92 | 6.3 | 34.8 | 26.9 |
-| Vavunathivu | LK-51 | 1.89 | 6.8 | 35.2 | 26.3 |
-| Paddipalai | LK-51 | 1.88 | 10.9 | 34.5 | 26.0 |
-| Mullaitivu | LK-44 | 1.88 | 5.6 | 35.2 | 26.6 |
-| Lahugala | LK-52 | 1.82 | 5.8 | 35.2 | 26.3 |
-| Madurawala | LK-13 | 1.81 | 44.1 | 29.4 | 23.7 |
-| Kandawalai | LK-45 | 1.81 | 7.2 | 34.0 | 27.2 |
-| Batticaloa | LK-51 | 1.76 | 8.0 | 33.9 | 27.0 |
-| Chenkalady | LK-51 | 1.70 | 4.8 | 35.0 | 26.4 |
-| Thamankaduwa | LK-72 | 1.68 | 0.8 | 34.8 | 27.4 |
-| Welikanda | LK-72 | 1.66 | 2.9 | 34.6 | 27.1 |
-| Kalutara | LK-13 | 1.64 | 36.2 | 29.6 | 24.8 |
-| Kuruwita | LK-91 | 1.64 | 39.4 | 30.1 | 23.7 |
-| Beruwala | LK-13 | 1.62 | 36.4 | 29.4 | 24.9 |
+| Vakarai | LK-51 | 2.32 | 5.5 | 35.3 | 27.3 |
+| Ottamavadi | LK-51 | 2.31 | 7.3 | 35.2 | 27.0 |
+| Koralaipattu ( Oddmavadi Central ) | LK-51 | 2.31 | 7.3 | 35.2 | 27.0 |
+| Neluwa | LK-31 | 2.23 | 42.9 | 30.4 | 23.8 |
+| Pelmadulla | LK-91 | 2.02 | 45.4 | 30.1 | 23.1 |
+| Mullaitivu | LK-44 | 1.97 | 3.3 | 35.2 | 27.0 |
+| Eravur | LK-51 | 1.94 | 5.1 | 34.8 | 26.9 |
+| Eachchilampatru | LK-53 | 1.89 | 3.2 | 35.0 | 27.0 |
+| Chenkalady | LK-51 | 1.87 | 7.0 | 35.0 | 26.2 |
+| Kiran | LK-51 | 1.81 | 3.2 | 35.0 | 26.8 |
+| Batticaloa | LK-51 | 1.80 | 3.8 | 34.6 | 27.0 |
+| Sammanthurai | LK-52 | 1.79 | 13.7 | 34.3 | 25.2 |
+| Kuruwita | LK-91 | 1.76 | 38.2 | 30.5 | 23.5 |
+| Valaichenai | LK-51 | 1.74 | 2.9 | 35.2 | 26.5 |
+| Vavunathivu | LK-51 | 1.73 | 4.2 | 35.1 | 26.3 |
+| Thamankaduwa | LK-72 | 1.67 | 0.3 | 34.5 | 27.5 |
+| Paddipalai | LK-51 | 1.65 | 4.3 | 35.0 | 26.2 |
+| Puthukkudiyiruppu | LK-44 | 1.63 | 1.9 | 34.5 | 27.1 |
+| Kuchchaveli | LK-53 | 1.59 | 1.4 | 34.9 | 26.8 |
+| Trincomalee | LK-53 | 1.59 | 1.5 | 34.7 | 26.8 |
 
 > **Note:** Risk scores are weather-only (composite z-score of lagged
 > meteorological predictors). Full GLM-based dengue
@@ -59,9 +59,9 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 
 | Metric | Value |
 |---|---:|
-| Pearson *r* | -0.0305 |
-| Spearman ρ | -0.0391 |
-| *p*-value (Pearson) | 0.579 |
+| Pearson *r* | -0.0237 |
+| Spearman ρ | -0.0161 |
+| *p*-value (Pearson) | 0.666 |
 | Regions (*n*) | 333 |
 
 ![Predicted vs Actual Cases](images/correlation.png)
@@ -74,31 +74,31 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 
 | Region | District | Risk Score | Cases/100k |
 |---|---|---:|---:|
-| Kiran | Batticaloa | 2.63 | 0.0 |
-| Valaichenai | Batticaloa | 2.43 | 0.0 |
-| Ottamavadi | Batticaloa | 2.35 | 0.0 |
-| Koralaipattu ( Oddmavadi Central ) | Batticaloa | 2.35 | 0.0 |
-| Vakarai | Batticaloa | 1.94 | 0.0 |
-| Mathugama | Kalutara | 1.93 | 0.0 |
-| Eachchilampatru | Trincomalee | 1.92 | 0.0 |
-| Vavunathivu | Batticaloa | 1.89 | 0.0 |
-| Mullaitivu | Mullaitivu | 1.88 | 0.0 |
-| Paddipalai | Batticaloa | 1.88 | 0.0 |
+| Vakarai | Batticaloa | 2.32 | 0.0 |
+| Ottamavadi | Batticaloa | 2.31 | 0.0 |
+| Koralaipattu ( Oddmavadi Central ) | Batticaloa | 2.31 | 0.0 |
+| Neluwa | Galle | 2.23 | 0.0 |
+| Pelmadulla | Ratnapura | 2.02 | 0.0 |
+| Mullaitivu | Mullaitivu | 1.97 | 0.0 |
+| Eravur | Batticaloa | 1.94 | 0.0 |
+| Eachchilampatru | Trincomalee | 1.89 | 0.0 |
+| Chenkalady | Batticaloa | 1.87 | 0.0 |
+| Kiran | Batticaloa | 1.81 | 0.0 |
 
 ### Top 10 False Negatives (low predicted risk, high actual cases)
 
 | Region | District | Risk Score | Cases/100k |
 |---|---|---:|---:|
-| Pasbage Korale | Kandy | -0.96 | 32.0 |
-| Thalawa | Anuradhapura | -0.04 | 23.2 |
-| Kandy Four Gravets & Gangawata Korale | Kandy | -3.20 | 21.0 |
-| Yatiyanthota | Kegalle | -0.52 | 17.7 |
-| Pathadumbara | Kandy | -1.21 | 16.5 |
-| Yatinuwara | Kandy | -1.51 | 15.8 |
-| Wennappuwa | Puttalam | 0.15 | 15.4 |
-| Kundasale | Kandy | -1.85 | 14.9 |
-| Weligama | Matara | 0.22 | 14.4 |
-| Udunuwara | Kandy | -2.35 | 14.1 |
+| Pasbage Korale | Kandy | -0.77 | 32.0 |
+| Thalawa | Anuradhapura | -0.13 | 23.2 |
+| Kandy Four Gravets & Gangawata Korale | Kandy | -3.47 | 21.0 |
+| Yatiyanthota | Kegalle | -0.50 | 17.7 |
+| Pathadumbara | Kandy | -1.53 | 16.5 |
+| Yatinuwara | Kandy | -1.93 | 15.8 |
+| Kundasale | Kandy | -1.81 | 14.9 |
+| Udunuwara | Kandy | -2.63 | 14.1 |
+| Homagama | Colombo | 0.35 | 12.8 |
+| Attanagalla | Gampaha | 0.26 | 12.1 |
 
 ---
 
@@ -112,7 +112,7 @@ False positive rate (FPR) and false negative rate (FNR) for classifying regions 
 
 ![FPR and FNR vs Threshold](images/fpr_fnr_curve.png)
 
-ROC curve with AUC = 0.4413.
+ROC curve with AUC = 0.4545.
 
 ![ROC Curve](images/roc_curve.png)
 
@@ -122,11 +122,11 @@ ROC curve with AUC = 0.4413.
 
 Dengue weather-risk scores projected 2 and 4 weeks ahead, using the same lagged meteorological predictors applied to already-recorded historical weather.  All three maps (current + forecasts) share an identical colour scale so regional risk levels are directly comparable.
 
-### 2-Week Forecast (28 September 2026)
+### 2-Week Forecast (5 October 2026)
 
 ![2-Week Forecast Risk Map](images/forecast_map_2w.png)
 
-### 4-Week Forecast (12 October 2026)
+### 4-Week Forecast (19 October 2026)
 
 ![4-Week Forecast Risk Map](images/forecast_map_4w.png)
 
