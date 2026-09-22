@@ -1,6 +1,6 @@
 {
   "region_id": "LK-32-Matara-Ps",
-  "generated_date": "2026-09-21",
+  "generated_date": "2026-09-22",
   "weekly_features": [
     {
       "week": "2026-01-12",
@@ -8,7 +8,7 @@
       "max_temp": 29.9429,
       "min_temp": 21.5714,
       "R_lag10": 15.0,
-      "MT_lag16": 28.6143,
+      "MT_lag16": 28.5667,
       "mT_lag13": 23.0857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-21",
-      "rainfall": 9.1,
-      "max_temp": 29.3,
-      "min_temp": 24.3,
+      "rainfall": 19.3,
+      "max_temp": 28.95,
+      "min_temp": 24.5,
       "R_lag10": 13.0,
       "MT_lag16": 30.3429,
       "mT_lag13": 24.2429
