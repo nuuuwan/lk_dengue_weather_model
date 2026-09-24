@@ -4,7 +4,7 @@ Dengue outbreak weather-risk model for Sri Lanka MOH regions.
 
 > 📖 **Methodology:** [README.methodology.md](README.methodology.md)
 
-_Last updated: 23 September 2026 · 333 regions with model results._
+_Last updated: 24 September 2026 · 333 regions with model results._
 
 ---
 
@@ -45,7 +45,7 @@ Sorted by composite weather-risk score (descending).
 | Paddipalai | LK-51 | 1.65 | 4.3 | 35.0 | 26.2 |
 | Puthukkudiyiruppu | LK-44 | 1.63 | 1.9 | 34.5 | 27.1 |
 | Kuchchaveli | LK-53 | 1.59 | 1.4 | 34.9 | 26.8 |
-| Trincomalee | LK-53 | 1.59 | 1.5 | 34.7 | 26.8 |
+| Kiriella | LK-91 | 1.59 | 38.2 | 30.3 | 23.3 |
 
 > **Note:** Risk scores are weather-only (composite z-score of lagged
 > meteorological predictors). Full GLM-based dengue
