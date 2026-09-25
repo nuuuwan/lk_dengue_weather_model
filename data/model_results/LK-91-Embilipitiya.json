@@ -1,6 +1,6 @@
 {
   "region_id": "LK-91-Embilipitiya",
-  "generated_date": "2026-09-24",
+  "generated_date": "2026-09-25",
   "weekly_features": [
     {
       "week": "2026-01-12",
@@ -8,7 +8,7 @@
       "max_temp": 29.9571,
       "min_temp": 21.1286,
       "R_lag10": 40.5,
-      "MT_lag16": 31.475,
+      "MT_lag16": 31.3,
       "mT_lag13": 23.0714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-21",
-      "rainfall": 26.9,
-      "max_temp": 30.075,
-      "min_temp": 24.575,
+      "rainfall": 29.6,
+      "max_temp": 30.38,
+      "min_temp": 24.56,
       "R_lag10": 1.4,
       "MT_lag16": 33.1,
       "mT_lag13": 25.1714

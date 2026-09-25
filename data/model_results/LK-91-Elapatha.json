@@ -1,6 +1,6 @@
 {
   "region_id": "LK-91-Elapatha",
-  "generated_date": "2026-09-24",
+  "generated_date": "2026-09-25",
   "weekly_features": [
     {
       "week": "2026-01-12",
@@ -8,7 +8,7 @@
       "max_temp": 30.9143,
       "min_temp": 21.0429,
       "R_lag10": 56.1,
-      "MT_lag16": 28.025,
+      "MT_lag16": 28.6667,
       "mT_lag13": 22.5143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-21",
-      "rainfall": 127.0,
-      "max_temp": 27.7,
-      "min_temp": 23.15,
+      "rainfall": 150.7,
+      "max_temp": 27.76,
+      "min_temp": 23.16,
       "R_lag10": 21.7,
       "MT_lag16": 30.3571,
       "mT_lag13": 23.2286

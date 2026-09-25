@@ -1,6 +1,6 @@
 {
   "region_id": "LK-23-Lindula",
-  "generated_date": "2026-09-24",
+  "generated_date": "2026-09-25",
   "weekly_features": [
     {
       "week": "2026-01-12",
@@ -8,7 +8,7 @@
       "max_temp": 21.8714,
       "min_temp": 11.9429,
       "R_lag10": 25.7,
-      "MT_lag16": 19.95,
+      "MT_lag16": 20.2333,
       "mT_lag13": 15.3857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-21",
-      "rainfall": 98.3,
-      "max_temp": 20.1,
-      "min_temp": 17.35,
+      "rainfall": 116.9,
+      "max_temp": 19.98,
+      "min_temp": 17.36,
       "R_lag10": 4.5,
       "MT_lag16": 22.1143,
       "mT_lag13": 16.7857

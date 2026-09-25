@@ -1,6 +1,6 @@
 {
   "region_id": "LK-11-CMC",
-  "generated_date": "2026-09-24",
+  "generated_date": "2026-09-25",
   "weekly_features": [
     {
       "week": "2026-01-12",
@@ -8,7 +8,7 @@
       "max_temp": 30.5429,
       "min_temp": 22.0857,
       "R_lag10": 46.1,
-      "MT_lag16": 28.225,
+      "MT_lag16": 28.3333,
       "mT_lag13": 23.8143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-21",
-      "rainfall": 109.7,
-      "max_temp": 28.2,
-      "min_temp": 25.025,
+      "rainfall": 136.5,
+      "max_temp": 28.42,
+      "min_temp": 24.98,
       "R_lag10": 29.5,
       "MT_lag16": 29.9714,
       "mT_lag13": 24.7286
