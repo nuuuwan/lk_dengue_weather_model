@@ -1,16 +1,7 @@
 {
   "region_id": "LK-52-Sammanthurai",
-  "generated_date": "2026-09-27",
+  "generated_date": "2026-09-28",
   "weekly_features": [
-    {
-      "week": "2026-01-12",
-      "rainfall": 35.6,
-      "max_temp": 28.2,
-      "min_temp": 21.4857,
-      "R_lag10": 33.6,
-      "MT_lag16": 36.7,
-      "mT_lag13": 23.6571
-    },
     {
       "week": "2026-01-19",
       "rainfall": 5.9,
@@ -334,6 +325,15 @@
       "R_lag10": 13.7,
       "MT_lag16": 34.3,
       "mT_lag13": 25.2286
+    },
+    {
+      "week": "2026-09-28",
+      "rainfall": 3.9,
+      "max_temp": 34.4,
+      "min_temp": 26.2,
+      "R_lag10": 14.3,
+      "MT_lag16": 34.4571,
+      "mT_lag13": 25.4429
     }
   ]
 }
