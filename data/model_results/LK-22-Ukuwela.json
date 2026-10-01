@@ -1,6 +1,6 @@
 {
   "region_id": "LK-22-Ukuwela",
-  "generated_date": "2026-09-29",
+  "generated_date": "2026-10-01",
   "weekly_features": [
     {
       "week": "2026-01-19",
@@ -8,7 +8,7 @@
       "max_temp": 28.8143,
       "min_temp": 17.5286,
       "R_lag10": 66.0,
-      "MT_lag16": 28.4167,
+      "MT_lag16": 28.5,
       "mT_lag13": 21.3857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-28",
-      "rainfall": 8.2,
-      "max_temp": 29.65,
-      "min_temp": 22.25,
+      "rainfall": 33.3,
+      "max_temp": 29.75,
+      "min_temp": 22.325,
       "R_lag10": 19.8,
       "MT_lag16": 27.1,
       "mT_lag13": 22.0571

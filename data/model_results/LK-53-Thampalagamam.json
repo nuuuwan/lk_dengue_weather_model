@@ -1,6 +1,6 @@
 {
   "region_id": "LK-53-Thampalagamam",
-  "generated_date": "2026-09-29",
+  "generated_date": "2026-10-01",
   "weekly_features": [
     {
       "week": "2026-01-19",
@@ -8,7 +8,7 @@
       "max_temp": 28.0714,
       "min_temp": 20.7571,
       "R_lag10": 113.2,
-      "MT_lag16": 34.9833,
+      "MT_lag16": 34.65,
       "mT_lag13": 23.7857
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-28",
-      "rainfall": 8.3,
-      "max_temp": 35.0,
-      "min_temp": 24.85,
+      "rainfall": 13.4,
+      "max_temp": 34.4,
+      "min_temp": 24.675,
       "R_lag10": 0.9,
       "MT_lag16": 32.9143,
       "mT_lag13": 26.5286
