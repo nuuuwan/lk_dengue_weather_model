@@ -1,6 +1,6 @@
 {
   "region_id": "LK-71-Kahatagasdigiliya",
-  "generated_date": "2026-10-01",
+  "generated_date": "2026-10-02",
   "weekly_features": [
     {
       "week": "2026-01-19",
@@ -8,7 +8,7 @@
       "max_temp": 27.7286,
       "min_temp": 19.5714,
       "R_lag10": 92.5,
-      "MT_lag16": 34.525,
+      "MT_lag16": 34.1333,
       "mT_lag13": 23.4714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-28",
-      "rainfall": 11.7,
-      "max_temp": 34.45,
-      "min_temp": 25.075,
+      "rainfall": 14.4,
+      "max_temp": 34.26,
+      "min_temp": 24.92,
       "R_lag10": 1.2,
       "MT_lag16": 32.0714,
       "mT_lag13": 25.9429
