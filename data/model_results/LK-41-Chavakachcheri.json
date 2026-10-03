@@ -1,6 +1,6 @@
 {
   "region_id": "LK-41-Chavakachcheri",
-  "generated_date": "2026-10-02",
+  "generated_date": "2026-10-03",
   "weekly_features": [
     {
       "week": "2026-01-19",
@@ -8,7 +8,7 @@
       "max_temp": 27.9571,
       "min_temp": 21.9857,
       "R_lag10": 85.8,
-      "MT_lag16": 30.4333,
+      "MT_lag16": 30.3,
       "mT_lag13": 25.1
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-28",
-      "rainfall": 4.7,
-      "max_temp": 33.16,
-      "min_temp": 27.88,
+      "rainfall": 5.9,
+      "max_temp": 33.2667,
+      "min_temp": 27.7333,
       "R_lag10": 0.0,
       "MT_lag16": 31.3,
       "mT_lag13": 28.3286

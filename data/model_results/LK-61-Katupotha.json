@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Katupotha",
-  "generated_date": "2026-10-02",
+  "generated_date": "2026-10-03",
   "weekly_features": [
     {
       "week": "2026-01-19",
@@ -8,7 +8,7 @@
       "max_temp": 29.5571,
       "min_temp": 19.8286,
       "R_lag10": 57.2,
-      "MT_lag16": 32.2667,
+      "MT_lag16": 31.6,
       "mT_lag13": 22.7286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-28",
-      "rainfall": 33.4,
-      "max_temp": 31.78,
-      "min_temp": 24.38,
+      "rainfall": 36.7,
+      "max_temp": 31.8667,
+      "min_temp": 24.3167,
       "R_lag10": 8.3,
       "MT_lag16": 28.8571,
       "mT_lag13": 23.9

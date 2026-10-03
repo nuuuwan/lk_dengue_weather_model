@@ -1,6 +1,6 @@
 {
   "region_id": "LK-81-Mahiyanganaya",
-  "generated_date": "2026-10-02",
+  "generated_date": "2026-10-03",
   "weekly_features": [
     {
       "week": "2026-01-19",
@@ -8,7 +8,7 @@
       "max_temp": 28.7286,
       "min_temp": 19.5571,
       "R_lag10": 137.6,
-      "MT_lag16": 35.3333,
+      "MT_lag16": 34.25,
       "mT_lag13": 23.1286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-28",
-      "rainfall": 16.7,
-      "max_temp": 35.84,
-      "min_temp": 24.88,
+      "rainfall": 19.0,
+      "max_temp": 35.7,
+      "min_temp": 24.8,
       "R_lag10": 1.8,
       "MT_lag16": 34.0143,
       "mT_lag13": 26.9429

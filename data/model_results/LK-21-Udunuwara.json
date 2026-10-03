@@ -1,6 +1,6 @@
 {
   "region_id": "LK-21-Udunuwara",
-  "generated_date": "2026-10-02",
+  "generated_date": "2026-10-03",
   "weekly_features": [
     {
       "week": "2026-01-19",
@@ -8,7 +8,7 @@
       "max_temp": 28.4,
       "min_temp": 16.1286,
       "R_lag10": 58.8,
-      "MT_lag16": 27.7333,
+      "MT_lag16": 26.8,
       "mT_lag13": 20.1429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-28",
-      "rainfall": 31.9,
-      "max_temp": 29.52,
-      "min_temp": 19.92,
+      "rainfall": 53.1,
+      "max_temp": 29.45,
+      "min_temp": 20.0167,
       "R_lag10": 12.9,
       "MT_lag16": 26.6,
       "mT_lag13": 21.1714
