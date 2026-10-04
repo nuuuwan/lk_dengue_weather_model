@@ -1,6 +1,6 @@
 {
   "region_id": "LK-11-Kolonnawa",
-  "generated_date": "2026-10-03",
+  "generated_date": "2026-10-04",
   "weekly_features": [
     {
       "week": "2026-01-19",
@@ -8,7 +8,7 @@
       "max_temp": 31.7714,
       "min_temp": 22.0286,
       "R_lag10": 43.1,
-      "MT_lag16": 28.25,
+      "MT_lag16": 28.5,
       "mT_lag13": 24.0714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-09-28",
-      "rainfall": 22.5,
-      "max_temp": 30.1833,
-      "min_temp": 25.1333,
+      "rainfall": 23.6,
+      "max_temp": 30.2714,
+      "min_temp": 25.0714,
       "R_lag10": 22.8,
       "MT_lag16": 29.2,
       "mT_lag13": 25.9143
