@@ -1,16 +1,7 @@
 {
   "region_id": "LK-32-Pasgoda",
-  "generated_date": "2026-10-04",
+  "generated_date": "2026-10-05",
   "weekly_features": [
-    {
-      "week": "2026-01-19",
-      "rainfall": 4.4,
-      "max_temp": 29.5857,
-      "min_temp": 19.3857,
-      "R_lag10": 101.8,
-      "MT_lag16": 28.1,
-      "mT_lag13": 21.6857
-    },
     {
       "week": "2026-01-26",
       "rainfall": 37.9,
@@ -334,6 +325,15 @@
       "R_lag10": 15.4,
       "MT_lag16": 27.2143,
       "mT_lag13": 22.9429
+    },
+    {
+      "week": "2026-10-05",
+      "rainfall": 16.7,
+      "max_temp": 29.4,
+      "min_temp": 22.2,
+      "R_lag10": 77.7,
+      "MT_lag16": 27.5143,
+      "mT_lag13": 23.5143
     }
   ]
 }
