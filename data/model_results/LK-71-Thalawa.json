@@ -1,6 +1,6 @@
 {
   "region_id": "LK-71-Thalawa",
-  "generated_date": "2026-10-06",
+  "generated_date": "2026-10-08",
   "weekly_features": [
     {
       "week": "2026-01-26",
@@ -8,7 +8,7 @@
       "max_temp": 28.5143,
       "min_temp": 21.1286,
       "R_lag10": 145.6,
-      "MT_lag16": 32.6833,
+      "MT_lag16": 33.075,
       "mT_lag13": 24.1429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-10-05",
-      "rainfall": 17.9,
-      "max_temp": 33.7,
-      "min_temp": 24.25,
+      "rainfall": 48.7,
+      "max_temp": 33.4,
+      "min_temp": 24.45,
       "R_lag10": 7.4,
       "MT_lag16": 31.4286,
       "mT_lag13": 25.8429
