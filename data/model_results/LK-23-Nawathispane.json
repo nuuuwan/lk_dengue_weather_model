@@ -1,6 +1,6 @@
 {
   "region_id": "LK-23-Nawathispane",
-  "generated_date": "2026-10-08",
+  "generated_date": "2026-10-09",
   "weekly_features": [
     {
       "week": "2026-01-26",
@@ -8,7 +8,7 @@
       "max_temp": 24.0857,
       "min_temp": 14.8714,
       "R_lag10": 220.0,
-      "MT_lag16": 23.65,
+      "MT_lag16": 23.7,
       "mT_lag13": 16.5286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-10-05",
-      "rainfall": 71.1,
-      "max_temp": 24.675,
-      "min_temp": 17.05,
+      "rainfall": 95.2,
+      "max_temp": 24.4,
+      "min_temp": 17.28,
       "R_lag10": 95.4,
       "MT_lag16": 23.8857,
       "mT_lag13": 17.9571
