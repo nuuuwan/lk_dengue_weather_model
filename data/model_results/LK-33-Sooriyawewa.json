@@ -1,6 +1,6 @@
 {
   "region_id": "LK-33-Sooriyawewa",
-  "generated_date": "2026-10-09",
+  "generated_date": "2026-10-10",
   "weekly_features": [
     {
       "week": "2026-01-26",
@@ -8,7 +8,7 @@
       "max_temp": 31.7857,
       "min_temp": 22.5714,
       "R_lag10": 144.2,
-      "MT_lag16": 31.8667,
+      "MT_lag16": 32.05,
       "mT_lag13": 23.7571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-10-05",
-      "rainfall": 64.8,
-      "max_temp": 32.2,
-      "min_temp": 24.5,
+      "rainfall": 74.5,
+      "max_temp": 32.1333,
+      "min_temp": 24.4333,
       "R_lag10": 13.8,
       "MT_lag16": 34.1286,
       "mT_lag13": 26.2857

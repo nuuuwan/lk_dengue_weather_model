@@ -1,6 +1,6 @@
 {
   "region_id": "LK-81-Haliela",
-  "generated_date": "2026-10-09",
+  "generated_date": "2026-10-10",
   "weekly_features": [
     {
       "week": "2026-01-26",
@@ -8,7 +8,7 @@
       "max_temp": 23.4571,
       "min_temp": 15.7286,
       "R_lag10": 115.3,
-      "MT_lag16": 26.0667,
+      "MT_lag16": 26.05,
       "mT_lag13": 16.2286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-10-05",
-      "rainfall": 67.9,
-      "max_temp": 26.0,
-      "min_temp": 18.04,
+      "rainfall": 77.7,
+      "max_temp": 25.8167,
+      "min_temp": 18.0167,
       "R_lag10": 13.9,
       "MT_lag16": 28.3571,
       "mT_lag13": 19.3857
