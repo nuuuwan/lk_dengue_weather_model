@@ -1,16 +1,7 @@
 {
   "region_id": "LK-51-Kiran",
-  "generated_date": "2026-10-11",
+  "generated_date": "2026-10-12",
   "weekly_features": [
-    {
-      "week": "2026-01-26",
-      "rainfall": 68.2,
-      "max_temp": 27.8,
-      "min_temp": 22.5857,
-      "R_lag10": 141.1,
-      "MT_lag16": 31.4,
-      "mT_lag13": 24.5
-    },
     {
       "week": "2026-02-02",
       "rainfall": 35.5,
@@ -334,6 +325,15 @@
       "R_lag10": 14.6,
       "MT_lag16": 34.9714,
       "mT_lag13": 27.0714
+    },
+    {
+      "week": "2026-10-12",
+      "rainfall": 10.6,
+      "max_temp": 31.7,
+      "min_temp": 24.7,
+      "R_lag10": 38.1,
+      "MT_lag16": 34.8857,
+      "mT_lag13": 26.8
     }
   ]
 }
