@@ -4,7 +4,7 @@ Dengue outbreak weather-risk model for Sri Lanka MOH regions.
 
 > 📖 **Methodology:** [README.methodology.md](README.methodology.md)
 
-_Last updated: 12 October 2026 · 333 regions with model results._
+_Last updated: 15 October 2026 · 333 regions with model results._
 
 ---
 
@@ -59,9 +59,9 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 
 | Metric | Value |
 |---|---:|
-| Pearson *r* | -0.0686 |
-| Spearman ρ | -0.1272 |
-| *p*-value (Pearson) | 0.212 |
+| Pearson *r* | -0.0399 |
+| Spearman ρ | -0.1431 |
+| *p*-value (Pearson) | 0.468 |
 | Regions (*n*) | 333 |
 
 ![Predicted vs Actual Cases](images/correlation.png)
@@ -89,15 +89,16 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 
 | Region | District | Risk Score | Cases/100k |
 |---|---|---:|---:|
-| Pasbage Korale | Kandy | -0.55 | 21.4 |
-| Udunuwara | Kandy | -1.74 | 19.8 |
-| Kundasale | Kandy | -1.62 | 17.7 |
-| Wennappuwa | Puttalam | -0.61 | 17.0 |
-| Ruwanwella | Kegalle | 0.03 | 16.7 |
-| Kandy Four Gravets & Gangawata Korale | Kandy | -2.67 | 16.4 |
-| Harispattuwa | Kandy | -0.96 | 15.7 |
-| Pathadumbara | Kandy | -1.00 | 15.5 |
-| Yatinuwara | Kandy | -1.04 | 14.1 |
+| Ambanpola | Kurunegala | -0.64 | 78.4 |
+| Ukuwela | Matale | -1.00 | 22.1 |
+| Kundasale | Kandy | -1.62 | 20.4 |
+| Yatinuwara | Kandy | -1.04 | 19.3 |
+| Pathadumbara | Kandy | -1.00 | 17.5 |
+| Ja-Ela | Gampaha | -0.29 | 17.4 |
+| Dehiwala | Colombo | 0.12 | 17.1 |
+| Harispattuwa | Kandy | -0.96 | 16.7 |
+| Menikhinna | Kandy | -1.80 | 14.8 |
+| Kandy Four Gravets & Gangawata Korale | Kandy | -2.67 | 11.2 |
 
 ---
 
@@ -111,7 +112,7 @@ False positive rate (FPR) and false negative rate (FNR) for classifying regions 
 
 ![FPR and FNR vs Threshold](images/fpr_fnr_curve.png)
 
-ROC curve with AUC = 0.3206.
+ROC curve with AUC = 0.3542.
 
 ![ROC Curve](images/roc_curve.png)
 
