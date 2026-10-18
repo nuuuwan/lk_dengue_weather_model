@@ -1,6 +1,6 @@
 {
   "region_id": "LK-22-Naula",
-  "generated_date": "2026-10-17",
+  "generated_date": "2026-10-18",
   "weekly_features": [
     {
       "week": "2026-02-02",
@@ -8,7 +8,7 @@
       "max_temp": 26.3571,
       "min_temp": 20.8571,
       "R_lag10": 394.1,
-      "MT_lag16": 30.25,
+      "MT_lag16": 29.9,
       "mT_lag13": 22.7571
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-10-12",
-      "rainfall": 119.8,
-      "max_temp": 30.1333,
-      "min_temp": 22.7833,
+      "rainfall": 127.3,
+      "max_temp": 30.3714,
+      "min_temp": 22.7857,
       "R_lag10": 18.8,
       "MT_lag16": 30.7857,
       "mT_lag13": 24.4
