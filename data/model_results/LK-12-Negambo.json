@@ -1,16 +1,7 @@
 {
   "region_id": "LK-12-Negambo",
-  "generated_date": "2026-10-18",
+  "generated_date": "2026-10-19",
   "weekly_features": [
-    {
-      "week": "2026-02-02",
-      "rainfall": 22.4,
-      "max_temp": 32.1286,
-      "min_temp": 23.6571,
-      "R_lag10": 593.4,
-      "MT_lag16": 28.4,
-      "mT_lag13": 23.9714
-    },
     {
       "week": "2026-02-09",
       "rainfall": 11.7,
@@ -334,6 +325,15 @@
       "R_lag10": 28.8,
       "MT_lag16": 29.0571,
       "mT_lag13": 26.3
+    },
+    {
+      "week": "2026-10-19",
+      "rainfall": 2.0,
+      "max_temp": 30.1,
+      "min_temp": 24.7,
+      "R_lag10": 24.4,
+      "MT_lag16": 29.0714,
+      "mT_lag13": 25.9143
     }
   ]
 }

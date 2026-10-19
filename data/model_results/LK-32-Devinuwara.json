@@ -1,16 +1,7 @@
 {
   "region_id": "LK-32-Devinuwara",
-  "generated_date": "2026-10-18",
+  "generated_date": "2026-10-19",
   "weekly_features": [
-    {
-      "week": "2026-02-02",
-      "rainfall": 54.8,
-      "max_temp": 30.1429,
-      "min_temp": 22.7,
-      "R_lag10": 237.4,
-      "MT_lag16": 28.5,
-      "mT_lag13": 23.8571
-    },
     {
       "week": "2026-02-09",
       "rainfall": 35.0,
@@ -334,6 +325,15 @@
       "R_lag10": 62.8,
       "MT_lag16": 30.4571,
       "mT_lag13": 25.5143
+    },
+    {
+      "week": "2026-10-19",
+      "rainfall": 7.5,
+      "max_temp": 30.7,
+      "min_temp": 24.3,
+      "R_lag10": 32.6,
+      "MT_lag16": 30.3714,
+      "mT_lag13": 25.2286
     }
   ]
 }
