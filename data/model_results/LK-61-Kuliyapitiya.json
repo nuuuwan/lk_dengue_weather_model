@@ -1,6 +1,6 @@
 {
   "region_id": "LK-61-Kuliyapitiya",
-  "generated_date": "2026-10-19",
+  "generated_date": "2026-10-21",
   "weekly_features": [
     {
       "week": "2026-02-09",
@@ -8,7 +8,7 @@
       "max_temp": 31.3714,
       "min_temp": 22.0143,
       "R_lag10": 22.1,
-      "MT_lag16": 27.9429,
+      "MT_lag16": 28.14,
       "mT_lag13": 23.0714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-10-19",
-      "rainfall": 1.6,
-      "max_temp": 31.1,
-      "min_temp": 24.5,
+      "rainfall": 62.8,
+      "max_temp": 30.3333,
+      "min_temp": 24.3,
       "R_lag10": 19.3,
       "MT_lag16": 29.7714,
       "mT_lag13": 24.8286
