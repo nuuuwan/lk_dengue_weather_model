@@ -1,6 +1,6 @@
 {
   "region_id": "LK-32-Dickwella",
-  "generated_date": "2026-10-24",
+  "generated_date": "2026-10-25",
   "weekly_features": [
     {
       "week": "2026-02-09",
@@ -8,7 +8,7 @@
       "max_temp": 29.6,
       "min_temp": 22.4571,
       "R_lag10": 56.8,
-      "MT_lag16": 30.2,
+      "MT_lag16": 31.4,
       "mT_lag13": 23.4429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-10-19",
-      "rainfall": 90.2,
-      "max_temp": 29.5333,
-      "min_temp": 24.1333,
+      "rainfall": 114.8,
+      "max_temp": 29.3429,
+      "min_temp": 24.1,
       "R_lag10": 30.3,
       "MT_lag16": 31.0714,
       "mT_lag13": 25.3

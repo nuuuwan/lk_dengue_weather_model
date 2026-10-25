@@ -1,6 +1,6 @@
 {
   "region_id": "LK-52-Dehiyathakandiya",
-  "generated_date": "2026-10-24",
+  "generated_date": "2026-10-25",
   "weekly_features": [
     {
       "week": "2026-02-09",
@@ -8,7 +8,7 @@
       "max_temp": 26.6429,
       "min_temp": 20.7714,
       "R_lag10": 39.2,
-      "MT_lag16": 29.2,
+      "MT_lag16": 29.4,
       "mT_lag13": 22.8429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-10-19",
-      "rainfall": 109.4,
-      "max_temp": 31.3167,
-      "min_temp": 24.3,
+      "rainfall": 120.8,
+      "max_temp": 31.0,
+      "min_temp": 24.3286,
       "R_lag10": 8.0,
       "MT_lag16": 34.1286,
       "mT_lag13": 25.9571

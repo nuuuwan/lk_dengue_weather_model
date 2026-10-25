@@ -1,6 +1,6 @@
 {
   "region_id": "LK-13-Panadura",
-  "generated_date": "2026-10-24",
+  "generated_date": "2026-10-25",
   "weekly_features": [
     {
       "week": "2026-02-09",
@@ -8,7 +8,7 @@
       "max_temp": 31.0714,
       "min_temp": 22.9571,
       "R_lag10": 16.5,
-      "MT_lag16": 28.8,
+      "MT_lag16": 29.5,
       "mT_lag13": 23.8
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-10-19",
-      "rainfall": 129.1,
-      "max_temp": 29.3667,
-      "min_temp": 24.8167,
+      "rainfall": 174.1,
+      "max_temp": 29.0571,
+      "min_temp": 24.8143,
       "R_lag10": 39.5,
       "MT_lag16": 29.3429,
       "mT_lag13": 26.0857
