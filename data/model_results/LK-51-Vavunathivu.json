@@ -1,23 +1,14 @@
 {
   "region_id": "LK-51-Vavunathivu",
-  "generated_date": "2026-10-25",
+  "generated_date": "2026-10-27",
   "weekly_features": [
-    {
-      "week": "2026-02-09",
-      "rainfall": 40.5,
-      "max_temp": 27.6571,
-      "min_temp": 21.8,
-      "R_lag10": 31.4,
-      "MT_lag16": 31.0,
-      "mT_lag13": 23.5143
-    },
     {
       "week": "2026-02-16",
       "rainfall": 159.0,
       "max_temp": 27.0286,
       "min_temp": 22.9857,
       "R_lag10": 126.6,
-      "MT_lag16": 32.8143,
+      "MT_lag16": 32.9,
       "mT_lag13": 23.2857
     },
     {
@@ -334,6 +325,15 @@
       "R_lag10": 19.3,
       "MT_lag16": 36.8286,
       "mT_lag13": 26.3429
+    },
+    {
+      "week": "2026-10-26",
+      "rainfall": 34.5,
+      "max_temp": 29.8,
+      "min_temp": 24.05,
+      "R_lag10": 17.1,
+      "MT_lag16": 36.7286,
+      "mT_lag13": 26.6429
     }
   ]
 }
