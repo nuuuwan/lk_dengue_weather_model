@@ -1,6 +1,6 @@
 {
   "region_id": "LK-11-Pitakotte",
-  "generated_date": "2026-10-27",
+  "generated_date": "2026-10-28",
   "weekly_features": [
     {
       "week": "2026-02-16",
@@ -8,7 +8,7 @@
       "max_temp": 30.2143,
       "min_temp": 23.3857,
       "R_lag10": 54.4,
-      "MT_lag16": 30.2833,
+      "MT_lag16": 30.36,
       "mT_lag13": 23.2714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-10-26",
-      "rainfall": 66.0,
-      "max_temp": 28.25,
-      "min_temp": 24.0,
+      "rainfall": 76.0,
+      "max_temp": 28.9667,
+      "min_temp": 24.3333,
       "R_lag10": 50.2,
       "MT_lag16": 29.6857,
       "mT_lag13": 26.2143
