@@ -4,7 +4,7 @@ Dengue outbreak weather-risk model for Sri Lanka MOH regions.
 
 > 📖 **Methodology:** [README.methodology.md](README.methodology.md)
 
-_Last updated: 28 October 2026 · 333 regions with model results._
+_Last updated: 29 October 2026 · 333 regions with model results._
 
 ---
 
@@ -35,9 +35,9 @@ Sorted by composite weather-risk score (descending).
 | Sammanthurai | LK-52 | 1.99 | 21.3 | 36.9 | 26.2 |
 | Padiyathalawa | LK-52 | 1.97 | 19.7 | 36.3 | 26.8 |
 | Vavunathivu | LK-51 | 1.94 | 17.1 | 36.7 | 26.6 |
+| Chenkalady | LK-51 | 1.90 | 20.0 | 36.5 | 26.4 |
 | Mahaoya | LK-52 | 1.90 | 13.1 | 36.6 | 27.1 |
 | Puthukkudiyiruppu | LK-44 | 1.90 | 11.3 | 36.3 | 27.5 |
-| Chenkalady | LK-51 | 1.90 | 20.0 | 36.5 | 26.4 |
 | Kuchchaveli | LK-53 | 1.86 | 8.7 | 36.4 | 27.6 |
 | Vakarai | LK-51 | 1.85 | 12.9 | 35.9 | 27.5 |
 | Vavuniya | LK-43 | 1.82 | 19.4 | 35.6 | 27.0 |

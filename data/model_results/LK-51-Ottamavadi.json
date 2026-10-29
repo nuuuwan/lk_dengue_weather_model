@@ -1,6 +1,6 @@
 {
   "region_id": "LK-51-Ottamavadi",
-  "generated_date": "2026-10-28",
+  "generated_date": "2026-10-29",
   "weekly_features": [
     {
       "week": "2026-02-16",
@@ -8,7 +8,7 @@
       "max_temp": 27.5857,
       "min_temp": 24.0857,
       "R_lag10": 111.8,
-      "MT_lag16": 32.3,
+      "MT_lag16": 31.975,
       "mT_lag13": 24.1714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-10-26",
-      "rainfall": 56.6,
-      "max_temp": 29.4333,
-      "min_temp": 24.7333,
+      "rainfall": 70.9,
+      "max_temp": 29.85,
+      "min_temp": 24.9,
       "R_lag10": 24.4,
       "MT_lag16": 36.5429,
       "mT_lag13": 27.8
