@@ -4,7 +4,7 @@ Dengue outbreak weather-risk model for Sri Lanka MOH regions.
 
 > 📖 **Methodology:** [README.methodology.md](README.methodology.md)
 
-_Last updated: 2 November 2026 · 333 regions with model results._
+_Last updated: 4 November 2026 · 333 regions with model results._
 
 ---
 
@@ -28,17 +28,17 @@ Sorted by composite weather-risk score (descending).
 |---|---|---:|---:|---:|---:|
 | Kiran | LK-51 | 2.25 | 16.3 | 36.9 | 26.5 |
 | Irakkamam | LK-52 | 2.23 | 34.2 | 36.1 | 25.5 |
-| Lahugala | LK-52 | 2.08 | 21.0 | 37.5 | 25.2 |
 | Valaichenai | LK-51 | 2.08 | 11.2 | 36.9 | 26.4 |
+| Lahugala | LK-52 | 2.08 | 21.0 | 37.5 | 25.2 |
 | Uhana | LK-52 | 2.07 | 22.7 | 36.6 | 25.8 |
 | Vellaveli | LK-51 | 2.02 | 37.2 | 35.0 | 25.7 |
 | Ottamavadi | LK-51 | 2.01 | 19.1 | 35.5 | 26.7 |
 | Koralaipattu ( Oddmavadi Central ) | LK-51 | 2.01 | 19.1 | 35.5 | 26.7 |
 | Pottuvil | LK-52 | 1.98 | 26.6 | 36.2 | 25.5 |
 | Paddipalai | LK-51 | 1.90 | 29.2 | 35.0 | 26.1 |
+| Akkaraipattu | LK-52 | 1.90 | 31.4 | 35.5 | 25.5 |
 | Vavunathivu | LK-51 | 1.90 | 18.4 | 36.2 | 26.0 |
 | Alayadivembu | LK-52 | 1.90 | 31.4 | 35.5 | 25.5 |
-| Akkaraipattu | LK-52 | 1.90 | 31.4 | 35.5 | 25.5 |
 | Lunugamvehera | LK-33 | 1.87 | 20.7 | 36.3 | 25.6 |
 | Damana | LK-52 | 1.82 | 34.0 | 35.6 | 25.0 |
 | Navithanveli | LK-52 | 1.77 | 27.6 | 35.6 | 25.4 |
@@ -83,7 +83,7 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 | Ottamavadi | Batticaloa | 2.01 | 0.0 |
 | Koralaipattu ( Oddmavadi Central ) | Batticaloa | 2.01 | 0.0 |
 | Pottuvil | Ampara | 1.98 | 0.0 |
-| Alayadivembu | Ampara | 1.90 | 0.0 |
+| Akkaraipattu | Ampara | 1.90 | 0.0 |
 
 ### Top 10 False Negatives (low predicted risk, high actual cases)
 

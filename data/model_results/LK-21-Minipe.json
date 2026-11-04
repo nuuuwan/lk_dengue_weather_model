@@ -1,6 +1,6 @@
 {
   "region_id": "LK-21-Minipe",
-  "generated_date": "2026-11-02",
+  "generated_date": "2026-11-04",
   "weekly_features": [
     {
       "week": "2026-02-23",
@@ -8,7 +8,7 @@
       "max_temp": 30.2286,
       "min_temp": 21.3714,
       "R_lag10": 127.1,
-      "MT_lag16": 31.9714,
+      "MT_lag16": 31.38,
       "mT_lag13": 22.3286
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-11-02",
-      "rainfall": 12.9,
-      "max_temp": 30.0,
-      "min_temp": 24.4,
+      "rainfall": 40.8,
+      "max_temp": 30.1333,
+      "min_temp": 24.1333,
       "R_lag10": 0.9,
       "MT_lag16": 34.7286,
       "mT_lag13": 25.4286
