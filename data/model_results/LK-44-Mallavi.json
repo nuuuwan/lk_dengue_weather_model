@@ -1,6 +1,6 @@
 {
   "region_id": "LK-44-Mallavi",
-  "generated_date": "2026-11-04",
+  "generated_date": "2026-11-06",
   "weekly_features": [
     {
       "week": "2026-02-23",
@@ -8,7 +8,7 @@
       "max_temp": 31.7571,
       "min_temp": 22.2857,
       "R_lag10": 30.9,
-      "MT_lag16": 30.74,
+      "MT_lag16": 30.2667,
       "mT_lag13": 22.7714
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-11-02",
-      "rainfall": 22.4,
-      "max_temp": 31.2667,
-      "min_temp": 24.4667,
+      "rainfall": 34.5,
+      "max_temp": 31.44,
+      "min_temp": 24.62,
       "R_lag10": 3.8,
       "MT_lag16": 33.8714,
       "mT_lag13": 26.7143
