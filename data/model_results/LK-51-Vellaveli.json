@@ -1,6 +1,6 @@
 {
   "region_id": "LK-51-Vellaveli",
-  "generated_date": "2026-11-07",
+  "generated_date": "2026-11-08",
   "weekly_features": [
     {
       "week": "2026-02-23",
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-11-02",
-      "rainfall": 54.7,
-      "max_temp": 31.1667,
-      "min_temp": 24.1167,
+      "rainfall": 63.2,
+      "max_temp": 31.0714,
+      "min_temp": 24.1286,
       "R_lag10": 37.2,
       "MT_lag16": 35.0,
       "mT_lag13": 25.6857
