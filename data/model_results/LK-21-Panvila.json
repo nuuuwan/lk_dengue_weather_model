@@ -1,6 +1,6 @@
 {
   "region_id": "LK-21-Panvila",
-  "generated_date": "2026-11-11",
+  "generated_date": "2026-11-12",
   "weekly_features": [
     {
       "week": "2026-03-02",
@@ -8,7 +8,7 @@
       "max_temp": 28.3429,
       "min_temp": 16.7429,
       "R_lag10": 6.3,
-      "MT_lag16": 25.18,
+      "MT_lag16": 25.025,
       "mT_lag13": 18.2429
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-11-09",
-      "rainfall": 64.6,
-      "max_temp": 26.7667,
-      "min_temp": 20.2667,
+      "rainfall": 77.5,
+      "max_temp": 25.975,
+      "min_temp": 20.125,
       "R_lag10": 40.7,
       "MT_lag16": 26.0714,
       "mT_lag13": 19.9714
