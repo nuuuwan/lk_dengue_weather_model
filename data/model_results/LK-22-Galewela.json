@@ -1,6 +1,6 @@
 {
   "region_id": "LK-22-Galewela",
-  "generated_date": "2026-11-12",
+  "generated_date": "2026-11-13",
   "weekly_features": [
     {
       "week": "2026-03-02",
@@ -8,7 +8,7 @@
       "max_temp": 30.3286,
       "min_temp": 20.1286,
       "R_lag10": 8.2,
-      "MT_lag16": 27.7,
+      "MT_lag16": 27.7667,
       "mT_lag13": 21.6286
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-11-09",
       "rainfall": 61.9,
-      "max_temp": 28.05,
-      "min_temp": 22.375,
+      "max_temp": 28.36,
+      "min_temp": 22.46,
       "R_lag10": 16.0,
       "MT_lag16": 31.7429,
       "mT_lag13": 23.7286
