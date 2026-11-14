@@ -1,6 +1,6 @@
 {
   "region_id": "LK-81-Passara",
-  "generated_date": "2026-11-13",
+  "generated_date": "2026-11-14",
   "weekly_features": [
     {
       "week": "2026-03-02",
@@ -8,7 +8,7 @@
       "max_temp": 26.5857,
       "min_temp": 14.3286,
       "R_lag10": 26.7,
-      "MT_lag16": 22.8667,
+      "MT_lag16": 22.8,
       "mT_lag13": 16.7
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-11-09",
       "rainfall": 117.1,
-      "max_temp": 25.0,
-      "min_temp": 18.68,
+      "max_temp": 24.8,
+      "min_temp": 18.55,
       "R_lag10": 73.0,
       "MT_lag16": 29.5,
       "mT_lag13": 19.4571

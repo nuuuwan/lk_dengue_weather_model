@@ -4,7 +4,7 @@ Dengue outbreak weather-risk model for Sri Lanka MOH regions.
 
 > 📖 **Methodology:** [README.methodology.md](README.methodology.md)
 
-_Last updated: 13 November 2026 · 333 regions with model results._
+_Last updated: 14 November 2026 · 333 regions with model results._
 
 ---
 
@@ -45,7 +45,7 @@ Sorted by composite weather-risk score (descending).
 | Padiyathalawa | LK-52 | 2.88 | 30.0 | 36.4 | 26.2 |
 | Mahiyanganaya | LK-81 | 2.86 | 26.1 | 36.8 | 26.5 |
 | Lahugala | LK-52 | 2.85 | 27.8 | 37.0 | 26.0 |
-| Damana | LK-52 | 2.84 | 38.4 | 35.5 | 25.3 |
+| Thampalagamam | LK-53 | 2.84 | 31.9 | 35.8 | 26.2 |
 
 > **Note:** Risk scores are weather-only (composite z-score of lagged
 > meteorological predictors). Full GLM-based dengue

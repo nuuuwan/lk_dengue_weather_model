@@ -1,6 +1,6 @@
 {
   "region_id": "LK-91-Ratnapura",
-  "generated_date": "2026-11-13",
+  "generated_date": "2026-11-14",
   "weekly_features": [
     {
       "week": "2026-03-02",
@@ -8,7 +8,7 @@
       "max_temp": 30.6714,
       "min_temp": 19.7,
       "R_lag10": 28.2,
-      "MT_lag16": 28.0667,
+      "MT_lag16": 27.65,
       "mT_lag13": 20.6286
     },
     {
@@ -329,8 +329,8 @@
     {
       "week": "2026-11-09",
       "rainfall": 157.5,
-      "max_temp": 28.32,
-      "min_temp": 22.06,
+      "max_temp": 28.4167,
+      "min_temp": 22.1,
       "R_lag10": 53.8,
       "MT_lag16": 28.1429,
       "mT_lag13": 21.9714
