@@ -1,16 +1,7 @@
 {
   "region_id": "LK-23-Hanguranketha",
-  "generated_date": "2026-11-15",
+  "generated_date": "2026-11-16",
   "weekly_features": [
-    {
-      "week": "2026-03-02",
-      "rainfall": 3.0,
-      "max_temp": 26.8429,
-      "min_temp": 16.2571,
-      "R_lag10": 15.9,
-      "MT_lag16": 25.0,
-      "mT_lag13": 17.6571
-    },
     {
       "week": "2026-03-09",
       "rainfall": 15.5,
@@ -334,6 +325,15 @@
       "R_lag10": 18.1,
       "MT_lag16": 30.0429,
       "mT_lag13": 20.7714
+    },
+    {
+      "week": "2026-11-16",
+      "rainfall": 1.2,
+      "max_temp": 25.2,
+      "min_temp": 18.1,
+      "R_lag10": 45.2,
+      "MT_lag16": 27.6571,
+      "mT_lag13": 20.5571
     }
   ]
 }
