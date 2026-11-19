@@ -4,7 +4,7 @@ Dengue outbreak weather-risk model for Sri Lanka MOH regions.
 
 > 📖 **Methodology:** [README.methodology.md](README.methodology.md)
 
-_Last updated: 18 November 2026 · 333 regions with model results._
+_Last updated: 19 November 2026 · 333 regions with model results._
 
 ---
 
@@ -33,8 +33,8 @@ Sorted by composite weather-risk score (descending).
 | Padaviya | LK-71 | 2.30 | 36.3 | 34.9 | 26.6 |
 | Vavunathivu | LK-51 | 2.24 | 27.0 | 37.2 | 26.1 |
 | Welikanda | LK-72 | 2.23 | 31.8 | 35.3 | 26.8 |
-| Alayadivembu | LK-52 | 2.19 | 33.9 | 36.0 | 25.9 |
 | Akkaraipattu | LK-52 | 2.19 | 33.9 | 36.0 | 25.9 |
+| Alayadivembu | LK-52 | 2.19 | 33.9 | 36.0 | 25.9 |
 | Bulathkohupitiya | LK-92 | 2.16 | 88.9 | 28.9 | 23.3 |
 | Padavi Sri Pura | LK-53 | 2.12 | 28.4 | 35.7 | 26.7 |
 | Vakarai | LK-51 | 2.07 | 22.7 | 35.9 | 27.2 |
@@ -42,8 +42,8 @@ Sorted by composite weather-risk score (descending).
 | Trincomalee | LK-53 | 2.03 | 25.0 | 36.1 | 26.6 |
 | Kanthale | LK-53 | 2.00 | 31.2 | 35.5 | 26.1 |
 | Sammanthurai | LK-52 | 1.95 | 26.0 | 37.5 | 25.3 |
-| Thamankaduwa | LK-72 | 1.92 | 28.9 | 34.7 | 26.8 |
 | Girandurukotte | LK-81 | 1.92 | 29.4 | 35.3 | 26.3 |
+| Thamankaduwa | LK-72 | 1.92 | 28.9 | 34.7 | 26.8 |
 | Irakkamam | LK-52 | 1.91 | 26.9 | 36.5 | 25.8 |
 | Kiran | LK-51 | 1.87 | 16.9 | 36.3 | 27.2 |
 
@@ -81,8 +81,8 @@ Composite weather-risk score vs reported cases/100k (333 regions with available 
 | Padaviya | Anuradhapura | 2.30 | 0.0 |
 | Vavunathivu | Batticaloa | 2.24 | 0.0 |
 | Welikanda | Polonnaruwa | 2.23 | 0.0 |
-| Alayadivembu | Ampara | 2.19 | 0.0 |
 | Akkaraipattu | Ampara | 2.19 | 0.0 |
+| Alayadivembu | Ampara | 2.19 | 0.0 |
 | Bulathkohupitiya | Kegalle | 2.16 | 0.0 |
 
 ### Top 10 False Negatives (low predicted risk, high actual cases)
