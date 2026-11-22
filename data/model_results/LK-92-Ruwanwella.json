@@ -1,6 +1,6 @@
 {
   "region_id": "LK-92-Ruwanwella",
-  "generated_date": "2026-11-20",
+  "generated_date": "2026-11-22",
   "weekly_features": [
     {
       "week": "2026-03-09",
@@ -8,7 +8,7 @@
       "max_temp": 32.7143,
       "min_temp": 20.2429,
       "R_lag10": 22.7,
-      "MT_lag16": 28.8,
+      "MT_lag16": 28.1,
       "mT_lag13": 20.4
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-11-16",
-      "rainfall": 22.5,
-      "max_temp": 29.02,
-      "min_temp": 20.88,
+      "rainfall": 44.2,
+      "max_temp": 29.3143,
+      "min_temp": 21.1143,
       "R_lag10": 66.9,
       "MT_lag16": 27.5857,
       "mT_lag13": 21.3286
