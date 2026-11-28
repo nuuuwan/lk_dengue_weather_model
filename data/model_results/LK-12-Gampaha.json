@@ -1,6 +1,6 @@
 {
   "region_id": "LK-12-Gampaha",
-  "generated_date": "2026-11-27",
+  "generated_date": "2026-11-28",
   "weekly_features": [
     {
       "week": "2026-03-16",
@@ -8,7 +8,7 @@
       "max_temp": 33.4,
       "min_temp": 22.9,
       "R_lag10": 45.2,
-      "MT_lag16": 27.0,
+      "MT_lag16": 28.5,
       "mT_lag13": 22.8143
     },
     {
@@ -328,9 +328,9 @@
     },
     {
       "week": "2026-11-23",
-      "rainfall": 104.8,
-      "max_temp": 31.48,
-      "min_temp": 24.0,
+      "rainfall": 122.3,
+      "max_temp": 31.3833,
+      "min_temp": 23.9333,
       "R_lag10": 108.3,
       "MT_lag16": 28.6571,
       "mT_lag13": 24.5714
